@@ -1,0 +1,17 @@
+{
+  "name": "lotb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scratch.js",
+  "scripts": {
+    "crawl": "node crawl.js",
+    "fix:nvm": "nvm use --delete-prefix v12.18.3",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "apify": "^0.21.8",
+    "headless-chrome-crawler": "^1.8.0"
+  }
+}
