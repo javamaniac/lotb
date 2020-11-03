@@ -1,0 +1,43 @@
+{
+  "name": "Moonchild",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/moonchild-assassin/",
+  "awakenable": true,
+  "class": "Assassin",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "BORN TO DIE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of true and one hit of magic damage to all enemies.",
+        "• 35% Chance to inflict Doom on each enemy for 2 turns.",
+        "• Lower ATK and MAGIC of all enemies for 2 turns.",
+        "• Deal Additional True and Magic damage that has a 50% chance to Critically Strike for each enemy that is stunned."
+      ]
+    },
+    {
+      "name": "MANDRAKE SCREAM\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Golden Effects from each enemy.",
+        "• 75% Chance to inflict Perfect Stun on each enemy for 2 turns.",
+        "• Cleanse and Heal a random ally to full HP for each enemy that is stunned.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "SEVEN ANGELS, SEVEN DEMONS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle. All enemies’ attacks will miss unless they are Perfect Attacks for 7 rounds or until they die. This skill can only be countered by Passive Disable applied at the start of battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_moonchild.png",
+  "id": "moonchild-assassin"
+}

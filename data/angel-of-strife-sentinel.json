@@ -1,0 +1,41 @@
+{
+  "name": "Angel Of Strife",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-strife-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "TORTURE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of true damage to a single target.",
+        "• 20% Chance to Stun with each hit.",
+        "• Damage dealt increases based on the MAX HP of you and your enemy."
+      ]
+    },
+    {
+      "name": "SHRIEK\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grants Immunity for 1 turn.",
+        "• Invincibility for 1 turn.",
+        "• 40% Chance to Taunt all enemies for 1 turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BLOCK\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/winged_demon_gold.png",
+  "id": "angel-of-strife-sentinel"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "The Killer Prime",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-prime-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "DANCING SHADOWS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of physical, magic, and true damage to all enemies.",
+        "• Inflicts Bloodlust on all enemies for 2 turns.",
+        "• 35% Chance to grant Perfect Hit to all allies for 2 turns.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "BANISH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals one hit of physical, magic, and true damage to all enemies.",
+        "• Remove Beneficial Effects from all enemies.",
+        "• 35% Chance to Inflict up to 4 Negative Effects on all enemies for 2 turns, including Seal, Silence, Stun, or Exhaust.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "VIOLENCE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Remove up to 2 Beneficial Effects, including Golden Effects, except Shroud, Perfect Immortality, and Soul Protect, from each enemy and inflict Curse and Permadeath for 1 turn every turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer2.png",
+  "id": "the-killer-prime-sentinel"
+}

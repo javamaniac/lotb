@@ -1,0 +1,43 @@
+{
+  "name": "Mayan Priestess",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "SIPHONING FLAME",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Heal up to 3 random allies based on your MAX HP.",
+        "• 65% Chance to Increase MAGIC of all allies for 2 turns.",
+        "• 65% Chance to Increase MR of all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "SOUL EXTRACTION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals high random damage to a single target.",
+        "• Grant MR Charge to all allies for 2 turns.",
+        "• Remove Endure and Ghost effects on the target.",
+        "• If the target is killed, Revive a random ally with full health and instantly gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "LIFE AFTER DEATH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Instantly Revive Self with 60% HP upon death."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_yellow.png",
+  "id": "mayan-priestess-gunner"
+}

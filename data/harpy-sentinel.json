@@ -1,0 +1,42 @@
+{
+  "name": "Harpy",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/harpy-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "MUTE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to all enemies.",
+        "• 25% Chance to Silence enemies for 1 turn.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "SOAR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Negative Effects from target ally.",
+        "• Grants Immunity to target ally.",
+        "• 35% Chance for ally to gain an Extra Turn.",
+        "• An Extra Turn will let a character attack again if they’ve already acted that turn."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "GUARDIAN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze)."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wickerharpy.png",
+  "id": "harpy-sentinel"
+}

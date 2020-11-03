@@ -1,0 +1,80 @@
+{
+  "name": "U.S. Cavalry Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/u-s-cavalry-eddie-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "MIGHTY ROAR",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Increase DEF of allies for 2 turns.",
+        "• Remove Negative Effects, including Silver Effects, from all allies on Perfect Hits."
+      ]
+    },
+    {
+      "name": "SURVIVE\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant Immortality to an ally for 2 turns.",
+        "• Grants an Extra Turn to the target ally.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ONSLAUGHT\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Gain Perfect Hit status for 2 turns and 100% Critical Strike Chance for 1 turn on Perfect Hits."
+      ]
+    },
+    {
+      "name": "SPUR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of physical damage to all enemies.",
+        "• 50% Chance for each ally to gain Counterstrike for 1 turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "CERTAIN DEATH\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Attacks have a 25% Chance to Critically Strike.",
+        "• Grant Heal Shield for self and up to 3 allies on Perfect Hits."
+      ]
+    },
+    {
+      "name": "WAR CALL\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase MR of allies for 2 turns.",
+        "• Heal all allies based on their ATK stat."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "ARMED FORCE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Perfect Immunity and Echo to all allies for the duration of battle. Reduce the damage all allies take by 35%. Cleanse and Heal allies if Perfect Hit is active when you take an action."
+      ]
+    }
+  ],
+  "eddie": true,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_trooperUS.png",
+  "id": "u-s-cavalry-eddie-warrior"
+}

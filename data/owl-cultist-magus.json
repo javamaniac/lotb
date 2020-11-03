@@ -1,0 +1,41 @@
+{
+  "name": "Owl Cultist",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/owl-cultist-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 2,
+  "skills": [
+    {
+      "name": "EXTRACT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals high magic damage to a target.",
+        "• 35% Chance to Silence enemies for 1 turn."
+      ]
+    },
+    {
+      "name": "SEAR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 2 hits of magic damage.",
+        "• 25% Chance to inflict up to 3 Magic Burns.",
+        "• Magic Burn deals magic damage over time to targets.",
+        "• Damage increases the higher the enemy’s MAX HP."
+      ],
+      "powerCost": 3
+    },
+    {
+      "name": "DEFLECT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Reflects 35% of damage back to the target."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_owl_pagan.png",
+  "id": "owl-cultist-magus"
+}

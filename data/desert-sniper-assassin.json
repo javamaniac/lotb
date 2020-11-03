@@ -1,0 +1,41 @@
+{
+  "name": "Desert Sniper",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-sniper-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "SHOOT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 25% Chance to Critically Strike.",
+        "• Remove Invincibility and Physical, Magic, and True Damage Invulnerability effects before dealing damage.",
+        "• Deal Additional True Damage for each beneficial effect on the target."
+      ]
+    },
+    {
+      "name": "CALL OF COMBAT\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase ATK of allies for 2 turns.",
+        "• Grant Critical Strike Chance to allies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "DISCIPLINE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain Shroud and Perfect Hit status for the duration of the battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_nomadsniper_purple.png",
+  "id": "desert-sniper-assassin"
+}

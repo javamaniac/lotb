@@ -1,0 +1,44 @@
+{
+  "name": "Undead Convict",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-convict-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "STUNNING TOUCH",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal random damage to a single enemy that increases based on your MAX HP.",
+        "• Inflict Stun for 2 turns.",
+        "• If the enemy is suffering from Crave effects, including Silver and Innate effects, inflict Perfect Stun for 2 turns on a random enemy.",
+        "• Grant HP Regen to all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "ETERNAL CRAVING\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal random damage to a single enemy that increases based on your MAX HP.",
+        "• Inflict Crave for 2 turns.",
+        "• If the enemy is suffering from Stun effects, including Silver and Innate effects, inflict Perfect Crave for 2 turns on a random enemy.",
+        "• Revive a random ally to FULL HP.",
+        "• Immediately gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "QUARANTINED\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "At the start of battle and at the start of your turn, inflict Perfect Corruption, Perfect Crave or Perfect Stun for 2 turns on a random enemy. Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/hud_icon_undeadconvict_sentinel.png",
+  "id": "undead-convict-sentinel"
+}

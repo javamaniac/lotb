@@ -1,0 +1,44 @@
+{
+  "name": "Ghost Of Christmas Past",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-past-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "CANDELABRA",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage to all enemies.",
+        "• Deal Additional Physical Damage to all enemies if Thorn Shield is active on self.",
+        "• Inflict Blinding Burn on all enemies for 2 turns.",
+        "• 20% Chance for an Extra Turn if Soul Protect or Ghost are active on self."
+      ]
+    },
+    {
+      "name": "INCANDESCENT FLAME\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Deal 3 hits of Additional Physical Damage to enemies inflicted with Blind or Perfect Blind.",
+        "• Inflict Flame and Ignite on all enemies for 2 turns.",
+        "• Grant Invincibility to self and a random ally for 2 turns.",
+        "• Heal all allies to full HP if any enemy lacks beneficial effects."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BRASS SNUFFER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant immunity to Fear, Permadeath, and Doom to all allies. Remove All Beneficial Effects, including Golden effects, and Inflict Perfect Corruption and Seal for 2 Turns on all enemies at the start of battle. Remove All Beneficial, including Golden effects, from a random enemy at the start of your turn. Inflict Perfect Blind on up to 3 enemies for 2 turns when you take damage."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_past.png",
+  "id": "ghost-of-christmas-past-gunner"
+}

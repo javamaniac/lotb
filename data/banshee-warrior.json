@@ -1,0 +1,43 @@
+{
+  "name": "Banshee",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "CHAINSAW",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage to a single target.",
+        "• Inflict Bleed, Grievous Burn, and Perfect Corruption for 2 turns.",
+        "• 35% Chance to Extend the Duration of Negative Effects by 1 turn.",
+        "• Damage dealt increases based on your DEF."
+      ]
+    },
+    {
+      "name": "REV UP\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on their ATK and DEF.",
+        "• Increase ATK and DEF of all allies for 2 turns.",
+        "• Lower ATK and DEF of all enemies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "VANDAL\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Remove offensive effects from all enemies every turn. Gain a random Damage Invulnerability Effect if a Damage Reduction Shield is active at the start of your turn. Gain Perfect Immunity for the duration of battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee.png",
+  "id": "banshee-warrior"
+}

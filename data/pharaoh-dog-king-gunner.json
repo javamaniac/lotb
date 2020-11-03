@@ -1,0 +1,42 @@
+{
+  "name": "Pharaoh Dog King",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-dog-king-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "FEATHER OF TRUTH",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of physical, magical, and true damage to a single target.",
+        "• Grant a Random Defensive Effect to self and a random ally each hit.",
+        "• Remove Crave, Permadeath, Heal Block, and Heal Reduction effects from allies and Heal them for 15% of your MAX HP for each effect removed."
+      ]
+    },
+    {
+      "name": "BURIAL RITE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals one hit of physical, magical, and true damage to a single target.",
+        "• Remove Negative Effects from all allies.",
+        "• Grant Physical, Magic, and True Damage Invulnerability to self for 3 turns.",
+        "• Inflict Silence and Seal on all enemies for 2 turns."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "SOLAR TEMPLE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Immunity to Skill Disabling effects to all allies. Blocks damage for allies below 50% HP and takes random damage equal to 8% of your MAX HP for each hit blocked."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaohdogevoyellow.png",
+  "id": "pharaoh-dog-king-gunner"
+}

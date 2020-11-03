@@ -1,0 +1,42 @@
+{
+  "name": "Banshee",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "ANGEL GRINDER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of true damage to a single target.",
+        "• Remove Invincibility and Vanish effects, before dealing damage.",
+        "• 25% Chance to Steal a Golden Effect each hit.",
+        "• Inflict Perfect Corruption and Silence for 1 turn."
+      ]
+    },
+    {
+      "name": "WILD ONE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Reduce Duration of Beneficial Effects on all enemies by 2.",
+        "• Inflict Crave, Blinding Burn, and Perfect Accuracy Down on each enemy for 2 turns.",
+        "• Grant a Random Offensive Effect to each ally."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "RENEGADE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Remove a beneficial effect from each enemy everytime you take damage"
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_yellow.png",
+  "id": "banshee-gunner"
+}

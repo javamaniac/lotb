@@ -1,0 +1,40 @@
+{
+  "name": "Possessed Mine",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-mine-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 2,
+  "skills": [
+    {
+      "name": "EXTRACT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals high magic damage to a target.",
+        "• 35% Chance to Silence enemies for 1 turn."
+      ]
+    },
+    {
+      "name": "DETONATE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• 60% Chance to Freeze the enemy.",
+        "• Freeze Stuns the target and inflicts Magic Burn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "EXPLODE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_mine-boss.png",
+  "id": "possessed-mine-magus"
+}

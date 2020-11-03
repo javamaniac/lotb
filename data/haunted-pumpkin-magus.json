@@ -1,0 +1,32 @@
+{
+  "name": "Haunted Pumpkin",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/haunted-pumpkin-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "CAST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 30% Chance to Magic Burn enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "FAN THE FLAMES\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Inflicts Magic Burn for 2 turns.",
+        "• 50% Chance to Magic Burn for 2 turns for each Burn on that target."
+      ],
+      "powerCost": 5
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pumpkinmage.png",
+  "id": "haunted-pumpkin-magus"
+}

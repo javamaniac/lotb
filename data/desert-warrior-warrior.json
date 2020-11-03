@@ -1,0 +1,35 @@
+{
+  "name": "Desert Warrior",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-warrior-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "MAIM",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• 3 hits of physical damage to a single target.",
+        "• Inflicts Heal Block for 2 turns.",
+        "• Deals additional True Damage for each harmful effect on the enemy."
+      ]
+    },
+    {
+      "name": "MAD DANCE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Inflicts Permadeath for 2 turns.",
+        "• 50% Chance to Remove Beneficial Effects from the target.",
+        "• Instantly gain an Extra Turn.",
+        "• Permadeath prevents the target from being revived if they die."
+      ],
+      "powerCost": 4
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0030_Layer-43.png",
+  "id": "desert-warrior-warrior"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Chattering Skulls",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chattering-skulls-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 2,
+  "skills": [
+    {
+      "name": "STREAK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• 20% Chance for each ally to gain Heal Shield, Heal Amp, or Endure for 1 turn."
+      ]
+    },
+    {
+      "name": "RISE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Heals all allies.",
+        "• 25% Chance to gain an Extra Turn.",
+        "• Heal amount is based on your ATK stat."
+      ],
+      "powerCost": 4
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_megaskulls.png",
+  "id": "chattering-skulls-gunner"
+}

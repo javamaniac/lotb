@@ -1,0 +1,33 @@
+{
+  "name": "Corrupted Ox Soul",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupted-ox-soul-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 1,
+  "skills": [
+    {
+      "name": "CAST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 30% Chance to Magic Burn enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "TORCH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Cleanse and Heal self.",
+        "• 75% Chance to grant Regen HP to all allies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 4
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0063_Layer-4.png",
+  "id": "corrupted-ox-soul-magus"
+}

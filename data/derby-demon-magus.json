@@ -1,0 +1,41 @@
+{
+  "name": "Derby Demon",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "DEPARTED",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Grant Regen to all allies for 1 turn.",
+        "• Remove Crave effects from all allies and Heal all allies by 15% of their Max HP for every instance of Immunity or Perfect Immunity present on the enemy team."
+      ]
+    },
+    {
+      "name": "GANG RULE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Negative Effects from all allies, including Silver Effects.",
+        "• Inflict Crave on all enemies for 2 turns.",
+        "• Heal all allies by 25% of their Max HP for every instance of Perfect Immunity on the enemy and Remove Perfect Immunity from the enemy."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "MOMENTUM\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Cleanse and Grant a Random Beneficial Effect to self or a random ally every turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_magus.png",
+  "id": "derby-demon-magus"
+}

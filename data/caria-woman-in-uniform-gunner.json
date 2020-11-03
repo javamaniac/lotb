@@ -1,0 +1,43 @@
+{
+  "name": "Caria, Woman In Uniform",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/caria-woman-in-uniform-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "DEPLETED ROUNDS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of random damage to all enemies.",
+        "• 50% Chance to Remove All Shield and Invincibility effects from each enemy.",
+        "• 50% Chance to inflict Perfect Corruption on each enemy for 2 turns."
+      ]
+    },
+    {
+      "name": "QUANTUM OF SOULLESS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of random damage to all enemies.",
+        "• Inflict Perfect Death on all enemies for 2 turns.",
+        "• Inflict Heal Block on all enemies for 2 turns.",
+        "• 50% Chance to Refund Power Cost of skill.",
+        "• 50% Chance to grant an Extra Turn to self and a random ally."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "AMBUSH PREPARATIONS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Full Power and Fury to team after the first action in battle. Grant Golden Trap to all allies for the duration of battle at the start of battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_gunner.png",
+  "id": "caria-woman-in-uniform-gunner"
+}

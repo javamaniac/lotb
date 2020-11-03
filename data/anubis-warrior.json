@@ -1,0 +1,44 @@
+{
+  "name": "Anubis",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/anubis-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "SACRED LANDS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of physical and magic damage to a single target.",
+        "• 35% Chance to Extend Beneficial Effect Duration on each ally by 1 turn.",
+        "• 35% Chance to Extend Negative Effect Duration on the enemy by 1 turn.",
+        "• This attack does not wake enemies inflicted with Sleep."
+      ]
+    },
+    {
+      "name": "DESCENDING STAFF\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals one hit of physical and magic damage to a single target.",
+        "• Revive a dead ally with 60% HP.",
+        "• Inflict Sleep on a random enemy for 1 turn.",
+        "• Grant an Extra Turn to self and a random ally.",
+        "• This attack does not wake enemies inflicted with Sleep."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FORCE OF CHAOS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Doom. Stun any target that is asleep for 1 turn at the start of your turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_anubis_red.png",
+  "id": "anubis-warrior"
+}

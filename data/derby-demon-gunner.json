@@ -1,0 +1,44 @@
+{
+  "name": "Derby Demon",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "NEMESIS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• Remove Perfect Immunity and Revenge.",
+        "• 50% Chance to inflict Silence on the enemy for 2 turns.",
+        "• 50% Chance to inflict Disable Passive on the enemy for 1 turn."
+      ]
+    },
+    {
+      "name": "MUZZLE FLASH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Inflict Blind on enemies for 2 turns.",
+        "• Grant Heal Shield to allies for 2 turns.",
+        "• Lower ATK and MAGIC of enemies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "JAMMER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to True Damage. If Trap effect is not present at the start of your turn, Reduce the Fury of enemies, Remove Immunity, and Inflict Exhaust on a random enemy, then grant Trap to self for 2 turns."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_gunner.png",
+  "id": "derby-demon-gunner"
+}

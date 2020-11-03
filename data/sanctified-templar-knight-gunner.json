@@ -1,0 +1,43 @@
+{
+  "name": "Sanctified Templar Knight",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/sanctified-templar-knight-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "PURGE HERESY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Transform Each Negative Effect, including Silver Effects, on each ally into a Random Offensive Effect for 1 turn.",
+        "• 50% Chance to inflict Silence on each enemy for 1 turn.",
+        "• Deal Additional Random Damage to each enemy equal to 5% of their MAX HP for each negative effect on them."
+      ]
+    },
+    {
+      "name": "BLAZING BENEDICTION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Beneficial and Negative Effects, including Golden and Silver effects, from all allies and enemies.",
+        "• Heal each ally 4 times based on your SPECIAL stat.",
+        "• Inflict Smite, Ignite and Blinding Burn on all allies and enemies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "ARCHON'S REFRAIN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain an Innate Force Shield that prevents damage from a total of 12 incoming attacks at the start of battle and whenever you revive or an enemy is killed. Gain 1 Power, increasing by 1 each turn up to a maximum of 12, at the start of your turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_TemplarKnightSanctified_gunner.png",
+  "id": "sanctified-templar-knight-gunner"
+}

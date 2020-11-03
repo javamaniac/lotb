@@ -1,0 +1,44 @@
+{
+  "name": "Wicker Owl Evolved",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-owl-evolved-magus/",
+  "awakenable": true,
+  "class": "Magus",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "WILD EMBERS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of magic damage to all enemies.",
+        "• Inflict 1 Magic Burn to a random enemy for 1 turn.",
+        "• Remove Magic Burns from all allies.",
+        "• Gain Charge for 2 turns if Ghost is present on self."
+      ]
+    },
+    {
+      "name": "CHAOTIC SPARK\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 4 hits of magic damage to all enemies.",
+        "• Deal Additional True Damage to enemies inflicted with Perfect Corruption.",
+        "• Inflict Passive Disable on all enemies for 1 turn.",
+        "• Inflict 1 Magic Burn to 2 random enemies for 2 turns.",
+        "• Gain an Extra Turn if Ghost or Ascension is present on self."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "MALICIOUS CHANT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Soul Protect to all allies for the duration of the battle at the start of battle. Grant Ascension to all Ghosted allies for 2 turns at the start of your turn. Apply 1 Magic Burn for 2 turns to all enemies at the start of battle. Inflict 1 Magic Burn for 2 turns to a random enemy when hit. Apply Doom for 3 turns to any enemy with 6 or more burns at the start of your turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistcorrupt_owl_blue.png",
+  "id": "wicker-owl-evolved-magus"
+}

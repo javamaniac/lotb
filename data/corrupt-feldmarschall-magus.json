@@ -1,0 +1,42 @@
+{
+  "name": "Corrupt Feldmarschall",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-feldmarschall-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "ALL HAIL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Lowers MR for 1 turn.",
+        "• 15% Chance to Stun for 1 turn.",
+        "• Damage dealt increases the higher the enemy’s ATK stat."
+      ]
+    },
+    {
+      "name": "TOTAL WAR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 45% Chance to Drain Fury.",
+        "• 45% Chance to Seal an ability of the enemy for 2 turns."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "WARMONGER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Magic Damage. Grant Perfect Immunity to all allies for 1 turn at the start of battle and to self for the duration of battle. Grant Magic Penetration to all allies for 3 turns at the start of battle. Exhaust and drain 1 power from each enemy that is stunned at the start of your turn every turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_general_Feldmarschall.png",
+  "id": "corrupt-feldmarschall-magus"
+}

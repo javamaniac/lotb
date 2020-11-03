@@ -1,0 +1,86 @@
+{
+  "name": "Thor Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/thor-eddie-warrior/",
+  "awakenable": true,
+  "class": "Warrior",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "MEGINGJÖRÐ",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Inflict Cleave on each enemy for 9 turns.",
+        "• Grant 1 Power to each ally.",
+        "• Heal each ally for 9% of their MAX HP."
+      ]
+    },
+    {
+      "name": "DEATH AND RESURRECTION\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Negative Effects, Including Silver Effects from all allies.",
+        "• Deals 900% of each ally’s MAX HP as magic damage to each ally, but not self.",
+        "• Revive all allies with full HP and grant them Perfect Cleanse, Ascension, and Sacrifice for 9 turns. Instantly Gain an Extra Turn."
+      ],
+      "powerCost": 9
+    },
+    {
+      "name": "MJÖLNIR\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Inflict Passive Disable on the enemy for 9 turns.",
+        "• Grant Perfect Accuracy to all allies for 9 turns."
+      ]
+    },
+    {
+      "name": "THUNDER GOD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Inflict Shock, Perfect Stun, Perfect Corruption, and Fear on each enemy for 9 turns.",
+        "• Deal Additional Random Damage based on each target’s MAX HP for each instance of Shock, Stun, Perfect Corruption, and Fear currently on the target."
+      ],
+      "powerCost": 9
+    },
+    {
+      "name": "JÁRNGREIPR\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Transform beneficial effects, including Golden effects, on each enemy into a random Negative Effect, including Silver effects, for 9 turns.",
+        "• Grant Guard Shield, MAGIC UP, and Magic Penetration to all allies for 9 turns."
+      ]
+    },
+    {
+      "name": "SERPENT SLAYER\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 90% of a random enemy’s MAX HP as magic damage to that same enemy and heal self for 90% of your MAX HP.",
+        "• Grant Perfect Health, Perfect Immunity, and Perfect Revenge to all allies for 9 turns."
+      ],
+      "powerCost": 9
+    },
+    {
+      "name": "NINE STEPS THROUGH NINE WORLDS\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• Inflict up to 9 Random Silver Effects, excluding Dark Ghost, on all enemies for 9 turns.",
+        "• Grant all allies Echo for 9 turns.",
+        "• Grant an Extra Turn to all allies."
+      ]
+    }
+  ],
+  "eddie": true,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_thor.png",
+  "id": "thor-eddie-warrior"
+}

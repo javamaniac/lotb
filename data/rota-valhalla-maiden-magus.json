@@ -1,0 +1,43 @@
+{
+  "name": "Rota, Valhalla Maiden",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/rota-valhalla-maiden-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "PERMAFROST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 4 hits of random damage to a single target.",
+        "• Inflict Freeze on the target 2 turns.",
+        "• Grant a Snow Shield to a random ally for 2 turns if any enemy is already inflicted with Freeze."
+      ]
+    },
+    {
+      "name": "FIMBULWINTER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflict Dark Ghost on a random enemy for 2 turns.",
+        "• Remove Permadeath, Perfect Death, and Doom from all allies.",
+        "• Inflict Exhaust for 3 turns on enemies that are frozen, and grant Accuracy Up for 2 turns to a random ally for each frozen enemy.",
+        "• Convert Dark Ghost to Ghost on all allies for 2 turns and Extend Duration of Beneficial Effects on all allies by 1 turn for each enemy already inflicted with Exhaust.",
+        "• 30% Chance to Refund Energy Cost and gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "EINHERJAR\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "35% Chance to inflict Freeze on a random enemy for 2 turns when you take damage. 25% Chance to inflict an unblockable Freeze on each enemy for 1 turn after each action if the enemy is inflicted with Exhaust. Grant Golden Hit to all allies for the duration of battle. Grant Snow Shield to all allies at the start of battle. Grant each ally Ghost for 2 turns when they die. Grant a random ally Perfect Revenge for the duration of battle when any other ally dies."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_valhallamaiden_magus.png",
+  "id": "rota-valhalla-maiden-magus"
+}

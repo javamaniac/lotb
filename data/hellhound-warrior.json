@@ -1,0 +1,41 @@
+{
+  "name": "Hellhound",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellhound-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "POUNCE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 50% Chance for each ally to Increase ATK for 1 turn."
+      ]
+    },
+    {
+      "name": "HOWL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals all allies.",
+        "• Heal amount is based on your ATK.",
+        "• Grants Lifesteal for 3 turns.",
+        "• Lifesteal heals you for 60% of the physical damage you deal."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "REPEAL\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Immunity to all allies for 1 turn at the start of the battle. Grants immunity to a random ally every following turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_houndofhell_500.png",
+  "id": "hellhound-warrior"
+}

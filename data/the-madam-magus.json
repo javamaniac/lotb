@@ -1,0 +1,44 @@
+{
+  "name": "The Madam",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-madam-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "ANGELIC VOICE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 1 hit of magic damage and 1 hit of true damage to all enemies.",
+        "• 50% Chance to Grant Cleanse status to allies for 2 turns.",
+        "• 75% Chance to Remove All Beneficial Effects from each enemy.",
+        "• 75% Chance to Sleep a random enemy.",
+        "• This attack does not wake targets that are asleep."
+      ]
+    },
+    {
+      "name": "SOUL SLUMBER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant Endure to self for 2 turns.",
+        "• Gains a Sleep Shield for 2 turns. Sleep Shield reduces all damage by 75% and has a 35% chance to inflict Perfect Sleep on enemies that attack you for 2 turns.",
+        "• 50% Chance to Revive a random dead ally with 60% HP.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "OVERTURE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Perfect Immunity to all allies for 3 turns and Increased Accuracy for the duration of battle at the start of battle. Heal all allies based on your Current HP every turn. Heal any ally below 50% HP an additional 25% of their Max HP and grant them True and Magic Damage Block for 1 turn if you have Perfect Immunity active on you after each action. Block Stat Enhancing effects on the enemy, including Damage Charge and Critical Strike effects, but excluding Increased MAX HP effects."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_madam.png",
+  "id": "the-madam-magus"
+}

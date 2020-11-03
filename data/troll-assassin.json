@@ -1,0 +1,42 @@
+{
+  "name": "Troll",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/troll-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "FERVOR",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• 35% Chance to Transform Golden Effects into Marks and gain Charge on Perfects.",
+        "• Charge increases the effectiveness of the next damage ability used by 80%."
+      ]
+    },
+    {
+      "name": "THIEVE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Steals Beneficial Effects from enemy.",
+        "• 45% Chance to Lower DEF.",
+        "• 45% Chance to Lower MR."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FOCUS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants increased Accuracy to all allies for 2 turns at the start of battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0020_Layer-4.png",
+  "id": "troll-assassin"
+}

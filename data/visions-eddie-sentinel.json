@@ -1,0 +1,89 @@
+{
+  "name": "Visions Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/visions-eddie-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "TITAN SHIELD",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Gain a Titan Shield for 2 turns.",
+        "• 50% Chance for an Extra Turn.",
+        "• The strength of the shield is based on your MAX HP and will break if depleted."
+      ]
+    },
+    {
+      "name": "BLUR\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 50% Chance to Blind targets for 2 turns.",
+        "• 50% Chance to inflict up to 3 Grievous Burns on enemies for 2 turns.",
+        "• Damage dealt is based on your MAX HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "SHATTER\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Grant a random Beneficial Heal Effect to all allies and inflicts a Random Negative Effect on enemies for each target that is stunned.",
+        "• Damage dealt is based on your MAX HP."
+      ]
+    },
+    {
+      "name": "CLUTCH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Steals One Beneficial Effect from the enemy, including Golden Effects.",
+        "• 35% Chance to Stun enemy for 1 turn.",
+        "• 35% Chance to Silence the enemy for 2 turns.",
+        "• Damage dealt is based on your MAX HP."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "TAKE\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 60% Chance to Steal One Beneficial Effect from all enemies, including Golden Effects.",
+        "• Damage dealt is based on your MAX HP."
+      ]
+    },
+    {
+      "name": "EQUILIBRIUM\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Removes Negative Effects for 2 turns.",
+        "• Heals all allies for 2 turns.",
+        "• Heal amount is based on your MAGIC and MAX HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "BLINDSIDE\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals true damage to all enemies.",
+        "• Stuns enemies for 1 turn.",
+        "• You are stunned for 2 turns.",
+        "• Damage increases with your MAX HP."
+      ]
+    }
+  ],
+  "eddie": true,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_visions_10.png",
+  "id": "visions-eddie-sentinel"
+}

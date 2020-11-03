@@ -1,0 +1,42 @@
+{
+  "name": "Cosmic Newborn Of Light",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-newborn-of-light-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "CRUEL DEVICE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Reduce Duration of Beneficial Effects on the target by 2 turns.",
+        "• Inflict Stop and Shock for 2 turns.",
+        "• Damage dealt does not wake targets inflicted with Sleep or Perfect Sleep."
+      ]
+    },
+    {
+      "name": "CONDEMNATION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on their MISSING HP.",
+        "• Inflict Smite and Ignite on all enemies for 2 turns.",
+        "• Grant Physical and Magic Penetration to all allies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BLASPHEMY\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain Class Advantage against all enemies. Inflict Perfect Silence on all enemies with a 45% Chance to gain an Extra Turn when attacking any enemy inflicted with Smite or Ignite."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_newborn_of_light_f.png",
+  "id": "cosmic-newborn-of-light-gunner"
+}

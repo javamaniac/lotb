@@ -1,0 +1,44 @@
+{
+  "name": "Demon Prince Beelzebub",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-prince-beelzebub-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "DEVILS HAND",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 75% Chance to inflict up to 3 Physical Burns.",
+        "• 50% Chance to inflict Perfect Death on each enemy for 2 turns."
+      ]
+    },
+    {
+      "name": "DARK SEAL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 40% Chance to inflict Seal on each enemy for 3 turns.",
+        "• 40% Chance to Blind all enemies.",
+        "• Remove All Beneficial Effects, including Golden Effects minus Shroud, Soul Protect, and Perfect Immortality.",
+        "• Revive a random ally for each effect removed.",
+        "• Instantly Gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "DAEMONUM\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Increase the MAX HP of all allies by 250% at the start of battle. Grant each ally immunity to a random damage type at the start of your turn. Grant Vanish to up to 2 random allies for 1 turn after every action. All allies heal for a portion of any damage that they deal. Gain a Random Offensive or Defensive effect for every Physical Burn on each enemy after each action."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_beelzebub_skin.png",
+  "id": "demon-prince-beelzebub-warrior"
+}

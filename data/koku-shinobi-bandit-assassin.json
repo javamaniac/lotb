@@ -1,0 +1,43 @@
+{
+  "name": "Kokú, Shinobi Bandit",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/koku-shinobi-bandit-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "UNSEEN STRIKE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• 75% Chance to Remove All Beneficial Effects on the enemy.",
+        "• Inflict Perfect Death for 2 turns.",
+        "• Heal all allies based on their ATK and MAGIC stat."
+      ]
+    },
+    {
+      "name": "NEVERENDING ABYSS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Golden Effects on the enemy, excluding Shroud, Perfect Immortality, and Soul Protect.",
+        "• Revive a random ally with full HP for every Golden effect removed.",
+        "• Grant Endure to all allies for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BOOK OF VOID\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immunity to all Burn and Stat Reduction Effects. Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies. Steal One Beneficial Effect, including Golden Effects from a random enemy after every action."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_purple.png",
+  "id": "koku-shinobi-bandit-assassin"
+}

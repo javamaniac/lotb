@@ -1,0 +1,42 @@
+{
+  "name": "Kari, Valkyrie Siren",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/kari-valkyrie-siren-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "FUSION",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 5 hits of magic damage to a single target.",
+        "• Smites the enemy for 2 turns.",
+        "• 35% Chance to Lower ATK and DEF.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "PERFECT HEALER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of magic damage to all enemies.",
+        "• Heals all allies.",
+        "• 35% Chance for each ally to gain Perfect Hit for 2 turns."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "INHIBIT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Immunity to Stat Decreasing effects for all allies, which includes: ATK, MAGIC, DEF, MR, POWER, and FURY Decreasing effects."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_captain_magus.png",
+  "id": "kari-valkyrie-siren-magus"
+}

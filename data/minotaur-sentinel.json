@@ -1,0 +1,44 @@
+{
+  "name": "Minotaur",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "GORE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Transform Immunity and Perfect Immunity into 3 Marks for 2 turns.",
+        "• Decrease MAX HP of the enemy by 20%.",
+        "• Permanently Increase MAX HP of the caster by 10%.",
+        "• Damage dealt increases based on your MAX HP."
+      ]
+    },
+    {
+      "name": "MAD BULL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of random damage to random enemies.",
+        "• Gain 2 Random Offensive Effect before dealing damage.",
+        "• Grant a Random Offensive Effect to each ally and Heal them based on your MAX HP if any enemy is below 50% health.",
+        "• Damage dealt increases based on your MAX HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "INFERNAL GUARDIAN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Stone Shield to all allies for the first turn of battle. Grant Spell Vamp or Life Steal to each ally at the start of your turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_minotaur_sentinel.png",
+  "id": "minotaur-sentinel"
+}

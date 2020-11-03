@@ -1,0 +1,42 @@
+{
+  "name": "Daedalus",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/daedalus-warrior/",
+  "awakenable": true,
+  "class": "Warrior",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "MAD MIND",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to a single target.",
+        "• Gain a Random Defensive Effect for 1 turn.",
+        "• Grant a Random Offensive Effect to each ally for each Burn on the target."
+      ]
+    },
+    {
+      "name": "EXILED FATHER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Immunity, Perfect Immunity and Vanish from all enemies.",
+        "• Inflict Blind and Silence on all enemies for 1 turn.",
+        "• Grant Physical Shield and Magic Shield to all allies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "WINGS OF ASH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Immunity to Perfect Corruption, Physical Burn, and Toxic Burn to all allies. Inflict Random Burn Effects on all enemies after every action."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_daedalus.png",
+  "id": "daedalus-warrior"
+}

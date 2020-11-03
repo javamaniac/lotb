@@ -1,0 +1,40 @@
+{
+  "name": "Possessed Snowman",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-snowman-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "COAL FLING",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• 75% Chance to Silence the target for 2 turns.",
+        "• Damage dealt increased based on your DEF and MR stats."
+      ]
+    },
+    {
+      "name": "COLD SNAP\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 75% Chance to inflict Furious Burn for 2 turns on all enemies."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "BARRIER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Cyclone Shield to self for the duration of the battle. If Cyclone Shield is not present at the start of your turn, Freeze, Blind, or Heal Block all enemies."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_snowman_red.png",
+  "id": "possessed-snowman-warrior"
+}

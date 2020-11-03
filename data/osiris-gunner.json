@@ -1,0 +1,42 @@
+{
+  "name": "Osiris",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/osiris-gunner/",
+  "awakenable": true,
+  "class": "Gunner",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "LORD OF THE DEAD",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 50% Chance to Cleanse and Heal each ally based on their MAX HP.",
+        "• Revive a random dead ally for each instance of Immunity present on the enemy.",
+        "• 50% Chance to Increase ATK of all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "ETERNAL LIFE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grants Endure and Perfect Immunity to all allies for 2 turns.",
+        "• Grants Perfect Immortality and Power Generation to self for the duration of the battle.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "KINGSHIP\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Transform existing beneficial effects into their Golden version with a 2 turn duration at the start of each turn. Does not apply to effects that have no corresponding golden version."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_osiris.png",
+  "id": "osiris-gunner"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Empress Regnant Eupatoria",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/empress-regnant-eupatoria-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "DIRGE OF NIGHTINGALE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to a single target.",
+        "• Remove All Beneficial Effects, including Golden effects, and inflict Passive Disable and Permadeath on the target for 1 turn before dealing damage.",
+        "• Deal Additional True Damage to the target based on their MAX HP and MISSING HP.",
+        "• 35% Chance to inflict Freeze and Stun on the target for 1 turn."
+      ]
+    },
+    {
+      "name": "PEACE, LAND, AND BREAD!\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal one hit of physical and true damage to a single target that increases based on your ATK and MISSING HP.",
+        "• Remove and Prevent all Titan Shield, Vanish and Ascension effects, including Golden effects, on the target until they die before dealing damage.",
+        "• Permanently Increase Critical Strike Chance on all allies by +25% and grant them Innate Class Advantage until they die if this ability kills the target.",
+        "• Grant Perfect Immunity, Endure and Charge to all allies for 2 turns.",
+        "• 50% Chance to inflict an Unblockable Freeze and Unblockable Stun on each enemy for 1 turn if any enemy is frozen or stunned."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "LADY DEATH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Stun, Perfect Stun, Permadeath, Perfect Death, Doom, Dark Ghost, Apparition and Innate Permadeath. All enemies take 50% Increased Damage. 50% Chance to take no damage and inflict a Mark on attacking enemies for 2 turns when you are attacked. Grant Golden Hit and a Random Golden Defensive Effect to self and a random ally for 1 turn when you take damage."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_EmpressRegnantEupatoria.png",
+  "id": "empress-regnant-eupatoria-warrior"
+}

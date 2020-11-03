@@ -1,0 +1,40 @@
+{
+  "name": "Chopper",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "VIOLENT SWINGS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage to a single target.",
+        "• Gain a Random Offensive Beneficial Effect on each hit.",
+        "• 25% Chance to Remove Immunity, including Perfect Immunity, Remove Immortality, including Perfect Immortality, and Remove Shroud on each hit."
+      ]
+    },
+    {
+      "name": "TERRORIZE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• 65% Chance to Remove Beneficial Effects from all enemies.",
+        "• Inflicts Fear on all enemies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "DEATHPROOF\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle. Immunity to all Stun effects for self."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_purple.png",
+  "id": "chopper-assassin"
+}

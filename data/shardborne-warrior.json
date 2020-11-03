@@ -1,0 +1,43 @@
+{
+  "name": "Shardborne",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "SHARDLIGHT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 35% Chance to Steal All Beneficial Effects, including Golden Effects.",
+        "• Inflict 2 Blinding Burns for 1 turn.",
+        "• Damage dealt increased based on your DEF stat."
+      ]
+    },
+    {
+      "name": "BORN FROM HATE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Grant Ascension to all allies for 1 turn.",
+        "• Permanently Increase DEF by 5%.",
+        "• Damage dealt increased based on your DEF stats."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "MORTEM ET TU\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain an Extra Turn when you kill an enemy. 50% Chance to Revenge an enemy when an ally is attacked."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_warrior.png",
+  "id": "shardborne-warrior"
+}

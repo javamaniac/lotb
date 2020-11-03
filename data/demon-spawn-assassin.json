@@ -1,0 +1,40 @@
+{
+  "name": "Demon Spawn",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-spawn-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "SCAR",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Marks the target for 1 turn.",
+        "• Damage dealt increases based on your MR."
+      ]
+    },
+    {
+      "name": "SCURRY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal for 50% of your Missing HP.",
+        "• 50% Chance to Revive a random ally to full HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "CRAVING\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Inflicts enemies with Crave status for 3 turns at the start of battle. Crave reduces healing and causes enemies to take damage when they heal. Damage dealt increases with the heal amount."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_demonspawn_purple.png",
+  "id": "demon-spawn-assassin"
+}

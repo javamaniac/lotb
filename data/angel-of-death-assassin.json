@@ -1,0 +1,41 @@
+{
+  "name": "Angel Of Death",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-death-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "LETHALITY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• 35% Chance to inflict Perfect Bleed on the target for 2 turns.",
+        "• Remove All Golden Effects and inflict 3 Marks and Perfect Death on the target for 2 turns if Perfect Bleed is already on present on the target."
+      ]
+    },
+    {
+      "name": "THE CALM\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant Invincibility, Increased ATK, and Increase MAGIC to all allies for 2 turns.",
+        "• Grant an Extra Turn to self and a target ally.",
+        "• Grant 12 Power and Echo to all allies for 2 turns if any enemy has Perfect Bleed active."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "UNTO DEATH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Endure to all allies at the start of battle for 3 turns. Grant Counterstrike to all allies for 2 turns and fully heal allies if any ally’s HP falls to zero."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wingeddemon_purple.png",
+  "id": "angel-of-death-assassin"
+}

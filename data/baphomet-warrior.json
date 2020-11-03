@@ -1,0 +1,53 @@
+{
+  "name": "Baphomet",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/baphomet-warrior/",
+  "awakenable": true,
+  "class": "Warrior",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "DEMON SUN",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal random damage to all enemies that increases based on their MAX HP and MISSING HP.",
+        "• Reactivate your passive if disabled before dealing damage.",
+        "• Remove 4 Negative Effects, including Silver effects, from self.",
+        "• 35% Chance to Remove All Beneficial Effects, including Golden effects, from each enemy.",
+        "• Deal 4 hits of Additional Random Damage to random enemies based on their MAX HP and MISSING HP if not inflicted with negative effects.",
+        "• This attack does not wake sleeping enemies."
+      ]
+    },
+    {
+      "name": "FLAME OF WISDOM\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 6 hits of random damage to each enemy that increases based on their MAX HP and MISSING HP.",
+        "• Reactivate your passive if disabled before dealing damage.",
+        "• Inflict Toxic Burn on all enemies for 2 turns.",
+        "• Grant Immunity or Perfect Immunity to each ally for 1 turn.",
+        "• Deal 6 hits of Additional Random Damage to random enemies based on their MAX HP and MISSING HP if not inflicted with negative effects.",
+        "• This attack does not wake sleeping enemies."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "SYMBOL OF LIGHT\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal random damage to each enemy that increases based on their MAX HP and MISSING HP.",
+        "• Reactivate your passive if disabled before dealing damage.",
+        "• Inflict Curse on all enemies 3 turns.",
+        "• Inflict Unblockable Sleep on random enemy 2 turns.",
+        "• Gain a Random Offensive Effect for 2 turns.",
+        "• Deal 6 hits of Additional Random Damage to each enemy based on their MAX HP and MISSING HP if not inflicted with negative effects.",
+        "• This attack does not wake sleeping enemies."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_baphomet_warrior.png",
+  "id": "baphomet-warrior"
+}

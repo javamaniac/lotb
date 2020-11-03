@@ -1,0 +1,42 @@
+{
+  "name": "Ghost Of Christmas Giving",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-giving-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "GOOD TIDINGS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Lower Beneficial Effect Duration by 2 turns.",
+        "• Heal all allies by 5% for each positive effect currently active on them."
+      ]
+    },
+    {
+      "name": "MERRY AND BRIGHT\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflict True Burn on each enemy for 3 turns.",
+        "• Grant Perfect Immortality to all allies for 3 turns.",
+        "• Grant a Random Heal Effect to each ally for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "SILENT NIGHT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Sleep and Perfect Sleep. Prevent enemies from using Power or Fury Skills for the first round of battle. 35% Chance to Revive a random dead ally with Shroud for 2 turns every turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_giving.png",
+  "id": "ghost-of-christmas-giving-warrior"
+}

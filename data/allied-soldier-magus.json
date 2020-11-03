@@ -1,0 +1,32 @@
+{
+  "name": "Allied Soldier",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/allied-soldier-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "FEARLESS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 20% Chance to Increase ATK and MAGIC of allies.",
+        "• Damage dealt is based on your MAX HP."
+      ]
+    },
+    {
+      "name": "REFLECT ALL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Creates a Reflect Shield for 2 turns.",
+        "• Reflect Shield reduces damage by 50% and reflects a percentage of damage taken back as true damage to all enemies."
+      ],
+      "powerCost": 4
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/allied_soldier_blue.png",
+  "id": "allied-soldier-magus"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Sandworm",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/sandworm-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 1,
+  "skills": [
+    {
+      "name": "CAST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 30% Chance to Magic Burn enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "DECAY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Damage dealt increases based on your DEF.",
+        "• 50% Chance to Lower ATK.",
+        "• Inflicts Additional True Damage for every damage over time effect on the target."
+      ],
+      "powerCost": 4
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0035_Layer-4.png",
+  "id": "sandworm-magus"
+}

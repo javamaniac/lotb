@@ -1,0 +1,41 @@
+{
+  "name": "Crimson Pharaoh Dog",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/crimson-pharaoh-dog-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "TRACE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Grants Echo to self for 1 turn.",
+        "• 25% Chance for each ally to gain Echo for 2 turns.",
+        "• Echo grants a 35% chance for an Extra Turn after each action."
+      ]
+    },
+    {
+      "name": "HEED\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase Accuracy of allies for 2 turns.",
+        "• Heals allies based on their Missing HP."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "DAZE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Lowers the Accuracy of enemies for 2 turns at the start of battle."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaohdog_red.png",
+  "id": "crimson-pharaoh-dog-warrior"
+}

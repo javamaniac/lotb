@@ -1,0 +1,45 @@
+{
+  "name": "Onyx Son",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "BELLIGERENCE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Inflict Lower DEF and Lower ATK on each enemy for 2 turns.",
+        "• 25% Chance to inflict Perfect Stun on enemies for 1 turn.",
+        "• 100% Chance to inflict Perfect Stun for 1 turn if True Burn is present on each enemy.",
+        "• Deal Additional Physical Damage for each Burn effect on each enemy."
+      ]
+    },
+    {
+      "name": "APOSTATE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Remove All Negative Effects, including Silver Effects from self.",
+        "• Inflict Exhaust for 2 turns on each enemy.",
+        "• Inflict 3 True Burns on all enemies for 2 turns.",
+        "• Deal Additional Physical Damage for each Burn effect on the target."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "IN EXTREMIS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Perfect Immunity to all allies for 1 turn if Vanish is present on self at the start of your turn. Remove Beneficial Effects and inflict Perfect Death and Curse on all enemies for 2 turns upon death."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxsonn_warrior.png",
+  "id": "onyx-son-warrior"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Empress Mother Russia",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/empress-mother-russia-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "THE ANGER, THE GRIEF",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical, magic and true damage to a single target.",
+        "• 50% Chance to Critically Strike per hit.",
+        "• 75% Chance to inflict Freeze on the target for 2 turns.",
+        "• 60% Chance to inflict Seal, Stop, Perfect Disable, Perfect Silence, or Punishment on the target for 3 turns per hit."
+      ]
+    },
+    {
+      "name": "DANCE OF THE CZARS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 4 hits of random damage to all enemies.",
+        "• 50% Chance to Critically Strike per hit.",
+        "• 50% Chance to deal Additional Random Damage to each enemy equal to 5% of their MAX HP for each negative effect on the target.",
+        "• Inflict Dark Ghost on the target for 2 turns.",
+        "• Steal All Golden Effects from all enemies.",
+        "• Copy a Golden Effect from self to all other allies."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "SWIRLING GHOSTS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Permanently Increase All Stats on all allies by +5% and Decrease All Stats on all enemies by -5% at the start of battle and at the start of your turn. Grant Perfect Revenge and Ascension to all allies for the duration of battle if Lady Azov or Baroness Redan are alive on your team at the start of battle and at the start of your turn. 50% Chance to inflict Apparition on a random enemy for 3 turns if any enemy is frozen at the start of battle and at the start of your turn. Gain Snow Shield for 1 turn if any enemy suffers from Dark Ghost or Apparition after every action."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_EmpressMotherRussia.png",
+  "id": "empress-mother-russia-assassin"
+}

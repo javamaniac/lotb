@@ -1,0 +1,32 @@
+{
+  "name": "Soulless Demon",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/soulless-demon-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "SKIRMISH",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 30% Chance to gain Invincibility for 1 turn."
+      ]
+    },
+    {
+      "name": "RALLY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase ATK of allies for 2 turns.",
+        "• Increase DEF of allies for 2 turns.",
+        "• Gain an Extra Turn."
+      ],
+      "powerCost": 5
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_demon_skeleton_625.png",
+  "id": "soulless-demon-warrior"
+}

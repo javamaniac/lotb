@@ -1,0 +1,41 @@
+{
+  "name": "Chopper",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "BRAWL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Deal Additional Magic Damage to targets that have Mark, Curse, or Permadeath."
+      ]
+    },
+    {
+      "name": "FINAL TOUCH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Steal all Beneficial Effects from the enemy, including Golden Effects.",
+        "• Transfer all Negative Effects from you to the enemy.",
+        "• Inflicts Perfect Corruption for 2 turns.",
+        "• 30% Chance for an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "HIT JOB\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Marks, Curses, and Permadeaths a random enemy for 1 turn at the start of each turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_blue.png",
+  "id": "chopper-magus"
+}

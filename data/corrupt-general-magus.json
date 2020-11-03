@@ -1,0 +1,44 @@
+{
+  "name": "Corrupt General",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-general-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "ALL HAIL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Lowers MR for 1 turn.",
+        "• 15% Chance to Stun for 1 turn.",
+        "• Damage dealt increases the higher the enemy’s ATK stat."
+      ]
+    },
+    {
+      "name": "TOTAL WAR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 45% Chance to Drain Fury.",
+        "• 45% Chance to Seal an ability of the enemy for 2 turns."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "COMBUST\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals massive magic damage to a target.",
+        "• Gains a Damage Reduction Shield.",
+        "• Deals Additional True Damage based on the number of beneficial effects on the target and consumes those effects, including Golden Effects."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_general_520.png",
+  "id": "corrupt-general-magus"
+}

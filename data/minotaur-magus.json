@@ -1,0 +1,44 @@
+{
+  "name": "Minotaur",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "ATHENS' FINEST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 5 hits of true damage to a single target.",
+        "• Each attack has a 25% chance to Critically Strike.",
+        "• Heal for 20% of your Max HP.",
+        "• This damage does not wake enemies inflicted with Sleep or Perfect Sleep."
+      ]
+    },
+    {
+      "name": "SEVENTH FEAST\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of true damage to all enemies.",
+        "• Each attack has a 25% chance to Critically Strike.",
+        "• Revive all allies with 30% HP.",
+        "• Grant Sacrifice to all allies for 3 turns.",
+        "• This damage does not wake enemies inflicted with Sleep or Perfect Sleep."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "TRIBUTE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Perfect Force Shield to each ally for 2 turns at the start of battle. 75% Chance to Gain an Extra Turn if your HP is 50% or lower after each action."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_minotaur_magus.png",
+  "id": "minotaur-magus"
+}

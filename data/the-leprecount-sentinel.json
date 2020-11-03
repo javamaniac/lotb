@@ -1,0 +1,43 @@
+{
+  "name": "The Leprecount",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-leprecount-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "MISCHIEF MAKER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 4 hits of magic damage to all enemies.",
+        "• 40% Chance to inflict Accuracy Down, Blind, Curse or Taunt on each enemy for 4 turns per hit.",
+        "• 40% Chance to grant each ally a Random Healing or Defensive Effect for 4 turns for every enemy suffering from negative effects.",
+        "• This damage does not wake enemies inflicted with Sleep or Perfect Sleep."
+      ]
+    },
+    {
+      "name": "THREE WISHES\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant your enemies three wishes in exchange for an Extra Turn.",
+        "• An enemy wishes to be more popular. Inflict 4 Marks on a random enemy for 4 turns.",
+        "• An enemy wishes to have a simple life. Inflict Silence and Passive Disable on a random enemy for 4 turns.",
+        "• An enemy wishes to meet their ancestors. Inflict Dark Ghost on a random enemy for 4 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "TO CATCH A LEPRECHAUN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain Perfect Vanish for 1 turn when you take damage. Transform all beneficial effects, including Golden Effects, into Sleep for 1 turn on enemies that attack any ally. Inflict Exhaust on each enemy suffering from Sleep or Perfect Sleep for 2 turns at the start of your turn."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_count_leprechaun.png",
+  "id": "the-leprecount-sentinel"
+}

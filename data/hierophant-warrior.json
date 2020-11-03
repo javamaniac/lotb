@@ -1,0 +1,43 @@
+{
+  "name": "Hierophant",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "KEYS TO HEAVEN",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Remove Perfect Immunity from the target.",
+        "• Remove All Offensive Effects from the target.",
+        "• Inflict Perfect Corruption on the target for 1 turn."
+      ]
+    },
+    {
+      "name": "OBEDIENCE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Negative Effects from all allies.",
+        "• Heal all allies based on your MAGIC stat.",
+        "• Grant Class Advantage to all allies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "TRIPLE CROWN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Stun, Blind, and Silence. Absorbs all Physical Damage and returns it at the end of each turn to all enemies. Inflicts Stop and Seal on a random enemy every turn for 2 turns."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_red.png",
+  "id": "hierophant-warrior"
+}

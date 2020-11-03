@@ -1,0 +1,32 @@
+{
+  "name": "Trickster",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/trickster-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "stars": 3,
+  "skills": [
+    {
+      "name": "BANDIT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Steals One Beneficial Effect from the enemy.",
+        "• Transfers One Negative Effect to the enemy."
+      ]
+    },
+    {
+      "name": "MASSACRE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Gain Revenge status for 2 turns.",
+        "• Gain Counter Strike status for 2 turns."
+      ],
+      "powerCost": 4
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_trickster_red.png",
+  "id": "trickster-warrior"
+}

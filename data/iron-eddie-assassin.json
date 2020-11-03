@@ -1,0 +1,89 @@
+{
+  "name": "Iron Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/iron-eddie-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "UNBELIEVER",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• 75% Chance to Remove Beneficial Effects, Blind, and Silence the target for 1 turn.",
+        "• Cleanse and Heal a random ally and grant a Heal Shield to the ally for 2 turns.",
+        "• Damage dealt increases the lower your CURRENT HP."
+      ]
+    },
+    {
+      "name": "CHOSEN ONE\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grants Heal Amp to all allies for 3 turns.",
+        "• 50% Chance to grant Perfect Immunity to all allies for 2 turns.",
+        "• Gain an Extra Turn."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "BLOODIED HOPES\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• Blocks Beneficial Effects for 2 turns.",
+        "• Inflicts up to 3 Bleeds for 2 turns.",
+        "• 50% Chance to Transform Negative Effects on self into beneficial effects.",
+        "• Damage dealt increases the lower your CURRENT HP."
+      ]
+    },
+    {
+      "name": "HEALING MUSIC\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals allies based on your ATK and MAGIC stat.",
+        "• Reduce Duration of negative effects on all allies by 1 turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "BURNING FIRES\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• 35% Chance to inflict a Time Bomb on enemies for 2 turns.",
+        "• Stun and Inflict up to 5 Toxic Burns for 2 turns on enemies suffering from Crave status.",
+        "• Damage dealt increases the lower your CURRENT HP."
+      ]
+    },
+    {
+      "name": "BLACKENED SUN\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• 60% Chance to Remove Beneficial Effects and inflict Crave and Blind status on all enemies for 3 turns.",
+        "• Grant Regen HP, True Shield, and Damage Reduction Shield to all allies for 1 turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "ELECTRIC GUITAR\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Heals all allies based on your ATK and MAGIC stat.",
+        "• Inflicts up to 7 Random Negative Effects on all enemies.",
+        "• Damage dealt increases the lower your CURRENT HP."
+      ]
+    }
+  ],
+  "eddie": true,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_blackson_735.png",
+  "id": "iron-eddie-assassin"
+}

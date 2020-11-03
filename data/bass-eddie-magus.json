@@ -1,0 +1,99 @@
+{
+  "name": "Bass Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/bass-eddie-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 5,
+  "skills": [
+    {
+      "name": "JUDAS",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• 35% Chance to inflict Perfect Accuracy Down on the target for 2 turns.",
+        "• Remove Silver Effects from self and up to two random allies.",
+        "• 50% Chance to Steal a Random Beneficial Effect from a random enemy.",
+        "• 50% Chance to Steal a Random Golden Effect from a random enemy."
+      ]
+    },
+    {
+      "name": "KARMA KILLER\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant True Shield to all allies for 2 turns.",
+        "• Grant Echo to all allies for 2 turns.",
+        "• Instantly grant an Extra Turn to self and a random ally."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "LOST WORLD\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• 35% Chance to grant Perfect Accuracy to all allies for 2 turns.",
+        "• Remove Silver Effects from self and up to two random allies.",
+        "• 50% Chance to Steal a Random Beneficial Effect from a random enemy.",
+        "• 50% Chance to Steal a Random Golden Effect from a random enemy."
+      ]
+    },
+    {
+      "name": "BRITISH LION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Increase MAGIC of allies by 50% and Decrease MAGIC of the target by 50% permanently for the duration of battle.",
+        "• Remove Negative Effects, including Silver effects from all allies.",
+        "• Instantly gain an Extra Turn.",
+        "• 50% Chance to Steal a Random Beneficial Effect from a random enemy.",
+        "• 50% Chance to Steal a Random Golden Effect from a random enemy."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "IRON MASK\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Inflict Stop on the target for 2 turns.",
+        "• Stop prevents the opponent from gaining Extra Turns.",
+        "• Remove Silver Effects from self and up to two random allies.",
+        "• 50% Chance to Steal a Random Beneficial Effect from a random enemy.",
+        "• 50% Chance to Steal a Random Golden Effect from a random enemy."
+      ]
+    },
+    {
+      "name": "DEADLY RHYTHM\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on your MAGIC stat.",
+        "• Grant Perfect Heal Shield to all allies for 1 turn.",
+        "• 50% Chance to Steal a Random Beneficial Effect from a random enemy.",
+        "• 50% Chance to Steal a Random Golden Effect from a random enemy."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "THE GALLOP\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Remove All Golden Effects from each enemy, before dealing damage.",
+        "• Grant Physical, Magic, and True Charge to all allies for the duration of battle.",
+        "• 25% Chance to grant each ally an Extra Turn.",
+        "• 50% Chance to Steal a Random Beneficial Effect from a random enemy.",
+        "• 50% Chance to Steal a Random Golden Effect from a random enemy."
+      ]
+    }
+  ],
+  "eddie": true,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_bass.png",
+  "id": "bass-eddie-magus"
+}

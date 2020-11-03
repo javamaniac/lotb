@@ -1,0 +1,42 @@
+{
+  "name": "Banshee",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "stars": 4,
+  "skills": [
+    {
+      "name": "SHOCK SAW",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• Remove Immunity and Invincibility effects, including Vanish.",
+        "• Inflict 2 Shock and Flame effects on the target for 2 turns.",
+        "• Heal self for 15% of your MAX HP."
+      ]
+    },
+    {
+      "name": "DEAD DROP\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Negative Effects, including Silver effects, from all allies.",
+        "• Grant Reflect Shield to all allies for 2 turns.",
+        "• 35% Chance to grant each ally an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "WITHOUT A CAUSE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Inflict Stop on a random enemy for 2 turns every turn. Stop prevents the target from gaining Extra Turns. Generate 1 point of Power whenever you take damage."
+      ]
+    }
+  ],
+  "eddie": false,
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_blue.png",
+  "id": "banshee-magus"
+}
