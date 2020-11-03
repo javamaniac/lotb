@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer')
-const parse = require('./lotbParser').parse
+const parseCharacter = require('./parse-character').parse
 const fs = require('fs')
 
 let browser = null
@@ -18,12 +18,15 @@ async function run (url) {
 
   await page.goto(url)
 
-  console.log(`Parsing ${url}...`)
-  const character = await page.evaluate(parse)
+  const id = generateId(url)
 
-  const exportJson = false
+  console.log(`Parsing ${id}...`)
+  const character = await page.evaluate(parseCharacter)
+  character.id = id
+
+  const exportJson = true
   if (exportJson) {
-    const fileOutput = `data/${character.name}.json`
+    const fileOutput = `data/${id}.json`
     const data = JSON.stringify(character, null, 2)
     fs.writeFileSync(fileOutput, data)
     console.log(` > ${fileOutput} created`)
@@ -32,6 +35,11 @@ async function run (url) {
   return character
 
   // browser.close()
+}
+
+function generateId(href) {
+  const splitted = href.split('/')
+  return (splitted[splitted.length-1] === '') ? splitted[splitted.length-2] : splitted[splitted.length-1]
 }
 
 module.exports.run = run

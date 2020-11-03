@@ -4,6 +4,11 @@
   "description": "",
   "main": "scratch.js",
   "scripts": {
+    "extract-characters": "rmdir -f data & mkdir -p data & node lotb-compendium/extract-characters.js",
+    "delete-index": "node elastic/delete-index.js",
+    "create-index": "node elastic/create-index.js",
+    "index-characters": "node elastic/addCharaters.js",
+    
     "update:data": "node char-crawler.js",
     "index:data": "node char-crawler.js",
     "fix:nvm": "nvm use --delete-prefix v12.18.3",
