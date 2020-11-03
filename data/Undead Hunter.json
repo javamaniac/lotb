@@ -1,0 +1,27 @@
+{
+  "name": "Undead Hunter",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-hunter-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "REAVE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 35% Chance to Steal Power from enemy."
+      ]
+    },
+    {
+      "name": "VOLLEY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 35% Chance to Blind enemies for 2 turns."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

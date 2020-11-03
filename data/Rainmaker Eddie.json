@@ -1,0 +1,88 @@
+{
+  "name": "Rainmaker Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/rainmaker-eddie-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "CRACKLE",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage to a target.",
+        "• Gain Perfect Immunity for 2 turns.",
+        "• 50% Chance to Lower DEF for 2 turns.",
+        "• 50% Chance to Lower MR for 2 turns.",
+        "• Damage dealt increases based on the enemy’s SPECIAL stat."
+      ]
+    },
+    {
+      "name": "RAIN\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Heals all allies based on their ATK and MAGIC stat.",
+        "• Marks all enemies.",
+        "• Inflicts additional Marks for every Mark on each target."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FERVOR\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• 35% Chance to Transform Golden Effects into Marks and gain Charge on Perfects.",
+        "• Charge increases the effectiveness of the next damage ability used by 80%."
+      ]
+    },
+    {
+      "name": "STAB\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical and magic damage to a single target.",
+        "• Removes up to 4 Beneficial Effects, including Golden Effects.",
+        "• Inflict Mark, Permadeath, and Curse for 1 turn.",
+        "• Instantly gain an Extra Turn.",
+        "• Damage increases based on the enemy’s MISSING HP"
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "DARKNESS\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Remove Invincibility Effects, including Vanish.",
+        "• Gain Ascension status for 1 turn.",
+        "• 35% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "TORMENT\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 20% of the target’s MAX HP as true damage.",
+        "• 35% Chance to Inflict Exhaust on all enemies for 1 turn.",
+        "• Grants Perfect Hit to all allies for 1 turn.",
+        "• 45% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "EXECUTE\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Consumes all Marks, dealing additional true damage for each Mark on the target.",
+        "• Grants Shroud status to all allies for the duration of the battle."
+      ]
+    }
+  ]
+}

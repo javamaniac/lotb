@@ -1,0 +1,39 @@
+{
+  "name": "Mayan Priestess",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "SNUFF OUT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magical damage to a single target.",
+        "• Reduces the Max HP of the target by 10%.",
+        "• 60% Chance to Blind, Lower ATK, or Lower MAGIC for 2 turns.",
+        "• Damage increases based on the target’s MISSING HP."
+      ]
+    },
+    {
+      "name": "SUFFOCATION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical and magical damage to a single target.",
+        "• Removes Beneficial Effects from the enemy.",
+        "• Heals all allies based on number of negative effects that were on the enemy and your MAX HP.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "DESPERATION\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gains Vanish at the start of battle for 1 turn. Grant immunity to Sleep and Perfect Sleep to all allies. Grant Charge to all allies if you or any ally is below 50% Max HP at the start of your turn."
+      ]
+    }
+  ]
+}

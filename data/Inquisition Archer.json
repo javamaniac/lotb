@@ -1,0 +1,40 @@
+{
+  "name": "Inquisition Archer",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/inquisition-archer-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "ALTERED ARROWS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to a single target.",
+        "• Remove Immunity and Vanish from the target before dealing damage.",
+        "• 25% Chance to gain an Extra Turn if an effect is removed this way.",
+        "• Inflict Flame and Bleed on the target for 2 turns.",
+        "• 50% Chance to grant Armor Penetration for 2 turns if the target has 4 or more negative effects."
+      ]
+    },
+    {
+      "name": "VERSATILE QUIVER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal physical damage all enemies.",
+        "• Heal each ally for 25% of their MAX HP.",
+        "• Grant Trap and Golden Hit to self and a random ally for 2 turns.",
+        "• Inflict MR Down and Perfect Accuracy Down on all enemies for 1 turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ARCHER'S PARADOX\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Immunity to Crave and Heal Block to all allies. Grant Perfect Accuracy Up to all allies for 2 turns at the start of battle. Gain Sacrifice or Vanish for 1 turn and inflict 3 Marks on a random enemy for 1 turn after every action while below 50% HP."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Tailgunner Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/tailgunner-eddie-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "LAUGH",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage.",
+        "• 50% Chance to Heal allies on each hit.",
+        "• Increase DEF for 2 turns.",
+        "• Increase MR for 2 turns."
+      ]
+    },
+    {
+      "name": "SECOND CHANCE\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 25% Chance to Critically Strike.",
+        "• Gain Endure, Invincibility, or Immunity status.",
+        "• 50% Chance for this skill to Reset and trigger its effects again."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "BARRAGE\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 4 hits of physical damage to all enemies.",
+        "• 35% Chance to Lower DEF for 1 turn.",
+        "• Deals Additional Physical Damage to targets with Lowered DEF."
+      ]
+    },
+    {
+      "name": "TRIPLE SHOT\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of physical damage to random targets.",
+        "• 20% Chance to gain an Extra Turn.",
+        "• Gain Critical Strike if a target is killed.",
+        "• Damage dealt increases based on your ATK and SPECIAL stats."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ROAR\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage.",
+        "• 65% Chance to Increase Power Generation for 1 turn.",
+        "• 25% Chance to gain an Extra Turn.",
+        "• Damage dealt increases based on the target’s MAX HP."
+      ]
+    },
+    {
+      "name": "RADAR\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Gain 3 Power Instantly.",
+        "• 45% Chance to Silence all enemies for 1 turn.",
+        "• 50% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "RAINING DEATH\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals 6 hits of physical damage to all enemies.",
+        "• Grants Lifesteal status to all allies for 3 turns.",
+        "• Damage increases based on SPECIAL.",
+        "• This ability grants an Extra Turn to all allies if you get a kill."
+      ]
+    }
+  ]
+}

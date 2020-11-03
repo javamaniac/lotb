@@ -1,0 +1,30 @@
+{
+  "name": "Demon Officer",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-officer-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "skills": [
+    {
+      "name": "HOT PURSUIT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Heal a random ally based on your MAGIC stat.",
+        "• 50% Chance to inflict Permadeath on the enemy for 1 turn.",
+        "• Inflict Sleep on the target for 2 turns if Seal is present on the enemy."
+      ]
+    },
+    {
+      "name": "ALL POINTS WARNING\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on your MAGIC stat.",
+        "• Increase Power or Fury.",
+        "• Grant Increased MAGIC or Magic Penetration to allies for 2 turns."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

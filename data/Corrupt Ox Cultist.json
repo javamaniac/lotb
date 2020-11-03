@@ -1,0 +1,38 @@
+{
+  "name": "Corrupt Ox Cultist",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-ox-cultist-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "CORRUPTED CUT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Heal Blocks for 2 turns."
+      ]
+    },
+    {
+      "name": "MAD DANCE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Inflicts Permadeath for 2 turns.",
+        "• 50% Chance to Remove Beneficial Effects from the target.",
+        "• Instantly gain an Extra Turn.",
+        "• Permadeath prevents the target from being revived if they die."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "COUNTER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "50% Chance to counter attack the opponent that attacked you."
+      ]
+    }
+  ]
+}

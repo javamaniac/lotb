@@ -1,0 +1,36 @@
+{
+  "name": "Corrupt Owl Cultist",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-owl-cultist-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "skills": [
+    {
+      "name": "HEX",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magical damage to a single target.",
+        "• 30% Chance to Lower MAGIC of enemy for 2 turns."
+      ]
+    },
+    {
+      "name": "MIRE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• 25% Chance to Increase MAGIC for 2 turns.",
+        "• Damage dealt increases the higher target’s ATK stat is."
+      ],
+      "powerCost": 3
+    },
+    {
+      "name": "DEFLECT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Reflects 35% of damage back to the target."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Allied Soldier",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/allied-soldier-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "BLITZ",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 25% Chance to Remove Beneficial Effects on each hit."
+      ]
+    },
+    {
+      "name": "RECOVER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals all allies.",
+        "• Removes Negative Effects on allies.",
+        "• Heal amount is based on your MAGIC and MAX HP."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

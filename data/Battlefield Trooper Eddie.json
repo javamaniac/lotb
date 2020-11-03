@@ -1,0 +1,76 @@
+{
+  "name": "Battlefield Trooper Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/battlefield-trooper-eddie-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "MIGHTY ROAR",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Increase DEF of allies for 2 turns.",
+        "• Remove Negative Effects, including Silver Effects, from all allies on Perfect Hits."
+      ]
+    },
+    {
+      "name": "SURVIVE\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant Immortality to an ally for 2 turns.",
+        "• Grants an Extra Turn to the target ally.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ONSLAUGHT\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Gain Perfect Hit status for 2 turns and 100% Critical Strike Chance for 1 turn on Perfect Hits."
+      ]
+    },
+    {
+      "name": "SPUR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of physical damage to all enemies.",
+        "• 50% Chance for each ally to gain Counterstrike for 1 turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "CERTAIN DEATH\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage to a single target.",
+        "• Attacks have a 25% Chance to Critically Strike.",
+        "• Grant Heal Shield for self and up to 3 allies on Perfect Hits."
+      ]
+    },
+    {
+      "name": "WAR CALL\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase MR of allies for 2 turns.",
+        "• Heal all allies based on their ATK stat."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "V FOR VICTORY\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain immunity to Passive Disable effects after the first round of battle. Remove All Negative Effects, including Silver Effects, and grant Perfect Hit, Charge, Lifesteal and Spell Vamp to each ally below 50% HP for 1 turn at the start of your turn."
+      ]
+    }
+  ]
+}

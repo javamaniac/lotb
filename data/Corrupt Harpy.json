@@ -1,0 +1,36 @@
+{
+  "name": "Corrupt Harpy",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-harpy-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "SEIZE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• 25% Chance to Critically Strike."
+      ]
+    },
+    {
+      "name": "STAKE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Gain Critical Strike chance with 100% Critical Chance for 2 turns if the enemy is Marked.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "MISERY\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Inflicts all enemies with a Mark at the start of battle. Marks can be consumed with Perfect Hits to deal true damage."
+      ]
+    }
+  ]
+}

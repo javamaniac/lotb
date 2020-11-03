@@ -1,0 +1,37 @@
+{
+  "name": "Corrupt Rescuer",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-rescuer-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "CONTAMINATE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• Lower ATK and MAGIC of enemies for 1 turns.",
+        "• Reduces the Max HP of the target by 15%."
+      ]
+    },
+    {
+      "name": "CONTAIN\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Reset Power of enemy to zero.",
+        "• Lower Power Generation for 2 turns.",
+        "• Increase Power Generation of allies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "LOCKDOWN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Randomly removes all beneficial effects, including Golden Effects, and Seals an enemy’s ability every turn for 2 turns."
+      ]
+    }
+  ]
+}

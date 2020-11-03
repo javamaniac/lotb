@@ -1,0 +1,30 @@
+{
+  "name": "Gunner Dog",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/gunner-dog-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "CROSSFIRE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 6 hits of random damage to all enemies.",
+        "• Damage scales with ATK and SPECIAL.",
+        "• 25% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "HOWL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals all allies.",
+        "• Heal amount is based on your ATK.",
+        "• Grants Lifesteal for 3 turns.",
+        "• Lifesteal heals you for 60% of the physical damage you deal."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

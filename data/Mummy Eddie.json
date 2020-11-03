@@ -1,0 +1,80 @@
+{
+  "name": "Mummy Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mummy-eddie-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "MUMMIFICATION",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Generate up to 2 Power.",
+        "• Grants Immunity for 2 turns.",
+        "• 30% Chance to Extend Duration of Immunity to 3 turns."
+      ]
+    },
+    {
+      "name": "POWER SMASH\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 30% Chance to Stun a random enemy.",
+        "• Damage increases based on your MAX HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "POWER PUNCH\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• 20% Chance to Stun for 1 turn.",
+        "• Damage increases based on your MAX HP."
+      ]
+    },
+    {
+      "name": "BONE SHROUD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grants Titan Shield for 3 turns.",
+        "• Titan Shield absorbs damage based on your MAX HP and will break if depleted."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "BURDEN OF THE DAMNED\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 30% Chance to Taunt for 1 turn.",
+        "• Stunned enemies Taunted for 2 turns.",
+        "• Damage increases based on your MAX HP."
+      ]
+    },
+    {
+      "name": "SACRED SANCTION\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Removes Negative Effects on all allies.",
+        "• 30% Chance for each ally to gain Titan Shield for 2 turns.",
+        "• Titan Shield absorbs an amount of damage based on the target’s MAX HP."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "ELECTROCUTION\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Deals Additional Damage to Stunned targets."
+      ]
+    }
+  ]
+}

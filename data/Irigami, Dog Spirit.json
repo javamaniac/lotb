@@ -1,0 +1,42 @@
+{
+  "name": "Irigami, Dog Spirit",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/irigami-dog-spirit-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "EVIL AURA",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 1 hit of physical and 1 hit of true damage to all enemies.",
+        "• Damage dealt increases based on your SPECIAL stat.",
+        "• Grant Armor and Magic Penetration to each ally for 2 turns.",
+        "• 50% Chance to grant Trap to each ally for 1 turn.",
+        "• Grant Echo to all allies for 2 turns if any enemy is inflicted with Stun or Perfect Stun."
+      ]
+    },
+    {
+      "name": "CASTED SHADOW\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 1 hit of physical and 1 hit of true damage to all enemies.",
+        "• Damage dealt increases based on your SPECIAL stat.",
+        "• Grant Vanish to self for 1 turn.",
+        "• Grant Life Steal, Spell Vamp, and Increased DEF and MR to all allies for 2 turns.",
+        "• Permanently Increase SPECIAL stat of all allies by 50%.",
+        "• Grant an Extra Turn to self and up to 2 allies if any enemy is inflicted with Stun or Perfect Stun."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "MAELSTROM\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Prevent Enemies from taking Extra Turns. Grant Immunity to Max HP Reduction and Exhaust to all allies. 15% Chance to Inflict Perfect Stun on a random enemy every action."
+      ]
+    }
+  ]
+}

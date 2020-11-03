@@ -1,0 +1,28 @@
+{
+  "name": "Imp",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/imp-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "CUT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Deals Additional Magic Damage if you get a Perfect Hit."
+      ]
+    },
+    {
+      "name": "RAVAGE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 2 hits of physical damage to enemies.",
+        "• 30% Chance to Lower DEF of enemies.",
+        "• Damage increases the higher your SPECIAL stat."
+      ],
+      "powerCost": 4
+    }
+  ]
+}

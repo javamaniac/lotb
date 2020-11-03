@@ -1,0 +1,36 @@
+{
+  "name": "Savage Reaper",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/savage-reaper-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "GRAND THEFT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Lower ATK of the enemy for 2 turns.",
+        "• 35% Chance to Steal Golden Shield and Block Effects from the target and grant them to all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "REGRESS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflict Bloodlust and Bleed on the enemy for the duration of battle.",
+        "• Grant an Extra Turn to self and a target ally."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "SUSPECT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain 2 random Golden Effects at the start of battle. Gain Damage Charge for 2 turns if Trap is present at the start of your turn."
+      ]
+    }
+  ]
+}

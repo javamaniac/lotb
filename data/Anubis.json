@@ -1,0 +1,40 @@
+{
+  "name": "Anubis",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/anubis-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "IMMUTABLE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of physical and magic damage to a single target.",
+        "• Inflict Heal Block on the target for 2 turns.",
+        "• 35% Chance to grant Perfect Accuracy to all allies for 1 turn.",
+        "• If Accuracy or Perfect Accuracy is already present, instantly Gain 3 Power and an Extra Turn and remove Perfect Accuracy from self."
+      ]
+    },
+    {
+      "name": "PERPETUAL CYCLE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals one hit of physical and magic damage to all enemies.",
+        "• Remove Golden Effects from enemies, excluding Shroud, Soul Protect, and Perfect Immortality.",
+        "• Revive a random dead ally.",
+        "• Grant Damage Reflect Shield to all allies for 2 turns.",
+        "• Instantly grant an Extra Turn to self and one random ally for each target that is suffering from Heal Block."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "AFTERLIFE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Immunity to Doom, Curse, and Permadeath to all allies. 50% Chance to remove Immunity from each enemy at the start of battle. Inflict ATK Down and MAGIC down on all enemies for 2 turns at the start of battle. Revive all allies upon death."
+      ]
+    }
+  ]
+}

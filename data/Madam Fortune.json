@@ -1,0 +1,39 @@
+{
+  "name": "Madam Fortune",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/madam-fortune-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "CARTOMANCY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of random and one hit of true damage to all enemies.",
+        "• Remove All Negative Effects, including Silver Effects, from a random ally.",
+        "• Inflict Crave or Perfect Crave on each enemy for 2 turns.",
+        "• Inflict Doom on the enemy for 2 turns if Passive Disable, Perfect Disable, Crave, or Perfect Crave is present on them."
+      ]
+    },
+    {
+      "name": "TAROT PROPHECY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Immunity Effects, including Vanish from all enemies.",
+        "• Inflict Stop and Permadeath on all enemies for the duration of battle.",
+        "• 75% Chance to instantly Trigger Doom effects present on each enemy.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "ARCANA\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Inflict Passive Disable or Perfect Disable on each enemy at the start of battle for the duration of battle. Grant Immunity to Crave and Perfect Crave to all allies. Heal all allies for 50% of MAX HP if Vanish is present at the start of your turn."
+      ]
+    }
+  ]
+}

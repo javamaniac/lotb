@@ -1,0 +1,28 @@
+{
+  "name": "Hourglass",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hourglass-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "EXPIRE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage to all enemies.",
+        "• 50% Chance to Block Beneficial Effects."
+      ]
+    },
+    {
+      "name": "BORROWED TIME\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• 30% Chance to Lower ATK and MAGIC.",
+        "• Damage dealt increases based on your DEF and MR stats."
+      ],
+      "powerCost": 4
+    }
+  ]
+}

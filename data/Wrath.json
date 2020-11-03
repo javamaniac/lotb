@@ -1,0 +1,43 @@
+{
+  "name": "Wrath",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wrath-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "SAVAGE STRIKE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage to all enemies.",
+        "• Remove Beneficial Effects from all enemies.",
+        "• Inflict up to 2 Marks on each enemy for 1 turn.",
+        "• Attacks Heal 15% of your MAX HP for every Mark on the targets.",
+        "• 35% Chance to grant Perfect Hit to all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "DEATH MARK\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to all enemies.",
+        "• Applies 3 Marks on targets.",
+        "• Inflict Permadeath on all enemies for 3 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "INFERNO\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal one hit of physical, magic and true damage to all enemies.",
+        "• Inflict 3 Flames on all enemies for 3 turns.",
+        "• Inflict Doom on each enemy for 2 turns if they are suffering from Punishment.",
+        "• Inflict Punishment on all enemies for the duration of battle."
+      ]
+    }
+  ]
+}

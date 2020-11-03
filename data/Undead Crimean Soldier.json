@@ -1,0 +1,36 @@
+{
+  "name": "Undead Crimean Soldier",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-crimean-soldier-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "FIELD MEDICINE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Grant Lifesteal for 1 turn to self and up to 2 allies.",
+        "• Grant Regen for 2 turns to all allies below 50% HP."
+      ]
+    },
+    {
+      "name": "CORPSE-à-CORPSE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 99% of your CURRENT HP as true damage to the enemy, and lose the same amount of HP.",
+        "• Gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "UNDYING SOLDIER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gain Endure for 2 turns at the start of battle."
+      ]
+    }
+  ]
+}

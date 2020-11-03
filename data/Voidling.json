@@ -1,0 +1,28 @@
+{
+  "name": "Voidling",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/voidling-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "REAVE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 35% Chance to Steal Power from enemy."
+      ]
+    },
+    {
+      "name": "CRUMBLE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on their MISSING HP. Increase healing by 5% of MAX HP for each Physical Burn, Magic Burn, and Flame effect on each enemy.",
+        "• Reduce Enemy Fury by 30% if their Fury is not maxed.",
+        "• Gain Power based on Fury reduced."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

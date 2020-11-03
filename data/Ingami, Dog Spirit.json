@@ -1,0 +1,39 @@
+{
+  "name": "Ingami, Dog Spirit",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ingami-dog-spirit-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "BRUTAL SPIRIT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 6 hit of random damage to a single target.",
+        "• Deal 3 hits of Additional Random Damage on each enemy if Invincibility is active on self.",
+        "• Deal 3 hits of Additional Random Damage on each enemy if your HP is 50% or lower."
+      ]
+    },
+    {
+      "name": "CEASELESS PUNISHMENT\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflict Punishment on each enemy for 2 turns.",
+        "• Revive a random dead ally with 60% HP.",
+        "• Heal all allies based on your MAX HP.",
+        "• Remove All Negative Effects, including Silver effects, from self and up to 2 random allies.",
+        "• Inflict Punishment on all enemies for the duration of battle and gain an Extra Turn if your HP is 50% or lower."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BRIDGE OF DARKNESS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Inflict Perfect Death on all enemies for the duration of battle. Grant Invincibility and Critical Strike Chance to all allies for 3 turns if any ally’s HP is below 50% HP at the start of your turn."
+      ]
+    }
+  ]
+}

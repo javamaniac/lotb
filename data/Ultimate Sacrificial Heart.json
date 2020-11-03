@@ -1,0 +1,26 @@
+{
+  "name": "Ultimate Sacrificial Heart",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ultimate-sacrificial-heart-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "ATTACK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target."
+      ]
+    },
+    {
+      "name": "BROKEN\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 15% Chance to Stun all enemies for 1 turn."
+      ],
+      "powerCost": 1
+    }
+  ]
+}

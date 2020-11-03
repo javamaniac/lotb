@@ -1,0 +1,29 @@
+{
+  "name": "Undead Allied Soldier",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-allied-soldier-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "RAPID FIRE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 4 hits of random damage to a single target.",
+        "• 15% Chance for each ally to gain an Extra Turn.",
+        "• An Extra Turn will let a character attack again if they’ve already acted that turn."
+      ]
+    },
+    {
+      "name": "MOBILIZE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals all allies.",
+        "• Grants Damage Reduction Shield for 2 turns.",
+        "• Heal amount based on the ally’s Missing HP."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

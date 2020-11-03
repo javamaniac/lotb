@@ -1,0 +1,41 @@
+{
+  "name": "Shaman 'The Bird'",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shaman-the-bird-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "ABSORB VIGOR",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Increase ATK of allies for 2 turns if the enemy has a Shield."
+      ]
+    },
+    {
+      "name": "HEDGED BET\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal physical damage to all enemies that increases based on your MISSING HP.",
+        "• 50% Chance to Critically Strike.",
+        "• Remove all Immunity and Vanish effects, including Golden effects, from all enemies if at 75% HP or below.",
+        "• Inflict up to 3 Marks and 3 Perfect Bleeds on each enemy for 2 turns.",
+        "• 50% Chance to gain an Extra Turn.",
+        "• Take 35% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ],
+      "powerCost": 0
+    },
+    {
+      "name": "SOUL SACRIFICE\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals physical and magic damage to all enemies.",
+        "• Permadeath all enemies for 3 turns."
+      ]
+    }
+  ]
+}

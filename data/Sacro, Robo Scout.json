@@ -1,0 +1,37 @@
+{
+  "name": "Sacro, Robo Scout",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/sacro-robo-scout-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "skills": [
+    {
+      "name": "DILATE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single target.",
+        "• 35% Chance to Extend Negative Effect Duration on the target by 1.",
+        "• 35% Chance to inflict Flame on up to 2 random enemies for 3 turns."
+      ]
+    },
+    {
+      "name": "HEAL DRONE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies.",
+        "• Grant Force Shield or Titan Shield to each ally for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "EXTRAPOLATE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "35% Chance to increase the duration of all beneficial effects on each ally every turn."
+      ]
+    }
+  ]
+}

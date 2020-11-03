@@ -1,0 +1,38 @@
+{
+  "name": "Undead Axis Gunner",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-axis-gunner-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "WILD BLOW",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage.",
+        "• 35% Chance to Disable Passive for 2 turns.",
+        "• 35% Chance to gain 100% Critical Strike chance for 2 turns."
+      ]
+    },
+    {
+      "name": "THIEVE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Steals Beneficial Effects from enemy.",
+        "• 45% Chance to Lower DEF.",
+        "• 45% Chance to Lower MR."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "BLOOD THIRST\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Lifesteal status to all allies at the start of battle. Lifesteal heals you for 60% of the physical damage you deal."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Wicker Golem",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-golem-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "SHOUT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage.",
+        "• 80% Chance to Silence for 1 turn.",
+        "• Damage increases the lower the target’s CURRENT HP."
+      ]
+    },
+    {
+      "name": "FEVER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• Heals all allies.",
+        "• 40% Chance to Heal Block the enemy for 2 turns."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "MEMENTO\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Shatters upon death, applying 4 Marks to all enemies. Marks can be consumed with Perfect Hits to deal true damage."
+      ]
+    }
+  ]
+}

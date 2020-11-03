@@ -1,0 +1,82 @@
+{
+  "name": "Khan Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/khan-eddie-warrior/",
+  "awakenable": true,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "WORLD ENDER",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of physical damage to a single target.",
+        "• Remove Golden Effects and inflict Perfect Heal Block for 2 turns.",
+        "• Grant Charge to allies for 2 turns."
+      ]
+    },
+    {
+      "name": "CUT DOWN\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 3 hits of physical damage to a single target.",
+        "• Inflict Stun and Cleave on the target for 2 turns.",
+        "• Decrease the duration of negative effects on all allies by 2.",
+        "• Grant Echo to each ally for 2 turns if they have no negative effects."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "MEASURED SLAUGHTER\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of physical damage to a single target.",
+        "• Remove Immunity and Vanish Effects, including Golden effects.",
+        "• Decrease DEF of target for 2 turns.",
+        "• Grant Armor Penetration to allies for 2 turns."
+      ]
+    },
+    {
+      "name": "EYE FOR AN EYE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 3 hits of physical damage to a single target.",
+        "• Grant Revenge and Power Shield to all allies for 2 turns.",
+        "• Increase the duration of negative effects on all enemies by 2.",
+        "• Inflict Bloodlust to each enemy for 2 turns if they have negative effects."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "FALCON HUNT\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal heavy physical damage to a single target that increases based on their missing HP.",
+        "• Grant Endure to allies for 2 turns."
+      ]
+    },
+    {
+      "name": "LOYAL ALLEGIANCE\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies to their FULL HP.",
+        "• Grant Perfect Revenge and Golden Hit for the duration of battle until they die.",
+        "• Grant Stone Shield to all allies for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "THE MONGOL HORDES\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "Once per turn, the first action that each ally takes deals 100% increased damage until they die. Deal 6 hits of physical damage to random enemies that increases based on your Current HP. Remove all beneficial effects, including golden effects from all enemies before dealing damage. Increase the duration of negative effects on all enemies by 2. Inflict Bloodlust to each enemy for 2 turns if any negative effects are on any enemy. Decrease the duration of negative effects on all allies by 2. Grant Echo to each ally for 2 turns if they have no negative effects."
+      ]
+    }
+  ]
+}

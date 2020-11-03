@@ -1,0 +1,38 @@
+{
+  "name": "Desert Marauder",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-marauder-gunner/",
+  "awakenable": false,
+  "class": "Gunner",
+  "skills": [
+    {
+      "name": "SHOOT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 25% Chance to Critically Strike.",
+        "• Remove Invincibility and Physical, Magic, and True Damage Invulnerability effects before dealing damage.",
+        "• Deal Additional True Damage for each beneficial effect on the target."
+      ]
+    },
+    {
+      "name": "CHAIN\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals high physical damage to an enemy.",
+        "• Seals a Skill of the enemy for 4 turns.",
+        "• Seals a Skill on caster for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "MARKSMAN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Gives Perfect Hit status to all allies at the start of battle for 2 turns. Perfect Hit causes all basic attacks to always land with a Perfect score."
+      ]
+    }
+  ]
+}

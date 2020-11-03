@@ -1,0 +1,38 @@
+{
+  "name": "Cursed Pharaoh Dog",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cursed-pharaoh-dog-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "ETERNAL BONDAGE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal random damage to all enemies.",
+        "• 35% Chance each to inflict Perfect Blind, Heal Block, Perfect Corruption, and Silence for 2 turns.",
+        "• Grant Golden Hit buff to self and random ally for 2 turns.",
+        "• Damage dealt increases based on your SPECIAL stat."
+      ]
+    },
+    {
+      "name": "DELIVERANCE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Revive all allies with 50% HP.",
+        "• Grant Perfect Heal Shield and Golden Trap to all allies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "HIDDEN HIEROGLYPH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Increase the healing of all allies by +100%. Grants Charge and Golden Hit to allies suffering from Blind or Taunt effects for 2 turns at the start of your turn."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Minotaur",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "ENDLESS FEROCITY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of random damage to a single target.",
+        "• Inflict Doom for 5 turns.",
+        "• Grant an Extra Turn to a random ally.",
+        "• Damage dealt increases based on your SPECIAL stat."
+      ]
+    },
+    {
+      "name": "GATEKEEPER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal random damage to all enemies.",
+        "•Remove Silver Effects from all allies.",
+        "• Heal all allies based on your SPECIAL stat.",
+        "• Deal Additional Random Damage and Extend Negative Effect Duration by 1 for each Silver Effect removed."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "MASTER OF THE MAZE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Steal all Beneficial Effects and inflict Seal, Silence, Blind, Perfect Disable, and Exhaust for 2 turns on a random enemy at the start of battle. Increase SPECIAL stat of all allies by 5% Every Turn."
+      ]
+    }
+  ]
+}

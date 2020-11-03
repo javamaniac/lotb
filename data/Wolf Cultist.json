@@ -1,0 +1,26 @@
+{
+  "name": "Wolf Cultist",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wolf-cultist-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "ATTACK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target."
+      ]
+    },
+    {
+      "name": "PERSECUTE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 60% Chance to Stun targets for 1 turn."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

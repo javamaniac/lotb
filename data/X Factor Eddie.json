@@ -1,0 +1,90 @@
+{
+  "name": "X Factor Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/x-factor-eddie-magus/",
+  "awakenable": false,
+  "class": "Magus",
+  "skills": [
+    {
+      "name": "ELEVEN SAINTS",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal magic damage to all enemies that increases based on your SPECIAL stat.",
+        "• Lower enemy MR for 2 turns before dealing damage.",
+        "• Decrease Power Generation of each enemy for 2 turns.",
+        "• Grant Increase Power Generation to allies for 2 turns"
+      ]
+    },
+    {
+      "name": "IMMORTAL SINS\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies to their FULL HP.",
+        "• Remove All Negative Effects. including Silver and Unblockable effects, from all allies.",
+        "• Grant Increased Fury Generation to all allies for 3 turns.",
+        "• Grant Magic Up to all allies for 3 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "TRUTH SEEKER\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of magic damage to a single enemy that increases based on your SPECIAL stat.",
+        "• Gain 2 Power and reduce enemy Power by 2.",
+        "• 35% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "SILENT FALL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 3 heavy hits of magic damage to all enemies that increases based on your SPECIAL stat.",
+        "• Remove Revenge and Counterstrike effects including golden and innate effects before damage.",
+        "• Revive all allies to FULL HP and grant them an Extra Turn.",
+        "• Grant Power Shield to allies for 3 turns."
+      ],
+      "powerCost": 8
+    },
+    {
+      "name": "STATIC HATRED\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal magic damage to all enemies that increases based on your SPECIAL stat.",
+        "• Remove Invicibility, Magic Block and Magic Damage Immunity before dealing damage.",
+        "• Gain Spell Vamp and Magic Penetration for 3 turns.",
+        "• 35% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "AFTERMATH OF JUDGEMENT\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 3 devastating hits of magic damage to all enemies that increases based on your SPECIAL stat.",
+        "• Remove All Beneficial Effects including Golden effects and Innate Damage Reduction effects, Force Shield and Titan Shield effects on enemies before damage.",
+        "• Remove All Stat Increase effects from all enemies before damage.",
+        "• Remove All Stat Reduction effects from self and all allies.",
+        "• Grant Extra Turn to all allies."
+      ],
+      "powerCost": 12
+    },
+    {
+      "name": "EDGE OF DARKNESS\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal 3 hits of magic damage to all enemies that increases based on your SPECIAL stat.",
+        "• Transform all negative and silver effects from all allies into random positive effects for 3 turns.",
+        "• Inflict 100% SPECIAL stat reduction on enemies.",
+        "• Gain 12 Power.",
+        "• Reduce Power and Fury of your opponent to zero and prevent them from generating Power and Fury for 2 turns. Fury that is already fully charged cannot be reduced."
+      ]
+    }
+  ]
+}

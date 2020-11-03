@@ -1,0 +1,42 @@
+{
+  "name": "Lucifer",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/lucifer-warrior/",
+  "awakenable": true,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "ADVERSARY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of physical, magic, and true damage to a single target.",
+        "• Remove All Shield and Damage Block Effects.",
+        "• Inflict 3 Furious Burns on the target for 1 turn.",
+        "• 50% Chance to inflict Perfect Stun on each enemy.",
+        "• 35% Chance to grant Invincibility to each ally."
+      ]
+    },
+    {
+      "name": "DAWNBRINGER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals one hit of physical, magic, and true damage to all enemies.",
+        "• Remove All Shield and Damage Block Effects.",
+        "• Deal additional Physical, Magic, and True damage that ignores damage immunity to each enemy if you kill any enemy.",
+        "• Grant Perfect Immortality to all allies for 3 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "MOURNING STAR\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals one hit of physical, magic, and true damage to all enemies.",
+        "• Remove All Shield and Damage Block Effects.",
+        "• Revive a random dead ally with Ascension, Perfect Heal Shield, and 100% Critical Strike Chance for 2 turns. Instantly grant them an Extra Turn."
+      ]
+    }
+  ]
+}

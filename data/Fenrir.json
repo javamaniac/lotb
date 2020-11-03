@@ -1,0 +1,37 @@
+{
+  "name": "Fenrir",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/fenrir-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "RAVENOUS RANCOR",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical, magic and true damage to a single target.",
+        "• Remove All Beneficial Effects, including Golden effects, before dealing damage. Heal self for 10% of your MAX HP for each effect removed.",
+        "• Permanently Increase ATK and MAGIC on self by 100%, before dealing damage, when attacking Odin."
+      ]
+    },
+    {
+      "name": "SHARDS OF GLEIPNIR\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 6 hits of random damage to random enemies.",
+        "• Inflict 6 Random Silver Effects to random enemies for 6 turns.",
+        "• Deal 6 hits of Additional Random Damage to each enemy that lacks Silver Effects based on their MAX HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "VARGR OF VÁN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Passive Disable effects, including Silver and Innate effects. Cleanse all Stun, Freeze and Sleep effects, including Silver and Innate effects, from self at the start of battle and at the start of your turn. Inflict Punishment on all enemies for the duration of battle if an effect was removed this way. Reduce all damage taken by 50% and return 50% of it at the start of each round back to each enemy as random damage. This skill can only be countered by Passive Disable applied at the start of battle."
+      ]
+    }
+  ]
+}

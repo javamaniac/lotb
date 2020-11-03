@@ -1,0 +1,38 @@
+{
+  "name": "Ghost Of The Navigator",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-the-navigator-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "ENDLESS VOYAGE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 6 hits of random damage to a single target that increases based on your MAGIC stat.",
+        "• Inflict Curse on the target for 6 turns.",
+        "• 50% Chance to inflict Scalding Burn on the target for 6 turns per hit.",
+        "• Remove all Passive Disable and Skill Disabling effects, including Silver and Innate effects, from self.",
+        "• Gain 3 Power, 30% Fury and deal Additional Random Damage to the target based on your MAGIC and their MISSING HP on Perfect Hits."
+      ]
+    },
+    {
+      "name": "LASH TO THE MAST\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Transform Each Negative Effect, including Silver effects, on self into a Random Beneficial Effect, including Golden effects, for 2 turns.",
+        "• Apply a [72DCA6]Soul Shackle to single target and Drain 10% of their MAX HP as Additional True Damage, increasing by 10% each turn at the start of your turn. While your [72DCA6]Soul Shackle is active, you cannot take more than 5% of MAX HP as damage from any single attack. This effect does not apply to bosses and is removed when you or the target dies and whenever a new [72DCA6]Soul Shackle becomes active."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "COMPASS ROSE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to all Heal Block and Max HP Reduction effects, including Silver and Innate effects. Grant Immunity to Blind, Stop and all Skill Disabling effects, including Silver and Innate effects, to all allies until they die at the start of battle. Remove All Beneficial and Negative Effects from all allies and enemies whenever this passive becomes active and inflict Innate Passive Disable on all enemies until they die if this effect removes at least 4 Beneficial Effects from your opponent. Once per battle, Revive with full HP and inflict Fear and Punishment on all enemies for the duration of battle upon death. 50% Chance to deal Additional True Damage to each enemy based on their MAX HP for each Scalding Burn on them after every action."
+      ]
+    }
+  ]
+}

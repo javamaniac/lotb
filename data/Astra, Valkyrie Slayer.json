@@ -1,0 +1,36 @@
+{
+  "name": "Astra, Valkyrie Slayer",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/astra-valkyrie-slayer-assassin/",
+  "awakenable": false,
+  "class": "Assassin",
+  "skills": [
+    {
+      "name": "SYNTHESIS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of true damage to all enemies.",
+        "• 15% Chance to Remove A Beneficial Effect per hit.",
+        "• Stun the target if a beneficial effect is removed."
+      ]
+    },
+    {
+      "name": "SUPPRESSION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals true damage to all enemies.",
+        "• 50% Chance to inflict Perfect Corruption, Permadeath, and Heal Block for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "OBSTRUCT\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grants Immunity to Mark, Doom, and Curse effects for all allies."
+      ]
+    }
+  ]
+}

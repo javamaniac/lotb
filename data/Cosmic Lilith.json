@@ -1,0 +1,38 @@
+{
+  "name": "Cosmic Lilith",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-lilith-magus/",
+  "awakenable": true,
+  "class": "Magus",
+  "skills": [
+    {
+      "name": "NOBLE TERROR",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical, magic, and true damage to a single target.",
+        "• Remove All Shields from the target.",
+        "• 50% Chance to gain an Extra Turn and Damage Charge for 2 turns if shields are removed.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "DOWN TO DEATH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove all Doom, Permadeath, Corruption and Dark Ghost effects from all allies.",
+        "• Grant Perfect Immortality to all allies for 3 turns.",
+        "• Remove All Beneficial Effects from all enemies and inflict Doom for 5 turns if any beneficial effects are removed."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "INTO BABYLON\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Has Class Advantage against every enemy. Takes no more than 5% of her max HP from a single hit. Grants immunity to Stun, Taunt, and Freeze effects, including unblockable effects, to all allies."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Cultist Cleric",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cultist-cleric-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "BURY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to an enemy.",
+        "• Damage dealt increases with MAX HP."
+      ]
+    },
+    {
+      "name": "CURE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals all allies.",
+        "• Heal is based on your MAX HP."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

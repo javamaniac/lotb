@@ -1,0 +1,38 @@
+{
+  "name": "The Witch Doctor",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-witch-doctor-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "SOUL HARVEST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of true damage to a single target.",
+        "• Inflict Accuracy Down on the target for 2 turns.",
+        "• Grant Accuracy Up on each ally for 2 turns if they lack negative effects.",
+        "• Deal Additional True Damage to the target for each negative effect on them."
+      ]
+    },
+    {
+      "name": "ANGERED SPIRITS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of true damage to random enemies.",
+        "• Inflicts Doom, Silence or Block Beneficial Effects on targeted enemies for 2 turns.",
+        "• Instantly gain an Extra Turn"
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "ANATHEMA\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Grant Immunity to Doom, Curse, and Permadeath to all allies. Remove All Negative Effects, including Silver Effects and Innate versions of Stun, Freeze, Sleep and Taunt, from all allies and inflict Curse on all enemies for 2 turns if you are Stunned, Frozen, Sleeping, or Taunted at the start of battle and at the start of your turn. 50% Chance to inflict Stun or Perfect Stun on attacking enemies for 2 turns whenever you are attacked."
+      ]
+    }
+  ]
+}

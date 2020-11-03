@@ -1,0 +1,40 @@
+{
+  "name": "Charlotte",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/charlotte-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "TRANSFER OF POWER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of physical damage to a single target and 1 hit of physical damage to all enemies.",
+        "• 65% Chance to Critically Strike per hit.",
+        "• Steal a Beneficial Effect, including Golden effects, from the target per hit.",
+        "• Inflict Bleed and Seal on all enemies for 2 turns.",
+        "• Heal a random ally per hit."
+      ]
+    },
+    {
+      "name": "RETRIBUTION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Inflict Perfect Accuracy Down and 2 Furious Burns on all enemies for 2 turns.",
+        "• Revive a random ally with full HP.",
+        "• Grant Invincibility to all allies for 1 turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "SUBMISSION\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Immune to Silver Effects. Grant Perfect Health and Immunity to Silver Effects to all allies for the first 3 turns of battle. Inflict Silence and Defense Down on each enemy that lacks Silver Effects for 2 turns after every action."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Hell Dice",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hell-dice-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "MEND",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Damage dealt increases based on your DEF.",
+        "• 20% Chance for each ally to gain Heal Shield for 1 turn.",
+        "• Heal Shield heals targets based on the damage they receive."
+      ]
+    },
+    {
+      "name": "ROLL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• 25% Chance to Blind, Stun, or Silence."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

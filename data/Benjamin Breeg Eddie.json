@@ -1,0 +1,87 @@
+{
+  "name": "Benjamin Breeg Eddie",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/benjamin-breeg-eddie-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "THOUSAND SOULS",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage and 2 hits of magic damage to all enemies.",
+        "• Remove Ghost and Regen from enemies.",
+        "• Heal and grant Increased ATK and MAGIC for 2 turns to self and a random ally.",
+        "• This attack does not wake targets that are asleep."
+      ]
+    },
+    {
+      "name": "UNDERTAKER\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on their Missing HP.",
+        "• Inflict 1 Furious Burn on all enemies for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "BREAK FREE\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage and 2 hits of magic damage to a single target.",
+        "• Cleanse Silver Effects from all allies.",
+        "• 50% Chance to grant Immunity to all allies for 1 turn.",
+        "• This attack does not wake targets that are asleep."
+      ]
+    },
+    {
+      "name": "NIGHTMARES\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 2 hits of physical damage and 2 hits of magic damage to a single target.",
+        "• Remove Immunity effects, including Perfect Immunity and Vanish.",
+        "• Inflict Perfect Corruption for 2 turns.",
+        "• 50% Chance to inflict Perfect Sleep for 1 turn.",
+        "• Instantly gain an Extra Turn.",
+        "• This attack does not wake targets that are asleep."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "VILE\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of physical damage and 2 hits of magic damage to all enemies.",
+        "• Lower DEF and MR of enemies for 2 turns.",
+        "• 35% Chance for an Extra Turn.",
+        "• This attack does not wake targets that are asleep."
+      ]
+    },
+    {
+      "name": "REINCARNATION\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Revive a random ally with full HP.",
+        "• Randomly grant Physical, Magic, or True Block to each ally for 2 turns."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "GRAVE DIGGER\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals true damage to all enemies.",
+        "•Revives all allies with full HP.",
+        "• Grants Perfect Health and Perfect Immunity to all allies for 3 turns.",
+        "• This attack does not wake targets that are asleep."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Rock Golem",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/rock-golem-sentinel/",
+  "awakenable": false,
+  "class": "Sentinel",
+  "skills": [
+    {
+      "name": "SMASH",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to an enemy.",
+        "• Damage dealt is based on your MAX HP."
+      ]
+    },
+    {
+      "name": "HEAL BLOCK\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflicts Heal Block on all enemies for 2 turns."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

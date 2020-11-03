@@ -1,0 +1,38 @@
+{
+  "name": "Queen's Guard",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/queens-guard-warrior/",
+  "awakenable": false,
+  "class": "Warrior",
+  "skills": [
+    {
+      "name": "LOUD SHOT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Wake all allies inflicted with Sleep or Perfect Sleep.",
+        "• 35% Chance to Remove Negative Effects, including Silver Effects from each ally.",
+        "• 25% Chance to Stun the enemy for 1 turn."
+      ]
+    },
+    {
+      "name": "AUTHORITY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase DEF and MR of all allies for 2 turns.",
+        "• 35% to Grant Class Advantage to all allies for 2 turns.",
+        "• Heal any ally suffering from Sleep or Perfect Sleep to Full HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "GUARDIAN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze)."
+      ]
+    }
+  ]
+}
