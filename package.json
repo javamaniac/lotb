@@ -12,6 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "apify": "^0.21.8",
+    "elasticsearch": "^16.7.1",
+    "get-json": "^1.0.1",
     "headless-chrome-crawler": "^1.8.0"
   }
 }
