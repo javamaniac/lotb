@@ -4,7 +4,8 @@
   "description": "",
   "main": "scratch.js",
   "scripts": {
-    "crawl": "node crawl.js",
+    "update:data": "node char-crawler.js",
+    "index:data": "node char-crawler.js",
     "fix:nvm": "nvm use --delete-prefix v12.18.3",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
