@@ -66,9 +66,12 @@ class LotbParser {
 exports.LotbParser = new LotbParser()
 
 const parse = () => {
-  // console.log(document.querySelector('.ch-title').innerText)
   const chararter = {
-    name: cleanText(document.querySelector('.ch-title').innerText),
+    name: cleanText(document.querySelector('.ch-title h1').innerHTML),
+    url: document.location.href,
+    awakenable: Boolean(document.querySelector('.awakenable-con')),
+    class: document.querySelector('.ch-class-con .class p').innerHTML,
+    stars: Number.parseInt(document.querySelector('.stars img').src.split('star0')[1][0]),
     skills: []
   }
 
@@ -82,7 +85,8 @@ const parse = () => {
       .innerText.split(/[()]/)
 
     const listeSkillDesc = tdSkillDesc.querySelector('td p')
-      .innerText.split(/(\n|\.)/)
+      .innerText.split(/\n/)
+    // .innerText.split(/(\n|\.)/)
 
     const skill = {
       name: cleanText(skillName),
