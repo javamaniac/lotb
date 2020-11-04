@@ -1,9 +1,13 @@
 {
+  "id": "mad-shot-murphy-warrior",
   "name": "Mad-Shot Murphy",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/mad-shot-murphy-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mad-shot-murphy-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_piratecannon_warrior.png",
   "skills": [
     {
       "name": "PUMMELLING BARRAGE",
@@ -36,8 +40,5 @@
         "Reduce Healing on each enemy by 75% until they die at the start of battle and at the start of your turn. 50% Chance to counterattack when anyone on your team takes damage. Heal for 50% of all damage dealt. Gain Endure for 1 turn when you take damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_piratecannon_warrior.png",
-  "id": "mad-shot-murphy-warrior"
+  ]
 }

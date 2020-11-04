@@ -1,9 +1,13 @@
 {
+  "id": "chopper-gunner",
   "name": "Chopper",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GSG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_yellow.png",
   "skills": [
     {
       "name": "PUMMEL",
@@ -34,8 +38,5 @@
         "Inflict Permadeath on all enemies for 3 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_yellow.png",
-  "id": "chopper-gunner"
+  ]
 }

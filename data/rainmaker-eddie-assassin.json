@@ -1,9 +1,13 @@
 {
+  "id": "rainmaker-eddie-assassin",
   "name": "Rainmaker Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/rainmaker-eddie-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/rainmaker-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_rainmaker_020.png",
   "skills": [
     {
       "name": "CRACKLE",
@@ -85,8 +89,5 @@
         "• Grants Shroud status to all allies for the duration of the battle."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_rainmaker_020.png",
-  "id": "rainmaker-eddie-assassin"
+  ]
 }

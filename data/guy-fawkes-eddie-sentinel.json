@@ -1,9 +1,13 @@
 {
+  "id": "guy-fawkes-eddie-sentinel",
   "name": "Guy Fawkes Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/guy-fawkes-eddie-sentinel/",
-  "awakenable": true,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": true,
+  "awakenable": true,
+  "talismans": "GG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/guy-fawkes-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_fawkes.png",
   "skills": [
     {
       "name": "DANGEROUS REMEDY",
@@ -82,8 +86,5 @@
         "Grant Magma Shield to all allies for 1 turn at the start of battle. Transform all Burn effects on each enemy into up to 3 Perfect Time Bombs for 3 turns at the start of battle and at the start of your turn. Trigger all Time Bomb effects on each sleeping enemy after every action. Once per battle, Revive with full HP and grant all allies Ascension for 3 turns upon death."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_fawkes.png",
-  "id": "guy-fawkes-eddie-sentinel"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "dog-of-war-sentinel",
   "name": "Dog Of War",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/dog-of-war-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/dog-of-war-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0024_Layer-4.png",
   "skills": [
     {
       "name": "RUIN",
@@ -37,8 +41,5 @@
         "Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0024_Layer-4.png",
-  "id": "dog-of-war-sentinel"
+  ]
 }

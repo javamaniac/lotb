@@ -1,9 +1,13 @@
 {
+  "id": "eternity-eddie-assassin",
   "name": "Eternity Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/eternity-eddie-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/eternity-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_eternity.png",
   "skills": [
     {
       "name": "DUELIST",
@@ -84,8 +88,5 @@
         "• 35% Chance to inflict Stun on all enemies for 1 turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_eternity.png",
-  "id": "eternity-eddie-assassin"
+  ]
 }

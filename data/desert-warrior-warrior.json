@@ -1,9 +1,13 @@
 {
+  "id": "desert-warrior-warrior",
   "name": "Desert Warrior",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-warrior-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-warrior-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0030_Layer-43.png",
   "skills": [
     {
       "name": "MAIM",
@@ -28,8 +32,5 @@
       ],
       "powerCost": 4
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0030_Layer-43.png",
-  "id": "desert-warrior-warrior"
+  ]
 }

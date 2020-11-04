@@ -1,9 +1,13 @@
 {
+  "id": "raven-witch-assassin",
   "name": "Raven Witch",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/raven-witch-assassin/",
-  "awakenable": true,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/raven-witch-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ravenwitch.png",
   "skills": [
     {
       "name": "RAVEN'S CLAW",
@@ -42,8 +46,5 @@
         "• Damage dealt increases based on the target’s MISSING HP."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ravenwitch.png",
-  "id": "raven-witch-assassin"
+  ]
 }

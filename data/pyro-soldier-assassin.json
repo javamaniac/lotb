@@ -1,9 +1,13 @@
 {
+  "id": "pyro-soldier-assassin",
   "name": "Pyro Soldier",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pyro-soldier-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SMS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pyro-soldier-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0005_Layer-4.png",
   "skills": [
     {
       "name": "BLUE FLAME",
@@ -35,8 +39,5 @@
         "Gives Perfect Hit status to all allies at the start of battle for 2 turns. Perfect Hit causes all basic attacks to always land with a Perfect score."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0005_Layer-4.png",
-  "id": "pyro-soldier-assassin"
+  ]
 }

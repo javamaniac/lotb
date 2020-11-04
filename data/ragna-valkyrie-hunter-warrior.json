@@ -1,9 +1,13 @@
 {
+  "id": "ragna-valkyrie-hunter-warrior",
   "name": "Ragna, Valkyrie Hunter",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ragna-valkyrie-hunter-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ragna-valkyrie-hunter-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_captain_warrior.png",
   "skills": [
     {
       "name": "KINDLE",
@@ -34,8 +38,5 @@
         "Grants Immunity to Burn and Freeze effects, including unblockable Freeze effects, for all allies."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_captain_warrior.png",
-  "id": "ragna-valkyrie-hunter-warrior"
+  ]
 }

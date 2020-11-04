@@ -1,9 +1,13 @@
 {
+  "id": "maclo-robo-scout-sentinel",
   "name": "Maclo, Robo Scout",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/maclo-robo-scout-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "ASA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/maclo-robo-scout-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_green.png",
   "skills": [
     {
       "name": "HARRY",
@@ -38,8 +42,5 @@
         "Grant Perfect Titan Shield to all allies for 1 turn at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_green.png",
-  "id": "maclo-robo-scout-sentinel"
+  ]
 }

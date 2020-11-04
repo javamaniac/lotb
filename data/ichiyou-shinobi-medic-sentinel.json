@@ -1,9 +1,13 @@
 {
+  "id": "ichiyou-shinobi-medic-sentinel",
   "name": "Ichiyou, Shinobi Medic",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ichiyou-shinobi-medic-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SMS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ichiyou-shinobi-medic-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_green.png",
   "skills": [
     {
       "name": "STONE BLADE",
@@ -36,8 +40,5 @@
         "Immune to all Stun and Sleep effects. Grant Class Advantage and HP Regen to all allies for 2 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_green.png",
-  "id": "ichiyou-shinobi-medic-sentinel"
+  ]
 }

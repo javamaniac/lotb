@@ -1,9 +1,13 @@
 {
+  "id": "possessed-snowman-magus",
   "name": "Possessed Snowman",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-snowman-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-snowman-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_snowman.png",
   "skills": [
     {
       "name": "CHILL WIND",
@@ -36,8 +40,5 @@
         "Grants Immunity to all allies for 1 turn at the start of the battle. Grants immunity to a random ally every following turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_snowman.png",
-  "id": "possessed-snowman-magus"
+  ]
 }

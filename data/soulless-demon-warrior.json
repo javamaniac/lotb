@@ -1,9 +1,13 @@
 {
+  "id": "soulless-demon-warrior",
   "name": "Soulless Demon",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/soulless-demon-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/soulless-demon-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_demon_skeleton_625.png",
   "skills": [
     {
       "name": "SKIRMISH",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_demon_skeleton_625.png",
-  "id": "soulless-demon-warrior"
+  ]
 }

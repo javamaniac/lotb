@@ -1,9 +1,13 @@
 {
+  "id": "wicker-wolf-cultist-warrior",
   "name": "Wicker Wolf Cultist",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-wolf-cultist-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-wolf-cultist-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistwolf.png",
   "skills": [
     {
       "name": "FOREST FANG",
@@ -32,8 +36,5 @@
         "Transform Golden Effects on a random enemy, excluding Shroud, Ghost, Soul Protect, and Perfect Immortality, into Physical Burns for 2 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistwolf.png",
-  "id": "wicker-wolf-cultist-warrior"
+  ]
 }

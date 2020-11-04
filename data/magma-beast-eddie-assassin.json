@@ -1,9 +1,13 @@
 {
+  "id": "magma-beast-eddie-assassin",
   "name": "Magma Beast Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/magma-beast-eddie-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/magma-beast-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tourbeastmagma.png",
   "skills": [
     {
       "name": "BAPHOMET'S FIRE",
@@ -75,8 +79,5 @@
         "50% Chance to Remove Silver Effects from all allies at the start of your turn. Grant a Magma Shield to all allies at the start of each turn for 1 turn. Gain an Extra Turn and Ascension status for 1 turn if Burn Effects are present on any enemy after each action and then Consume all the burn effects."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tourbeastmagma.png",
-  "id": "magma-beast-eddie-assassin"
+  ]
 }

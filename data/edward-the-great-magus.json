@@ -1,9 +1,13 @@
 {
+  "id": "edward-the-great-magus",
   "name": "Edward The Great",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/edward-the-great-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SMS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/edward-the-great-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_kingeddie.png",
   "skills": [
     {
       "name": "CONQUEST",
@@ -76,8 +80,5 @@
         "• Copy All Beneficial Effects, including Golden effects, from all other allies to self."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_kingeddie.png",
-  "id": "edward-the-great-magus"
+  ]
 }

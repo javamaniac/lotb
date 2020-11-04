@@ -1,9 +1,13 @@
 {
+  "id": "the-madam-magus",
   "name": "The Madam",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-madam-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-madam-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_madam.png",
   "skills": [
     {
       "name": "ANGELIC VOICE",
@@ -37,8 +41,5 @@
         "Grant Perfect Immunity to all allies for 3 turns and Increased Accuracy for the duration of battle at the start of battle. Heal all allies based on your Current HP every turn. Heal any ally below 50% HP an additional 25% of their Max HP and grant them True and Magic Damage Block for 1 turn if you have Perfect Immunity active on you after each action. Block Stat Enhancing effects on the enemy, including Damage Charge and Critical Strike effects, but excluding Increased MAX HP effects."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_madam.png",
-  "id": "the-madam-magus"
+  ]
 }

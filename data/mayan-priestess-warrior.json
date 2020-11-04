@@ -1,9 +1,13 @@
 {
+  "id": "mayan-priestess-warrior",
   "name": "Mayan Priestess",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_red.png",
   "skills": [
     {
       "name": "FUELING HEAT",
@@ -34,8 +38,5 @@
         "Raise DEF and MR of all allies for 2 turns at the start of battle. Grant Immunity to Doom, Crave, and Perfect Crave to all allies."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_red.png",
-  "id": "mayan-priestess-warrior"
+  ]
 }

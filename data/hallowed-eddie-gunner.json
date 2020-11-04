@@ -1,9 +1,13 @@
 {
+  "id": "hallowed-eddie-gunner",
   "name": "Hallowed Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hallowed-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hallowed-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_hallowededdie.png",
   "skills": [
     {
       "name": "DEVASTATING SMASH",
@@ -86,8 +90,5 @@
         "• Instantly Gain an Extra Turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_hallowededdie.png",
-  "id": "hallowed-eddie-gunner"
+  ]
 }

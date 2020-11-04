@@ -1,9 +1,13 @@
 {
+  "id": "nutcracker-assassin",
   "name": "Nutcracker",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/nutcracker-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SAS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/nutcracker-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_nutcracker.png",
   "skills": [
     {
       "name": "CRACK THEIR SPIRIT",
@@ -37,8 +41,5 @@
         "Grant Increased Power Generation to self for the duration of battle. If an enemy has HP Drain active at the start of your turn, increase the duration of all negative effects on the target by 1 turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_nutcracker.png",
-  "id": "nutcracker-assassin"
+  ]
 }

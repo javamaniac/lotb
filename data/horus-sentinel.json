@@ -1,9 +1,13 @@
 {
+  "id": "horus-sentinel",
   "name": "Horus",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/horus-sentinel/",
-  "awakenable": true,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/horus-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_horus_405.png",
   "skills": [
     {
       "name": "GODARM",
@@ -41,8 +45,5 @@
         "• Damage dealt is based on your MAX HP and Missing HP."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_horus_405.png",
-  "id": "horus-sentinel"
+  ]
 }

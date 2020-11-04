@@ -1,9 +1,13 @@
 {
+  "id": "imp-warrior",
   "name": "Imp",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/imp-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/imp-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0039_Layer-4.png",
   "skills": [
     {
       "name": "MAIM",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 4
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0039_Layer-4.png",
-  "id": "imp-warrior"
+  ]
 }

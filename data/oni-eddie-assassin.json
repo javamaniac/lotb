@@ -1,9 +1,13 @@
 {
+  "id": "oni-eddie-assassin",
   "name": "Oni Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/oni-eddie-assassin/",
-  "awakenable": true,
   "class": "Assassin",
   "stars": 5,
+  "eddie": true,
+  "awakenable": true,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/oni-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_oni.png",
   "skills": [
     {
       "name": "UNDYING GRUDGE",
@@ -91,8 +95,5 @@
         "• Your Sword becomes Empowered. While Empowered, Remove All Negative Effects, including Silver effects, from all allies, Revive all allies with full HP and grant Ascension and Magic Penetration to all allies for 2 turns after every action."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_oni.png",
-  "id": "oni-eddie-assassin"
+  ]
 }

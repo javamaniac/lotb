@@ -1,9 +1,13 @@
 {
+  "id": "wicker-man-eddie-magus",
   "name": "Wicker Man Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-man-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MMS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-man-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_wickerman_175.png",
   "skills": [
     {
       "name": "MAGMA SHIELD",
@@ -79,8 +83,5 @@
         "• Inflict Flame on all enemies for 2 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_wickerman_175.png",
-  "id": "wicker-man-eddie-magus"
+  ]
 }

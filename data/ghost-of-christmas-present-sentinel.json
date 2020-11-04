@@ -1,9 +1,13 @@
 {
+  "id": "ghost-of-christmas-present-sentinel",
   "name": "Ghost Of Christmas Present",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-present-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-present-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_present.png",
   "skills": [
     {
       "name": "SPITEFUL STRIKE",
@@ -36,8 +40,5 @@
         "Immune to Permadeath Effects. At the start of battle apply a Perfect Heal shield for the duration of battle. Block incoming damage for allies below 50% HP and take 5% of your MAX HP as random damage for each hit blocked. Decrease the duration of beneficial effects on all enemies by 2 turns for each ally that has Ghost or Soul Protect active at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_present.png",
-  "id": "ghost-of-christmas-present-sentinel"
+  ]
 }

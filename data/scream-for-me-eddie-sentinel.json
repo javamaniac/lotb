@@ -1,9 +1,13 @@
 {
+  "id": "scream-for-me-eddie-sentinel",
   "name": "Scream For Me Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/scream-for-me-eddie-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/scream-for-me-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_scream.png",
   "skills": [
     {
       "name": "VOCAL RAGE",
@@ -85,8 +89,5 @@
         "• Inflict Perfect Stun for 3 turns on each enemy currently Marked and grant Golden Hit to each ally for the duration of battle."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_scream.png",
-  "id": "scream-for-me-eddie-sentinel"
+  ]
 }

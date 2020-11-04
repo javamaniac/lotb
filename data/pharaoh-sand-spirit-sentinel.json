@@ -1,9 +1,13 @@
 {
+  "id": "pharaoh-sand-spirit-sentinel",
   "name": "Pharaoh Sand Spirit",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-sand-spirit-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-sand-spirit-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_egyptianspirit_425.png",
   "skills": [
     {
       "name": "BLAST",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 3
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_egyptianspirit_425.png",
-  "id": "pharaoh-sand-spirit-sentinel"
+  ]
 }

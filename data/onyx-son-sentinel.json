@@ -1,9 +1,13 @@
 {
+  "id": "onyx-son-sentinel",
   "name": "Onyx Son",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxson_sentinel.png",
   "skills": [
     {
       "name": "CONVERT",
@@ -38,8 +42,5 @@
         "Grant Magic Penetration and Increased Accuracy at the start of battle to all allies for 2 turns. Grant a random shield to all allies for 2 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxson_sentinel.png",
-  "id": "onyx-son-sentinel"
+  ]
 }

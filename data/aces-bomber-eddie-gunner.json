@@ -1,9 +1,13 @@
 {
+  "id": "aces-bomber-eddie-gunner",
   "name": "Ace's Bomber Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/aces-bomber-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/aces-bomber-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pilotbomber.png",
   "skills": [
     {
       "name": "DO OR DIE",
@@ -78,8 +82,5 @@
         "Gain Perfect Immunity for the duration of battle. Reduce Damage Taken by 60%, but deal random damage to each ally equal to 5% of their MAX HP when hit. 35% Chance to gain an Extra Turn after each action. Remove Immunity and Perfect Immunity and inflict 3 Marks for 2 turns on any target with the Labyrinth or Viper Talisman set equipped every turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pilotbomber.png",
-  "id": "aces-bomber-eddie-gunner"
+  ]
 }

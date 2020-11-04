@@ -1,9 +1,13 @@
 {
+  "id": "krampus-assassin",
   "name": "Krampus",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/krampus-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/krampus-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_krampus.png",
   "skills": [
     {
       "name": "THRASH",
@@ -37,8 +41,5 @@
         "Automatically regain a percentage of your MAX HP upon taking damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_krampus.png",
-  "id": "krampus-assassin"
+  ]
 }

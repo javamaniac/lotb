@@ -1,9 +1,13 @@
 {
+  "id": "ed-hunter-sentinel",
   "name": "Ed Hunter",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ed-hunter-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "ASA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ed-hunter-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_edhunter.png",
   "skills": [
     {
       "name": "HUNTERS INSTINCT",
@@ -76,8 +80,5 @@
         "When an ally dies grant a Physical, Magic, and True Damage Invulnerability Shield to all allies for 2 turns. Grant Echo status to self and a random ally for 1 turn if Perfect Hit is present at the start of your turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_edhunter.png",
-  "id": "ed-hunter-sentinel"
+  ]
 }

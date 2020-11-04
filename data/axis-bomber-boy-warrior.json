@@ -1,9 +1,13 @@
 {
+  "id": "axis-bomber-boy-warrior",
   "name": "Axis Bomber Boy",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/axis-bomber-boy-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/axis-bomber-boy-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0046_Layer-42.png",
   "skills": [
     {
       "name": "AIR STRIKE",
@@ -34,8 +38,5 @@
         "Grants increased Accuracy to all allies for 2 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0046_Layer-42.png",
-  "id": "axis-bomber-boy-warrior"
+  ]
 }

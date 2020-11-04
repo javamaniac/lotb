@@ -1,9 +1,13 @@
 {
+  "id": "banshee-gunner",
   "name": "Banshee",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_yellow.png",
   "skills": [
     {
       "name": "ANGEL GRINDER",
@@ -35,8 +39,5 @@
         "Remove a beneficial effect from each enemy everytime you take damage"
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_yellow.png",
-  "id": "banshee-gunner"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "phantom-eddie-warrior",
   "name": "Phantom Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/phantom-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/phantom-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_phantom.png",
   "skills": [
     {
       "name": "STAINED GLASS",
@@ -87,8 +91,5 @@
         "• Deal Additional True Damage and Heal self for each enemy inflicted with Sleep."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_phantom.png",
-  "id": "phantom-eddie-warrior"
+  ]
 }

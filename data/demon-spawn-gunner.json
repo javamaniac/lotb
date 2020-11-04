@@ -1,9 +1,13 @@
 {
+  "id": "demon-spawn-gunner",
   "name": "Demon Spawn",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-spawn-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-spawn-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_demonspawn_yellow.png",
   "skills": [
     {
       "name": "BORE",
@@ -34,8 +38,5 @@
         "Inflicts Silence on enemies at the start of battle for 1 turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_demonspawn_yellow.png",
-  "id": "demon-spawn-gunner"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "alliance-general-sentinel",
   "name": "Alliance General",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/alliance-general-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/alliance-general-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_general_525.png",
   "skills": [
     {
       "name": "COMMAND",
@@ -35,8 +39,5 @@
         "Grant Increased DEF and Golden Hit to all allies for 3 turns at the start of battle. Grant a Physical, Magic, or True Block to each ally if Regen is present at the start of your turn. Curse all enemies that lack beneficial effects for 2 turns after each action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_general_525.png",
-  "id": "alliance-general-sentinel"
+  ]
 }

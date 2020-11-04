@@ -1,9 +1,13 @@
 {
+  "id": "apma-robo-scout-warrior",
   "name": "Apma, Robo Scout",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/apma-robo-scout-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/apma-robo-scout-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_red.png",
   "skills": [
     {
       "name": "BESET",
@@ -34,8 +38,5 @@
         "Remove Immunity and Perfect Immunity from up to 2 enemies every turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_red.png",
-  "id": "apma-robo-scout-warrior"
+  ]
 }

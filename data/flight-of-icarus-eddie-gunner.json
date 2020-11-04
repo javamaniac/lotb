@@ -1,9 +1,13 @@
 {
+  "id": "flight-of-icarus-eddie-gunner",
   "name": "Flight Of Icarus Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/flight-of-icarus-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/flight-of-icarus-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_icarus.png",
   "skills": [
     {
       "name": "EAGLES SOAR",
@@ -85,8 +89,5 @@
         "• Damage dealt increases based on your SPECIAL stat."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_icarus.png",
-  "id": "flight-of-icarus-eddie-gunner"
+  ]
 }

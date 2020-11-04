@@ -1,9 +1,13 @@
 {
+  "id": "undead-allied-soldier-warrior",
   "name": "Undead Allied Soldier",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-allied-soldier-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WGW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-allied-soldier-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undeadAsoldier_red.png",
   "skills": [
     {
       "name": "UNLOAD",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 3
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undeadAsoldier_red.png",
-  "id": "undead-allied-soldier-warrior"
+  ]
 }

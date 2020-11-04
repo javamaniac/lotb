@@ -1,9 +1,13 @@
 {
+  "id": "pharaoh-ramesses-eddie-sentinel",
   "name": "Pharaoh Ramesses Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-ramesses-eddie-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-ramesses-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_rameses.png",
   "skills": [
     {
       "name": "SUN GOD",
@@ -82,8 +86,5 @@
         "Immune to Stun. Grants Immunity to Doom, Permadeath, and Perfect Death to all allies. Grants Immunity and Removes negative Effects, including Silver Effects from allies suffering from Silver Effects at the start of your turn. Revive Upon death with full HP and Invincibility for 1 turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_rameses.png",
-  "id": "pharaoh-ramesses-eddie-sentinel"
+  ]
 }

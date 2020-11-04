@@ -1,9 +1,13 @@
 {
+  "id": "samurai-eddie-warrior",
   "name": "Samurai Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/samurai-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/samurai-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_samurai_265.png",
   "skills": [
     {
       "name": "CYCLONE STORM",
@@ -86,8 +90,5 @@
         "• Damage dealt is based on the enemy’s MAX HP."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_samurai_265.png",
-  "id": "samurai-eddie-warrior"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "the-killer-beast-warrior",
   "name": "The Killer Beast",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-beast-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-beast-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer_beast_final.png",
   "skills": [
     {
       "name": "BLOOD BATH",
@@ -39,8 +43,5 @@
         "• Transform Damage Invulnerability effects, including Invincibility and Vanish on each enemy into Perfect Disable for 2 turns before dealing damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer_beast_final.png",
-  "id": "the-killer-beast-warrior"
+  ]
 }

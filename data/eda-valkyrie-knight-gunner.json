@@ -1,9 +1,13 @@
 {
+  "id": "eda-valkyrie-knight-gunner",
   "name": "Eda, Valkyrie Knight",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/eda-valkyrie-knight-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GSG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/eda-valkyrie-knight-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_captain_gunner.png",
   "skills": [
     {
       "name": "PROMOTE",
@@ -34,8 +38,5 @@
         "Grants Perfect Immunity to self for the duration of the battle and up to 2 random allies for 1 turn. Perfect Immunity blocks all harmful effects and prevents beneficial effects from being removed."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_captain_gunner.png",
-  "id": "eda-valkyrie-knight-gunner"
+  ]
 }

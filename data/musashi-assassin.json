@@ -1,9 +1,13 @@
 {
+  "id": "musashi-assassin",
   "name": "Musashi",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/musashi-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/musashi-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_musashi.png",
   "skills": [
     {
       "name": "UNENDING BLADE",
@@ -36,8 +40,5 @@
         "Immune to all Silver Effects. Gain Ascension for 1 turn if Perfect Hit status is active at the start of your turn. No restrictions on Equippable Talismans."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_musashi.png",
-  "id": "musashi-assassin"
+  ]
 }

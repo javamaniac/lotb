@@ -1,9 +1,13 @@
 {
+  "id": "carriage-rider-eddie-magus",
   "name": "Carriage Rider Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/carriage-rider-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/carriage-rider-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_carriage_005.png",
   "skills": [
     {
       "name": "WITHER",
@@ -79,8 +83,5 @@
         "• Lowers All Stats of enemies."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_carriage_005.png",
-  "id": "carriage-rider-eddie-magus"
+  ]
 }

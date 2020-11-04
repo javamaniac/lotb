@@ -1,9 +1,13 @@
 {
+  "id": "eddie-warrior",
   "name": "Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_holysmoke_000.png",
   "skills": [
     {
       "name": "HUNT",
@@ -78,8 +82,5 @@
         "• Heal Blocks all enemies for 2 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_holysmoke_000.png",
-  "id": "eddie-warrior"
+  ]
 }

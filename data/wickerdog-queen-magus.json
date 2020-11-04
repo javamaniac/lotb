@@ -1,9 +1,13 @@
 {
+  "id": "wickerdog-queen-magus",
   "name": "Wickerdog Queen",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/wickerdog-queen-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wickerdog-queen-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wickerman_dog_67.png",
   "skills": [
     {
       "name": "BLAST",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wickerman_dog_67.png",
-  "id": "wickerdog-queen-magus"
+  ]
 }

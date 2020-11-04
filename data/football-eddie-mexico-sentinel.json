@@ -1,9 +1,13 @@
 {
+  "id": "football-eddie-mexico-sentinel",
   "name": "Football Eddie (Mexico)",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/football-eddie-mexico-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/football-eddie-mexico-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_football_mexico.png",
   "skills": [
     {
       "name": "EXTRA TIME",
@@ -86,8 +90,5 @@
         "• Inflict ATK and DEF Down for 3 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_football_mexico.png",
-  "id": "football-eddie-mexico-sentinel"
+  ]
 }

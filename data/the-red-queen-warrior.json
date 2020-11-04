@@ -1,9 +1,13 @@
 {
+  "id": "the-red-queen-warrior",
   "name": "The Red Queen",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-red-queen-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-red-queen-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_redqueen.png",
   "skills": [
     {
       "name": "VAIN LUCK",
@@ -36,8 +40,5 @@
         "50% Chance to counterattack when anyone on your team takes damage. If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn. Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_redqueen.png",
-  "id": "the-red-queen-warrior"
+  ]
 }

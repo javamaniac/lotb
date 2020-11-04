@@ -1,9 +1,13 @@
 {
+  "id": "trickster-warrior",
   "name": "Trickster",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/trickster-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/trickster-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_trickster_red.png",
   "skills": [
     {
       "name": "BANDIT",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 4
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_trickster_red.png",
-  "id": "trickster-warrior"
+  ]
 }

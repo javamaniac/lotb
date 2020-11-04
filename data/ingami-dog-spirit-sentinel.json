@@ -1,9 +1,13 @@
 {
+  "id": "ingami-dog-spirit-sentinel",
   "name": "Ingami, Dog Spirit",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ingami-dog-spirit-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ingami-dog-spirit-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_inugami_sentinel.png",
   "skills": [
     {
       "name": "BRUTAL SPIRIT",
@@ -36,8 +40,5 @@
         "Inflict Perfect Death on all enemies for the duration of battle. Grant Invincibility and Critical Strike Chance to all allies for 3 turns if any ally’s HP is below 50% HP at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_inugami_sentinel.png",
-  "id": "ingami-dog-spirit-sentinel"
+  ]
 }

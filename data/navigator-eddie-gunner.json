@@ -1,9 +1,13 @@
 {
+  "id": "navigator-eddie-gunner",
   "name": "Navigator Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/navigator-eddie-gunner/",
-  "awakenable": true,
   "class": "Gunner",
   "stars": 4,
+  "eddie": true,
+  "awakenable": true,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/navigator-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/pirate_eddie.png",
   "skills": [
     {
       "name": "CHARTED COURSE",
@@ -77,8 +81,5 @@
         "• Grant Class Advantage to all allies for 2 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/pirate_eddie.png",
-  "id": "navigator-eddie-gunner"
+  ]
 }

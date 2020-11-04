@@ -1,9 +1,13 @@
 {
+  "id": "cursed-pharaoh-dog-assassin",
   "name": "Cursed Pharaoh Dog",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/cursed-pharaoh-dog-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AGA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cursed-pharaoh-dog-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_pharaohdog_purple.png",
   "skills": [
     {
       "name": "ETERNAL BONDAGE",
@@ -35,8 +39,5 @@
         "Increase the healing of all allies by +100%. Grants Charge and Golden Hit to allies suffering from Blind or Taunt effects for 2 turns at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_pharaohdog_purple.png",
-  "id": "cursed-pharaoh-dog-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "blackbeard-eddie-gunner",
   "name": "Blackbeard Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/blackbeard-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/blackbeard-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_eddie_blackbeard.png",
   "skills": [
     {
       "name": "CHARTED COURSE",
@@ -75,8 +79,5 @@
         "Grant Immunity to Stop, Fear and Heal Block Effects, including Silver and Innate effects, to all allies until they die whenever this passive becomes active. Permanently Reduce DEF and MR on all enemies by -25% at the start of battle and at the start of your turn. 50% Chance to take no damage and inflict a Time Bomb or Perfect Time Bomb on attacking enemies for 2 turns when you are attacked. 35% Chance to Extend Negative Effect Duration on all enemies by 1 when you take damage. Deal up to 12 hits of Additional Random Damage to random enemies based on your SPECIAL and their MISSING HP after every action. Grant Perfect Cleanse and a Random Golden Effect to each ally for 2 turns whenever an enemy is killed."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_eddie_blackbeard.png",
-  "id": "blackbeard-eddie-gunner"
+  ]
 }

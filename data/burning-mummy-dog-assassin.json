@@ -1,9 +1,13 @@
 {
+  "id": "burning-mummy-dog-assassin",
   "name": "Burning Mummy Dog",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/burning-mummy-dog-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "ASA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/burning-mummy-dog-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0005_Layer-4.png",
   "skills": [
     {
       "name": "BLITZ",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0005_Layer-4.png",
-  "id": "burning-mummy-dog-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "child-of-the-damned-warrior",
   "name": "Child Of The Damned",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/child-of-the-damned-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/child-of-the-damned-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0026_Layer-4.png",
   "skills": [
     {
       "name": "OBLIVION",
@@ -35,8 +39,5 @@
         "Gain an extra turn when you kill an enemy."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0026_Layer-4.png",
-  "id": "child-of-the-damned-warrior"
+  ]
 }

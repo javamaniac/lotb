@@ -1,9 +1,13 @@
 {
+  "id": "pirate-skeleton-sentinel",
   "name": "Pirate Skeleton",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pirate-skeleton-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pirate-skeleton-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_pirateskeleton_sentinel.png",
   "skills": [
     {
       "name": "DREAM STRIKE",
@@ -36,8 +40,5 @@
         "Gain Sleep Shield for 2 turns at the start of battle. 20% Chance to inflict Perfect Sleep on a random enemy for 2 turns after every action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_pirateskeleton_sentinel.png",
-  "id": "pirate-skeleton-sentinel"
+  ]
 }

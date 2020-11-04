@@ -1,9 +1,13 @@
 {
+  "id": "viking-eddie-sentinel",
   "name": "Viking Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/viking-eddie-sentinel/",
-  "awakenable": true,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": true,
+  "awakenable": true,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/viking-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_viking.png",
   "skills": [
     {
       "name": "CALL TO ARMS",
@@ -87,8 +91,5 @@
         "•Inflict Freeze on all enemies for 1 turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_viking.png",
-  "id": "viking-eddie-sentinel"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "undead-allied-soldier-gunner",
   "name": "Undead Allied Soldier",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-allied-soldier-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "ASA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-allied-soldier-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undead1_560.png",
   "skills": [
     {
       "name": "RAPID FIRE",
@@ -26,8 +30,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undead1_560.png",
-  "id": "undead-allied-soldier-gunner"
+  ]
 }

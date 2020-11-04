@@ -1,9 +1,13 @@
 {
+  "id": "undead-marauder-assassin",
   "name": "Undead Marauder",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-marauder-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AWA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-marauder-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0036_Layer-4.png",
   "skills": [
     {
       "name": "SHOUT",
@@ -28,8 +32,5 @@
       ],
       "powerCost": 6
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0036_Layer-4.png",
-  "id": "undead-marauder-assassin"
+  ]
 }

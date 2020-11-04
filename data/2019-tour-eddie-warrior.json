@@ -1,9 +1,13 @@
 {
+  "id": "2019-tour-eddie-warrior",
   "name": "2019 Tour Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/2019-tour-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/2019-tour-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_smokesComic2019.png",
   "skills": [
     {
       "name": "HUNT",
@@ -76,8 +80,5 @@
         "50% Chance to Remove Immunity and Stun a random enemy every turn. Gain Echo status for 2 turns if any enemy’s HP is below 50% at the start of your turn. Transform Bleed and Heal Block effects into Perfect Bleed and Perfect Heal Block after each action."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_smokesComic2019.png",
-  "id": "2019-tour-eddie-warrior"
+  ]
 }

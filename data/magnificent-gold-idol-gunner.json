@@ -1,9 +1,13 @@
 {
+  "id": "magnificent-gold-idol-gunner",
   "name": "Magnificent Gold Idol",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/magnificent-gold-idol-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/magnificent-gold-idol-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_precious_idolC.png",
   "skills": [
     {
       "name": "SHIMMER",
@@ -22,8 +26,5 @@
       ],
       "powerCost": 1
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_precious_idolC.png",
-  "id": "magnificent-gold-idol-gunner"
+  ]
 }

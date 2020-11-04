@@ -1,9 +1,13 @@
 {
+  "id": "sirius-cosmic-wolf-sentinel",
   "name": "Sirius, Cosmic Wolf",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/sirius-cosmic-wolf-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/sirius-cosmic-wolf-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_blackdog.png",
   "skills": [
     {
       "name": "LUMINOUS BITE",
@@ -34,8 +38,5 @@
         "Remove a beneficial effect from a random enemy with a 25% chance to Blind all enemies for 2 turns when you take damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_blackdog.png",
-  "id": "sirius-cosmic-wolf-sentinel"
+  ]
 }

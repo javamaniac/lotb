@@ -1,9 +1,13 @@
 {
+  "id": "ultimate-sacrificial-heart-warrior",
   "name": "Ultimate Sacrificial Heart",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ultimate-sacrificial-heart-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ultimate-sacrificial-heart-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_precious_heartC.png",
   "skills": [
     {
       "name": "ATTACK",
@@ -23,8 +27,5 @@
       ],
       "powerCost": 1
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_precious_heartC.png",
-  "id": "ultimate-sacrificial-heart-warrior"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "meathead-magus",
   "name": "Meathead",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/meathead-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GMG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/meathead-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0015_Layer-4.png",
   "skills": [
     {
       "name": "BLAST",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 3
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0015_Layer-4.png",
-  "id": "meathead-magus"
+  ]
 }

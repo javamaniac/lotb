@@ -1,9 +1,13 @@
 {
+  "id": "hellraiser-assassin",
   "name": "Hellraiser",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_purple.png",
   "skills": [
     {
       "name": "DAMAGED",
@@ -35,8 +39,5 @@
         "Gain Revenge for the duration of the battle. Inflict a random negative effect on the enemy when you take damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_purple.png",
-  "id": "hellraiser-assassin"
+  ]
 }

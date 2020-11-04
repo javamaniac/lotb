@@ -1,9 +1,13 @@
 {
+  "id": "live-after-death-eddie-magus",
   "name": "Live After Death Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/live-after-death-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/live-after-death-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_eddie_liveafterdeath.png",
   "skills": [
     {
       "name": "BONEYARD",
@@ -85,8 +89,5 @@
         "• Remove All Beneficial and Negative Effects from a random enemy and turn them into an Apparition. The Apparition cannot gain beneficial or negative effects and will permanently die within 1 turn. If the Apparition is killed before then, all allies will be revived, granted Perfect Immunity, and +100% increase in all stats for 2 turns. This effect does not apply to bosses."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_eddie_liveafterdeath.png",
-  "id": "live-after-death-eddie-magus"
+  ]
 }

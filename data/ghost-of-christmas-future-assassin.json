@@ -1,9 +1,13 @@
 {
+  "id": "ghost-of-christmas-future-assassin",
   "name": "Ghost Of Christmas Future",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-future-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-future-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_future.png",
   "skills": [
     {
       "name": "CHILLING FATE",
@@ -36,8 +40,5 @@
         "Grant Immunity to Permadeath to all allies. Gain Ghost and Perfect Immunity for 3 turns upon death. Trigger Doom effects currently on all enemies upon death."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_future.png",
-  "id": "ghost-of-christmas-future-assassin"
+  ]
 }

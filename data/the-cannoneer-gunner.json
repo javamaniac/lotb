@@ -1,9 +1,13 @@
 {
+  "id": "the-cannoneer-gunner",
   "name": "The Cannoneer",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-cannoneer-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AGA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-cannoneer-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_trooper_cannon.png",
   "skills": [
     {
       "name": "CANNON SHOT",
@@ -34,8 +38,5 @@
         "Gain Sacrifice for the duration of the battle. Grants Perfect Immortality if Critical Strike status is present at the start of your turn. Sacrifice status full heals the team if the character dies with this effect active."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_trooper_cannon.png",
-  "id": "the-cannoneer-gunner"
+  ]
 }

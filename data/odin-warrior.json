@@ -1,9 +1,13 @@
 {
+  "id": "odin-warrior",
   "name": "Odin",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/odin-warrior/",
-  "awakenable": true,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/odin-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_odin_warrior.png",
   "skills": [
     {
       "name": "KNOWLEDGE SEEKER",
@@ -34,8 +38,5 @@
         "• 35% Chance to inflict Stun or Perfect Stun on each enemy for 1 turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_odin_warrior.png",
-  "id": "odin-warrior"
+  ]
 }

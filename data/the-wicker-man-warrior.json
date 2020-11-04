@@ -1,9 +1,13 @@
 {
+  "id": "the-wicker-man-warrior",
   "name": "The Wicker Man",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-wicker-man-warrior/",
-  "awakenable": true,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-wicker-man-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wickerman_77.png",
   "skills": [
     {
       "name": "AGONY",
@@ -35,8 +39,5 @@
         "Raise ATK and DEF of all allies for 2 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wickerman_77.png",
-  "id": "the-wicker-man-warrior"
+  ]
 }

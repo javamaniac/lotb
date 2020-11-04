@@ -1,9 +1,13 @@
 {
+  "id": "sacro-robo-scout-magus",
   "name": "Sacro, Robo Scout",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/sacro-robo-scout-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/sacro-robo-scout-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_blue.png",
   "skills": [
     {
       "name": "DILATE",
@@ -34,8 +38,5 @@
         "35% Chance to increase the duration of all beneficial effects on each ally every turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_blue.png",
-  "id": "sacro-robo-scout-magus"
+  ]
 }

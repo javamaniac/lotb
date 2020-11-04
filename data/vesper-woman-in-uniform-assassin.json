@@ -1,9 +1,13 @@
 {
+  "id": "vesper-woman-in-uniform-assassin",
   "name": "Vesper, Woman In Uniform",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/vesper-woman-in-uniform-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/vesper-woman-in-uniform-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_assassin.png",
   "skills": [
     {
       "name": "ROULETTE ROUNDS",
@@ -37,8 +41,5 @@
         "Immune to all Negative Effects, except Time Bomb, Perfect Time Bomb, Taunt, Silence, Perfect Silence and Seal. Reduce all damage taken by 75% for 1 turn if Time Bomb effects are not active on self at the start of battle and at the start of your turn. Your first action each turn gains Innate 100% Armor Penetration and 100% Increased Damage if Time Bomb effects are active on self at the start of battle and at the start of your turn. Extend Negative Effect Duration on self and all enemies by 1 if Time Bomb effects are active on self after every action. This skill can only be countered by Passive Disable applied at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_assassin.png",
-  "id": "vesper-woman-in-uniform-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "possessed-rockets-gunner",
   "name": "Possessed Rockets",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-rockets-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-rockets-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0021_Layer-4.png",
   "skills": [
     {
       "name": "TARGET",
@@ -33,8 +37,5 @@
         "Gain 2 extra points of Power every round."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0021_Layer-4.png",
-  "id": "possessed-rockets-gunner"
+  ]
 }

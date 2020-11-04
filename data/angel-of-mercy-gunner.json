@@ -1,9 +1,13 @@
 {
+  "id": "angel-of-mercy-gunner",
   "name": "Angel Of Mercy",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-mercy-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SMS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-mercy-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angelofmercy.png",
   "skills": [
     {
       "name": "SCORN",
@@ -32,8 +36,5 @@
         "Revive the first ally that dies in battle and grant them Perfect Immunity and Perfect Immortality for 3 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angelofmercy.png",
-  "id": "angel-of-mercy-gunner"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "possessed-rifle-warrior",
   "name": "Possessed Rifle",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-rifle-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GWG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-rifle-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0043_Layer-4.png",
   "skills": [
     {
       "name": "SHOOT",
@@ -26,8 +30,5 @@
       ],
       "powerCost": 3
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0043_Layer-4.png",
-  "id": "possessed-rifle-warrior"
+  ]
 }

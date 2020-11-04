@@ -1,9 +1,13 @@
 {
+  "id": "iron-maiden-eddie-gunner",
   "name": "Iron Maiden Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/iron-maiden-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/iron-maiden-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_ironmaiden.png",
   "skills": [
     {
       "name": "BLOODSHED",
@@ -83,8 +87,5 @@
         "• Revive all allies with full Hp and grant each ally an Extra Turn and Immunity to Permadeath and Apparition effects, including innate and Silver versions, until they die if any negative effects are present on self."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_ironmaiden.png",
-  "id": "iron-maiden-eddie-gunner"
+  ]
 }

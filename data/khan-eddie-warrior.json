@@ -1,9 +1,13 @@
 {
+  "id": "khan-eddie-warrior",
   "name": "Khan Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/khan-eddie-warrior/",
-  "awakenable": true,
   "class": "Warrior",
   "stars": 5,
+  "eddie": true,
+  "awakenable": true,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/khan-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/hud_icon_eddie_khan.png",
   "skills": [
     {
       "name": "WORLD ENDER",
@@ -79,8 +83,5 @@
         "Once per turn, the first action that each ally takes deals 100% increased damage until they die. Deal 6 hits of physical damage to random enemies that increases based on your Current HP. Remove all beneficial effects, including golden effects from all enemies before dealing damage. Increase the duration of negative effects on all enemies by 2. Inflict Bloodlust to each enemy for 2 turns if any negative effects are on any enemy. Decrease the duration of negative effects on all allies by 2. Grant Echo to each ally for 2 turns if they have no negative effects."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/hud_icon_eddie_khan.png",
-  "id": "khan-eddie-warrior"
+  ]
 }

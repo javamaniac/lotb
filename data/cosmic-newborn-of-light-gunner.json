@@ -1,9 +1,13 @@
 {
+  "id": "cosmic-newborn-of-light-gunner",
   "name": "Cosmic Newborn Of Light",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-newborn-of-light-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-newborn-of-light-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_newborn_of_light_f.png",
   "skills": [
     {
       "name": "CRUEL DEVICE",
@@ -35,8 +39,5 @@
         "Gain Class Advantage against all enemies. Inflict Perfect Silence on all enemies with a 45% Chance to gain an Extra Turn when attacking any enemy inflicted with Smite or Ignite."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_newborn_of_light_f.png",
-  "id": "cosmic-newborn-of-light-gunner"
+  ]
 }

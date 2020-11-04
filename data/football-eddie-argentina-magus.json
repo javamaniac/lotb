@@ -1,9 +1,13 @@
 {
+  "id": "football-eddie-argentina-magus",
   "name": "Football Eddie (Argentina)",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/football-eddie-argentina-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/football-eddie-argentina-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_football_argentina.png",
   "skills": [
     {
       "name": "EXTRA TIME",
@@ -86,8 +90,5 @@
         "• Inflict ATK and DEF Down for 3 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_football_argentina.png",
-  "id": "football-eddie-argentina-magus"
+  ]
 }

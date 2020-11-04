@@ -1,9 +1,13 @@
 {
+  "id": "the-nomad-warrior",
   "name": "The Nomad",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-nomad-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-nomad-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0031_Layer-4.png",
   "skills": [
     {
       "name": "RAID",
@@ -34,8 +38,5 @@
         "Remove Immunity and Golden Shield Effects on a random target at the start of your turn. Gain Perfect Immunity and Inflict Passive Disable on a random enemy for 1 turn after each action. Grant Ascension and Perfect Immortality to each ally for 2 turns if Vanish is present at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0031_Layer-4.png",
-  "id": "the-nomad-warrior"
+  ]
 }

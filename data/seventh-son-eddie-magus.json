@@ -1,9 +1,13 @@
 {
+  "id": "seventh-son-eddie-magus",
   "name": "Seventh Son Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/seventh-son-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/seventh-son-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_seventhson.png",
   "skills": [
     {
       "name": "VANQUISH",
@@ -77,8 +81,5 @@
         "• Grants Perfect Immortality to all allies for the duration of the battle."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_seventhson.png",
-  "id": "seventh-son-eddie-magus"
+  ]
 }

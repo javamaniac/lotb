@@ -1,9 +1,13 @@
 {
+  "id": "shaman-eddie-warrior",
   "name": "Shaman Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/shaman-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shaman-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_shaman_050.png",
   "skills": [
     {
       "name": "CONJURED FLAME",
@@ -101,8 +105,5 @@
         "• Cannot fall below 1 HP while using this skill."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_shaman_050.png",
-  "id": "shaman-eddie-warrior"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "undead-guardian-sentinel",
   "name": "Undead Guardian",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-guardian-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-guardian-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0038_Layer-41.png",
   "skills": [
     {
       "name": "BURNING SANDS",
@@ -26,8 +30,5 @@
       ],
       "powerCost": 4
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0038_Layer-41.png",
-  "id": "undead-guardian-sentinel"
+  ]
 }

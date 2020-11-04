@@ -1,9 +1,13 @@
 {
+  "id": "pharaoh-eddie-sentinel",
   "name": "Pharaoh Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-eddie-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pharoah_040.png",
   "skills": [
     {
       "name": "SUN GOD",
@@ -87,8 +91,5 @@
         "• DEF Charge Increases the effectiveness of the next DEF Up status applied by 200%."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pharoah_040.png",
-  "id": "pharaoh-eddie-sentinel"
+  ]
 }

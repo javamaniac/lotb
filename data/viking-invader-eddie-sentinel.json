@@ -1,9 +1,13 @@
 {
+  "id": "viking-invader-eddie-sentinel",
   "name": "Viking Invader Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/viking-invader-eddie-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/viking-invader-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_eddieviking_invader.png",
   "skills": [
     {
       "name": "CALL TO ARMS",
@@ -84,8 +88,5 @@
         "Grant Immunity to all Stun and Freeze effects, including Silver and Innate effects, to all allies. Inflict Taunt on all enemies for 1 turn at the start of battle and at the start of your turn. Gain 3 Power and Heal self based on your MAX HP after every action. 50% Chance to deal 3 hits of Additional Random Damage to each enemy based on your MR and their MAX HP and Remove All Negative Effects, including Silver effects, from self and a random ally when you take damage. Once per battle, Revive with full HP and grant Immortality or Endure to all allies for 1 turn and inflict Perfect Heal Block and Perfect Death to all enemies for 3 turns upon death."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_eddieviking_invader.png",
-  "id": "viking-invader-eddie-sentinel"
+  ]
 }

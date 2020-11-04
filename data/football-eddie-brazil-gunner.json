@@ -1,9 +1,13 @@
 {
+  "id": "football-eddie-brazil-gunner",
   "name": "Football Eddie (Brazil)",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/football-eddie-brazil-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/football-eddie-brazil-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_football_brazil.png",
   "skills": [
     {
       "name": "EXTRA TIME",
@@ -86,8 +90,5 @@
         "• Inflict ATK and DEF Down for 3 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_football_brazil.png",
-  "id": "football-eddie-brazil-gunner"
+  ]
 }

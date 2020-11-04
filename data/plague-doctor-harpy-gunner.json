@@ -1,9 +1,13 @@
 {
+  "id": "plague-doctor-harpy-gunner",
   "name": "Plague Doctor Harpy",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/plague-doctor-harpy-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/plague-doctor-harpy-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_harpyplaguedoctor.png",
   "skills": [
     {
       "name": "DEAD LEDGER",
@@ -35,8 +39,5 @@
         "Inflict Dark Ghost on a random enemy for 2 turns at the start of battle. Inflict Doom and Perfect Stun on all enemies for 2 turns upon death."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_harpyplaguedoctor.png",
-  "id": "plague-doctor-harpy-gunner"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "x-factor-eddie-magus",
   "name": "X Factor Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/x-factor-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/x-factor-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_eddie_xfactor.png",
   "skills": [
     {
       "name": "ELEVEN SAINTS",
@@ -87,8 +91,5 @@
         "• Reduce Power and Fury of your opponent to zero and prevent them from generating Power and Fury for 2 turns. Fury that is already fully charged cannot be reduced."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_eddie_xfactor.png",
-  "id": "x-factor-eddie-magus"
+  ]
 }

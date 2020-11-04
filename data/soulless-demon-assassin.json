@@ -1,9 +1,13 @@
 {
+  "id": "soulless-demon-assassin",
   "name": "Soulless Demon",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/soulless-demon-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/soulless-demon-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0028_Layer-4.png",
   "skills": [
     {
       "name": "RUSH",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0028_Layer-4.png",
-  "id": "soulless-demon-assassin"
+  ]
 }

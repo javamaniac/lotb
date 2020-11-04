@@ -1,9 +1,13 @@
 {
+  "id": "minotaur-magus",
   "name": "Minotaur",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_minotaur_magus.png",
   "skills": [
     {
       "name": "ATHENS' FINEST",
@@ -37,8 +41,5 @@
         "Grant Perfect Force Shield to each ally for 2 turns at the start of battle. 75% Chance to Gain an Extra Turn if your HP is 50% or lower after each action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_minotaur_magus.png",
-  "id": "minotaur-magus"
+  ]
 }

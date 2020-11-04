@@ -1,9 +1,13 @@
 {
+  "id": "desert-sniper-assassin",
   "name": "Desert Sniper",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-sniper-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-sniper-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_nomadsniper_purple.png",
   "skills": [
     {
       "name": "SHOOT",
@@ -34,8 +38,5 @@
         "Gain Shroud and Perfect Hit status for the duration of the battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_nomadsniper_purple.png",
-  "id": "desert-sniper-assassin"
+  ]
 }

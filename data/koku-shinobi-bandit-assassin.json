@@ -1,9 +1,13 @@
 {
+  "id": "koku-shinobi-bandit-assassin",
   "name": "Kokú, Shinobi Bandit",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/koku-shinobi-bandit-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/koku-shinobi-bandit-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_purple.png",
   "skills": [
     {
       "name": "UNSEEN STRIKE",
@@ -36,8 +40,5 @@
         "Immunity to all Burn and Stat Reduction Effects. Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies. Steal One Beneficial Effect, including Golden Effects from a random enemy after every action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_purple.png",
-  "id": "koku-shinobi-bandit-assassin"
+  ]
 }

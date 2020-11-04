@@ -1,9 +1,13 @@
 {
+  "id": "anubis-sentinel",
   "name": "Anubis",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/anubis-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/anubis-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_anubis_green.png",
   "skills": [
     {
       "name": "CATACOMB",
@@ -35,8 +39,5 @@
         "Immune to Doom. Decrease the MAX HP of a random enemy by 5% every turn. Heal a random ally based on their MISSING HP every turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_anubis_green.png",
-  "id": "anubis-sentinel"
+  ]
 }

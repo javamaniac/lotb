@@ -1,9 +1,13 @@
 {
+  "id": "cosmic-lilith-magus",
   "name": "Cosmic Lilith",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-lilith-magus/",
-  "awakenable": true,
   "class": "Magus",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-lilith-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_lilith_cosmic.png",
   "skills": [
     {
       "name": "NOBLE TERROR",
@@ -35,8 +39,5 @@
         "Has Class Advantage against every enemy. Takes no more than 5% of her max HP from a single hit. Grants immunity to Stun, Taunt, and Freeze effects, including unblockable effects, to all allies."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_lilith_cosmic.png",
-  "id": "cosmic-lilith-magus"
+  ]
 }

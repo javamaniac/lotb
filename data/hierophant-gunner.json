@@ -1,9 +1,13 @@
 {
+  "id": "hierophant-gunner",
   "name": "Hierophant",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_yellow.png",
   "skills": [
     {
       "name": "BLIND FAITH",
@@ -36,8 +40,5 @@
         "Prevent all enemies from healing until they die whenever this passive becomes active and at the start of your turn. Gain Perfect Immunity and Sleep Shield for the duration of battle at the start of battle and after every action. 35% Chance to grant each ally an Extra Turn after every action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_yellow.png",
-  "id": "hierophant-gunner"
+  ]
 }

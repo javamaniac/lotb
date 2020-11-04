@@ -1,9 +1,13 @@
 {
+  "id": "chopper-magus",
   "name": "Chopper",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_blue.png",
   "skills": [
     {
       "name": "BRAWL",
@@ -34,8 +38,5 @@
         "Marks, Curses, and Permadeaths a random enemy for 1 turn at the start of each turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_blue.png",
-  "id": "chopper-magus"
+  ]
 }

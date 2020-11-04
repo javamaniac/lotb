@@ -1,9 +1,13 @@
 {
+  "id": "meathead-warrior",
   "name": "Meathead",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/meathead-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/meathead-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0068_Layer-4.png",
   "skills": [
     {
       "name": "ATTACK",
@@ -24,8 +28,5 @@
       ],
       "powerCost": 3
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0068_Layer-4.png",
-  "id": "meathead-warrior"
+  ]
 }

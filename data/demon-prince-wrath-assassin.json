@@ -1,9 +1,13 @@
 {
+  "id": "demon-prince-wrath-assassin",
   "name": "Demon Prince Wrath",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-prince-wrath-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-prince-wrath-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wrath_skin.png",
   "skills": [
     {
       "name": "SAVAGE STRIKE",
@@ -37,8 +41,5 @@
         "Reduce damage taken by 60%. Increase the ATK and MAGIC of allies by 250% and increase the Critical Hit Chance of all allies by 25%. Grant Immunity to Bleed and Perfect Bleed effects to all allies. Inflict Cleave or Crave on each enemy for 2 turns when you take damage. Take no damage when your HP falls below 30% HP for 3 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wrath_skin.png",
-  "id": "demon-prince-wrath-assassin"
+  ]
 }

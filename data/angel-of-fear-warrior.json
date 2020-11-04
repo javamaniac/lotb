@@ -1,9 +1,13 @@
 {
+  "id": "angel-of-fear-warrior",
   "name": "Angel Of Fear",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-fear-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WGW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-fear-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/winged_demon_red.png",
   "skills": [
     {
       "name": "TORTURE",
@@ -34,8 +38,5 @@
         "Allies gain an extra turn if your team gets the first kill in a battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/winged_demon_red.png",
-  "id": "angel-of-fear-warrior"
+  ]
 }

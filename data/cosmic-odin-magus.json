@@ -1,9 +1,13 @@
 {
+  "id": "cosmic-odin-magus",
   "name": "Cosmic Odin",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-odin-magus/",
-  "awakenable": true,
   "class": "Magus",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-odin-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/04/hud_icon_odin_cosmic.png",
   "skills": [
     {
       "name": "KNOWLEDGE SEEKER",
@@ -34,8 +38,5 @@
         "• 35% Chance to inflict Stun or Perfect Stun on each enemy for 1 turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/04/hud_icon_odin_cosmic.png",
-  "id": "cosmic-odin-magus"
+  ]
 }

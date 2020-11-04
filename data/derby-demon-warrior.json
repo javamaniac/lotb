@@ -1,9 +1,13 @@
 {
+  "id": "derby-demon-warrior",
   "name": "Derby Demon",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_warrior.png",
   "skills": [
     {
       "name": "DISMANTLE",
@@ -35,8 +39,5 @@
         "Generate Fury when you take damage. 20% Chance to gain an Extra Turn after each action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_warrior.png",
-  "id": "derby-demon-warrior"
+  ]
 }

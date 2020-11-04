@@ -1,9 +1,13 @@
 {
+  "id": "undead-convict-sentinel",
   "name": "Undead Convict",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-convict-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-convict-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/hud_icon_undeadconvict_sentinel.png",
   "skills": [
     {
       "name": "STUNNING TOUCH",
@@ -37,8 +41,5 @@
         "At the start of battle and at the start of your turn, inflict Perfect Corruption, Perfect Crave or Perfect Stun for 2 turns on a random enemy. Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/hud_icon_undeadconvict_sentinel.png",
-  "id": "undead-convict-sentinel"
+  ]
 }

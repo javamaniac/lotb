@@ -1,9 +1,13 @@
 {
+  "id": "chopper-warrior",
   "name": "Chopper",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_red.png",
   "skills": [
     {
       "name": "CHAOS",
@@ -34,8 +38,5 @@
         "Reduce the Max HP of all enemies by 20% at the start of the battle"
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_red.png",
-  "id": "chopper-warrior"
+  ]
 }

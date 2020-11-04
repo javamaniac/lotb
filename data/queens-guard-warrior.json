@@ -1,9 +1,13 @@
 {
+  "id": "queens-guard-warrior",
   "name": "Queen's Guard",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/queens-guard-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/queens-guard-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_queens_guard.png",
   "skills": [
     {
       "name": "LOUD SHOT",
@@ -35,8 +39,5 @@
         "Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze)."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_queens_guard.png",
-  "id": "queens-guard-warrior"
+  ]
 }

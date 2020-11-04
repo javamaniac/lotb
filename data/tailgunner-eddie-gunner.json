@@ -1,9 +1,13 @@
 {
+  "id": "tailgunner-eddie-gunner",
   "name": "Tailgunner Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/tailgunner-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/tailgunner-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tailgunner_215.png",
   "skills": [
     {
       "name": "LAUGH",
@@ -83,8 +87,5 @@
         "• This ability grants an Extra Turn to all allies if you get a kill."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tailgunner_215.png",
-  "id": "tailgunner-eddie-gunner"
+  ]
 }

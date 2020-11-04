@@ -1,9 +1,13 @@
 {
+  "id": "the-killer-assassin",
   "name": "The Killer",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer.png",
   "skills": [
     {
       "name": "BUTCHER",
@@ -36,8 +40,5 @@
         "Inflicts two instances of Fear on random enemies for 1 turn, every turn. Inflict Perfect Disable on up to 2 random enemies for 1 turn every turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer.png",
-  "id": "the-killer-assassin"
+  ]
 }

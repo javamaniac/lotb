@@ -1,9 +1,13 @@
 {
+  "id": "lilith-assassin",
   "name": "Lilith",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/lilith-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/lilith-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_lilith_purple.png",
   "skills": [
     {
       "name": "REVEAL",
@@ -34,8 +38,5 @@
         "25% Chance to Revive an ally or 75% Chance to fully Heal a random ally every turn at the cost of 10% of your CURRENT HP."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_lilith_purple.png",
-  "id": "lilith-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "shardborne-warrior",
   "name": "Shardborne",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GWG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_warrior.png",
   "skills": [
     {
       "name": "SHARDLIGHT",
@@ -36,8 +40,5 @@
         "Gain an Extra Turn when you kill an enemy. 50% Chance to Revenge an enemy when an ally is attacked."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_warrior.png",
-  "id": "shardborne-warrior"
+  ]
 }

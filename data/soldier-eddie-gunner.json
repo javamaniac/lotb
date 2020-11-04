@@ -1,9 +1,13 @@
 {
+  "id": "soldier-eddie-gunner",
   "name": "Soldier Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/soldier-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/soldier-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_soldier_220.png",
   "skills": [
     {
       "name": "ROAR",
@@ -80,8 +84,5 @@
         "• Damage increases based on your ATK and SPECIAL stats."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_soldier_220.png",
-  "id": "soldier-eddie-gunner"
+  ]
 }

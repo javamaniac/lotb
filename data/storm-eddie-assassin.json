@@ -1,9 +1,13 @@
 {
+  "id": "storm-eddie-assassin",
   "name": "Storm Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/storm-eddie-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/storm-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_cloud.png",
   "skills": [
     {
       "name": "TEMPEST",
@@ -82,8 +86,5 @@
         "• Blinding Burn deals magic damage over time with a chance to Blind the target every turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_cloud.png",
-  "id": "storm-eddie-assassin"
+  ]
 }

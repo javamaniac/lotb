@@ -1,9 +1,13 @@
 {
+  "id": "mayan-priestess-assassin",
   "name": "Mayan Priestess",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_purple.png",
   "skills": [
     {
       "name": "SNUFF OUT",
@@ -36,8 +40,5 @@
         "Gains Vanish at the start of battle for 1 turn. Grant immunity to Sleep and Perfect Sleep to all allies. Grant Charge to all allies if you or any ally is below 50% Max HP at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_purple.png",
-  "id": "mayan-priestess-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "ragnar-lothbrok-sentinel",
   "name": "Ragnar Lothbrok",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/ragnar-lothbrok-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ragnar-lothbrok-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_ragnar.png",
   "skills": [
     {
       "name": "JÖRMUNGANDR'S BITE",
@@ -38,8 +42,5 @@
         "Grant Revenge to all allies for 3 turns at the start of battle and start of your turn. At the beginning of your turn, if Revenge is already present on an ally, transform it into Perfect Revenge for 2 turns. Inflict 3 Toxic Burns on each enemy for 2 turns, and grant a Perfect Heal Shield and Damage Charge to all allies for 3 turns when you die."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_ragnar.png",
-  "id": "ragnar-lothbrok-sentinel"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "empress-regnant-eupatoria-warrior-2",
   "name": "Empress Regnant Eupatoria",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/empress-regnant-eupatoria-warrior-2/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/empress-regnant-eupatoria-warrior-2/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_EmpressRegnantEupatoria.png",
   "skills": [
     {
       "name": "DIRGE OF NIGHTINGALE",
@@ -37,8 +41,5 @@
         "Immune to Stun, Perfect Stun, Permadeath, Perfect Death, Doom, Dark Ghost, Apparition and Innate Permadeath. All enemies take 50% Increased Damage. 50% Chance to take no damage and inflict a Mark on attacking enemies for 2 turns when you are attacked. Grant Golden Hit and a Random Golden Defensive Effect to self and a random ally for 1 turn when you take damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_EmpressRegnantEupatoria.png",
-  "id": "empress-regnant-eupatoria-warrior-2"
+  ]
 }

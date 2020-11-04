@@ -1,9 +1,13 @@
 {
+  "id": "golden-son-magus",
   "name": "Golden Son",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/golden-son-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/golden-son-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_golden_son_d.png",
   "skills": [
     {
       "name": "REJUVENATION",
@@ -34,8 +38,5 @@
         "Instantly Revive Self with 60% HP upon death."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_golden_son_d.png",
-  "id": "golden-son-magus"
+  ]
 }

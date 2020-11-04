@@ -1,9 +1,13 @@
 {
+  "id": "mystic-flame-eddie-magus",
   "name": "Mystic Flame Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/mystic-flame-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mystic-flame-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_mysticflame.png",
   "skills": [
     {
       "name": "FREEZING GLANCE",
@@ -81,8 +85,5 @@
         "Two random enemies will gain a Red and Blue rotating flame around them at the start of your turn. Inflict Freeze for 2 turns, Passive Disable for the duration of battle, and deal additional magic damage equal to 50% of the target’s MAX HP each action you take if they have the flame effects on them. Extend the duration of Ghost effects on allies to infinite duration and remove Dark Ghost and Doom from all allies at the start of your turn. Revive self and all allies upon death with full HP."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_mysticflame.png",
-  "id": "mystic-flame-eddie-magus"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "banshee-assassin",
   "name": "Banshee",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GAG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_purple.png",
   "skills": [
     {
       "name": "RECIPROCATER",
@@ -35,8 +39,5 @@
         "Grant your allies a 35% chance to avoid damage when they are attacked. Failing to avoid a hit deals a percentage of their MAX HP as random damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_purple.png",
-  "id": "banshee-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "trooper-eddie-warrior",
   "name": "Trooper Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/trooper-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/trooper-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_trooper_245.png",
   "skills": [
     {
       "name": "MIGHTY ROAR",
@@ -75,8 +79,5 @@
         "• Grant Perfect Immunity to all allies for 1 turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_trooper_245.png",
-  "id": "trooper-eddie-warrior"
+  ]
 }

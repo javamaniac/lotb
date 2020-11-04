@@ -1,9 +1,13 @@
 {
+  "id": "cyborg-the-bird-gunner",
   "name": "Cyborg 'The Bird'",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/cyborg-the-bird-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "ASA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cyborg-the-bird-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_cyborg.png",
   "skills": [
     {
       "name": "DEAD EYE",
@@ -35,8 +39,5 @@
         "• Inflicts Lower Power Generation for 2 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_cyborg.png",
-  "id": "cyborg-the-bird-gunner"
+  ]
 }

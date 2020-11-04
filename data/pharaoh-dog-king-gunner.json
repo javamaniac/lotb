@@ -1,9 +1,13 @@
 {
+  "id": "pharaoh-dog-king-gunner",
   "name": "Pharaoh Dog King",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-dog-king-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GSG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-dog-king-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaohdogevoyellow.png",
   "skills": [
     {
       "name": "FEATHER OF TRUTH",
@@ -35,8 +39,5 @@
         "Grant Immunity to Skill Disabling effects to all allies. Blocks damage for allies below 50% HP and takes random damage equal to 8% of your MAX HP for each hit blocked."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaohdogevoyellow.png",
-  "id": "pharaoh-dog-king-gunner"
+  ]
 }

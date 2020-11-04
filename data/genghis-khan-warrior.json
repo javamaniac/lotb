@@ -1,9 +1,13 @@
 {
+  "id": "genghis-khan-warrior",
   "name": "Genghis Khan",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/genghis-khan-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GWG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/genghis-khan-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/hud_icon_genghiskhan.png",
   "skills": [
     {
       "name": "OCEAN OF BLOOD",
@@ -37,8 +41,5 @@
         "50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, and inflict Mark and Perfect Bleed on attacking enemies for 2 turns whenever you are attacked. When you take damage, 25% Chance to inflict Stun for 2 turns on attacking enemies. Heal each ally based on your ATK if any enemy has a Mark at the start of your turn. Gain Damage Charge at the beginning of battle and at the start of your turn. If Borte, Mongol Empress or Khan Eddie is in your team, gain Ascension for 2 turns at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/hud_icon_genghiskhan.png",
-  "id": "genghis-khan-warrior"
+  ]
 }

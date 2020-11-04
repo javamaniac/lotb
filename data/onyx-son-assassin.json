@@ -1,9 +1,13 @@
 {
+  "id": "onyx-son-assassin",
   "name": "Onyx Son",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxson_assassin.png",
   "skills": [
     {
       "name": "ENGAGE",
@@ -36,8 +40,5 @@
         "Inflict Perfect Time Bomb on all enemies for 3 turns at the start of battle. Inflict Perfect Time Bomb for 3 turns if no Time Bomb is present on the target at the start of your turn. Heal all allies based on their ATK/ MAGIC stat if your HP is below 30% after taking an action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxson_assassin.png",
-  "id": "onyx-son-assassin"
+  ]
 }

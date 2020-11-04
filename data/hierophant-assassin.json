@@ -1,9 +1,13 @@
 {
+  "id": "hierophant-assassin",
   "name": "Hierophant",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AGA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_purple.png",
   "skills": [
     {
       "name": "GRIM GOSPEL",
@@ -34,8 +38,5 @@
         "Inflict Perfect Silence on all enemies for 3 turns at the start of battle. Reduce the damage all allies take by 35%. Grant a random beneficial effect to each ally at the start of battle for 2 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_purple.png",
-  "id": "hierophant-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "osiris-gunner",
   "name": "Osiris",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/osiris-gunner/",
-  "awakenable": true,
   "class": "Gunner",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "SWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/osiris-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_osiris.png",
   "skills": [
     {
       "name": "LORD OF THE DEAD",
@@ -35,8 +39,5 @@
         "Transform existing beneficial effects into their Golden version with a 2 turn duration at the start of each turn. Does not apply to effects that have no corresponding golden version."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_osiris.png",
-  "id": "osiris-gunner"
+  ]
 }

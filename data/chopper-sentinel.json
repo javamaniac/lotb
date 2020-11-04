@@ -1,9 +1,13 @@
 {
+  "id": "chopper-sentinel",
   "name": "Chopper",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_green.png",
   "skills": [
     {
       "name": "SCRAP",
@@ -27,8 +31,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_green.png",
-  "id": "chopper-sentinel"
+  ]
 }

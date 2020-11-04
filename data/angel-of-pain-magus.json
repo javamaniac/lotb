@@ -1,9 +1,13 @@
 {
+  "id": "angel-of-pain-magus",
   "name": "Angel Of Pain",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-pain-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-pain-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/winged_demon_blue.png",
   "skills": [
     {
       "name": "SKEWER",
@@ -34,8 +38,5 @@
         "Reduces the duration of beneficial effects every turn. (Does not apply to first turn beneficial effects)"
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/winged_demon_blue.png",
-  "id": "angel-of-pain-magus"
+  ]
 }

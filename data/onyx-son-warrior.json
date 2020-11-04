@@ -1,9 +1,13 @@
 {
+  "id": "onyx-son-warrior",
   "name": "Onyx Son",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxsonn_warrior.png",
   "skills": [
     {
       "name": "BELLIGERENCE",
@@ -38,8 +42,5 @@
         "Grant Perfect Immunity to all allies for 1 turn if Vanish is present on self at the start of your turn. Remove Beneficial Effects and inflict Perfect Death and Curse on all enemies for 2 turns upon death."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_onyxsonn_warrior.png",
-  "id": "onyx-son-warrior"
+  ]
 }

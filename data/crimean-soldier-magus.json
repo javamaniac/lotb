@@ -1,9 +1,13 @@
 {
+  "id": "crimean-soldier-magus",
   "name": "Crimean Soldier",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/crimean-soldier-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "ASA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/crimean-soldier-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undead_russian_infantry_e.png",
   "skills": [
     {
       "name": "TERRIBLE HAIL",
@@ -35,8 +39,5 @@
         "Remove Immunity and inflict Freeze on a random enemy for 1 turn at the start of your turn every turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undead_russian_infantry_e.png",
-  "id": "crimean-soldier-magus"
+  ]
 }

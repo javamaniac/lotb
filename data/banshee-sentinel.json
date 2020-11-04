@@ -1,9 +1,13 @@
 {
+  "id": "banshee-sentinel",
   "name": "Banshee",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_green.png",
   "skills": [
     {
       "name": "BUZZ SAW",
@@ -34,8 +38,5 @@
         "Cleanse and grant Immortality to all allies upon death. Revive with full HP upon death and immediately gain an Extra Turn if it’s still your team’s turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee_green.png",
-  "id": "banshee-sentinel"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "haunted-pumpkin-magus",
   "name": "Haunted Pumpkin",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/haunted-pumpkin-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/haunted-pumpkin-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pumpkinmage.png",
   "skills": [
     {
       "name": "CAST",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 5
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pumpkinmage.png",
-  "id": "haunted-pumpkin-magus"
+  ]
 }

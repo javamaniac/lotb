@@ -1,9 +1,13 @@
 {
+  "id": "daedalus-warrior",
   "name": "Daedalus",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/daedalus-warrior/",
-  "awakenable": true,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/daedalus-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_daedalus.png",
   "skills": [
     {
       "name": "MAD MIND",
@@ -35,8 +39,5 @@
         "Grant Immunity to Perfect Corruption, Physical Burn, and Toxic Burn to all allies. Inflict Random Burn Effects on all enemies after every action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_daedalus.png",
-  "id": "daedalus-warrior"
+  ]
 }

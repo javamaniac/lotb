@@ -1,9 +1,13 @@
 {
+  "id": "speed-of-light-eddie-magus",
   "name": "Speed Of Light Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/speed-of-light-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/speed-of-light-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_speedoflight.png",
   "skills": [
     {
       "name": "RESTORE",
@@ -80,8 +84,5 @@
         "• Extends Duration of Beneficial Effects on allies by 3 turns."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_speedoflight.png",
-  "id": "speed-of-light-eddie-magus"
+  ]
 }

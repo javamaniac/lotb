@@ -1,9 +1,13 @@
 {
+  "id": "clansman-eddie-warrior",
   "name": "Clansman Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/clansman-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SAS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/clansman-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_highlander.png",
   "skills": [
     {
       "name": "KINGSLAYER",
@@ -82,8 +86,5 @@
         "• Damage dealt increases based on the target’s MAGIC."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_highlander.png",
-  "id": "clansman-eddie-warrior"
+  ]
 }

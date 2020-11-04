@@ -1,9 +1,13 @@
 {
+  "id": "wicker-ox-cultist-sentinel",
   "name": "Wicker Ox Cultist",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-ox-cultist-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-ox-cultist-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistox.png",
   "skills": [
     {
       "name": "SAVAGE SCYTHE",
@@ -32,8 +36,5 @@
         "Remove Silver Effects from up to 2 allies at the start of battle and grant Cleanse status to all allies for 1 turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistox.png",
-  "id": "wicker-ox-cultist-sentinel"
+  ]
 }

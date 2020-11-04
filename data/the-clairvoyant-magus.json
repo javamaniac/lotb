@@ -1,9 +1,13 @@
 {
+  "id": "the-clairvoyant-magus",
   "name": "The Clairvoyant",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-clairvoyant-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-clairvoyant-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_clairvoyant_375.png",
   "skills": [
     {
       "name": "DIVINE",
@@ -39,8 +43,5 @@
         "• Instantly gain an Extra Turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_clairvoyant_375.png",
-  "id": "the-clairvoyant-magus"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "hellhound-warrior",
   "name": "Hellhound",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellhound-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellhound-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_houndofhell_500.png",
   "skills": [
     {
       "name": "POUNCE",
@@ -34,8 +38,5 @@
         "Grants Immunity to all allies for 1 turn at the start of the battle. Grants immunity to a random ally every following turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_houndofhell_500.png",
-  "id": "hellhound-warrior"
+  ]
 }

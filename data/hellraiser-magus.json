@@ -1,9 +1,13 @@
 {
+  "id": "hellraiser-magus",
   "name": "Hellraiser",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_blue.png",
   "skills": [
     {
       "name": "VENOM",
@@ -36,8 +40,5 @@
         "Inflict Perfect Corruption on up to 4 enemies for 2 turns at the start of battle. Gain Trap status for 1 turn if Regen is present at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_blue.png",
-  "id": "hellraiser-magus"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "shaman-the-bird-warrior",
   "name": "Shaman 'The Bird'",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/shaman-the-bird-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WSW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shaman-the-bird-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_shaman.png",
   "skills": [
     {
       "name": "ABSORB VIGOR",
@@ -38,8 +42,5 @@
         "• Permadeath all enemies for 3 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_shaman.png",
-  "id": "shaman-the-bird-warrior"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "benjamin-breeg-eddie-sentinel",
   "name": "Benjamin Breeg Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/benjamin-breeg-eddie-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/benjamin-breeg-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_gravedigger.png",
   "skills": [
     {
       "name": "THOUSAND SOULS",
@@ -84,8 +88,5 @@
         "• This attack does not wake targets that are asleep."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_gravedigger.png",
-  "id": "benjamin-breeg-eddie-sentinel"
+  ]
 }

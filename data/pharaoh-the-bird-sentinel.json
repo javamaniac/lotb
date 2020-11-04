@@ -1,9 +1,13 @@
 {
+  "id": "pharaoh-the-bird-sentinel",
   "name": "Pharaoh 'The Bird'",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-the-bird-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-the-bird-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_pharaoh.png",
   "skills": [
     {
       "name": "RUIN",
@@ -36,8 +40,5 @@
         "• Stun and Curse a random enemy for 2 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_pharaoh.png",
-  "id": "pharaoh-the-bird-sentinel"
+  ]
 }

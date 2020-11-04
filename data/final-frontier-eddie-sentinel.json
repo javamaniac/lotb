@@ -1,9 +1,13 @@
 {
+  "id": "final-frontier-eddie-sentinel",
   "name": "Final Frontier Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/final-frontier-eddie-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "S",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/final-frontier-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_frontier.png",
   "skills": [
     {
       "name": "CRUCIBLE OF PAIN",
@@ -80,8 +84,5 @@
         "• Deal Additional Random Damage to all enemies based on your MAX HP for each Beneficial Effect, including Golden effects, on self."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_frontier.png",
-  "id": "final-frontier-eddie-sentinel"
+  ]
 }

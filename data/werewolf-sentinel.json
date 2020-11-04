@@ -1,9 +1,13 @@
 {
+  "id": "werewolf-sentinel",
   "name": "Werewolf",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SAS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_sentinel.png",
   "skills": [
     {
       "name": "STRATEGIC MAULING",
@@ -36,8 +40,5 @@
         "Grant immunity to Permadeath and Perfect Death to all allies. Grant Increased Power and Fury generation for 2 turns to all allies at the start of battle. 25% Chance to counterattack enemies who attacked you or any ally."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_sentinel.png",
-  "id": "werewolf-sentinel"
+  ]
 }

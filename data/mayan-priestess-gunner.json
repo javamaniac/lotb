@@ -1,9 +1,13 @@
 {
+  "id": "mayan-priestess-gunner",
   "name": "Mayan Priestess",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SGS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_yellow.png",
   "skills": [
     {
       "name": "SIPHONING FLAME",
@@ -36,8 +40,5 @@
         "Instantly Revive Self with 60% HP upon death."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_yellow.png",
-  "id": "mayan-priestess-gunner"
+  ]
 }

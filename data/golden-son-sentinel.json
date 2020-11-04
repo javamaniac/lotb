@@ -1,9 +1,13 @@
 {
+  "id": "golden-son-sentinel",
   "name": "Golden Son",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/golden-son-sentinel/",
-  "awakenable": false,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/golden-son-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_golden_son_e.png",
   "skills": [
     {
       "name": "REJUVENATION",
@@ -32,8 +36,5 @@
         "Increase the effectiveness of healing for all allies at the start of battle for 3 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_golden_son_e.png",
-  "id": "golden-son-sentinel"
+  ]
 }

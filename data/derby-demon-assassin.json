@@ -1,9 +1,13 @@
 {
+  "id": "derby-demon-assassin",
   "name": "Derby Demon",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_assassin.png",
   "skills": [
     {
       "name": "HOOLIGAN",
@@ -36,8 +40,5 @@
         "Grants Immunity to Permadeath and Perfect Death to all allies. Grant 100% Critical Strike to all allies for 1 turn if Armor or Magic Penetration is active at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_assassin.png",
-  "id": "derby-demon-assassin"
+  ]
 }

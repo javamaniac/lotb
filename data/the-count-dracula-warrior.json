@@ -1,9 +1,13 @@
 {
+  "id": "the-count-dracula-warrior",
   "name": "The Count, Dracula",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-count-dracula-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GAG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-count-dracula-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_count_warrior.png",
   "skills": [
     {
       "name": "IMPALER",
@@ -40,8 +44,5 @@
         "Remove Negative Effects, including Silver Effects from all allies if Bleed or Perfect Bleed is present on any enemy at the start of your turn. Permanently Increase the MAX HP of all allies by 15% when you are healed. Take 15% of your MAX HP as true damage for each burn present on self at the start of your turn. Revive up to 2 random dead allies if your are at full health at the start of your turn and after each action."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_count_warrior.png",
-  "id": "the-count-dracula-warrior"
+  ]
 }

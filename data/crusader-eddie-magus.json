@@ -1,9 +1,13 @@
 {
+  "id": "crusader-eddie-magus",
   "name": "Crusader Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/crusader-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "SAS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/crusader-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_crusader.png",
   "skills": [
     {
       "name": "JUDGEMENT DAY",
@@ -84,8 +88,5 @@
         "• Grant Invulnerability to All Damage Types to all allies for 1 turn."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_crusader.png",
-  "id": "crusader-eddie-magus"
+  ]
 }

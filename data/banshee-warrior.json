@@ -1,9 +1,13 @@
 {
+  "id": "banshee-warrior",
   "name": "Banshee",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/banshee-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee.png",
   "skills": [
     {
       "name": "CHAINSAW",
@@ -36,8 +40,5 @@
         "Remove offensive effects from all enemies every turn. Gain a random Damage Invulnerability Effect if a Damage Reduction Shield is active at the start of your turn. Gain Perfect Immunity for the duration of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_banshee.png",
-  "id": "banshee-warrior"
+  ]
 }

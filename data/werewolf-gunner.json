@@ -1,9 +1,13 @@
 {
+  "id": "werewolf-gunner",
   "name": "Werewolf",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AGA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_gunner.png",
   "skills": [
     {
       "name": "YELLOWED FANGS",
@@ -39,8 +43,5 @@
         "Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies. Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_gunner.png",
-  "id": "werewolf-gunner"
+  ]
 }

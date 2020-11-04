@@ -1,9 +1,13 @@
 {
+  "id": "imp-assassin",
   "name": "Imp",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/imp-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/imp-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0038_Layer-4.png",
   "skills": [
     {
       "name": "CUT",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 4
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0038_Layer-4.png",
-  "id": "imp-assassin"
+  ]
 }

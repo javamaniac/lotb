@@ -1,9 +1,13 @@
 {
+  "id": "shardborne-assassin",
   "name": "Shardborne",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_assassin.png",
   "skills": [
     {
       "name": "SEARING FALL",
@@ -35,8 +39,5 @@
         "After an enemy gains an Extra Turn inflict Stop and Perfect Silence on them for 2 turns"
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_assassin.png",
-  "id": "shardborne-assassin"
+  ]
 }

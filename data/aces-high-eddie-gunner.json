@@ -1,9 +1,13 @@
 {
+  "id": "aces-high-eddie-gunner",
   "name": "Aces High Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/aces-high-eddie-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/aces-high-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pilot_210.png",
   "skills": [
     {
       "name": "DO OR DIE",
@@ -81,8 +85,5 @@
         "• Guard Shield reduces damage taken and increases Fury for every hit."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pilot_210.png",
-  "id": "aces-high-eddie-gunner"
+  ]
 }

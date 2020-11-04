@@ -1,9 +1,13 @@
 {
+  "id": "mitsuko-cosmic-shinobi-assassin",
   "name": "Mitsuko, Cosmic Shinobi",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/mitsuko-cosmic-shinobi-assassin/",
-  "awakenable": true,
   "class": "Assassin",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mitsuko-cosmic-shinobi-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobi_cosmic.png",
   "skills": [
     {
       "name": "CELESTIAL SHURIKEN",
@@ -37,8 +41,5 @@
         "Gain Class Advantage against all enemies. 40% Chance to grant Vanish to self and a random ally for 1 turn when you take damage. Inflict a random negative effect on up to 2 random enemies every turn for 2 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobi_cosmic.png",
-  "id": "mitsuko-cosmic-shinobi-assassin"
+  ]
 }

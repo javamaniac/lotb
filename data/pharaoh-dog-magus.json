@@ -1,9 +1,13 @@
 {
+  "id": "pharaoh-dog-magus",
   "name": "Pharaoh Dog",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-dog-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pharaoh-dog-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaoh_dog_84.png",
   "skills": [
     {
       "name": "PHARAOH'S CURSE",
@@ -34,8 +38,5 @@
         "Heals every ally whose HP is below 50% at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaoh_dog_84.png",
-  "id": "pharaoh-dog-magus"
+  ]
 }

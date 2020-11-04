@@ -1,9 +1,13 @@
 {
+  "id": "wicker-wolf-evolved-warrior",
   "name": "Wicker Wolf Evolved",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-wolf-evolved-warrior/",
-  "awakenable": true,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-wolf-evolved-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistcorrupt_wolf_red.png",
   "skills": [
     {
       "name": "WICKED REND",
@@ -38,8 +42,5 @@
         "Inflicts Furious Burn on all enemies for 2 turns at the start of battle. Inflicts Curse for 1 turn on enemies inflicted with Bleed at the start of your turn. Applies 3 Furious Burns for 2 turns to all enemies and Heal self for 100% Max HP when you kill an enemy."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistcorrupt_wolf_red.png",
-  "id": "wicker-wolf-evolved-warrior"
+  ]
 }

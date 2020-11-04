@@ -1,9 +1,13 @@
 {
+  "id": "gunnr-valhalla-maiden-gunner",
   "name": "Gunnr, Valhalla Maiden",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/gunnr-valhalla-maiden-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/gunnr-valhalla-maiden-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_valhalla_gunnr.png",
   "skills": [
     {
       "name": "ODIN'S CHOSEN",
@@ -36,8 +40,5 @@
         "Grant Ascension to all allies at the start of battle for the duration of battle. Grant Immunity to Cleave, Crave, Perfect Crave, and Doom to all allies. Prevent enemies from gaining Physical, Magic, and True Damage Block, Perfect Heal Shield, and Vanish effects. Revive each ally once with full HP when they die."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_valhalla_gunnr.png",
-  "id": "gunnr-valhalla-maiden-gunner"
+  ]
 }

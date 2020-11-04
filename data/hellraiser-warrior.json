@@ -1,9 +1,13 @@
 {
+  "id": "hellraiser-warrior",
   "name": "Hellraiser",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_red.png",
   "skills": [
     {
       "name": "CARNAGE",
@@ -32,8 +36,5 @@
         "At the start of your turn, Cleanse yourself, heal all allies for every negative effect currently on you, and have a 35% Chance to Cleanse negative effects from up to 2 allies."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_red.png",
-  "id": "hellraiser-warrior"
+  ]
 }

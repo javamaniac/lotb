@@ -1,9 +1,13 @@
 {
+  "id": "derby-demon-magus",
   "name": "Derby Demon",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_magus.png",
   "skills": [
     {
       "name": "DEPARTED",
@@ -34,8 +38,5 @@
         "Cleanse and Grant a Random Beneficial Effect to self or a random ally every turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_magus.png",
-  "id": "derby-demon-magus"
+  ]
 }

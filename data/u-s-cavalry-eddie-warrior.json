@@ -1,9 +1,13 @@
 {
+  "id": "u-s-cavalry-eddie-warrior",
   "name": "U.S. Cavalry Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/u-s-cavalry-eddie-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/u-s-cavalry-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_trooperUS.png",
   "skills": [
     {
       "name": "MIGHTY ROAR",
@@ -73,8 +77,5 @@
         "Grant Perfect Immunity and Echo to all allies for the duration of battle. Reduce the damage all allies take by 35%. Cleanse and Heal allies if Perfect Hit is active when you take an action."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_trooperUS.png",
-  "id": "u-s-cavalry-eddie-warrior"
+  ]
 }

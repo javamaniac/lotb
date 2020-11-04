@@ -1,9 +1,13 @@
 {
+  "id": "angel-of-death-assassin",
   "name": "Angel Of Death",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-death-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/angel-of-death-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wingeddemon_purple.png",
   "skills": [
     {
       "name": "LETHALITY",
@@ -34,8 +38,5 @@
         "Grant Endure to all allies at the start of battle for 3 turns. Grant Counterstrike to all allies for 2 turns and fully heal allies if any ally’s HP falls to zero."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wingeddemon_purple.png",
-  "id": "angel-of-death-assassin"
+  ]
 }

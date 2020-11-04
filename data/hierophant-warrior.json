@@ -1,9 +1,13 @@
 {
+  "id": "hierophant-warrior",
   "name": "Hierophant",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_red.png",
   "skills": [
     {
       "name": "KEYS TO HEAVEN",
@@ -36,8 +40,5 @@
         "Immune to Stun, Blind, and Silence. Absorbs all Physical Damage and returns it at the end of each turn to all enemies. Inflicts Stop and Seal on a random enemy every turn for 2 turns."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_red.png",
-  "id": "hierophant-warrior"
+  ]
 }

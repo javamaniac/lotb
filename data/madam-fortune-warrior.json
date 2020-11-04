@@ -1,9 +1,13 @@
 {
+  "id": "madam-fortune-warrior",
   "name": "Madam Fortune",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/madam-fortune-warrior/",
-  "awakenable": false,
   "class": "Warrior",
   "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/madam-fortune-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_madamfortune.png",
   "skills": [
     {
       "name": "CARTOMANCY",
@@ -36,8 +40,5 @@
         "Inflict Passive Disable or Perfect Disable on each enemy at the start of battle for the duration of battle. Grant Immunity to Crave and Perfect Crave to all allies. Heal all allies for 50% of MAX HP if Vanish is present at the start of your turn."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_madamfortune.png",
-  "id": "madam-fortune-warrior"
+  ]
 }

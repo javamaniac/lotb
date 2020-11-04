@@ -1,9 +1,13 @@
 {
+  "id": "procyon-cosmic-wolf-gunner",
   "name": "Procyon, Cosmic Wolf",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/procyon-cosmic-wolf-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/procyon-cosmic-wolf-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_blackdog_gunner.png",
   "skills": [
     {
       "name": "BRIGHT STAR",
@@ -35,8 +39,5 @@
         "50% Chance to Cleanse Negative Effects from self and Heal for 20% of your MAX HP when you take damage. Cleanse all allies, including Silver Effects and grant a Random Offensive Effect to any ally with the Dioscuri or Dog Star passive when you take damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_blackdog_gunner.png",
-  "id": "procyon-cosmic-wolf-gunner"
+  ]
 }

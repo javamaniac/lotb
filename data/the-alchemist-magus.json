@@ -1,9 +1,13 @@
 {
+  "id": "the-alchemist-magus",
   "name": "The Alchemist",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-alchemist-magus/",
-  "awakenable": true,
   "class": "Magus",
   "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-alchemist-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_alchemist.png",
   "skills": [
     {
       "name": "TRANSMUTATION",
@@ -38,8 +42,5 @@
         "• If allies die with Soul Protect, they will gain Ghost status and remain alive for 3 turns after death or until inflicted with Permadeath."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_alchemist.png",
-  "id": "the-alchemist-magus"
+  ]
 }

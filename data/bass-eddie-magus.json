@@ -1,9 +1,13 @@
 {
+  "id": "bass-eddie-magus",
   "name": "Bass Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/bass-eddie-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MGM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/bass-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_bass.png",
   "skills": [
     {
       "name": "JUDAS",
@@ -92,8 +96,5 @@
         "• 50% Chance to Steal a Random Golden Effect from a random enemy."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_bass.png",
-  "id": "bass-eddie-magus"
+  ]
 }

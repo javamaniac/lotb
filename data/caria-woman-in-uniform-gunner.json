@@ -1,9 +1,13 @@
 {
+  "id": "caria-woman-in-uniform-gunner",
   "name": "Caria, Woman In Uniform",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/caria-woman-in-uniform-gunner/",
-  "awakenable": false,
   "class": "Gunner",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGG",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/caria-woman-in-uniform-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_gunner.png",
   "skills": [
     {
       "name": "DEPLETED ROUNDS",
@@ -36,8 +40,5 @@
         "Grant Full Power and Fury to team after the first action in battle. Grant Golden Trap to all allies for the duration of battle at the start of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_gunner.png",
-  "id": "caria-woman-in-uniform-gunner"
+  ]
 }

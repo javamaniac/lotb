@@ -1,9 +1,13 @@
 {
+  "id": "haunted-pumpkin-assassin",
   "name": "Haunted Pumpkin",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/haunted-pumpkin-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SAS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/haunted-pumpkin-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pumpkin_assassin.png",
   "skills": [
     {
       "name": "DUST",
@@ -34,8 +38,5 @@
         "Shatters upon death, applying 4 Marks to all enemies. Marks can be consumed with Perfect Hits to deal true damage."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pumpkin_assassin.png",
-  "id": "haunted-pumpkin-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "beast-eddie-assassin",
   "name": "Beast Eddie",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/beast-eddie-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/beast-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tourbeast.png",
   "skills": [
     {
       "name": "BAPHOMET'S FIRE",
@@ -78,8 +82,5 @@
         "• Remove All Negative Effects from allies, including Silver Effects."
       ]
     }
-  ],
-  "eddie": true,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tourbeast.png",
-  "id": "beast-eddie-assassin"
+  ]
 }

@@ -1,9 +1,13 @@
 {
+  "id": "convict-magus",
   "name": "Convict",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/convict-magus/",
-  "awakenable": false,
   "class": "Magus",
   "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSM",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/convict-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_prisonergirl_blue.png",
   "skills": [
     {
       "name": "SHIV",
@@ -35,8 +39,5 @@
         "Grants Immunity to Silence and Crave effects to all allies. Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_prisonergirl_blue.png",
-  "id": "convict-magus"
+  ]
 }

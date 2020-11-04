@@ -1,9 +1,13 @@
 {
+  "id": "desert-rider-assassin",
   "name": "Desert Rider",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-rider-assassin/",
-  "awakenable": false,
   "class": "Assassin",
   "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-rider-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_nomadwarrior_430.png",
   "skills": [
     {
       "name": "RIDE",
@@ -25,8 +29,5 @@
       ],
       "powerCost": 4
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_nomadwarrior_430.png",
-  "id": "desert-rider-assassin"
+  ]
 }

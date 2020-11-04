@@ -1,9 +1,13 @@
 {
+  "id": "wicker-ox-evolved-sentinel",
   "name": "Wicker Ox Evolved",
-  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-ox-evolved-sentinel/",
-  "awakenable": true,
   "class": "Sentinel",
   "stars": 4,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "SSS",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/wicker-ox-evolved-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistcorrupt_ox_green.png",
   "skills": [
     {
       "name": "FESTERING CUT",
@@ -36,8 +40,5 @@
         "Remove Silver Effects from self every turn. Heal allies for 5% Max HP for every 20% of your Missing HP every turn. Remove Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect, and apply Perfect Corruption to all enemies for 2 turns on death. Cleanse and grant Perfect Heal Shield to all allies for 2 turns on death."
       ]
     }
-  ],
-  "eddie": false,
-  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_woodcultistcorrupt_ox_green.png",
-  "id": "wicker-ox-evolved-sentinel"
+  ]
 }
