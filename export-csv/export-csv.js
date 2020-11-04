@@ -2,10 +2,8 @@ const { forEachJsonFile, getSkill, getJsonCharacter } = require('../tools/tools'
 const fs = require('fs')
 
 ;(async () => {
-  // console.log(`id\tname\tclass","stars","awakenable","eddie","basic","passive","power","fury"`)
-
   const data = [
-    'id\tname\tclass\tstars\tawakenable\teddie\tbasic\tpassive\tpower\tfury'
+    'id\tname\tclass\tstars\teddie\tawakenable\ttalismans\tbasic\tpower\tpassive\tfury'
   ]
   let cpt = 0
 
@@ -18,8 +16,9 @@ const fs = require('fs')
       name,
       class: classe,
       stars,
+      eddie,
       awakenable,
-      eddie
+      talismans,
     } = character
 
     const locatGetSkill = (character, type) => {
@@ -31,11 +30,12 @@ const fs = require('fs')
       name,
       classe,
       stars,
-      awakenable,
       eddie,
+      awakenable,
+      talismans,
       locatGetSkill(character, 'Basic'),
-      locatGetSkill(character, 'Passive'),
       locatGetSkill(character, 'Power'),
+      locatGetSkill(character, 'Passive'),
       locatGetSkill(character, 'Fury')
     ]
 
@@ -45,7 +45,7 @@ const fs = require('fs')
 
   console.log('end!')
 
-  const fileOutput = `character.csv`
+  const fileOutput = `characters.csv`
   // const data = JSON.stringify(data, null, 2)
   fs.writeFileSync(fileOutput, data.join('\n'))
   console.log(` > ${fileOutput} created`)

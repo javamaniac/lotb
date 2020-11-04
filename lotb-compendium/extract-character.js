@@ -6,6 +6,7 @@ let browser = null
 let page = null
 
 async function run (url) {
+
   // return new Promise(async (resolve, reject) => {
   if (!browser) {
     browser = await puppeteer.launch({
@@ -22,7 +23,6 @@ async function run (url) {
 
   console.log(`Parsing ${id}...`)
   const character = await page.evaluate(parseCharacter)
-  character.id = id
 
   const exportJson = true
   if (exportJson) {
@@ -30,6 +30,11 @@ async function run (url) {
     const data = JSON.stringify(character, null, 2)
     fs.writeFileSync(fileOutput, data)
     console.log(` > ${fileOutput} created`)
+  }
+
+  const debug = false
+  if (debug) {
+    console.log(character)
   }
 
   return character
@@ -43,3 +48,5 @@ function generateId(href) {
 }
 
 module.exports.run = run
+
+// run('http://www.news.maiden-lotb.com/n3/character-en/daedalus-warrior/')

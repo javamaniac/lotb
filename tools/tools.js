@@ -51,15 +51,27 @@ const forEachJsonFile = async (fn) => {
 
 /**
  *
- * @param {*} character
- * @param {*} type
+ * @param {Object} character
+ * @param {String} SkillType
  */
-const getSkill = (character, type) => {
+const getSkill = (character, SkillType) => {
+
+
   const filtered = character.skills
-    .filter(skill => skill.type === type)
-  if (!filtered) {
+    .filter(skill => skill.type === SkillType)
+
+  if (!filtered || !filtered[0]) {
     return []
   }
+
+  if (SkillType === 'Passive') {
+    // Fix passive description
+    const desc = filtered[0].desc
+    if (desc.length === 1) {
+      filtered[0].desc = desc[0].split('. ')
+    }
+  }
+
   const skills = []
   filtered.forEach((skill) => skills.push(...skill.desc))
   return skills
