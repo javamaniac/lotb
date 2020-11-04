@@ -2,9 +2,11 @@ const { forEachJsonFile, getSkill, getJsonCharacter } = require('../tools/tools'
 const fs = require('fs')
 
 ;(async () => {
-  console.log(`id\tname\tclass","stars","awakenable","eddie","basic","passive","power","fury"`)
+  // console.log(`id\tname\tclass","stars","awakenable","eddie","basic","passive","power","fury"`)
 
-  const data = []
+  const data = [
+    'id\tname\tclass\tstars\tawakenable\teddie\tbasic\tpassive\tpower\tfury'
+  ]
   let cpt = 0
 
   // await forEachJsonFile(character => {
@@ -35,10 +37,6 @@ const fs = require('fs')
       locatGetSkill(character, 'Passive'),
       locatGetSkill(character, 'Power'),
       locatGetSkill(character, 'Fury')
-      // '"' + getSkill(character, 'Basic').join('\n') + '"',
-      // '"' + getSkill(character, 'Passive').join('\n') + '"',
-      // '"' + getSkill(character, 'Power').join('\n') + '"',
-      // '"' + getSkill(character, 'Fury').join('\n') + '"'
     ]
 
     // console.log(output.join('\t'))
