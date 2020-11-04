@@ -26,7 +26,10 @@ const parse = () => {
     slotList.forEach(slot => {
       slotsCode += talismanMapping[slot]
     })
-    return slotsCode
+
+    // trier
+    slotsCode = slotsCode.split('').sort().join('')
+    return (slotsCode + '......').substring(0, 6)
   }
 
   const getSkills = () => {
