@@ -7,8 +7,7 @@ const parse = () => {
     stars: Number.parseInt(document.querySelector('.stars img').src.split('star0')[1][0]),
     skills: [],
     eddie: document.querySelectorAll('.skill-table-border-top').length === 7,
-    stars: Number.parseInt(document.querySelector('.stars img').src.split('star0')[1][0]),
-    image: document.querySelector('.ch-postpage-thumb img').src    
+    image: document.querySelector('.ch-postpage-thumb img').src
   }
 
   // skills
