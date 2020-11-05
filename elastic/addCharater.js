@@ -100,16 +100,19 @@ const addCharacter = (character) => {
       .join(' | ')
   }
 
+  const body =  {
+    ...character,
+    basicSkills: getSkill('Basic'),
+    powerSkills: getSkill('Power'),
+    passiveSkills: getSkill('Passive'),
+    furySkills: getSkill('Fury')
+  }
+
+  // TODO diviser dans index document
   client.index({
     index: 'lotb-character',
     id: character.id,
-    body: {
-      ...character,
-      basicSkills: getSkill('Basic'),
-      powerSkills: getSkill('Power'),
-      passiveSkills: getSkill('Passive'),
-      furySkills: getSkill('Fury')
-    }
+    body
   }, function (err, resp, status) {
     console.log(resp)
   })  
