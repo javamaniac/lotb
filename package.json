@@ -9,7 +9,6 @@
     "create-index": "node elastic/create-index.js",
     "index-characters": "node elastic/addCharaters.js",
     "export:csv-characters": "node export-csv/export-csv.js",
-
     "update:data": "node char-crawler.js",
     "index:data": "node char-crawler.js",
     "fix:nvm": "nvm use --delete-prefix v12.18.3",
@@ -22,5 +21,8 @@
     "elasticsearch": "^16.7.1",
     "get-json": "^1.0.1",
     "headless-chrome-crawler": "^1.8.0"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.9.1"
   }
 }
