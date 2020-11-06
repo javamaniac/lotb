@@ -25,6 +25,10 @@ const fs = require('fs')
       return '"' + getSkill(character, type).join('\n') + '"'
     }
 
+    const getTalisman = (talismans) => {
+
+    }
+
     const output = [
       id,
       name,
@@ -33,6 +37,7 @@ const fs = require('fs')
       eddie,
       awakenable,
       talismans,
+      // getTalisman(talismans),
       locatGetSkill(character, 'Basic'),
       locatGetSkill(character, 'Power'),
       locatGetSkill(character, 'Passive'),
