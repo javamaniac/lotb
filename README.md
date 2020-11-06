@@ -40,19 +40,6 @@ http://localhost:5601
 
 http://www.searchly.com/pricing
 
-Créer un index
-
-    curl -XPUT https://site:e8ebe406ebf8f8eb8d6d4cf2b079fd20@oin-us-east-1.searchly.com/lotb-character
-
-Ajouter un document
-
-    // ne fonctionne pas
-    curl -XPOST https://site:e8ebe406ebf8f8eb8d6d4cf2b079fd20@oin-us-east-1.searchly.com/lotb-character -d '{ "name":"first article","owner": "me" }'
-
-Faire une recherche 
-
-    curl -XGET https://site:e8ebe406ebf8f8eb8d6d4cf2b079fd20@oin-us-east-1.searchly.com/lotb-character/_search?q=name:eddie
-
 ## Elastic
 
 ### msearch
