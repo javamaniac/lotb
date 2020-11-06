@@ -40,6 +40,19 @@ http://localhost:5601
 
 http://www.searchly.com/pricing
 
+Créer un index
+
+    curl -XPUT https://xyz.searchly.com/lotb-character
+
+Ajouter un document
+
+    // ne fonctionne pas
+    curl -XPOST https://xyz.searchly.com/lotb-character -d '{ "name":"first article","owner": "me" }'
+
+Faire une recherche 
+
+    curl -XGET https://xyz.searchly.com/lotb-character/_search?q=name:eddie
+
 ## Elastic
 
 ### msearch
