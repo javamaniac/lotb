@@ -1,0 +1,52 @@
+Revive Upon death with full HP and Invincibility for x turns.
+Revive a dead ally and grant them Shroud status for x turns.
+Revive a dead ally with x% HP.
+Revive a random ally at the start of your turn for each enemy that has 5 or more beneficial or golden effects.
+Revive a random ally for each effect removed.
+Revive a random ally to FULL HP.
+Revive a random ally when any ally dies.
+Revive a random ally with Full HP and grant them Perfect Immunity and Ascension for x turns for each enemy suffering from Fear, Sleep or Blind effects, including Silver and Innate effects.
+Revive a random ally with full HP for every Golden effect removed.
+Revive a random ally with full HP if any enemy has at least 3 or more Burn effects at the start of your turn.
+Revive a random ally with full HP when you Revive.
+Revive a random ally with full HP.
+Revive a random ally with x% HP.
+Revive a random dead ally for each instance of Immunity present on the enemy.
+Revive a random dead ally with Ascension, Perfect Heal Shield, and x% Critical Strike Chance for x turns. Instantly grant them an Extra Turn.
+Revive a random dead ally with Full HP.
+Revive a random dead ally with full HP.
+Revive a random dead ally with x% HP and Heal each ally for x% of their MAX HP for each enemy that lacks Silver Effects.
+Revive a random dead ally with x% HP.
+Revive a random dead ally.
+Revive all allies to FULL HP and grant them an Extra Turn.
+Revive all allies upon death.
+Revive all allies with full HP and grant them Perfect Cleanse, Ascension, and Sacrifice for x turns. Instantly Gain an Extra Turn.
+Revive all allies with full HP if you have Lifesteal active.
+Revive all allies with full HP.
+Revive all allies with full Hp and grant each ally an Extra Turn and Immunity to Permadeath and Apparition effects, including innate and Silver versions, until they die if any negative effects are present on self.
+Revive all allies with x% HP and a grant them a Heal Shield for x turns.
+Revive all allies with x% HP.
+Revive all allies.
+Revive all dead allies with x% HP.
+Revive an ally with Full HP.
+Revive and Heal all allies.
+Revive any ally that dies while you are alive once each round.
+Revive each ally once with full HP when they die.
+Revive self and all allies upon death with full HP.
+Revive self upon death and transform all beneficial effects on enemies into Stop, Perfect Corruption, and Punishment 3 turns.
+Revive the first ally that dies in battle and grant them Perfect Immunity and Perfect Immortality for x turns.
+Revive the first three allies that die with Full HP and grant them Endure and Perfect Heal Shield for the duration of battle.
+Revive up to x dead allies.
+Revive up to x random allies with x% HP.
+Revive up to x random dead allies if your are at full health at the start of your turn and after each action.
+Revive with Full HP grant Magic Damage Charge to all allies for the duration of battle, upon death.
+Revive with Perfect Immunity and Invincibility on self for x turns.
+Revive with full HP upon death and immediately gain an Extra Turn if it’s still your team’s turn.
+Revive with full HP, Magma Shield, Increased Power Generation, Class Advantage and Echo for the duration of battle and grant all other allies Magma Shield for x turns upon death.
+Revive with full HP, Remove all golden effects from each enemy, and inflict x Time Bombs for x turns when you die.
+Revive with x% HP and Ascension for x turns upon death.
+Revive with x% HP upon death.
+Revives a fallen ally with full HP.
+Revives a random ally.
+Revives all allies with full HP.
+Revives all allies.

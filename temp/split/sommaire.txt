@@ -1,0 +1,13 @@
+into ___
+inflict(s) * ___
+to ___
+
+immune to * ___
+immunity to * ___
+
+remove * ___
+
+
+___    (blind)
+___s   (blinds)
+___ing (blinding)

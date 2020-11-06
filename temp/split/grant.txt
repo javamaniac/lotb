@@ -1,0 +1,339 @@
+Grant 1x Power and Echo to all allies for x turns if any enemy has Perfect Bleed active.
+Grant 2 stacks of HP Regen to all allies for x turns.
+Grant 3 Random Beneficial Effects to all allies for x turns.
+Grant 3 Random Beneficial and Golden Effects to each ally for x turns after every action.
+Grant 3 stacks of HP Regen to all allies for x turns.
+Grant ATK UP to all allies at the start of battle for x turns.
+Grant ATK Up to all allies for x turns.
+Grant Accuracy Up on each ally for x turns if they lack negative effects.
+Grant Accuracy Up to all allies.
+Grant Accuracy Up to self and a random ally for 2-4 turns.
+Grant Accuracy Up to self and a random ally for x turns.
+Grant Armor Penetration and Attack Up to all allies for x turns.
+Grant Armor Penetration to allies for x turns.
+Grant Armor and Magic Penetration to all allies for x turns.
+Grant Armor and Magic Penetration to each ally for x turns.
+Grant Ascension and Class Advantage to all allies for x turns.
+Grant Ascension and Perfect Immortality to each ally for x turns if Vanish is present at the start of your turn.
+Grant Ascension to all Ghosted allies for x turns at the start of your turn.
+Grant Ascension to all allies at the start of battle for the duration of battle.
+Grant Ascension to all allies for x turns if any enemies are inflicted with Sleep at the beginning of your turn.
+Grant Ascension to all allies for x turns if the target’s HP is below 50%.
+Grant Ascension to all allies for x turns.
+Grant Ascension to self for x turns.
+Grant Attack Up and Magic Up to all allies and inflict Attack Down and Magic Down on all enemies for x turns.
+Grant Attack Up and Magic Up to all allies for x turns.
+Grant Attack Up and x% Critical Strike Chance chance to all allies for x turns.
+Grant Attack Up to all allies for x turns.
+Grant Blizzard Shield to all allies for x turns.
+Grant Blizzard Shield to self and up to x allies.
+Grant Charge and x% Critical Strike Chance to all allies for x turns if at x% HP or below.
+Grant Charge to all allies if you or any ally is below x% Max HP at the start of your turn.
+Grant Charge to allies for x turns.
+Grant Charge, Perfect Immortality, Increased Fury Generation and Increased Power Generation to all allies for x turns.
+Grant Class Advantage and HP Regen to all allies for x turns at the start of battle.
+Grant Class Advantage to all allies for x turns.
+Grant Cleanse and Trap to all allies for x turns.
+Grant Cleanse status for x turns and Heal all allies for x% of their MAX HP every turn.
+Grant Cleanse status to all allies for x turns.
+Grant Counter Strike and Echo to all allies for x turns.
+Grant Counterstrike to all allies for x turns and fully heal allies if any ally’s HP falls to zero.
+Grant Counterstrike to all allies if this attack kills an enemy.
+Grant Critical Strike Chance to allies for x turns.
+Grant Critical Strike Chance to self and a random ally for x turns at the start of your turn.
+Grant DEF Charge to self and immediately grant Increased DEF to all allies for x turns.
+Grant DEF and MR Charge to all allies and immediately grant Increased DEF and MR to all allies.
+Grant DEF and MR UP to all allies for x turns.
+Grant Damage Reduction Shield to all allies for x turns.
+Grant Damage Reflect Shield to all allies for x turns.
+Grant Defense Up and MR Up to all allies for x turns.
+Grant Disruption Shield to all allies for x turns.
+Grant Echo status to self and a random ally for x turns if Perfect Hit is present at the start of your turn.
+Grant Echo to all allies for x turns if any enemy is inflicted with Stun or Perfect Stun.
+Grant Echo to all allies for x turns.
+Grant Echo to each ally for x turns if they have no negative effects.
+Grant Endure and Echo to all allies for x turns when you reach 1 HP.
+Grant Endure and Immunity to allies below x% HP for x turns at the start of each turn.
+Grant Endure and Perfect Immunity to all allies for x turns at the start of battle.
+Grant Endure to all allies at the start of battle for x turns.
+Grant Endure to all allies for x turns.
+Grant Endure to allies for x turns.
+Grant Endure to self for x turns.
+Grant Endure, Immunity and Trap to all allies for x turns if at x% HP or below.
+Grant Extra Turn to all allies.
+Grant Force Shield or Titan Shield to each ally for x turns.
+Grant Force Shield to all allies.
+Grant Full Power and Fury to team after the first action in battle.
+Grant Golden Hit and a Random Golden Defensive Effect to self and a random ally for x turns when you take damage.
+Grant Golden Hit buff to self and random ally for x turns.
+Grant Golden Hit to all allies for the duration of battle.
+Grant Golden Hit to all allies for x turns.
+Grant Golden Hit to each ally for x turns.
+Grant Golden Hit, Increased Fury Generation and Perfect Titan Shield to all allies for x turns.
+Grant Golden Trap to all allies for the duration of battle at the start of battle.
+Grant Golden Trap to all allies for x turns.
+Grant Golden Trap to each ally for x turns if any target lacks Silver Effects.
+Grant Guard Shield to all allies for x turns.
+Grant Guard Shield, MAGIC UP, and Magic Penetration to all allies for x turns.
+Grant HP Regen to all allies for x turns and inflict Unblockable Stun on the target for x turns if Time Bomb effects are active on self.
+Grant HP Regen to all allies for x turns.
+Grant HP Regen to self for x turns.
+Grant Heal Amp to all allies for x turns.
+Grant Heal Amp, Lifesteal, and Spellvamp to all allies, but not self, for x turns.
+Grant Heal Shield for self and up to x allies on Perfect Hits.
+Grant Heal Shield to allies for x turns.
+Grant Heal Shield, Defense Up and MR Up to all allies for x turns.
+Grant Life Steal, Spell Vamp, and Increased DEF and MR to all allies for x turns.
+Grant Lifesteal for x turns to self and up to x allies.
+Grant Lifesteal, Spellvamp and Echo to all allies for x turns.
+Grant MAGIC UP to all allies for x turns.
+Grant MAGIC, DEF and MR Charge to all allies for the duration of battle.
+Grant MR Charge to all allies for x turns.
+Grant MR Up to all allies for x turns.
+Grant Magic Charge to all allies for x turns if Magic Penetration is active on any ally at the start of your turn.
+Grant Magic Penetration and Increased Accuracy at the start of battle to all allies for x turns.
+Grant Magic Penetration to all allies for x turns at the start of battle.
+Grant Magic Up to all allies for x turns.
+Grant Magma Shield to all allies for a turn.
+Grant Magma Shield to all allies for x turns at the start of battle.
+Grant Magma Shield to all allies for x turns.
+Grant Perfect Accuracy Up to all allies for x turns at the start of battle.
+Grant Perfect Accuracy Up to all allies for x turns.
+Grant Perfect Accuracy and Counterstrike to all allies for x turns.
+Grant Perfect Accuracy to all allies for x turns.
+Grant Perfect Cleanse and Soul Protect to all allies for x turns.
+Grant Perfect Cleanse and a Random Golden Effect to each ally for x turns whenever an enemy is killed.
+Grant Perfect Force Shield to each ally for x turns at the start of battle.
+Grant Perfect Heal Shield and Counterstrike to all allies for x turns if any enemy is currently taunted.
+Grant Perfect Heal Shield and Golden Trap to all allies for x turns.
+Grant Perfect Heal Shield and Immunity to all allies for x turns.
+Grant Perfect Heal Shield if Increased Max HP or Perfect Health is active at the start of your turn.
+Grant Perfect Heal Shield to all allies for x turns at the start of battle.
+Grant Perfect Heal Shield to all allies for x turns.
+Grant Perfect Heal Shield, Lifesteal and Spellvamp to all allies for x turns.
+Grant Perfect Health and Immunity to Silver Effects to all allies for the first 3 turns of battle.
+Grant Perfect Health and Soul Protect to each ally for x turns.
+Grant Perfect Health to all allies for x turns.
+Grant Perfect Health to self and a random ally for x turns.
+Grant Perfect Health to self for x turns.
+Grant Perfect Health, Perfect Immunity, and Perfect Revenge to all allies for x turns.
+Grant Perfect Hit to a target ally for x turns.
+Grant Perfect Hit, Life Steal, and Spell Vamp status to all allies for x turns.
+Grant Perfect Immortality and Magic Charge to all allies for x turns.
+Grant Perfect Immortality to all allies for x turns at the start of battle.
+Grant Perfect Immortality to all allies for x turns.
+Grant Perfect Immunity and Echo to all allies for the duration of battle.
+Grant Perfect Immunity and Endure to all allies for x turns.
+Grant Perfect Immunity and Perfect Titan Shield to all allies for x turns.
+Grant Perfect Immunity to all allies for x turns and Increased Accuracy for the duration of battle at the start of battle.
+Grant Perfect Immunity to all allies for x turns at the start of battle and to self for the duration of battle.
+Grant Perfect Immunity to all allies for x turns if Vanish is present on self at the start of your turn.
+Grant Perfect Immunity to all allies for x turns if an effect is removed.
+Grant Perfect Immunity to all allies for x turns.
+Grant Perfect Immunity, Endure and Charge to all allies for x turns.
+Grant Perfect Immunity, Golden Hit and Accuracy Up to all allies for x turns.
+Grant Perfect Revenge and Ascension to all allies for the duration of battle if Lady Azov or Baroness Redan are alive on your team at the start of battle and at the start of your turn.
+Grant Perfect Revenge and Golden Hit for the duration of battle until they die.
+Grant Perfect Titan Shield and Cleanse to all allies for x turns.
+Grant Perfect Titan Shield to all allies for x turns at the start of battle.
+Grant Perfect Titan Shield to all allies for x turns if the target has Increased Max HP or Perfect Health active.
+Grant Perfect Titan Shield to all allies for x turns.
+Grant Perfect Vanish to all allies for x turns.
+Grant Physical Charge and Invincibility to all allies for x turns if the target is suffering from Bleed.
+Grant Physical Shield and Magic Shield to all allies for x turns.
+Grant Physical and Magic Penetration to all allies for x turns.
+Grant Physical, Magic, and True Block to the revived ally for x turns.
+Grant Physical, Magic, and True Charge to all allies for the duration of battle.
+Grant Physical, Magic, and True Damage Invulnerability to self for x turns.
+Grant Physical, Magic, or True Block to all allies for the duration of the battle.
+Grant Physical, Magic, or True Damage Block to all allies for the duration of battle.
+Grant Physical, Magic, or True Damage Invulnerability to each ally for x turns.
+Grant Power Shield to allies for x turns.
+Grant Power Shield, Trap, Golden Trap and a 5 Hit Innate Force Shield to all allies for x turns.
+Grant Reflect Shield to a target ally 1 turn.
+Grant Reflect Shield to all allies for x turns
+Grant Reflect Shield to all allies for x turns.
+Grant Reflect Shield to self and a random ally for x turns.
+Grant Regen HP, True Shield, and Damage Reduction Shield to all allies for x turns.
+Grant Regen for x turns to all allies below x% HP.
+Grant Regen to all allies for the duration of battle.
+Grant Regen to all allies for x turns.
+Grant Regen to self and a random ally for x turns.
+Grant Revenge and Power Shield to all allies for x turns.
+Grant Revenge to all allies for x turns at the start of battle and start of your turn.
+Grant Revenge to all allies for x turns.
+Grant Sacrifice and Perfect Immortality to all allies for x turns if at x% HP or below.
+Grant Sacrifice to all allies for x turns.
+Grant Sacrifice, Golden Hit, Perfect Revenge and Class Advantage to all allies for x turns.
+Grant Sleep Shield to all allies for x turns.
+Grant Snow Shield to all allies at the start of battle.
+Grant Soul Protect to all allies for the duration of the battle at the start of battle.
+Grant Spell Vamp and Life Steal to all allies for x turns.
+Grant Spell Vamp or Life Steal to each ally at the start of your turn.
+Grant Spell Vamp, Life Steal, and Echo status to each ally for x turns.
+Grant Stone Shield to all allies for x turns.
+Grant Thorn Shield to each ally for x turns.
+Grant Trap and Golden Hit to self and a random ally for x turns.
+Grant Trap status to all allies for x turns.
+Grant Trap, Golden Trap, Perfect Immunity and Invincibility to all allies for x turns.
+Grant True Shield to all allies for x turns.
+Grant Vanish to a random ally.
+Grant Vanish to all allies for x turns if Vanish is present at the start of your turn.
+Grant Vanish to self and a random ally for x turns every action.
+Grant Vanish to self for x turns.
+Grant Vanish to up to x random allies for x turns after every action.
+Grant a Damage Reduction Shield to each ally below x% HP at the start of your turn for the duration of the battle.
+Grant a Damage Reflect Shield to each ally for x turns.
+Grant a Force Shield to all allies for x turns.
+Grant a Heal Shield to each ally for x turns.
+Grant a Magma Shield to all allies at the start of each turn for x turns.
+Grant a Physical, Magic, or True Block to each ally if Regen is present at the start of your turn.
+Grant a Random Beneficial Effect to each ally for x turns.
+Grant a Random Beneficial Effect to each ally, but not self.
+Grant a Random Beneficial Effect, including Golden Effects to allies with Cleanse or Immunity status active.
+Grant a Random Beneficial Effect, including Golden Effects, for each Negative Effect removed.
+Grant a Random Defensive Effect to all allies for 1 or 2 turns.
+Grant a Random Defensive Effect to self and a random ally each hit.
+Grant a Random Golden Defensive Effect to all allies for 1 or 2 turns.
+Grant a Random Golden Effect for each Golden Effect currently on each ally.
+Grant a Random Heal Effect to each ally for x turns.
+Grant a Random Healing Effect to each ally for x turns.
+Grant a Random Offensive Effect to each ally and Heal them based on your MAX HP if any enemy is below x% health.
+Grant a Random Offensive Effect to each ally for each Burn on the target.
+Grant a Random Offensive Effect to each ally for x turns and Remove All Shield and Invincibility Effects, including Vanish effects, from all enemies if the target is killed.
+Grant a Random Offensive Effect to each ally for x turns.
+Grant a Random Offensive Effect to each ally.
+Grant a Random Offensive Effect to self and a random ally for x turns.
+Grant a Random Offensive Effect to self for x turns and Remove All Shields and Invincibility Effects, including Vanish effects, from the target before dealing damage.
+Grant a Random Offensive Golden Effect to a random ally for the duration of battle if there are no Golden Effects currently on the ally.
+Grant a Random Offensive effect to each ally for x turns.
+Grant a Random Shield to each ally for x turns.
+Grant a Sleep Shield to all allies for x turns.
+Grant a Snow Shield to a random ally for x turns if any enemy is already inflicted with Freeze.
+Grant a random Beneficial Heal Effect to all allies and inflicts a Random Negative Effect on enemies for each target that is stunned.
+Grant a random ally Perfect Revenge for the duration of battle when any other ally dies.
+Grant a random ally, not including self, an Extra Turn every action.
+Grant a random beneficial effect to each ally at the start of battle for x turns.
+Grant a random shield to all allies for x turns at the start of battle.
+Grant all allies Echo for x turns.
+Grant all allies Immunity to Passive Disable effects until they die and a Random Offensive and Defensive Effect, including Golden effects, for x turns at the start of your turn.
+Grant all allies Perfect Vanish and Golden Trap for x turns at the start of battle.
+Grant all allies a Random Defensive Effect for each enemy successfully inflicted with Decreased MAX HP.
+Grant all other characters, including enemies but not self, a random Golden Beneficial Effect for the duration of battle at the start of battle.
+Grant an Innate Titan Shield equal to x% of your MAX HP to all allies for the duration of battle.
+Grant each ally Ghost for x turns when they die.
+Grant each ally immunity to a random damage type at the start of your turn.
+Grant immunity to Doom, Permadeath, Perfect Death as well as all skills that prevent revive, with the exception of Ghost effects, to all allies.
+Grant immunity to Fear, Permadeath, and Doom to all allies.
+Grant immunity to Max HP Decrease effects to all allies at the start of battle and at the start of your turn.
+Grant immunity to Permadeath and Perfect Death to all allies.
+Grant immunity to Sleep and Perfect Sleep to all allies.
+Grant immunity to passive disable to all allies after the first turn of battle.
+Grant self Revenge for x turns.
+Grant up to x Random Shield Effects to random allies for x turns
+Grant x Power to each ally.
+Grant x% Critical Strike Chance to all allies for x turns if any Bleed effect is present on the target.
+Grant x% Critical Strike Chance to all allies if any enemy is currently stunned.
+Grant x% Critical Strike to all allies for x turns if Armor or Magic Penetration is active at the start of your turn.
+Grant your allies a x% chance to avoid damage when they are attacked.
+Grant your enemies three wishes in exchange for an Extra Turn.
+Grants ATK Increase for x turns.
+Grants Armor Penetration for x turns.
+Grants Armor Penetration to all allies for x turns.
+Grants Armor and Magic Penetration.
+Grants Ascension to all allies for x turns.
+Grants Charge and Golden Hit to allies suffering from Blind or Taunt effects for x turns at the start of your turn.
+Grants Charge to all allies for x turns.
+Grants Charge to all other allies that have the Dioscuri passive for x turns.
+Grants Cleanse to all allies for x turns.
+Grants Counter Strike to all allies for x turns.
+Grants Critical Strike Chance to all allies for x turns.
+Grants Cyclone Shield to all allies for x turns.
+Grants Cyclone Shield to self for the duration of the battle.
+Grants Damage Reduction Shield for x turns.
+Grants Damage Reduction Shield to all allies for x turns.
+Grants Echo status for x turns.
+Grants Echo status to all allies for x turns.
+Grants Echo to self for x turns.
+Grants Endure and Perfect Immunity to all allies for x turns.
+Grants Endure to an ally for x turns.
+Grants Endure to self and a target ally.
+Grants Endure, Immunity, or Invincibility status to all allies.
+Grants Force Shield for x turns.
+Grants Guard Shield to all allies for x turns.
+Grants Heal Amp for x turns.
+Grants Heal Amp to all allies for x turns.
+Grants Heal Amp to self for x turns at the start of battle and start of your turn.
+Grants Heal Shield to all allies for x turns.
+Grants Heal Shield to all allies.
+Grants Invincibility for x turns and Power Generation for x turns if Attack Up is present.
+Grants Invincibility to all allies for x turns.
+Grants Invincibility to allies for x turns.
+Grants Lifesteal and Healing Amp to all allies for x turns.
+Grants Lifesteal for x turns.
+Grants Lifesteal status to all allies at the start of battle.
+Grants Lifesteal status to all allies for x turns.
+Grants Lifesteal to all allies for x turns.
+Grants Lifesteal to all allies.
+Grants MAGIC Increase for x turns.
+Grants Magic Charge to all allies for x turns.
+Grants Magic Charge to random ally for x turns.
+Grants Perfect Accuracy, Perfect Health, and Increase ATK, MAGIC, DEF, and MR to all allies for x turns at the start of battle.
+Grants Perfect Health and Perfect Immunity to all allies for x turns.
+Grants Perfect Hit status to all allies for x turns.
+Grants Perfect Hit to all allies for x turns.
+Grants Perfect Hit to all allies.
+Grants Perfect Immortality and Power Generation to self for the duration of the battle.
+Grants Perfect Immortality and x% Critical Strike to any other ally that has the Dioscuri passive at the start of your turn for x turns.
+Grants Perfect Immortality if Critical Strike status is present at the start of your turn.
+Grants Perfect Immortality to all allies for the duration of the battle.
+Grants Perfect Immortality, Sacrifice, and Perfect Accuracy to all allies for x turns.
+Grants Perfect Immunity to all allies for x turns, before dealing damage.
+Grants Perfect Immunity to all allies for x turns.
+Grants Perfect Immunity to self for the duration of the battle and up to x random allies for x turns.
+Grants Physical Charge to allies.
+Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle.
+Grants Physical, Magic, or True Block to each ally for x turns.
+Grants Power Generation and Regen to all allies at the start of battle for x turns.
+Grants Random Beneficial Effects to random allies.
+Grants Regen HP for x turns to all allies.
+Grants Regen HP to all allies for 2-4 turns.
+Grants Regen to allies for x turns.
+Grants Regen, Perfect Hit, and Heal Shield to random allies every turn for x turns
+Grants Regen, Perfect Hit, and Increased Accuracy to all allies for x turns.
+Grants Shroud status to all allies for the duration of the battle.
+Grants Shroud to self and a random ally for x turns.
+Grants Soul Protect and Immunity to a target ally for x turns.
+Grants Soul Protect and Immunity to all allies for the remainder of the battle.
+Grants Spell Vamp and Healing Amp to all allies for x turns.
+Grants Spell Vamp for x turns.
+Grants Spell Vamp to allies for x turns.
+Grants Stone Shield to all allies for the first turn of battle.
+Grants Titan Shield for x turns.
+Grants Titan Shield to self and up to x allies.
+Grants True Damage Shield to all allies for 2-4 turns.
+Grants True Damage Shield to allies for x turns.
+Grants Vanish for x turns to all allies.
+Grants Void Shield to all allies for x turns.
+Grants a Disruption Shield to all allies for x turns at the start of battle.
+Grants a Disruption Shield to self and a target ally.
+Grants a Force Shield to all allies for x turns.
+Grants a Heal Shield for x turns.
+Grants a Heal Shield to all allies for x turns.
+Grants a Magma Shield to each ally for x turns.
+Grants a Power Shield for x turns.
+Grants a Random Shield to all allies for x turns.
+Grants a Thorn Shield for x turns.
+Grants an Extra Turn to all allies.
+Grants an Extra Turn to any other ally that has the Dioscuri passive if the target is currently asleep.
+Grants an Extra Turn to caster.
+Grants an Extra Turn to the ally.
+Grants an Extra Turn to the target ally.
+Grants an additional Healing based on MISSING HP for every Mark on the target.
+Grants immunity to Stun, Taunt, and Freeze effects, including unblockable effects, to all allies.
+Grants immunity to a random ally every following turn.
+Grants increased Accuracy to all allies for x turns at the start of battle.
+Grants the caster Immunity for x turns at the start of the battle.
+Grants the caster a Titan Shield every turn.
+Grants x% Critical Strike Chance for x turns.
+Grants x% Critical Strike chance for x turns.

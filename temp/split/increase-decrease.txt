@@ -103,3 +103,16 @@ Lowers DEF of all enemies.
 Lowers DEF of enemy for x turns.
 Lowers MR for x turns.
 Lowers the Accuracy of enemies for x turns at the start of battle.
+Grant Increase Power Generation to allies for x turns
+Grant Increased ATK and MAGIC to all allies for x turns.
+Grant Increased Accuracy and Perfect Hit status to all allies for x turns.
+Grant Increased Accuracy to all allies for x turns.
+Grant Increased DEF and Golden Hit to all allies for x turns at the start of battle.
+Grant Increased Fury Generation to all allies and Inflict Decreased Fury Generation to all enemies for x turns.
+Grant Increased Fury Generation to all allies for x turns.
+Grant Increased Fury Generation, Attack Up and Defense Up to all allies for x turns.
+Grant Increased MAGIC or Magic Penetration to allies for x turns.
+Grant Increased Max HP and ATK to self for x turns at the start of battle.
+Grant Increased Power Generation to self for the duration of battle.
+Grant Increased Power and Fury Generation to all allies for x turns.
+Grant Increased Power and Fury generation for x turns to all allies at the start of battle.

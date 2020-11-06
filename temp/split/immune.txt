@@ -27,3 +27,72 @@ Immune to all negative and beneficial effects, including Silver and Golden effec
 Immune to all negative effects, including Max HP reduction.
 Immunity to all Burn and Stat Reduction Effects.
 Immunity to all Stun effects for self.
+Grant Immortality to an ally for x turns.
+Grant Immunity and Cleanse to all allies for x turns.
+Grant Immunity and Golden Trap to each ally for x turns.
+Grant Immunity or Perfect Immunity to each ally at Start of battle for x turns.
+Grant Immunity or Perfect Immunity to each ally for x turns.
+Grant Immunity to Apparition to all allies until they die.
+Grant Immunity to Bleed and Perfect Bleed effects to all allies.
+Grant Immunity to Blind and Perfect Blind to all allies.
+Grant Immunity to Blind, Stop and all Skill Disabling effects, including Silver and Innate effects, to all allies until they die at the start of battle.
+Grant Immunity to Block Beneficial Effects and Perfect Corruption to all allies until they die.
+Grant Immunity to Burn and Sleep effects to all allies.
+Grant Immunity to Burn effects to all allies.
+Grant Immunity to Burn effects, Stop, and Perfect Death to all allies.
+Grant Immunity to Cleave, Crave, Perfect Crave, and Doom to all allies.
+Grant Immunity to Crave and Heal Block to all allies.
+Grant Immunity to Crave and Perfect Crave to all allies.
+Grant Immunity to Doom, Crave, and Perfect Crave to all allies.
+Grant Immunity to Doom, Curse, and Permadeath to all allies.
+Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies.
+Grant Immunity to Heal Block and Heal Reduction effects.
+Grant Immunity to Mark effects to all allies.
+Grant Immunity to Max HP Reduction and Exhaust to all allies.
+Grant Immunity to Perfect Corruption, Physical Burn, and Toxic Burn to all allies.
+Grant Immunity to Permadeath to all allies.
+Grant Immunity to Permadeath, Perfect Death, Block Beneficial, and Perfect Corruption to all allies.
+Grant Immunity to Skill Disabling effects to all allies.
+Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies.
+Grant Immunity to Sleep, Perfect Sleep, and Magic Burn to all allies.
+Grant Immunity to Stat Reduction effects to all allies for the duration of battle.
+Grant Immunity to Stop, Fear and Heal Block Effects, including Silver and Innate effects, to all allies until they die whenever this passive becomes active.
+Grant Immunity to all Burn effects, including Silver effects, to all allies.
+Grant Immunity to all Stun and Freeze effects, including Silver and Innate effects, to all allies.
+Grant Immunity to all allies for x turns.
+Grant Immunity to all allies if Regen HP is present at the start of your turn.
+Grant Invincibility and Critical Strike Chance to all allies for x turns if any ally’s HP is below x% HP at the start of your turn.
+Grant Invincibility and Immunity to all allies for x turns.
+Grant Invincibility to all allies for x turns if Golden Effects are present on the target.
+Grant Invincibility to all allies for x turns.
+Grant Invincibility to self and a random ally for 1-3 turns.
+Grant Invincibility to self and a random ally for x turns.
+Grant Invincibility, Attack Up, and Magic Up to all allies for x turns.
+Grant Invincibility, Increased ATK, and Increase MAGIC to all allies for x turns.
+Grant Invulnerability to All Damage Types to all allies for x turns.
+Grants Immunity and Removes negative Effects, including Silver Effects from allies suffering from Silver Effects at the start of your turn.
+Grants Immunity and Thorn Shields to all allies for x turns.
+Grants Immunity for x turns to allies with no beneficial effects active.
+Grants Immunity for x turns.
+Grants Immunity to Bleed and Dark Ghost Effects for all allies.
+Grants Immunity to Blind, Seal, and Taunt effects for all allies.
+Grants Immunity to Burn and Freeze effects, including unblockable Freeze effects, for all allies.
+Grants Immunity to Burn, Doom, Dark Ghost, and Mark Effects to all allies.
+Grants Immunity to Burn, Stun, Freeze, and Taunt effects to all allies.
+Grants Immunity to Doom, Curse, and Permadeath to all allies.
+Grants Immunity to Doom, Permadeath, and Perfect Death to all allies.
+Grants Immunity to Mark, Doom, and Curse effects for all allies.
+Grants Immunity to Permadeath and Perfect Death to all allies.
+Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle.
+Grants Immunity to Permadeath, Perfect Death, and Doom to all allies.
+Grants Immunity to Silence and Crave effects to all allies.
+Grants Immunity to Sleep and Lower MAX HP effects to all allies.
+Grants Immunity to Sleep and Perfect Sleep to all allies.
+Grants Immunity to Stat Decreasing effects for all allies, which includes: ATK, MAGIC, DEF, MR, POWER, and FURY Decreasing effects.
+Grants Immunity to all allies for x turns at the start of battle.
+Grants Immunity to all allies for x turns at the start of the battle.
+Grants Immunity to all allies for x turns if an Immunity effect is removed.
+Grants Immunity to all allies for x turns.
+Grants Immunity to allies for x turns.
+Grants Immunity to an ally for x turns.
+Grants Immunity to target ally.
