@@ -39,3 +39,17 @@ http://localhost:5601
 ### Free ElasticSearch service
 
 http://www.searchly.com/pricing
+
+## Elastic
+
+### msearch
+
+https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/msearch_examples.html
+
+### highlight
+
+https://www.elastic.co/guide/en/elasticsearch/reference/6.8/search-request-highlighting.html
+
+## firebase
+
+https://medium.com/@acupofjose/wondering-how-to-get-elasticsearch-and-firebases-firestore-to-play-nice-1d84553aa280
