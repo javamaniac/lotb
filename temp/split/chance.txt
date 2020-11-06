@@ -1,0 +1,621 @@
+x% Chance each to inflict Perfect Blind, Heal Block, Perfect Corruption, and Silence for x turns.
+x% Chance each turn to reduce damage taken by x%.
+x% Chance for Revenge if you have Accuracy Up.
+x% Chance for ally to gain an Extra Turn.
+x% Chance for an Extra Turn if Soul Protect or Ghost are active on self.
+x% Chance for an Extra Turn if the target is inflicted with Bleed.
+x% Chance for an Extra Turn on Perfect Attacks.
+x% Chance for an Extra Turn.
+x% Chance for attack to Critically Strike.
+x% Chance for each ally to Increase ATK for x turns.
+x% Chance for each ally to Remove One Negative Effect.
+x% Chance for each ally to Vanish for x turns.
+x% Chance for each ally to gain Accuracy Up for x turns.
+x% Chance for each ally to gain Cleanse status for x turns.
+x% Chance for each ally to gain Counterstrike for x turns.
+x% Chance for each ally to gain Echo for x turns.
+x% Chance for each ally to gain Endure, Immunity, or Invincibility for x turns.
+x% Chance for each ally to gain Heal Shield for x turns.
+x% Chance for each ally to gain Heal Shield, Heal Amp, or Endure for x turns.
+x% Chance for each ally to gain Immortality for x turns.
+x% Chance for each ally to gain Immunity for x turns.
+x% Chance for each ally to gain Magic Penetration for x turns.
+x% Chance for each ally to gain Perfect Hit for x turns.
+x% Chance for each ally to gain Regen HP for x turns.
+x% Chance for each ally to gain Titan Shield for x turns.
+x% Chance for each ally to gain a Blizzard Shield for x turns.
+x% Chance for each ally to gain an Extra Turn.
+x% Chance for each ally to increase effect duration of beneficial effects.
+x% Chance for each negative effect be Extended by x turn.
+x% Chance for this skill to Reset and trigger its effects again.
+x% Chance inflict Sleep on the target for x turns.
+x% Chance to Bleed target for x turns.
+x% Chance to Blind all enemies.
+x% Chance to Blind enemies for x turns.
+x% Chance to Blind for x turns.
+x% Chance to Blind targets for x turns.
+x% Chance to Blind the enemy for x turns.
+x% Chance to Blind, Accuracy Down, or Taunt for x turns.
+x% Chance to Blind, Lower ATK, or Lower MAGIC for x turns.
+x% Chance to Blind, Silence, or Freeze for x turns.
+x% Chance to Blind, Silence, or Stun up to x random enemies.
+x% Chance to Blind, Stun, or Silence.
+x% Chance to Block Beneficial Effects for x turns.
+x% Chance to Block Beneficial Effects on each enemy for x turns.
+x% Chance to Block Beneficial Effects on enemies for x turns.
+x% Chance to Block Beneficial Effects on the enemy for x turns.
+x% Chance to Block Beneficial Effects.
+x% Chance to Cleanse Negative Effects from self and Heal for x% of your MAX HP when you take damage.
+x% Chance to Cleanse Taunt, Stun, Sleep, and Freeze effects and Transfer All Negative Effects, including Silver Effects from all allies to the target enemy.
+x% Chance to Cleanse all allies.
+x% Chance to Cleanse and Heal each ally based on their MAX HP.
+x% Chance to Cleanse and Increase ATK of all allies for x turns.
+x% Chance to Cleanse self and a random ally per negative effect on self.
+x% Chance to Cleanse up to x random allies.
+x% Chance to Consume all burns on the target.
+x% Chance to Critically Strike and Decrease MAX HP of the target by x% each hit.
+x% Chance to Critically Strike on attack.
+x% Chance to Critically Strike on each attack.
+x% Chance to Critically Strike on each hit.
+x% Chance to Critically Strike per hit.
+x% Chance to Critically Strike.
+x% Chance to Curse enemies for x turns.
+x% Chance to Curse enemy for x turns.
+x% Chance to Curse target.
+x% Chance to Decrease Max HP of all enemies by x%.
+x% Chance to Decrease Max HP of the target by x% each hit.
+x% Chance to Decrease Power Generation of each enemy for x turns.
+x% Chance to Disable Passive for x turns.
+x% Chance to Disable Passive of enemies for x turns.
+x% Chance to Disable Passives of all enemies for x turns.
+x% Chance to Disable Passives of each enemy for x turns.
+x% Chance to Disable Passives of enemies every subsequent turn.
+x% Chance to Disable Passives of enemies for x turns.
+x% Chance to Disable Passives of the enemy for x turns.
+x% Chance to Disable Passives of the target for x turns.
+x% Chance to Doom enemies with Immortality status for x turns.
+x% Chance to Doom targets.
+x% Chance to Drain Fury of enemy by x%.
+x% Chance to Drain Fury.
+x% Chance to Drain Power.
+x% Chance to Exhaust all enemies for x turns.
+x% Chance to Exhaust enemies for x turns.
+x% Chance to Exhaust the target for x turns.
+x% Chance to Extend Beneficial Effect Duration by x turn for each ally.
+x% Chance to Extend Beneficial Effect Duration on all allies and Negative Effect Duration on all enemies by x when you take damage.
+x% Chance to Extend Beneficial Effect Duration on each ally by x turn.
+x% Chance to Extend Beneficial Effects of allies for x turns.
+x% Chance to Extend Duration of Immunity to 3 turns.
+x% Chance to Extend Negative Effect Duration on all enemies by x when you take damage.
+x% Chance to Extend Negative Effect Duration on the enemy by x turn.
+x% Chance to Extend Negative Effect Duration on the target by 1.
+x% Chance to Extend the Duration of Beneficial Effects on all allies by 1.
+x% Chance to Extend the Duration of Negative Effects by x turn.
+x% Chance to Freeze each enemy for x turns.
+x% Chance to Freeze enemies for x turns.
+x% Chance to Freeze or Smite for x turns.
+x% Chance to Freeze the enemy for x turns.
+x% Chance to Freeze the enemy.
+x% Chance to Freeze the target for x turns.
+x% Chance to Gain an Extra Turn if your HP is x% or lower after each action.
+x% Chance to Gain x Power and an Extra Turn.
+x% Chance to Gain x Power each hit.
+x% Chance to Gain x Power.
+x% Chance to Grant Cleanse status to allies for x turns.
+x% Chance to Heal Block all enemies for x turns.
+x% Chance to Heal Block enemies for x turns.
+x% Chance to Heal Block for x turns.
+x% Chance to Heal Block the enemy for x turns.
+x% Chance to Heal Block the target for x turns.
+x% Chance to Heal all allies on Perfect Attacks.
+x% Chance to Heal allies on each hit.
+x% Chance to Heal for x% of MAX HP.
+x% Chance to Heal for x% of Max HP.
+x% Chance to Heal self and a random ally based on your MAX HP.
+x% Chance to Heal self per hit.
+x% Chance to Heal up to x allies for x% of their MAX HP.
+x% Chance to Heal up to x allies for x% of your MAX HP.
+x% Chance to Heal.
+x% Chance to Ignite enemy for x turns.
+x% Chance to Ignite, Bleed, and Block Beneficial Effects on the enemy for x turns.
+x% Chance to Increase ATK and MAGIC of allies.
+x% Chance to Increase ATK of all allies for x turns.
+x% Chance to Increase Beneficial Effect Duration by x turns for all allies.
+x% Chance to Increase Beneficial Effect Duration on all allies by x turn.
+x% Chance to Increase DEF for x turns on the initial target.
+x% Chance to Increase MAGIC for x turns.
+x% Chance to Increase MAGIC of all allies for x turns.
+x% Chance to Increase MR of all allies for x turns.
+x% Chance to Increase Negative Effect Duration by x turn on each enemy.
+x% Chance to Increase Negative Effect Duration by x turn.
+x% Chance to Increase Power Generation by x for x turns.
+x% Chance to Increase Power Generation for x turns.
+x% Chance to Increase Power Generation of each ally for x turns.
+x% Chance to Increase Power and Fury Generation.
+x% Chance to Inflict Exhaust on all enemies for x turns.
+x% Chance to Inflict Lower ATK, MAGIC, and Taunt on the target for x turns.
+x% Chance to Inflict Perfect Stun on a random enemy every action.
+x% Chance to Inflict Perfect Stun on a random enemy for x turns
+x% Chance to Inflict a Toxic Burn for x turns.
+x% Chance to Inflict up to x Negative Effects on all enemies for x turns, including Seal, Silence, Stun, or Exhaust.
+x% Chance to Lower ATK and DEF.
+x% Chance to Lower ATK and MAGIC.
+x% Chance to Lower ATK.
+x% Chance to Lower Accuracy for x turns.
+x% Chance to Lower Accuracy of enemies for x turns.
+x% Chance to Lower DEF for x turns on the initial target.
+x% Chance to Lower DEF for x turns.
+x% Chance to Lower DEF of enemies.
+x% Chance to Lower DEF.
+x% Chance to Lower Defense, Permadeath, and Ignite targets for x turns.
+x% Chance to Lower MAGIC and MR for x turns and increase your own.
+x% Chance to Lower MAGIC and MR for x turns.
+x% Chance to Lower MAGIC of enemy for x turns.
+x% Chance to Lower MAX HP of the target by x% each hit.
+x% Chance to Lower MR for x turns.
+x% Chance to Lower MR.
+x% Chance to Lower Power and Fury Generation for x turns.
+x% Chance to Lower Power and Fury Generation of enemies for x turns.
+x% Chance to Lower a Random Stat on the enemies for x turns or Reduce the Max HP of the enemy by x%.
+x% Chance to Magic Burn enemies for x turns.
+x% Chance to Magic Burn for x turns for each Burn on that target.
+x% Chance to Mark for x turns.
+x% Chance to Mark on each hit.
+x% Chance to Permadeath for x turns.
+x% Chance to Reduce ATK of targets for x turns.
+x% Chance to Reduce Duration of negative effects on all allies by x turns.
+x% Chance to Reduce Healing for x turns.
+x% Chance to Reduce Max HP of the target by x%.
+x% Chance to Reduce Max HP on each enemy by x%.
+x% Chance to Reduce Max HP on the target by x% each hit.
+x% Chance to Reduce Max HP on the target by x%.
+x% Chance to Reduce Power or Fury of the enemy to zero if Permadeath is present on the target.
+x% Chance to Refund Energy Cost and gain an Extra Turn.
+x% Chance to Refund Power Cost of skill and grant Echo to all allies for x turns.
+x% Chance to Refund Power Cost of skill.
+x% Chance to Refund Power Cost of the skill.
+x% Chance to Refund Power Cost of this ability and gain an Extra Turn.
+x% Chance to Refund Power Cost.
+x% Chance to Refund the Power Cost of this skill.
+x% Chance to Remove 1 Golden Effect from all enemies when you take damage.
+x% Chance to Remove 2 Beneficial Effects from all enemies.
+x% Chance to Remove A Beneficial Effect per hit.
+x% Chance to Remove All Beneficial Effects from a random enemy per hit.
+x% Chance to Remove All Beneficial Effects from all enemies before dealing damage.
+x% Chance to Remove All Beneficial Effects from each enemy.
+x% Chance to Remove All Beneficial Effects on the enemy.
+x% Chance to Remove All Beneficial Effects, including Golden Effects, from each enemy before dealing damage.
+x% Chance to Remove All Beneficial Effects, including Golden effects, from each enemy.
+x% Chance to Remove All Golden Effects from all enemies before dealing damage.
+x% Chance to Remove All Golden Effects, minus Shroud, Soul Protect, and Perfect Immortality, from each enemy.
+x% Chance to Remove All Immunity effects, including Vanish and Perfect Immunity.
+x% Chance to Remove All Immunity effects, including Vanish and inflict Bleed on the target for x turns.
+x% Chance to Remove All Negative Effects and grant each ally an Extra Turn if Passive or Perfect Disable is present on them.
+x% Chance to Remove All Negative Effects, including Silver Effects, from each ally.
+x% Chance to Remove All Shield and Invincibility effects from each enemy.
+x% Chance to Remove Beneficial Effects and inflict Crave and Blind status on all enemies for x turns.
+x% Chance to Remove Beneficial Effects from all enemies.
+x% Chance to Remove Beneficial Effects from the enemy.
+x% Chance to Remove Beneficial Effects from the target.
+x% Chance to Remove Beneficial Effects on all enemies.
+x% Chance to Remove Beneficial Effects on each hit.
+x% Chance to Remove Beneficial Effects on the target.
+x% Chance to Remove Beneficial Effects, Blind, and Silence the target for x turns.
+x% Chance to Remove Beneficial Effects, including Golden Buffs.
+x% Chance to Remove Beneficial Effects.
+x% Chance to Remove Damage Block Effects before dealing damage.
+x% Chance to Remove Damage Invulnerability effects on the enemy.
+x% Chance to Remove Golden Buffs from all enemies.
+x% Chance to Remove Immunity and Perfect Immunity.
+x% Chance to Remove Immunity and Stun a random enemy every turn.
+x% Chance to Remove Immunity effects, including Vanish and Perfect Immunity from enemies.
+x% Chance to Remove Immunity on all enemies.
+x% Chance to Remove Immunity, including Perfect Immunity, Remove Immortality, including Perfect Immortality, and Remove Shroud on each hit.
+x% Chance to Remove Invincibility from all enemies at the beginning of your turn.
+x% Chance to Remove Negative Effects, including Silver Effects from each ally.
+x% Chance to Remove Negative Effects, including Silver Effects, from each ally.
+x% Chance to Remove One Beneficial Effect and One Golden Effect each hit.
+x% Chance to Remove One Beneficial Effect from each enemy.
+x% Chance to Remove One Beneficial Effect per hit.
+x% Chance to Remove One Beneficial Effect.
+x% Chance to Remove One Golden Effects per hit if Perfect Hit is active.
+x% Chance to Remove Silver Effects from all allies at the start of your turn.
+x% Chance to Remove Silver Effects from all allies.
+x% Chance to Remove a Beneficial Effect each hit.
+x% Chance to Remove a Beneficial Effect per hit on Perfect Hits.
+x% Chance to Remove a Beneficial Effect.
+x% Chance to Remove a Beneficial and Golden Effect from all enemies, Heal a random ally and grant an Extra Turn to a random ally per hit.
+x% Chance to Remove up to x Beneficial Effects from each enemy.
+x% Chance to Remove up to x Golden Effects from each enemy.
+x% Chance to Reset and attack again.
+x% Chance to Revenge an enemy when an ally is attacked.
+x% Chance to Revive a dead ally with full HP.
+x% Chance to Revive a dead ally.
+x% Chance to Revive a random ally to full HP.
+x% Chance to Revive a random ally.
+x% Chance to Revive a random dead ally with Shroud for x turns every turn.
+x% Chance to Revive a random dead ally with x% HP.
+x% Chance to Revive an ally or x% Chance to fully Heal a random ally every turn at the cost of x% of your CURRENT HP.
+x% Chance to Seal an ability of the enemy for x turns.
+x% Chance to Seal an enemy’s skill.
+x% Chance to Seal for x turns or Stun for x turns each enemy hit.
+x% Chance to Seal the target.
+x% Chance to Silence all enemies for x turns.
+x% Chance to Silence and Decrease ATK for x turns.
+x% Chance to Silence and Decrease MAGIC for x turns.
+x% Chance to Silence enemies for x turns.
+x% Chance to Silence for x turns.
+x% Chance to Silence the enemy for x turns.
+x% Chance to Silence the target for x turns.
+x% Chance to Silence, Seal, and Blind the target for x turns.
+x% Chance to Sleep a random enemy.
+x% Chance to Sleep each enemy for x turns.
+x% Chance to Sleep targets for x turns.
+x% Chance to Sleep the target for x turns.
+x% Chance to Steal All Beneficial Effects, including Golden Effects.
+x% Chance to Steal Beneficial Effects.
+x% Chance to Steal Fury from enemy.
+x% Chance to Steal Fury.
+x% Chance to Steal Golden Shield and Block Effects from the target and grant them to all allies for x turns.
+x% Chance to Steal Immunity effects on each hit for x turns, including Perfect Immunity.
+x% Chance to Steal Immunity from enemies.
+x% Chance to Steal One Beneficial Effect from all enemies, including Golden Effects.
+x% Chance to Steal One Beneficial Effect including Golden Effects, from each enemy before dealing damage.
+x% Chance to Steal One Beneficial Effect or Smite targets for x turns per hit.
+x% Chance to Steal Perfect Immunity from enemies.
+x% Chance to Steal Power and Fury.
+x% Chance to Steal Power from enemy.
+x% Chance to Steal Power from the enemy.
+x% Chance to Steal Power.
+x% Chance to Steal a Beneficial Effect per hit.
+x% Chance to Steal a Golden Effect each hit.
+x% Chance to Steal a Random Beneficial Effect from a random enemy.
+x% Chance to Steal a Random Golden Effect from a random enemy.
+x% Chance to Steal x Power from the enemy.
+x% Chance to Steal x Power per hit.
+x% Chance to Steal x Power.
+x% Chance to Steals Beneficial Effects.
+x% Chance to Steals One Beneficial Effect.
+x% Chance to Stun a random enemy.
+x% Chance to Stun all enemies for x turns.
+x% Chance to Stun enemies for x turns.
+x% Chance to Stun enemy for x turns.
+x% Chance to Stun for 1-3 turns.
+x% Chance to Stun for x turns.
+x% Chance to Stun on each hit.
+x% Chance to Stun targets for x turns.
+x% Chance to Stun the enemy for x turns.
+x% Chance to Stun the target each hit.
+x% Chance to Stun the target for x turns if they are suffering from Decreased Max HP effects.
+x% Chance to Stun the target for x turns on each hit.
+x% Chance to Stun the target for x turns.
+x% Chance to Stun with each hit.
+x% Chance to Taunt all enemies for x turns.
+x% Chance to Taunt an enemy for x turns.
+x% Chance to Taunt for x turns.
+x% Chance to Taunt the enemy for x turns.
+x% Chance to Transfer Negative Effects to enemies.
+x% Chance to Transfer Negative Effects.
+x% Chance to Transfer a Negative Effect from self to all enemies per hit.
+x% Chance to Transfer up to x Negative Effects from self to each enemy.
+x% Chance to Transform All Beneficial Effects, including Golden effects, on each enemy into 9 Marks for x turns.
+x% Chance to Transform All Burn Effects into Flame for the duration of battle.
+x% Chance to Transform Beneficial Effects on enemies into a Time Bomb.
+x% Chance to Transform Bleed into Perfect Bleed for x turns.
+x% Chance to Transform Golden Effects into Marks and gain Charge on Perfects.
+x% Chance to Transform Golden Effects on enemies into one random Silver Effect.
+x% Chance to Transform Immunity into a random Negative Effect that lasts for x turns after the first turn of battle.
+x% Chance to Transform Negative Effects on self into beneficial effects.
+x% Chance to Transform all Golden Effects, except Perfect Health, Shroud, and Soul Protect, into Silver Effects.
+x% Chance to Transform the beneficial effects on enemies into Physical Burns.
+x% Chance to Vanish for x turns.
+x% Chance to Vanish self and a random ally for x turns.
+x% Chance to Vanish self and up to two allies for x turns.
+x% Chance to apply Permadeath for x turns.
+x% Chance to apply Thorn Shield to each ally for x turns.
+x% Chance to apply a Toxic Burn for x turns on each hit.
+x% Chance to avoid taking damage.
+x% Chance to cleanse negative effects, including silver effects and heal self when you or any ally takes damage.
+x% Chance to counter attack the opponent that attacked you.
+x% Chance to counterattack enemies who attacked you or any ally.
+x% Chance to counterattack when an ally gets attacked.
+x% Chance to counterattack when another ally takes damage.
+x% Chance to counterattack when anyone on your team takes damage.
+x% Chance to counterattack when you take damage.
+x% Chance to deal Additional Random Damage to each enemy equal to x% of their MAX HP for each negative effect on the target.
+x% Chance to deal Additional True Damage to each enemy based on their MAX HP for each Scalding Burn on them after every action.
+x% Chance to deal random damage to all enemies when you or an ally is healed.
+x% Chance to deal x hits of Additional Random Damage to each enemy based on your MR and their MAX HP and Remove All Negative Effects, including Silver effects, from self and a random ally when you take damage.
+x% Chance to gain Class Advantage
+x% Chance to gain Class Advantage vs all enemies for x turns.
+x% Chance to gain Counterstrike and Revenge for self for x turns.
+x% Chance to gain Cyclone Shield for x turns.
+x% Chance to gain Disruption Shield, Counterstrike, or Endure for x turns per hit.
+x% Chance to gain Echo for x turns.
+x% Chance to gain Extra Turn.
+x% Chance to gain Invincibility for x turns.
+x% Chance to gain Invincibility, Immunity, or Immortality for x turns upon taking damage.
+x% Chance to gain Lifesteal on self for x turns.
+x% Chance to gain Revenge for x turns and grant Charge to all allies for x turns if you have Perfect Hit active when you attack.
+x% Chance to gain Revenge for x turns.
+x% Chance to gain Revenge status for x turns.
+x% Chance to gain Shroud for x turns if Vanish is active when this skill is used.
+x% Chance to gain Thorn Shield for x turns.
+x% Chance to gain a Guard Shield for x turns.
+x% Chance to gain a Titan Shield for x turns.
+x% Chance to gain an Extra Turn after each action.
+x% Chance to gain an Extra Turn after every action.
+x% Chance to gain an Extra Turn and Damage Charge for x turns if shields are removed.
+x% Chance to gain an Extra Turn if an effect is removed this way.
+x% Chance to gain an Extra Turn if an effect was removed this way.
+x% Chance to gain an Extra Turn if at x% HP or below.
+x% Chance to gain an Extra Turn if the target has more than 4 buffs or debuffs active.
+x% Chance to gain an Extra Turn.
+x% Chance to gain x Power.
+x% Chance to gain x% Critical Strike chance for x turns.
+x% Chance to get an Extra Turn.
+x% Chance to grant Accuracy Up to each ally for x turns.
+x% Chance to grant Affinity Advantage, Perfect Hit, or Charge to self and a random ally each hit.
+x% Chance to grant Armor Penetration for x turns if the target has 4 or more negative effects.
+x% Chance to grant Armor Penetration to all allies for x turns.
+x% Chance to grant Armor Penetration.
+x% Chance to grant Ascension to allies for x turns.
+x% Chance to grant Ascension to self for x turns and to all allies for x turns.
+x% Chance to grant Counterstrike on up to x allies.
+x% Chance to grant Counterstrike to allies for x turns.
+x% Chance to grant Critical Strike Chance.
+x% Chance to grant Damage Charge and an Extra Turn to a random ally.
+x% Chance to grant Damage Reduction Shield to all allies for x turns.
+x% Chance to grant Disruption Shield to each ally for x turns.
+x% Chance to grant Echo status to each ally for x turns every action.
+x% Chance to grant Echo to all allies for x turns if the enemy has Crave status.
+x% Chance to grant Immortality to all allies for x turns.
+x% Chance to grant Immortality to allies for x turns.
+x% Chance to grant Immunity or Cleanse status to each ally every turn for x turns.
+x% Chance to grant Immunity to all allies for x turns.
+x% Chance to grant Immunity to allies for x turns.
+x% Chance to grant Immunity to each ally for x turns.
+x% Chance to grant Increase Power and Fury Generation to each ally for x turns.
+x% Chance to grant Increased ATK to all allies for x turns.
+x% Chance to grant Increased Accuracy to all allies for x turns.
+x% Chance to grant Increased Power Generation to allies for x turns.
+x% Chance to grant Invincibility to each ally.
+x% Chance to grant Magic Penetration to all allies for x turns.
+x% Chance to grant Perfect Accuracy Up to all allies for x turns.
+x% Chance to grant Perfect Accuracy to all allies for x turns.
+x% Chance to grant Perfect Accuracy to each ally for x turns.
+x% Chance to grant Perfect Force Shield to each ally for x turns.
+x% Chance to grant Perfect Hit status to each ally for x turns.
+x% Chance to grant Perfect Hit status to random ally on each hit.
+x% Chance to grant Perfect Hit to all allies for x turns.
+x% Chance to grant Perfect Hit to each ally for x turns.
+x% Chance to grant Perfect Immunity to a random ally for x turns every hit.
+x% Chance to grant Perfect Immunity to all allies for x turns.
+x% Chance to grant Perfect Immunity to each ally.
+x% Chance to grant Reflect Shield to all allies for x turns.
+x% Chance to grant Reflect Shield to each ally for x turns.
+x% Chance to grant Regen HP to all allies for x turns.
+x% Chance to grant Revenge to self for x turns.
+x% Chance to grant Shroud to each ally for x turns.
+x% Chance to grant Trap status to allies for x turns.
+x% Chance to grant Trap to each ally for x turns.
+x% Chance to grant True Shield to all allies 2 turns.
+x% Chance to grant Vanish to self and a random ally for x turns when you take damage.
+x% Chance to grant a Cyclone Shield to self for x turns.
+x% Chance to grant a Perfect Heal Shield to each ally for x turns.
+x% Chance to grant a Random Beneficial Effect to all allies for x turns.
+x% Chance to grant a Random Beneficial Effect to an ally each hit.
+x% Chance to grant a Random Offensive Effect to all allies for x turns.
+x% Chance to grant a random defensive effect to allies when they take damage.
+x% Chance to grant an Extra Turn to a random ally.
+x% Chance to grant an Extra Turn to each ally, but not self.
+x% Chance to grant an Extra Turn to each ally.
+x% Chance to grant an Extra Turn to self and a random ally for each effect stolen.
+x% Chance to grant an Extra Turn to self and a random ally.
+x% Chance to grant an Extra Turn to self and each ally.
+x% Chance to grant an Extra Turn to self and random ally
+x% Chance to grant an Extra Turn to self.
+x% Chance to grant each ally a Random Healing or Defensive Effect for x turns for every enemy suffering from negative effects.
+x% Chance to grant each ally an Extra Turn after every action.
+x% Chance to grant each ally an Extra Turn if any enemy has Increased Max HP or Perfect Health active.
+x% Chance to grant each ally an Extra Turn if any enemy has Reduced Max HP.
+x% Chance to grant each ally an Extra Turn if any enemy is inflicted with Decreased MAX HP.
+x% Chance to grant each ally an Extra Turn.
+x% Chance to grant x% Critical Strike Chance to all allies for x turns.
+x% Chance to increase the duration of all beneficial effects on each ally every turn.
+x% Chance to inflict Accuracy Down, Blind, Curse or Taunt on each enemy for x turns per hit.
+x% Chance to inflict Apparition on a random enemy for x turns if any enemy is frozen at the start of battle and at the start of your turn.
+x% Chance to inflict Attack Down and Magic Down on each enemy for x turns.
+x% Chance to inflict Attack Down or Magic Down on each enemy for x turns per hit.
+x% Chance to inflict Bleed for x turns.
+x% Chance to inflict Bleed or Perfect Bleed on the target for x turns per hit.
+x% Chance to inflict Blind and Accuracy Down on each enemy for x turns.
+x% Chance to inflict Blind on all enemies for x turns.
+x% Chance to inflict Blind on each enemy for x turns.
+x% Chance to inflict Blind on the target for x turns.
+x% Chance to inflict Blinding Burn on the target for x turns.
+x% Chance to inflict Bloodlust, Cleave or Perfect Bleed on the target for x turns per hit.
+x% Chance to inflict Cleave on each enemy for x turns.
+x% Chance to inflict Cleave on the enemy for x turns.
+x% Chance to inflict Cleave on the target for x turns. Damage dealt increases based on your SPECIAL stat.
+x% Chance to inflict Crave and Furious Burn on all enemies for x turns.
+x% Chance to inflict Crave and Heal Reduction status to the target for x turns.
+x% Chance to inflict Crave for x turns.
+x% Chance to inflict Crave on each enemy for x turns.
+x% Chance to inflict Crave on enemies for x turns.
+x% Chance to inflict Curse for x turns.
+x% Chance to inflict Curse on each enemy for x turns.
+x% Chance to inflict Dark Ghost on all enemies for x turns.
+x% Chance to inflict Dark Ghost on each enemy for x turns.
+x% Chance to inflict Dark Ghost on the target for x turns.
+x% Chance to inflict Defense Down or Bleed on the target for x turns per hit.
+x% Chance to inflict Disable Passive on the enemy for x turns.
+x% Chance to inflict Doom on 2 random enemies for x turns.
+x% Chance to inflict Doom on all enemies for x turns.
+x% Chance to inflict Doom on attacking enemies for x turns if they are suffering from Taunt when you take damage.
+x% Chance to inflict Doom on each enemy for x turns.
+x% Chance to inflict Exhaust and Heal Block on the target for x turns.
+x% Chance to inflict Exhaust for x turns.
+x% Chance to inflict Exhaust on all enemies for x turns.
+x% Chance to inflict Exhaust on each enemy for x turns.
+x% Chance to inflict Exhaust on the enemy for x turns.
+x% Chance to inflict Exhaust on the target for x turns.
+x% Chance to inflict Fear and Perfect Death on all enemies for x turns when you take damage.
+x% Chance to inflict Fear for x turns on each hit.
+x% Chance to inflict Fear on all enemies for x turns for each enemy suffering from Fear, Sleep or Blind effects, including Silver and Innate effects.
+x% Chance to inflict Fear on all enemies for x turns on Perfect Attacks.
+x% Chance to inflict Fear, Perfect Sleep, Perfect Corruption, or Perfect Bleed for x turns on each hit.
+x% Chance to inflict Fear.
+x% Chance to inflict Flame for x turns.
+x% Chance to inflict Flame on enemies for the duration of battle.
+x% Chance to inflict Flame on the target for x turns.
+x% Chance to inflict Flame on up to x random enemies for x turns.
+x% Chance to inflict Freeze and HP Drain on each enemy for x turns.
+x% Chance to inflict Freeze and Stun on the target for x turns.
+x% Chance to inflict Freeze on a random enemy for x turns when you take damage.
+x% Chance to inflict Freeze on each enemy for x turns.
+x% Chance to inflict Freeze on the target for x turns.
+x% Chance to inflict Furious Burn for x turns on all enemies.
+x% Chance to inflict Furious Burns on all enemies for x turns per hit.
+x% Chance to inflict Furious Burns on all enemies for x turns.
+x% Chance to inflict Grievous Burn on a random enemy for x turns per hit.
+x% Chance to inflict Grievous Burn on each enemies for x turns.
+x% Chance to inflict Grievous Burn on enemies for x turns.
+x% Chance to inflict Grievous Burn.
+x% Chance to inflict Grievous Burns on the target for x turns.
+x% Chance to inflict HP Drain on all enemies for x turns.
+x% Chance to inflict HP Drain on each enemy for x turns.
+x% Chance to inflict Heal Block for x turns.
+x% Chance to inflict Heal Block on each enemy for x turns before dealing damage.
+x% Chance to inflict Heal Block on the target for x turns.
+x% Chance to inflict MR Down on each enemy for x turns before dealing damage.
+x% Chance to inflict Magic Burn for x turns.
+x% Chance to inflict Magic Burn.
+x% Chance to inflict Mark on each enemy for x turns per hit.
+x% Chance to inflict Passive Disable for x turns.
+x% Chance to inflict Passive Disable on each enemy for x turns.
+x% Chance to inflict Passive Disable on the target for x turns.
+x% Chance to inflict Perfect Accuracy Down for x turns.
+x% Chance to inflict Perfect Accuracy Down on the target for x turns.
+x% Chance to inflict Perfect Accuracy Down to each enemy for x turns.
+x% Chance to inflict Perfect Bleed on the target for x turns.
+x% Chance to inflict Perfect Blind for x turns.
+x% Chance to inflict Perfect Corruption for x turns.
+x% Chance to inflict Perfect Corruption on each enemy for x turns.
+x% Chance to inflict Perfect Corruption on the target on 2 turns.
+x% Chance to inflict Perfect Corruption, Permadeath, and Heal Block for x turns.
+x% Chance to inflict Perfect Crave for x turns.
+x% Chance to inflict Perfect Crave on all enemies for x turns.
+x% Chance to inflict Perfect Crave on each enemy for x turns.
+x% Chance to inflict Perfect Crave on the target for x turns.
+x% Chance to inflict Perfect Crave or Perfect Heal Block on the target for x turns.
+x% Chance to inflict Perfect Death on each enemy for x turns.
+x% Chance to inflict Perfect Silence for x turns.
+x% Chance to inflict Perfect Silence on all enemies for x turns.
+x% Chance to inflict Perfect Sleep and Perfect Corruption on all enemies for x turns.
+x% Chance to inflict Perfect Sleep for x turns.
+x% Chance to inflict Perfect Sleep on a random enemy for x turns after every action.
+x% Chance to inflict Perfect Sleep on all enemies for x turns.
+x% Chance to inflict Perfect Sleep on each enemy for x turns.
+x% Chance to inflict Perfect Sleep on enemies for x turns.
+x% Chance to inflict Perfect Sleep on the target for x turns.
+x% Chance to inflict Perfect Stun for x turns if True Burn is present on each enemy.
+x% Chance to inflict Perfect Stun on each enemy for x turns.
+x% Chance to inflict Perfect Stun on each enemy.
+x% Chance to inflict Perfect Stun on each target hit for x turns.
+x% Chance to inflict Perfect Stun on enemies for x turns.
+x% Chance to inflict Permadeath for x turns.
+x% Chance to inflict Permadeath on each enemies for x turns.
+x% Chance to inflict Permadeath on each enemy for x turns.
+x% Chance to inflict Permadeath on the enemy for x turns.
+x% Chance to inflict Permadeath or Perfect Death on each enemy for x turns.
+x% Chance to inflict Permadeath.
+x% Chance to inflict Punishment for x turns every hit.
+x% Chance to inflict Punishment on all enemies for x turns.
+x% Chance to inflict Punishment on each enemy for x turns.
+x% Chance to inflict Punishment on the target for x turns.
+x% Chance to inflict Scalding Burn on each enemy for x turns per hit.
+x% Chance to inflict Scalding Burn on the target for x turns per hit.
+x% Chance to inflict Seal on each enemy for x turns.
+x% Chance to inflict Seal, Stop, Perfect Disable, Perfect Silence, or Punishment on the target for x turns per hit.
+x% Chance to inflict Shock and Stun on the target for x turns.
+x% Chance to inflict Shock for x turns on each enemy.
+x% Chance to inflict Shock for x turns.
+x% Chance to inflict Silence on each enemy for x turns.
+x% Chance to inflict Silence on the enemy for x turns.
+x% Chance to inflict Silence on the target for x turns.
+x% Chance to inflict Sleep on all enemies for x turns.
+x% Chance to inflict Sleep on each enemy for x turns.
+x% Chance to inflict Sleep on the enemy for x turns.
+x% Chance to inflict Sleep on the target for x turns.
+x% Chance to inflict Smite and Ignite on the target for x turns.
+x% Chance to inflict Smite on each enemy for x turns.
+x% Chance to inflict Stop on all enemies for x turns.
+x% Chance to inflict Stop on each enemy for x turns.
+x% Chance to inflict Stop on the target for x turns.
+x% Chance to inflict Stun on all enemies for x turns.
+x% Chance to inflict Stun on each enemy for x turns.
+x% Chance to inflict Stun on the target for x turns.
+x% Chance to inflict Stun or Perfect Stun on attacking enemies for x turns whenever you are attacked.
+x% Chance to inflict Stun or Perfect Stun on each enemy for x turns.
+x% Chance to inflict Taunt on each enemy for x turns.
+x% Chance to inflict Taunt, Furious Burn or Time Bomb on the target for x turns per hit.
+x% Chance to inflict Toxic Burn for x turns.
+x% Chance to inflict True Burn for x turns.
+x% Chance to inflict a Blinding Burn to random enemies.
+x% Chance to inflict a Physical or Magic Burn on each enemy for x turns per hit.
+x% Chance to inflict a Random Burn Effect effect on each enemy for x turns per hit.
+x% Chance to inflict a Random Negative Effect on each hit.
+x% Chance to inflict a Random Silver Effect on each enemy for x turns per hit.
+x% Chance to inflict a Time Bomb for each beneficial effect removed on the enemies.
+x% Chance to inflict a Time Bomb on all enemies for x turns per hit.
+x% Chance to inflict a Time Bomb on each enemy for x turns.
+x% Chance to inflict a Time Bomb on enemies for x turns.
+x% Chance to inflict a random burn effect on all enemies when you take damage.
+x% Chance to inflict an Unblockable Freeze and Unblockable Stun on each enemy for x turns if any enemy is frozen or stunned.
+x% Chance to inflict an unblockable Freeze on each enemy for x turns after each action if the enemy is inflicted with Exhaust.
+x% Chance to inflict up to x Grievous Burns on enemies for x turns.
+x% Chance to inflict up to x Magic Burns.
+x% Chance to inflict up to x Marks on each enemy for x turns when you take damage.
+x% Chance to inflict up to x Marks on each enemy for x turns.
+x% Chance to inflict up to x Physical Burns.
+x% Chance to inflict up to x Random Burn Effects on each enemy for x turns.
+x% Chance to inflict x Blinding Burns for x turns on all enemies.
+x% Chance to inflict x Magic Burns for x turns.
+x% Chance to inflict x Magic Burns on all enemies for x turns.
+x% Chance to inflict x Mark for x turns each hit.
+x% Chance to inflict x Mark per hit on each enemy for x turns.
+x% Chance to inflict x Physical Burns on all enemies for x turns.
+x% Chance to instantly Trigger Doom effects present on each enemy.
+x% Chance to instantly Trigger all Bomb effects on the target.
+x% Chance to instantly Trigger any Time Bombs present on the target.
+x% Chance to instantly gain x Power after each action.
+x% Chance to permanently Increase ATK and MAGIC stats of all allies by x%.
+x% Chance to permanently Increase ATK, MAGIC, DEF, and MR for self and permanently Decrease ATK, MAGIC, DEF, and MR of the enemy by x%.
+x% Chance to place up to x Marks.
+x% Chance to remove Immunity from each enemy at the start of battle.
+x% Chance to remove Perfect Immunity from all enemies.
+x% Chance to remove two Beneficial Effects, including Golden Buffs.
+x% Chance to take no damage and inflict a Mark on attacking enemies for x turns when you are attacked.
+x% Chance to take no damage and inflict a Time Bomb or Perfect Time Bomb on attacking enemies for x turns when you are attacked.
+x% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, and inflict Mark and Perfect Bleed on attacking enemies for x turns whenever you are attacked.
+x% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Attack and Defense down on the attacking enemy.
+x% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Passive or Perfect Disable on attacking enemies for x turns.
+x% Increase Effect Duration of beneficial effects on self.
+x% chance to Counterstrike whenever you take damage.
+x% chance to Drain Fury.
+x% chance to Revenge enemies that attack an ally.
+x% chance to Steal Power, Steal Fury, or Steal a Beneficial Effect on each hit.
+x% chance to grant Counter Attack to self and a random ally for x turns.
+x% chance to grant Echo to each ally for x turns if Echo is present on self.
+x% chance to grant Invincibility to self and a random ally if the enemy has Decreased Max HP.
+x% chance to inflict Dark Ghost on each enemy for x turns.
+x% to Grant Class Advantage to all allies for x turns.
+x% to Reduce Max HP of each enemy by x% per hit.
+x% to Reset and trigger attack again.
+x% to gain Invincibility for x turns.
+x% to inflict Bloodlust on the target for x turns.
+x% to inflict Crave on the target for x turns.
+x% to inflict Mark on the target for x turns.
+x% to inflict Perfect Corruption on enemies for x turns.
+x% to inflict Silence on the target for x turns.

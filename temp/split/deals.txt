@@ -1,0 +1,270 @@
+Deal 1 hit of random damage to all enemies.
+Deal 3 devastating hits of magic damage to all enemies that increases based on your SPECIAL stat.
+Deal 3 heavy hits of magic damage to all enemies that increases based on your SPECIAL stat.
+Deal Addition Physical Damage to each enemy based on their MAX HP if they are at x% HP or above.
+Deal Additional Magic Damage if the target is stunned.
+Deal Additional Magic Damage that can Critically Strike and inflict Perfect Blind, Seal, Silence and Bleed on the target for x turns if they have Reduced Max HP.
+Deal Additional Magic Damage to each enemy that has 4 or more beneficial effects.
+Deal Additional Magic Damage to targets that have Mark, Curse, or Permadeath.
+Deal Additional Magic Damage to the target for each Physical Burn, Magic Burn and Flame effect on them.
+Deal Additional Physical Damage based on the target’s MISSING HP if their HP is x% or below.
+Deal Additional Physical Damage for each Burn effect on each enemy.
+Deal Additional Physical Damage for each Burn effect on the target.
+Deal Additional Physical Damage for every negative effect currently on you.
+Deal Additional Physical Damage if the target is inflicted with Bleed.
+Deal Additional Physical Damage to all enemies if Thorn Shield is active on self.
+Deal Additional Physical and Magic Damage that can Critically Strike to all enemies based on your MISSING HP if at x% HP or below.
+Deal Additional Physical and True Damage if your HP is x% or below.
+Deal Additional Random Damage and Extend Negative Effect Duration by x for each Silver Effect removed.
+Deal Additional Random Damage based on each target’s MAX HP for each instance of Shock, Stun, Perfect Corruption, and Fear currently on the target.
+Deal Additional Random Damage equal to x% of the target’s MAX HP for each instance of Shock or Permadeath present on the target.
+Deal Additional Random Damage for each Burn effect on the target.
+Deal Additional Random Damage for each beneficial effect on enemies and allies.
+Deal Additional Random Damage for each beneficial effect on the enemy.
+Deal Additional Random Damage for each negative effect on the target.
+Deal Additional Random Damage for every negative effect on the target.
+Deal Additional Random Damage if the target has Increased Max HP or Perfect Health active.
+Deal Additional Random Damage to all enemies based on your MAX HP for each Beneficial Effect, including Golden effects, on self.
+Deal Additional Random Damage to all enemies for each Golden Effect on each ally.
+Deal Additional Random Damage to all enemies for each beneficial effect on self.
+Deal Additional Random Damage to each enemy based on your SPECIAL for each negative effect on them.
+Deal Additional Random Damage to each enemy equal to x% of their MAX HP for each negative effect on them.
+Deal Additional Random Damage to each enemy equal to x% of their MAX HP if they are currently frozen.
+Deal Additional Random Damage to each enemy with a x% Chance to Freeze or Stun each enemy for x turns for every enemy that is currently frozen.
+Deal Additional Random Damage to targets inflicted with Sleep or Perfect Sleep.
+Deal Additional True Damage and Heal self for each enemy inflicted with Sleep.
+Deal Additional True Damage based on your MISSING HP to the target.
+Deal Additional True Damage equal to x% of the target’s MAX HP if their HP is x% or greater when attacked.
+Deal Additional True Damage equal to x% of the target’s MAX HP if they were at full HP when attacked.
+Deal Additional True Damage for each beneficial effect on the target.
+Deal Additional True Damage for each negative effect on the enemy.
+Deal Additional True Damage for every Golden Effect on the target.
+Deal Additional True Damage for every burn effect on the enemy.
+Deal Additional True Damage for every offensive beneficial effect on each enemy.
+Deal Additional True Damage if Stop or Blind are already present on the target.
+Deal Additional True Damage if the target is suffering from Bleed.
+Deal Additional True Damage to a random enemy based on their MR stat if Sacrifice or Power Shield are active on self after every action.
+Deal Additional True Damage to all enemies for each Golden Effect on each enemy and each Silver Effect on each ally.
+Deal Additional True Damage to enemies inflicted with Perfect Corruption.
+Deal Additional True Damage to targets for each Golden Buff currently on them.
+Deal Additional True Damage to the target based on their MAX HP and MISSING HP.
+Deal Additional True Damage to the target for each negative effect on them.
+Deal Additional True Damage, that can Critically Strike, equal to x% of the target’s MAX HP if the True, Viper, or Fortune Talisman set is equipped to the target.
+Deal Additional True and Magic damage that has a x% chance to Critically Strike for each enemy that is stunned.
+Deal Additional True damage for every negative effect on the enemy after each action.
+Deal additional Physical, Magic, and True damage that ignores damage immunity to each enemy if you kill any enemy.
+Deal additional physical damage to each enemy based on your CURRENT HP if they suffer from MAX HP reduction effects.
+Deal additional true damage to each enemy if they lack silver effects.
+Deal additional x hits of true damage to each enemy if they lack silver effects.
+Deal heavy physical damage to a single target that increases based on their missing HP.
+Deal magic damage to a single target that increases based on their MR stat.
+Deal magic damage to a single target that increases based on your MAX HP.
+Deal magic damage to a single target.
+Deal magic damage to all enemies that increases based on your MISSING HP.
+Deal magic damage to all enemies that increases based on your SPECIAL stat.
+Deal magic damage to all enemies.
+Deal magic damage to each enemy that increases based on their MR stat.
+Deal magic, physical and true damage to a single enemy that increases based on your SPECIAL stat.
+Deal magic, physical and true damage to all enemies that increases based on your SPECIAL stat.
+Deal one hit of Additional Physical and Magic Damage equal to x% of the target’s respective ATK and MAGIC stats.
+Deal one hit of Additional Physical and Magic Damage to each enemy equal to x% of their MISSING HP.
+Deal one hit of Additional Physical and Magic damage to the enemy based on their ATK and DEF stats if the target has no negative effects present on them.
+Deal one hit of Physical and one hit of Magic damage to a single target.
+Deal one hit of physical and magic damage to a single target equal to x% of their MAX HP per hit.
+Deal one hit of physical and magic damage to a single target.
+Deal one hit of physical and true damage to a single target that increases based on your ATK and MISSING HP.
+Deal one hit of physical and true damage to all enemies that increases based on your MAX HP.
+Deal one hit of physical, magic and true damage to a single target that deals x% Increased Damage, Heals self for x% of damage dealt and has a x% chance to gain an Extra Turn if the target is suffering from negative effects.
+Deal one hit of physical, magic and true damage to a single target that increases based on your MAX HP and their MISSING HP.
+Deal one hit of physical, magic and true damage to a single target.
+Deal one hit of physical, magic and true damage to all enemies.
+Deal one hit of physical, magic and true damage to each enemy that increases based on your MAX HP and their MAX HP.
+Deal one hit of physical, magic, and true damage to a single target.
+Deal one hit of true and magic damage to each enemy that increases based your MR and their MAX HP.
+Deal physical and magic damage to a single target that increases based on your MISSING HP.
+Deal physical and magic damage to all enemies that increases based on your MISSING HP.
+Deal physical damage all enemies.
+Deal physical damage to a single target equal to x% of your MAX HP.
+Deal physical damage to a single target that increases based on your MAX HP.
+Deal physical damage to a single target that increases based on your MISSING HP.
+Deal physical damage to a single target.
+Deal physical damage to all enemies that increases based on your DEF and SPECIAL stats.
+Deal physical damage to all enemies that increases based on your DEF stat.
+Deal physical damage to all enemies that increases based on your MAX HP.
+Deal physical damage to all enemies that increases based on your MISSING HP.
+Deal physical damage to all enemies.
+Deal physical damage to the target and another random enemy.
+Deal random damage to a single enemy that increases based on your MAX HP.
+Deal random damage to a single target that increases based on their MAX HP.
+Deal random damage to a single target that increases based on your MAX HP.
+Deal random damage to a single target that increases based on your SPECIAL stat.
+Deal random damage to a single target.
+Deal random damage to all enemies that increases based on their MAX HP and MISSING HP.
+Deal random damage to all enemies that increases based on your SPECIAL stat.
+Deal random damage to all enemies.
+Deal random damage to each enemy that increases based on their MAX HP and MISSING HP.
+Deal random damage to each enemy that increases based on their MAX HP.
+Deal true damage to a single target and magic damage to all enemies that increases based your MR and their MAX HP.
+Deal true damage to a single target equal to x% of their MAX HP.
+Deal true damage to a single target that increases based on their MISSING HP.
+Deal true damage to a single target.
+Deal true damage to all enemies based on your MISSING HP.
+Deal true damage to all enemies that increases based your MR and their MAX HP.
+Deal true damage to each enemy for every burn effect present on each enemy at the start of your turn.
+Deal true damage to each enemy that increases based your MR and their MAX HP.
+Deal two hits of random damage to a single target.
+Deal up to 1x hits of Additional Random Damage to random enemies based on your SPECIAL and their MISSING HP after every action.
+Deal up to x hits of Additional Random Damage to each enemy based on your DEF and their MISSING HP if they are suffering from Fear, Sleep or Blind effects, including Silver and Innate effects.
+Deal up to x hits of Additional Random Damage to each enemy based on your DEF and their MISSING HP if they lack negative effects after every action.
+Deal up to x hits of Additional Random Damage to the target based on their MAX HP and MISSING HP.
+Deal x hits of Additional Physical Damage if the target has 4 or more buffs or debuffs active.
+Deal x hits of Additional Physical Damage to enemies inflicted with Blind or Perfect Blind.
+Deal x hits of Additional Random Damage based on the enemy’s MAX HP every action.
+Deal x hits of Additional Random Damage based on the target’s MAX HP if there are no beneficial effects on the target.
+Deal x hits of Additional Random Damage on each enemy if Invincibility is active on self.
+Deal x hits of Additional Random Damage on each enemy if your HP is x% or lower.
+Deal x hits of Additional Random Damage to each enemy based on their MAX HP and MISSING HP if not inflicted with negative effects.
+Deal x hits of Additional Random Damage to each enemy that lacks Silver Effects based on their MAX HP.
+Deal x hits of Additional Random Damage to random enemies based on their MAX HP and MISSING HP if not inflicted with negative effects.
+Deal x hits of Additional True Damage and Remove All Shields if the target has a shield active.
+Deal x hits of Physical, Magic, and True damage to all enemies.
+Deal x hits of magic damage to a single enemy that increases based on your SPECIAL stat.
+Deal x hits of magic damage to a single target that increases based on their ATK and DEF stats.
+Deal x hits of magic damage to a single target that increases based your MR and their MAX HP.
+Deal x hits of magic damage to a single target.
+Deal x hits of magic damage to all enemies that increases based on their MISSING HP.
+Deal x hits of magic damage to all enemies that increases based on your ATK and their MISSING HP and MAX HP.
+Deal x hits of magic damage to all enemies that increases based on your MISSING HP.
+Deal x hits of magic damage to all enemies.
+Deal x hits of magic damage to each enemy that increases based on their ATK and DEF stats.
+Deal x hits of physical and magic damage to a single target that increases based on x% of their MAX HP.
+Deal x hits of physical and magic damage to a single target.
+Deal x hits of physical and magic damage to all enemies.
+Deal x hits of physical and true damage to a single target that increases based on your ATK and MISSING HP.
+Deal x hits of physical and true damage to all enemies based on your ATK and MISSING HP.
+Deal x hits of physical damage to a single target and 1 hit of physical damage to all enemies.
+Deal x hits of physical damage to a single target that increases based on your MAX HP.
+Deal x hits of physical damage to a single target that increases based on your MR stat.
+Deal x hits of physical damage to a single target.
+Deal x hits of physical damage to all enemies that increases based on your CURRENT HP.
+Deal x hits of physical damage to all enemies that increases based on your DEF and SPECIAL stats.
+Deal x hits of physical damage to all enemies that increases based on your MR stat.
+Deal x hits of physical damage to each enemy based on their MAX HP.
+Deal x hits of physical damage to each enemy that increases based on your MISSING HP and their MISSING HP.
+Deal x hits of random damage to a single target that increases based on their MAX HP.
+Deal x hits of random damage to a single target that increases based on your MAGIC stat.
+Deal x hits of random damage to a single target.
+Deal x hits of random damage to all enemies that increases based on your SPECIAL stat.
+Deal x hits of random damage to all enemies.
+Deal x hits of random damage to each enemy that increases based on their MAX HP and MISSING HP.
+Deal x hits of random damage to random enemies.
+Deal x hits of true damage based off your Missing HP and Inflict Curse for x turns on random enemies when you take damage.
+Deal x hits of true damage to a single target and 1 hit of true damage to all enemies that increases based on your ATK stat.
+Deal x hits of true damage to a single target.
+Deal x hits of true damage to all enemies.
+Deal x hits of true damage to each enemy that increases based your MR and their MAX HP.
+Deal x% of a random enemy’s MAX HP as magic damage to that enemy and Heal all allies for the same percentage of their MAX HP.
+Deal x% of a random enemy’s MAX HP as magic damage to that same enemy and heal self for x% of your MAX HP.
+Deal x% of a random enemy’s MAX HP as true damage and heal all allies to full HP when an ally dies.
+Deal x% of the target’s MAX HP as random damage.
+Deal x% of your CURRENT HP in true damage to Revive all allies with full HP.
+Deal x% of your MAX HP as random damage to the target and have that target deal x% of its MAX HP as random damage to you.
+Deals 1 hit of magic damage and 1 hit of true damage to all enemies.
+Deals 1 hit of physical and 1 hit of true damage to all enemies.
+Deals 1 hit of physical damage and 1 hit of true damage to a single target.
+Deals 1 hit of true damage and 1 hit of magic damage to a single target.
+Deals 3 hit of random damage to a single target.
+Deals 3 strikes of physical damage
+Deals 4 hit of random damage to a single target.
+Deals 5 hit of random damage to all enemies.
+Deals 6 hit of random damage to a single target.
+Deals Additional Damage to Stunned targets.
+Deals Additional Magic Damage if you get a Perfect Hit.
+Deals Additional Physical Damage to enemies suffering from Permadeath or Doom.
+Deals Additional Physical Damage to targets with Lowered DEF.
+Deals Additional True Damage based on the number of beneficial effects on the target and consumes those effects, including Golden Effects.
+Deals Additional True Damage for each damage over time effect on the enemy.
+Deals Additional True Damage if the target is asleep.
+Deals a portion of the enemy’s MAX HP as true damage to all enemies.
+Deals additional True Damage for each harmful effect on the enemy.
+Deals high magic damage to a target.
+Deals high physical damage to an enemy.
+Deals high random damage to a single target.
+Deals magic damage to a single target that increases based on your MAX HP.
+Deals magic damage to a single target.
+Deals magic damage to a single-target.
+Deals magic damage to all enemies
+Deals magic damage to all enemies .
+Deals magic damage to all enemies.
+Deals magic damage to an enemy.
+Deals magical damage to a single target.
+Deals massive magic damage to a target.
+Deals one hit of magic damage and one hit of physical damage to all enemies.
+Deals one hit of physical and magic damage to a single target.
+Deals one hit of physical and magic damage to all enemies.
+Deals one hit of physical and one hit of magic damage to a single target.
+Deals one hit of physical and one hit of magic damage to all enemies.
+Deals one hit of physical damage and one hit of magic damage to a single target.
+Deals one hit of physical damage and one hit of magic damage to all enemies.
+Deals one hit of physical damage and one hit of true damage to a single target.
+Deals one hit of physical damage to a single target.
+Deals one hit of physical, magic, and true damage to a single target.
+Deals one hit of physical, magic, and true damage to all enemies.
+Deals one hit of physical, magical, and true damage to a single target.
+Deals one hit of random and one hit of true damage to all enemies.
+Deals one hit of random damage and one hit of true damage to a single target.
+Deals one hit of true and one hit of magic damage to all enemies.
+Deals physical and magic damage to a single target.
+Deals physical and magic damage to a target.
+Deals physical and magic damage to all enemies.
+Deals physical and magic damage to enemy.
+Deals physical and magic damage.
+Deals physical and magical damage to a single target.
+Deals physical and magical damage to all enemies.
+Deals physical damage to a random target.
+Deals physical damage to a single target, then to all enemies.
+Deals physical damage to a single target.
+Deals physical damage to a single-target.
+Deals physical damage to all enemies.
+Deals physical, magic, and true damage to a single target.
+Deals random damage to a single target.
+Deals random damage to a single-target.
+Deals random damage to all enemies.
+Deals random damage to either a single target OR all enemies.
+Deals true damage to a single target.
+Deals true damage to all enemies.
+Deals true damage to single target.
+Deals two hits of Additional True Damage to the target for each instance of Stun, Perfect Bleed, or Blinding Burn already on the target.
+Deals two hits of physical damage to a single target.
+Deals x hits of Additional Physical Damage if you have the Armor Penetration buff active.
+Deals x hits of magic damage and x hits of true damage to a single target.
+Deals x hits of magic damage and x hits of true damage to all enemies.
+Deals x hits of magic damage to a single target.
+Deals x hits of magic damage to all enemies.
+Deals x hits of magic damage to random enemies.
+Deals x hits of magic damage to the target.
+Deals x hits of magic damage.
+Deals x hits of physical damage and x hits of magic damage to a single target.
+Deals x hits of physical damage and x hits of magic damage to all enemies.
+Deals x hits of physical damage to a single target.
+Deals x hits of physical damage to all enemies.
+Deals x hits of physical damage to enemies.
+Deals x hits of physical damage to random targets.
+Deals x hits of physical damage to target.
+Deals x hits of physical damage.
+Deals x hits of random damage to a single target.
+Deals x hits of random damage to all enemies.
+Deals x hits of random damage to random enemies.
+Deals x hits of random damage to random targets.
+Deals x hits of random damage.
+Deals x hits of true damage to a single target.
+Deals x hits of true damage to all enemies.
+Deals x hits of true damage to random enemies.
+Deals x hits of true damage to random targets.
+Deals x% of each ally’s MAX HP as magic damage to each ally, but not self.
+Deals x% of the enemy’s MAX HP as true damage to all enemies.
+Deals x% of the enemy’s MAX HP as true damage.
+Deals x% of the target’s MAX HP as true damage.
+Deals x% of your CURRENT HP as true damage to the enemy, and lose the same amount of HP.
+Deals x% of your MAX HP as physical damage to a single target.
+Deals x% of your MAX HP as true damage to the enemy at the cost of x% of your CURRENT HP.

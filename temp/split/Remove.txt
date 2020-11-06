@@ -1,0 +1,314 @@
+Remove 1 Golden Effect from all enemies.
+Remove 2 random beneficial and golden effects from all enemies when you take damage.
+Remove 4 Negative Effects, including Silver effects, from self.
+Remove All Beneficial Effects from a single target.
+Remove All Beneficial Effects from all enemies and inflict Doom for x turns if any beneficial effects are removed.
+Remove All Beneficial Effects from enemies
+Remove All Beneficial Effects from the target.
+Remove All Beneficial Effects including Golden Effects, except Perfect Health, Shroud, and Soul Protect, if the target’s HP is less than 60%.
+Remove All Beneficial Effects including Golden Effects, except Shroud, Perfect Immortality, and Soul Protect.
+Remove All Beneficial Effects including Golden effects and Innate Damage Reduction effects, Force Shield and Titan Shield effects on enemies before damage.
+Remove All Beneficial Effects including Golden effects from enemy and deal x% of their MISSING HP as damage per effect removed this way.
+Remove All Beneficial Effects, including Golden Effects and inflict Doom for x turns.
+Remove All Beneficial Effects, including Golden Effects from the target.
+Remove All Beneficial Effects, including Golden Effects if you have Perfect Hit active when you attack.
+Remove All Beneficial Effects, including Golden Effects minus Shroud, Soul Protect, and Perfect Immortality.
+Remove All Beneficial Effects, including Golden Effects, and Disable Starfire, Trooper, and Labyrinth Talismans before dealing damage to the target.
+Remove All Beneficial Effects, including Golden Effects, from all enemies.
+Remove All Beneficial Effects, including Golden Effects, from up to two random enemies and inflict Perfect Corruption for the duration of battle.
+Remove All Beneficial Effects, including Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect, from each enemy.
+Remove All Beneficial Effects, including Golden effects from all enemies.
+Remove All Beneficial Effects, including Golden effects, Permanently Reduce All Stats by x% and inflict Passive Disable and Fear on all enemies for x turns whenever each enemy is killed for the first time in battle.
+Remove All Beneficial Effects, including Golden effects, and Inflict Perfect Corruption and Seal for x turns on all enemies at the start of battle.
+Remove All Beneficial Effects, including Golden effects, and inflict Bloodlust and HP Drain for x turns if the target is suffering from any Bleed effect.
+Remove All Beneficial Effects, including Golden effects, and inflict Passive Disable and Permadeath on the target for x turns before dealing damage.
+Remove All Beneficial Effects, including Golden effects, and inflict x Marks on all enemies for x turns.
+Remove All Beneficial Effects, including Golden effects, before dealing damage. Heal self for x% of your MAX HP for each effect removed.
+Remove All Beneficial Effects, including Golden effects, from all enemies and Transfer All Negative Effects, including Silver effects, from self to each enemy before dealing damage. Heal each ally for x% of their MAX HP if a negative effect was removed this way.
+Remove All Beneficial Effects, including Golden effects, from all enemies before dealing damage.
+Remove All Beneficial Effects, including Golden effects, from all enemies.
+Remove All Beneficial Effects, including Golden effects, from the target before dealing damage.
+Remove All Beneficial Effects, including Golden effects, inflict Passive Disable and grant Immortality on the target for x turns before dealing damage.
+Remove All Beneficial Effects, including Golden effects, on each enemy that lacks Silver Effects.
+Remove All Beneficial and Negative Effects (including Gold and Silver) on all enemies and all allies.
+Remove All Beneficial and Negative Effects from a random enemy and turn them into an Apparition. The Apparition cannot gain beneficial or negative effects and will permanently die within 1 turn. If the Apparition is killed before then, all allies will be revived, granted Perfect Immunity, and +x% increase in all stats for x turns. This effect does not apply to bosses.
+Remove All Beneficial and Negative Effects from all allies and enemies whenever this passive becomes active and inflict Innate Passive Disable on all enemies until they die if this effect removes at least 4 Beneficial Effects from your opponent.
+Remove All Beneficial and Negative Effects, including Golden and Silver effects, from all allies and enemies.
+Remove All Beneficial effects, including Golden Effects and inflict Dark Ghost for x turns and Furious Burn for x turns on all enemies when you die.
+Remove All Beneficial, including Golden effects, from a random enemy at the start of your turn.
+Remove All Burn Effects from enemies and Reduce their Power by x and Fury by x% for each burn effect removed.
+Remove All Damage Invulnerability Shields from all enemies before dealing damage.
+Remove All Damage Type Invulnerability Effects from all enemies.
+Remove All Freeze Effects from enemies and deal Additional Magic Damage based on the enemy’s MAX HP to each enemy if a Freeze effect is removed.
+Remove All Golden Effects and inflict x Marks and Perfect Death on the target for x turns if Perfect Bleed is already on present on the target.
+Remove All Golden Effects from all enemies before dealing damage.
+Remove All Golden Effects from all enemies if any enemy is suffering from Cleave after every action.
+Remove All Golden Effects from all enemies if the target has Reduced Max HP.
+Remove All Golden Effects from each enemy, before dealing damage.
+Remove All Golden Effects from each enemy.
+Remove All Golden Effects from the enemy, excluding Shroud, Soul Protect, and Perfect Immortality.
+Remove All Golden Effects on the enemy, excluding Shroud, Perfect Immortality, and Soul Protect.
+Remove All Golden Effects, except Perfect Health, Shroud, and Soul Protect.
+Remove All Immunity Effects, including Perfect Immunity, and inflict Heal Block and Block Beneficial Effects on the target for x turns before dealing damage.
+Remove All Immunity Effects, including Vanish and Perfect Immunity from the target.
+Remove All Immunity Effects, including Vanish from all enemies.
+Remove All Immunity and Invincibility effects, including Vanish, Damage Block, and Perfect Heal Shields, and inflict x Marks on all enemies for each enemy that is at Full HP.
+Remove All Immunity effects on all enemies, including Vanish.
+Remove All Immunity effects, including Perfect Immunity and Vanish.
+Remove All Immunity effects, including Vanish and Perfect Immunity from the target.
+Remove All Immunity effects, including Vanish and Perfect Immunity, and inflict Curse and Punishment on up to x random enemies for x turns.
+Remove All Immunity effects, including Vanish and Perfect Immunity, from the target.
+Remove All Immunity effects, including Vanish and Perfect Immunity.
+Remove All Immunity effects, including Vanish.
+Remove All Immunity, including Perfect Immunity, from the target.
+Remove All Immunity, including Vanish and Perfect Immunity and Damage Block effects on targets before dealing damage.
+Remove All Increased Stat and Critical Strike Chance effects, including Golden and Innate effects, from the target. This effect cannot remove default Stat Increase effects from Bespoke Cosmic Talismans and does not apply to bosses.
+Remove All Negative Effects from all allies.
+Remove All Negative Effects from allies, including Silver Effects.
+Remove All Negative Effects, Including Silver Effects from all allies.
+Remove All Negative Effects, including Silver Effects and Innate versions of Crave, Heal Reduction and Heal Block, from all allies.
+Remove All Negative Effects, including Silver Effects and Innate versions of Stun, Freeze, Sleep and Taunt, from all allies and inflict Curse on all enemies for x turns if you are Stunned, Frozen, Sleeping, or Taunted at the start of battle and at the start of your turn.
+Remove All Negative Effects, including Silver Effects from all allies.
+Remove All Negative Effects, including Silver Effects from self.
+Remove All Negative Effects, including Silver Effects, and grant Perfect Hit, Charge, Lifesteal and Spell Vamp to each ally below x% HP for x turns at the start of your turn.
+Remove All Negative Effects, including Silver Effects, from a random ally.
+Remove All Negative Effects, including Silver Effects, from each ally and grant 1 stack of HP Regen for x turns for each effect removed.
+Remove All Negative Effects, including Silver Effects, from each ally.
+Remove All Negative Effects, including Silver Effects, from self and Heal all allies based on your MAX HP for each effect removed.
+Remove All Negative Effects, including Silver effects from all allies.
+Remove All Negative Effects, including Silver effects, and Heal self for x% of your MAX HP for each effect removed.
+Remove All Negative Effects, including Silver effects, from all allies and Revive a random ally with full HP and Ascension for x turns if the target is killed.
+Remove All Negative Effects, including Silver effects, from all allies and grant them Ascension and Magic Penetration for x turns.
+Remove All Negative Effects, including Silver effects, from all allies.
+Remove All Negative Effects, including Silver effects, from each ally and Heal them for x% of their Max HP for each effect removed at the start of your turn.
+Remove All Negative Effects, including Silver effects, from self and Gain x Power and Ascension for x turns if any enemy is suffering from negative effects after every action.
+Remove All Negative Effects, including Silver effects, from self and a target ally.
+Remove All Negative Effects, including Silver effects, from self and up to x random allies.
+Remove All Negative Effects, including Silver effects, from self.
+Remove All Negative Effects. including Silver and Unblockable effects, from all allies.
+Remove All Offensive Effects from the target, including Golden Effects.
+Remove All Offensive Effects from the target.
+Remove All Shield and Damage Block Effects.
+Remove All Shield effects from each enemy.
+Remove All Shields before dealing damage.
+Remove All Shields from the target.
+Remove All Stat Increase effects from all enemies before damage.
+Remove All Stat Reduction effects from self and all allies.
+Remove Beneficial Effects and inflict Block Beneficial Effects on the target if Armor or Magic Penetration is currently active on you.
+Remove Beneficial Effects and inflict Perfect Death and Curse on all enemies for x turns upon death.
+Remove Beneficial Effects from all enemies.
+Remove Beneficial Effects from up to x random enemies.
+Remove Beneficial Effects, including Golden Effects from all enemies and inflict Perfect Sleep, Perfect Crave, and Perfect Death on all enemies for the duration of battle upon death.
+Remove Beneficial Effects, including Golden Effects from all enemies.
+Remove Beneficial Effects, including Golden Effects if the target is suffering from Bleed.
+Remove Beneficial Effects, including Golden Effects.
+Remove Blizzard Shield from self and gain Magic Penetration and Magic Charge for x turns if the shield was successfully removed.
+Remove Counter Attack and Immunity effects, including Vanish, from each enemy before dealing damage.
+Remove Counterstrike and Revenge effects from all enemies.
+Remove Crave and Perfect Crave from all allies.
+Remove Crave effects from all allies and Heal all allies by x% of their Max HP for every instance of Immunity or Perfect Immunity present on the enemy team.
+Remove Crave, Heal Block, and Heal Reduction effects, including silver effects, from all allies at the start of battle and at the start of your turn.
+Remove Crave, Permadeath, Heal Block, and Heal Reduction effects from allies and Heal them for x% of your MAX HP for each effect removed.
+Remove Curse and Perfect Corruption effects from allies.
+Remove Damage Invulnerability Effects, including Vanish and Invincibility, before dealing damage to all enemies.
+Remove Damage Invulnerability Effects, including Vanish and Invincibility, from the target.
+Remove Damage Invulnerability effects from the target, grant Physical, Magic, and True Block to self, and inflict Perfect Corruption for the duration of battle if an effect is stolen.
+Remove Damage Invulnerability effects from the target.
+Remove Dark Ghost from all allies.
+Remove Doom and Dark Ghost from all allies.
+Remove Doom from all allies.
+Remove Doom, Perfect Disable, and Perfect Death from all allies.
+Remove Endure and Ghost effects on the target.
+Remove Endure effects on enemies.
+Remove Endure, Invincibility, Perfect Heal Shield, and Ghost effects.
+Remove Exhaust and Permadeath from all allies.
+Remove Ghost and Regen from enemies.
+Remove Golden Effects and inflict Perfect Heal Block for x turns.
+Remove Golden Effects from all enemies.
+Remove Golden Effects from enemies, excluding Shroud, Soul Protect, and Perfect Immortality.
+Remove Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect, and apply Perfect Corruption to all enemies for x turns on death.
+Remove Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect.
+Remove Immortality and Perfect Immortality from the target before dealing damage.
+Remove Immortality and Perfect Immortality from the target.
+Remove Immortality, Perfect Immortality, and Endure from all enemies.
+Remove Immunity Effects, including Vanish and Perfect Immunity, and inflict Silence and Perfect Corruption on any enemy below x% HP for the duration of battle after you take an action.
+Remove Immunity and Damage Block effects on targets and inflict Curse for x turns before dealing damage if negative effects are present on self.
+Remove Immunity and Damage Block effects on the target and grant Thorn Shield to all allies for x turns before dealing damage if negative effects are present on self.
+Remove Immunity and Damage Block effects on the target and inflict Blind for x turns before dealing damage if negative effects are present on self.
+Remove Immunity and Damage Block effects on the target and inflict Crave and Punishment on all enemies before dealing damage if negative effects are present on self.
+Remove Immunity and Damage Block effects on the target and inflict Perfect Death for x turns before dealing damage if negative effects are present on self.
+Remove Immunity and Damage Block effects on the target before dealing damage and grant Perfect Accuracy Up to all allies for x turns if negative effects are present on self.
+Remove Immunity and Golden Shield Effects on a random target at the start of your turn.
+Remove Immunity and Inflict Perfect Bleed and Taunt on each enemy for x turns.
+Remove Immunity and Invincibility effects, including Perfect Immunity and Vanish from all enemies.
+Remove Immunity and Invincibility effects, including Perfect Immunity and Vanish, before dealing damage.
+Remove Immunity and Invincibility effects, including Vanish.
+Remove Immunity and Perfect Immunity and inflict Exhaust on up to x random enemies at the start of your turn after the first round of battle.
+Remove Immunity and Perfect Immunity and inflict x Marks for x turns on any target with the Labyrinth or Viper Talisman set equipped every turn.
+Remove Immunity and Perfect Immunity from all enemies and inflict Fear on all enemies for x turns if Fear is already active on the target.
+Remove Immunity and Perfect Immunity from all enemies and inflict Perfect Stun on them for x turns if the target has Reduced Max HP.
+Remove Immunity and Perfect Immunity from all enemies.
+Remove Immunity and Perfect Immunity from the target.
+Remove Immunity and Perfect Immunity from up to x enemies every turn.
+Remove Immunity and Perfect Immunity.
+Remove Immunity and Vanish Effects, including Golden effects.
+Remove Immunity and Vanish from all enemies.
+Remove Immunity and Vanish from the target before dealing damage.
+Remove Immunity and inflict Freeze on a random enemy for x turns at the start of your turn every turn.
+Remove Immunity and inflict up to x Marks for x turns on each enemy.
+Remove Immunity effects from enemies, including Perfect Immunity and Vanish.
+Remove Immunity effects from enemies..
+Remove Immunity effects from the target.
+Remove Immunity effects, including Perfect Immunity and Vanish.
+Remove Immunity from all enemies and inflict Sleep for x turns if Magic Penetration is active at the start of your turn.
+Remove Immunity from all enemies.
+Remove Immunity from the enemy.
+Remove Immunity from the target.
+Remove Immunity with a x% Chance to Remove Perfect Immunity.
+Remove Immunity, Invincibility and Vanish from the target before dealing damage.
+Remove Immunity, Perfect Immunity and Vanish from all enemies.
+Remove Increased Max HP and Perfect Health from all enemies at the start of battle.
+Remove Invicibility, Magic Block and Magic Damage Immunity before dealing damage.
+Remove Invincibility Effects, including Vanish.
+Remove Invincibility and Damage Block effects from all enemies.
+Remove Invincibility and Heal each ally for x% of their Max HP for every Invincibility effect removed.
+Remove Invincibility and Physical, Magic, and True Damage Invulnerability effects before dealing damage.
+Remove Invincibility and Vanish effects at the start of battle.
+Remove Invincibility and Vanish effects, before dealing damage.
+Remove Invincibility effects on the enemy.
+Remove Invincibility, Vanish and Perfect Vanish from the target before dealing damage.
+Remove Invincibility, Vanish and Perfect Vanish.
+Remove Magic Burns from all allies.
+Remove Magma Shield from self and Increase DEF and MR by +x% if the shield was successfully removed.
+Remove Negative Effects from all allies, including Silver Effects.
+Remove Negative Effects from all allies.
+Remove Negative Effects from an ally.
+Remove Negative Effects from each ally.
+Remove Negative Effects from self and a random ally.
+Remove Negative Effects from self.
+Remove Negative Effects from target ally.
+Remove Negative Effects, including Silver Effects from all allies if Bleed or Perfect Bleed is present on any enemy at the start of your turn.
+Remove Negative Effects, including Silver Effects from all allies.
+Remove Negative Effects, including Silver Effects, and grant an Extra Turn to each ally inflicted with Perfect Disable or Passive Disable.
+Remove Negative Effects, including Silver Effects, from all allies on Perfect Hits.
+Remove Negative Effects, including Silver Effects, from self and a target ally.
+Remove Negative Effects, including Silver Effects, from self and up to two random allies.
+Remove Negative Effects, including Silver Effects, from self.
+Remove Negative Effects, including Silver effects from all allies.
+Remove Negative Effects, including Silver effects from self.
+Remove Negative Effects, including Silver effects, from all allies.
+Remove Offensive Effects from all enemies.
+Remove One Beneficial Effect each hit.
+Remove One Beneficial Effect from each enemy.
+Remove One Silver Effect from each ally and Remove One Golden Effect from each enemy.
+Remove Perfect Corruption, Crave, and Perfect Crave effects from all allies.
+Remove Perfect Immunity and Damage Block effects from each enemy before dealing damage.
+Remove Perfect Immunity and Revenge.
+Remove Perfect Immunity and all Beneficial Effects.
+Remove Perfect Immunity and all beneficial effects and inflict x Magic Burns on all enemies for x turns upon death.
+Remove Perfect Immunity and inflict Bleed on the target for x turns.
+Remove Perfect Immunity and inflict x Marks for x turns if you have Perfect Hit active when you attack.
+Remove Perfect Immunity from all enemies.
+Remove Perfect Immunity from the enemy
+Remove Perfect Immunity from the target.
+Remove Perfect Immunity.
+Remove Perfect Stun, Seal and Perfect Crave from all allies.
+Remove Permadeath, Perfect Death, and Doom from all allies.
+Remove Physical Shields from all enemies, including Physical Block.
+Remove Revenge and Counterstrike effects including golden and innate effects before damage.
+Remove Shields from all enemies.
+Remove Shroud, Perfect Immortality, and Soul Protect from enemies at the start of your turn and inflict Punishment on each enemy for x turns if an effect is removed.
+Remove Silver Effects from all allies if any enemy is inflicted with Dark Ghost.
+Remove Silver Effects from all allies.
+Remove Silver Effects from self and up to two random allies.
+Remove Silver Effects from self every turn.
+Remove Silver Effects from self if any enemy is inflicted with a burn effect.
+Remove Silver Effects from up to x allies at the start of battle and grant Cleanse status to all allies for x turns.
+Remove Soul Protect and Ghost effects from enemies.
+Remove Stat Reduction Effects on all allies if any enemy is inflicted with Decreased MAX HP.
+Remove True, Titan, and Damage Reduction Shields.
+Remove Vanish and Invincibility from all enemies.
+Remove Vanish and Invincibility status effects from enemies.
+Remove a Beneficial Effect each hit.
+Remove a Random Beneficial Effect, including Golden Effects, and inflict a Random Negative Effect, including Silver Effects, on attacking enemies for x turns when anyone on your team takes damage.
+Remove a beneficial effect from a random enemy with a x% chance to Blind all enemies for x turns when you take damage.
+Remove a beneficial effect from each enemy everytime you take damage
+Remove all Beneficial Effects, including Golden Effects, from a random target and Blinds them for x turns at the start of every turn.
+Remove all Crave, Heal Reduction and Heal Block effects, including Silver and Innate effects, from all allies.
+Remove all Doom, Permadeath, Corruption and Dark Ghost effects from all allies.
+Remove all Golden effects, before dealing damage.
+Remove all Immunity and Vanish effects, including Golden effects, and inflict Cleave, Bloodlust and Block Beneficial Effects on the target for x turns before dealing damage.
+Remove all Immunity and Vanish effects, including Golden effects, from all enemies and inflict Passive Disable on all enemies for x turns.
+Remove all Immunity and Vanish effects, including Golden effects, from all enemies before dealing damage.
+Remove all Immunity and Vanish effects, including Golden effects, from all enemies if at x% HP or below.
+Remove all Immunity and Vanish effects, including Golden effects, from all enemies.
+Remove all Immunity effects, including Perfect Immunity and Vanish, from all enemies at the start of battle.
+Remove all Immunity, Vanish and Invincibility effects, from all enemies before dealing damage.
+Remove all Increased Max HP effects, including Golden and Innate effects, on the target before damage. This does not apply to bosses.
+Remove all Invincibility, Immunity, Vanish and Heal Shield effects, including Golden effects, from the target before dealing damage.
+Remove all Passive Disable and Corruption effects, including Silver effects, from all allies.
+Remove all Passive Disable and Skill Disabling effects, including Silver and Innate effects, from self.
+Remove all Shield and Damage Type Block Effects from enemies.
+Remove all Shield and Damage Type Block effects from the target before dealing damage.
+Remove all Shield, Invincibility and Damage Type Block effects, including Golden effects, from the target. Permanently Reduce DEF and MR on the target by -x% if an effect was removed this way.
+Remove all beneficial effects, including Golden Effects and Inflict Bloodlust and Accuracy Down on a random enemy at the start of battle.
+Remove all beneficial effects, including Golden Effects,inflict Punishment and Perfect Death for the duration of battle on all enemies, and Revive with full HP and a Perfect Titan Shield upon death.
+Remove all immunity effects, including Vanish and Perfect Immunity, from all enemies when you take damage.
+Remove all stat increase effects including Golden and Innate effects from all enemies.
+Remove and Prevent all Counterstrike and Revenge effects, including Golden and Innate effects, on each enemy until they die whenever this passive becomes active and at the start of your turn.
+Remove and Prevent all Immunity and Vanish effects, including Golden effects, on the target until they die before dealing damage.
+Remove and Prevent all Invincibility, Vanish, Perfect Vanish and Perfect Heal Shield effects on all enemies until they die at the start of battle and at the start of your turn.
+Remove and Prevent all Titan Shield, Vanish and Ascension effects, including Golden effects, on the target until they die before dealing damage.
+Remove offensive effects from all enemies every turn.
+Remove one Beneficial Effect from all enemies and inflict Passive Disable on a random enemy for x turns when you take damage.
+Remove up to x Beneficial Effects from each enemy.
+Remove up to x Beneficial Effects if the target has Immunity.
+Remove up to x Beneficial Effects, including Golden Effects, except Shroud, Perfect Immortality, and Soul Protect, from each enemy and inflict Curse and Permadeath for x turns every turn.
+Remove up to x Beneficial Effects.
+Removes All Immunity effects and inflict Block Beneficial Effects on the target for x turns.
+Removes Beneficial Effects from an enemy
+Removes Beneficial Effects from enemies.
+Removes Beneficial Effects from the enemy.
+Removes Beneficial Effects, including Golden Effects from the target.
+Removes Damage Type Invulnerability and Invincibility Effects from the target.
+Removes Immunity Effects including Perfect Immunity.
+Removes Immunity and Endure effects from all enemies.
+Removes Immunity and Invincibility effects, including Golden Effects.
+Removes Negative Effects for x turns.
+Removes Negative Effects from all allies for x turns.
+Removes Negative Effects from all allies.
+Removes Negative Effects on all allies.
+Removes Negative Effects on allies.
+Removes Negative Effects on target ally.
+Removes One Beneficial Effect.
+Removes a random Beneficial Effect on each enemy at the start of the battle.
+Removes all Immunity Effects, including Vanish and Perfect Immunity from the target.
+Removes beneficial effects, including Golden Effects, from up to x enemies every turn.
+Removes up to x Beneficial Effects, including Golden Effects.
+Cleanse Silver Effects from all allies.
+Cleanse a random ally.
+Cleanse all Stun, Freeze and Sleep effects, including Silver and Innate effects, from self at the start of battle and at the start of your turn.
+Cleanse all allies from negative and silver effects whenever you take damage.
+Cleanse all allies if any ally is inflicted with Permadeath or Stun.
+Cleanse all allies, including Silver Effects and grant a Random Offensive Effect to any ally with the Dioscuri or Dog Star passive when you take damage.
+Cleanse all allies.
+Cleanse allies suffering from Permadeath.
+Cleanse and Grant a Random Beneficial Effect to self or a random ally every turn.
+Cleanse and Heal a random ally and grant a Heal Shield to the ally for x turns.
+Cleanse and Heal a random ally to full HP for each enemy that is stunned.
+Cleanse and Heal all allies.
+Cleanse and Heal allies if Perfect Hit is active when you take an action.
+Cleanse and Heal allies inflicted with Blind or Taunt effects.
+Cleanse and Heal self.
+Cleanse and grant Immortality to all allies upon death.
+Cleanse and grant Perfect Heal Shield to all allies for x turns on death.
+Cleanse and grant Perfect Immunity to all allies for x turns if the target has Increased Max HP or Perfect Health active.
+Cleanse any ally inflicted with Silence.
+Cleanse negative effects from all allies.
+Cleanse negative effects, including Silver Effects from all allies.
+Cleanse negative effects, including Silver Effects, from all allies.
+Cleanse on all allies.
+Cleanse self and a target ally.
+Cleanse, Heal, and Grant Perfect Immunity to a random ally for each instance of Stun, Taunt, Freeze (including unblockable Freeze), Heal Block, Perfect Corruption, and Permadeath currently on you.
+Clears negative effects, including Silver effects, from up to two random allies and heals all allies based on your MAX HP every round.
+Cleave status deals true damage to the target’s allies whenever they take damage.

@@ -1,0 +1,855 @@
+50% Chance to Remove Immunity and Stun a random enemy every turn.
+Gain Echo status for 2 turns if any enemy’s HP is below 50% at the start of your turn.
+Transform Bleed and Heal Block effects into Perfect Bleed and Perfect Heal Block after each action.
+Gain Perfect Immunity for the duration of battle.
+Reduce Damage Taken by 60%, but deal random damage to each ally equal to 5% of their MAX HP when hit.
+35% Chance to gain an Extra Turn after each action.
+Remove Immunity and Perfect Immunity and inflict 3 Marks for 2 turns on any target with the Labyrinth or Viper Talisman set equipped every turn.
+
+Immune to all negative effects, including Max HP reduction.
+This skill can only be countered by Passive Disable applied at the start of battle.
+Grant Increased DEF and Golden Hit to all allies for 3 turns at the start of battle.
+Grant a Physical, Magic, or True Block to each ally if Regen is present at the start of your turn.
+Curse all enemies that lack beneficial effects for 2 turns after each action.
+Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.
+Immune to Stun, Blind, and Stop.
+Gain Invincibility for 2 turns at the start of battle.
+Raise DEF and MR of all allies for 2 turns at the start of battle.
+Grant Immunity to Doom, Crave, and Perfect Crave to all allies.
+
+
+Grant Increased Max HP and ATK to self for 2 turns at the start of battle.
+Prevent all enemies from gaining Immunity effects.
+Grant Immunity or Perfect Immunity to each ally at Start of battle for 1 turn.
+Gain Perfect Heal Shield for self and grant Void Shield and 2 stacks of HP Regen to all allies for 2 turns when you reach 1 HP.
+Grant Endure to all allies at the start of battle for 3 turns.
+Grant Counterstrike to all allies for 2 turns and fully heal allies if any ally’s HP falls to zero.
+Allies gain an extra turn if your team gets the first kill in a battle.
+Revive the first ally that dies in battle and grant them Perfect Immunity and Perfect Immortality for 3 turns.
+Reduces the duration of beneficial effects every turn.
+(Does not apply to first turn beneficial effects)
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+Grants Immunity to Doom, Curse, and Permadeath to all allies.
+50% Chance to remove Immunity from each enemy at the start of battle.
+Inflict ATK Down and MAGIC down on all enemies for 2 turns at the start of battle.
+Revive all allies upon death.
+Grants Immunity to Permadeath, Perfect Death, and Doom to all allies.
+35% Chance to grant Immunity or Cleanse status to each ally every turn for 1 turn.
+Immune to Doom.
+Reduce all damage to self by 50%.
+35% Chance to grant a random defensive effect to allies when they take damage.
+Immune to Doom.
+Decrease the MAX HP of a random enemy by 5% every turn.
+Heal a random ally based on their MISSING HP every turn.
+Immune to Doom.
+Stun any target that is asleep for 1 turn at the start of your turn.
+Remove Immunity and Perfect Immunity from up to 2 enemies every turn.
+Grants Immunity to all allies for 1 turn at the start of the battle.
+Grants immunity to a random ally every following turn.
+Grants Immunity to Mark, Doom, and Curse effects for all allies.
+Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.
+Grants increased Accuracy to all allies for 2 turns at the start of battle.
+
+
+Grant your allies a 35% chance to avoid damage when they are attacked.
+Failing to avoid a hit deals a percentage of their MAX HP as random damage.
+Remove a beneficial effect from each enemy everytime you take damage
+Inflict Stop on a random enemy for 2 turns every turn.
+Stop prevents the target from gaining Extra Turns.
+Generate 1 point of Power whenever you take damage.
+Cleanse and grant Immortality to all allies upon death.
+Revive with full HP upon death and immediately gain an Extra Turn if it’s still your team’s turn.
+Remove offensive effects from all enemies every turn.
+Gain a random Damage Invulnerability Effect if a Damage Reduction Shield is active at the start of your turn.
+Gain Perfect Immunity for the duration of battle.
+
+
+Immune to all Negative Effects, except Crave, Perfect Crave, Heal Reduction, Heal Block and Perfect Heal Block.
+Grant Critical Strike Chance to self and a random ally for 1 turn at the start of your turn.
+35% Chance to counterattack when anyone on your team takes damage.
+This skill can only be countered by Passive Disable applied at the start of battle.
+
+Immune to Stun and Reduce Max HP effects.
+Gain Perfect Hit and 100% Critical Strike status for 1 turn if Regen is active at the start of your turn.
+Gain immunity to Passive Disable effects after the first round of battle.
+Remove All Negative Effects, including Silver Effects, and grant Perfect Hit, Charge, Lifesteal and Spell Vamp to each ally below 50% HP for 1 turn at the start of your turn.
+
+
+
+Grant Immunity to Stop, Fear and Heal Block Effects, including Silver and Innate effects, to all allies until they die whenever this passive becomes active.
+Permanently Reduce DEF and MR on all enemies by -25% at the start of battle and at the start of your turn.
+50% Chance to take no damage and inflict a Time Bomb or Perfect Time Bomb on attacking enemies for 2 turns when you are attacked.
+35% Chance to Extend Negative Effect Duration on all enemies by 1 when you take damage.
+Deal up to 12 hits of Additional Random Damage to random enemies based on your SPECIAL and their MISSING HP after every action.
+Grant Perfect Cleanse and a Random Golden Effect to each ally for 2 turns whenever an enemy is killed.
+50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Passive or Perfect Disable on attacking enemies for 2 turns.
+Heal all allies based on your Max HP for each remaining negative effect on each ally at the start of your turn.
+Remove Crave, Heal Block, and Heal Reduction effects, including silver effects, from all allies at the start of battle and at the start of your turn.
+Grant immunity to Max HP Decrease effects to all allies at the start of battle and at the start of your turn.
+If a Mongol Archer is in your team, inflict Taunt for 2 turns on all enemies at the start of battle.
+Gain a random defensive effect when you take damage.
+Stun a random enemy at the start of battle for the duration of battle.
+This effect cannot be blocked or ignored, but does not apply to bosses.
+Heal for 15% of your Max HP whenever you take physical or magic damage.
+Reduce the trigger chance of all enemy skill effects that are not 100% by 75%.
+Steal 3 Power and 30% Fury from the enemy team every action.
+
+Grants Immunity to Bleed and Dark Ghost Effects for all allies.
+If Ghost is active on any ally at the start of your turn apply 100% Critical Strike Chance to them for the duration of battle.
+Cleanse all allies from negative and silver effects whenever you take damage.
+Revive self upon death and transform all beneficial effects on enemies into Stop, Perfect Corruption, and Punishment 3 turns.
+If an ally has the Skogvokter or Seidr’s Bounty passive apply Shroud to them for 3 turns and inflict 2 Perfect Bleeds on a random enemy for 4 turns at the start of every turn.
+Grant Full Power and Fury to team after the first action in battle.
+Grant Golden Trap to all allies for the duration of battle at the start of battle.
+
+Immune to Silver Effects.
+Grant Perfect Health and Immunity to Silver Effects to all allies for the first 3 turns of battle.
+Inflict Silence and Defense Down on each enemy that lacks Silver Effects for 2 turns after every action.
+Shatters upon death, applying 4 Marks to all enemies.
+Marks can be consumed with Perfect Hits to deal true damage.
+
+Raises the ATK of all allies at the start of battle.
+Gain Ascension for 2 turns if Vanish is present at the start of your turn.
+Gain an extra turn when you kill an enemy.
+Gain 2 extra points of Power every round.
+Gain 2 extra points of Power every round.
+Gain an extra turn when you kill an enemy.
+Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle.
+Immunity to all Stun effects for self.
+Inflict Permadeath on all enemies for 3 turns at the start of battle.
+Marks, Curses, and Permadeaths a random enemy for 1 turn at the start of each turn.
+
+Reduce the Max HP of all enemies by 20% at the start of the battle
+
+
+
+Grants Immunity to Silence and Crave effects to all allies.
+Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle.
+
+
+Gains Endure for 2 turns when HP drops to 1.
+
+
+Immune to Magic Damage.
+Grant Perfect Immunity to all allies for 1 turn at the start of battle and to self for the duration of battle.
+Grant Magic Penetration to all allies for 3 turns at the start of battle.
+Exhaust and drain 1 power from each enemy that is stunned at the start of your turn every turn.
+
+Inflicts all enemies with a Mark at the start of battle.
+Marks can be consumed with Perfect Hits to deal true damage.
+Reflects 35% of damage back to the target.
+50% Chance to counter attack the opponent that attacked you.
+
+Randomly removes all beneficial effects, including Golden Effects, and Seals an enemy’s ability every turn for 2 turns.
+Grants the caster a Titan Shield every turn.
+Titan Shield scales based on your MAX HP.
+Grants the caster Immunity for 2 turns at the start of the battle.
+Heals allies every turn based on the number of negative effects currently on you.
+Heal amount based on your MAX HP.
+Inflicts up to 4 Physical Burns on random enemies every turn.
+
+
+
+Gain Class Advantage against all enemies.
+Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn.
+Has Class Advantage against every enemy.
+Takes no more than 5% of her max HP from a single hit.
+Grants immunity to Stun, Taunt, and Freeze effects, including unblockable effects, to all allies.
+Gain Class Advantage against all enemies.
+Remove Invincibility and Vanish effects at the start of battle.
+Gain Class Advantage against all enemies.
+Inflict Perfect Silence on all enemies with a 45% Chance to gain an Extra Turn when attacking any enemy inflicted with Smite or Ignite.
+
+Grant Immunity to Sleep, Perfect Sleep, and Magic Burn to all allies.
+Grant Vanish to all allies for 2 turns if Vanish is present at the start of your turn.
+Remove Immunity and inflict Freeze on a random enemy for 1 turn at the start of your turn every turn.
+Gain Perfect Hit for 2 turns at the start of battle.
+Inflict Silence on self and Perfect Silence on up to 2 random enemies for the first 2 turns of battle.
+Grant Immunity to Burn effects to all allies.
+
+Lowers the Accuracy of enemies for 2 turns at the start of battle.
+
+
+
+Increase the healing of all allies by +100%.
+Grants Charge and Golden Hit to allies suffering from Blind or Taunt effects for 2 turns at the start of your turn.
+
+
+Reduce all damage by 60%.
+Remove All Negative Effects, including Silver effects, from each ally and Heal them for 15% of their Max HP for each effect removed at the start of your turn.
+Grant all allies Immunity to Passive Disable effects until they die and a Random Offensive and Defensive Effect, including Golden effects, for 2 turns at the start of your turn.
+Grant 3 Random Beneficial and Golden Effects to each ally for 1 turn after every action.
+Deal Additional True Damage to a random enemy based on their MR stat if Sacrifice or Power Shield are active on self after every action.
+50% Chance to inflict Fear and Perfect Death on all enemies for 1 turn when you take damage.
+Grant Endure and Echo to all allies for 3 turns when you reach 1 HP.
+Grant Immunity to Perfect Corruption, Physical Burn, and Toxic Burn to all allies.
+Inflict Random Burn Effects on all enemies after every action.
+35% Chance to counterattack when another ally takes damage.
+Revive with full HP, Magma Shield, Increased Power Generation, Class Advantage and Echo for the duration of battle and grant all other allies Magma Shield for 3 turns upon death.
+
+Grant Immunity to Permadeath, Perfect Death, Block Beneficial, and Perfect Corruption to all allies.
+Deal 500% of a random enemy’s MAX HP as true damage and heal all allies to full HP when an ally dies.
+Remove all beneficial effects, including Golden Effects,inflict Punishment and Perfect Death for the duration of battle on all enemies, and Revive with full HP and a Perfect Titan Shield upon death.
+Gain Immunity to Damage and All Negative Effects, including Silver and Unblockable effects, for 2 turns at the start of battle.
+Reduce Innate Accuracy on all enemies by 100% until they die.
+Deal up to 6 hits of Additional Random Damage to each enemy based on your DEF and their MISSING HP if they lack negative effects after every action.
+Permanently Increase All Stats on self by 50% whenever an ally is killed for the first time in battle.
+Remove All Beneficial Effects, including Golden effects, Permanently Reduce All Stats by 50% and inflict Passive Disable and Fear on all enemies for 3 turns whenever each enemy is killed for the first time in battle.
+This skill can only be countered by Passive Disable applied at the start of battle.
+
+Immune to Physical Damage.
+Grant immunity to Doom, Permadeath, Perfect Death as well as all skills that prevent revive, with the exception of Ghost effects, to all allies.
+Prevent allies from dying once each round and grants them Endure for 3 turns when they reach 1 HP.
+Grant Cleanse status for 2 turns and Heal all allies for 25% of their MAX HP every turn.
+Removes beneficial effects, including Golden Effects, from up to 2 enemies every turn.
+Instantly Revive Self with 60% HP upon death.
+
+
+Increase the MAX HP of all allies by 250% at the start of battle.
+Grant each ally immunity to a random damage type at the start of your turn.
+Grant Vanish to up to 2 random allies for 1 turn after every action.
+All allies heal for a portion of any damage that they deal.
+Gain a Random Offensive or Defensive effect for every Physical Burn on each enemy after each action.
+Reduce damage taken by 60%.
+Increase the ATK and MAGIC of allies by 250% and increase the Critical Hit Chance of all allies by 25%.
+Grant Immunity to Bleed and Perfect Bleed effects to all allies.
+Inflict Cleave or Crave on each enemy for 2 turns when you take damage.
+Take no damage when your HP falls below 30% HP for 3 turns.
+Inflicts enemies with Crave status for 3 turns at the start of battle.
+Crave reduces healing and causes enemies to take damage when they heal.
+Damage dealt increases with the heal amount.
+Inflicts Silence on enemies at the start of battle for 1 turn.
+Drains the enemy’s Fury every turn.
+This passive does not affect a Maxed Fury meter.
+Drains HP from all enemies and grants it to allies every turn
+Reduce the healing of enemies by 30%
+Grants Immunity to Permadeath and Perfect Death to all allies.
+Grant 100% Critical Strike to all allies for 1 turn if Armor or Magic Penetration is active at the start of your turn.
+Immune to True Damage.
+If Trap effect is not present at the start of your turn, Reduce the Fury of enemies, Remove Immunity, and Inflict Exhaust on a random enemy, then grant Trap to self for 2 turns.
+Cleanse and Grant a Random Beneficial Effect to self or a random ally every turn.
+Heal allies based on the number of beneficial effects, including Golden Effects, on each enemy and steal one beneficial effect from a random enemy every turn.
+Generate Fury when you take damage.
+20% Chance to gain an Extra Turn after each action.
+
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+Gives Perfect Hit status to all allies at the start of battle for 2 turns.
+Perfect Hit causes all basic attacks to always land with a Perfect score.
+
+Gain Shroud and Perfect Hit status for the duration of the battle.
+
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+Remove all immunity effects, including Vanish and Perfect Immunity, from all enemies when you take damage.
+50% Chance to counterattack when you take damage.
+Heal for 50% of all damage dealt.
+Transform up to 2 Silver Effects on each ally into a random beneficial effect, including Golden Effects, at the start of your turn.
+Gain a Random Defensive Effect at the start or your turn for 3 turns.
+Grant Immunity to Burn and Sleep effects to all allies.
+Inflict 3 Perfect Time Bombs for 2 turns on each enemy and deal random damage to a random enemy equal to 300% of their MAX HP when you or any ally dies.
+This effect can only apply once per turn for each ally.
+Revive with full HP, Remove all golden effects from each enemy, and inflict 3 Time Bombs for 1 turn when you die.
+
+When an ally dies grant a Physical, Magic, and True Damage Invulnerability Shield to all allies for 2 turns.
+Grant Echo status to self and a random ally for 1 turn if Perfect Hit is present at the start of your turn.
+Grants Perfect Immunity to self for the duration of the battle and up to 2 random allies for 1 turn.
+Perfect Immunity blocks all harmful effects and prevents beneficial effects from being removed.
+
+
+Gains a Snow Shield at the start of battle.
+Snow Shield absorbs damage and returns it as true damage after 1 turn with a 35% chance to Taunt or Freeze all enemies.
+Permanently Increase All Stats on all allies by +5% and Decrease All Stats on all enemies by -5% at the start of battle and at the start of your turn.
+Grant Perfect Revenge and Ascension to all allies for the duration of battle if Lady Azov or Baroness Redan are alive on your team at the start of battle and at the start of your turn.
+50% Chance to inflict Apparition on a random enemy for 3 turns if any enemy is frozen at the start of battle and at the start of your turn.
+Gain Snow Shield for 1 turn if any enemy suffers from Dark Ghost or Apparition after every action.
+Immune to Stun, Perfect Stun, Permadeath, Perfect Death, Doom, Dark Ghost, Apparition and Innate Permadeath.
+All enemies take 50% Increased Damage.
+50% Chance to take no damage and inflict a Mark on attacking enemies for 2 turns when you are attacked.
+Grant Golden Hit and a Random Golden Defensive Effect to self and a random ally for 1 turn when you take damage.
+Immune to Stun, Perfect Stun, Permadeath, Perfect Death, Doom, Dark Ghost, Apparition and Innate Permadeath.
+All enemies take 50% Increased Damage.
+50% Chance to take no damage and inflict a Mark on attacking enemies for 2 turns when you are attacked.
+Grant Golden Hit and a Random Golden Defensive Effect to self and a random ally for 1 turn when you take damage.
+Immune to True Damage.
+Gain Perfect Immunity at the start of battle for the duration of battle.
+Reduce damage taken by 50% and Reflect 100% of the remaining damage back as random damage and inflict a random negative effect for 1 turn on each enemy when you take damage.
+Grant a random ally, not including self, an Extra Turn every action.
+Steal a random golden effect from each enemy and steal all beneficial effects from a random enemy every action.
+
+
+Increase Negative Effect Duration on each enemy by 1 turn at the start of your turn.
+Deal Additional True damage for every negative effect on the enemy after each action.
+50% Chance to avoid taking damage.
+Will take random damage equal to 10% of your MAX HP when you fail to avoid taking damage.
+
+Immune to Passive Disable effects, including Silver and Innate effects.
+Cleanse all Stun, Freeze and Sleep effects, including Silver and Innate effects, from self at the start of battle and at the start of your turn.
+Inflict Punishment on all enemies for the duration of battle if an effect was removed this way.
+Reduce all damage taken by 50% and return 50% of it at the start of each round back to each enemy as random damage.
+This skill can only be countered by Passive Disable applied at the start of battle.
+
+
+
+
+
+
+
+
+Revive a random ally at the start of your turn for each enemy that has 5 or more beneficial or golden effects.
+Grant Physical, Magic, and True Block to the revived ally for 1 turn.
+Grants Heal Amp to self for 1 turn at the start of battle and start of your turn.
+When Heal Amp is present at the start of your turn, including at the start of battle, you gain Ascension and Magic Charge for 1 turn and take no damage that round.
+60% Chance to Transform Immunity into a random Negative Effect that lasts for 2 turns after the first turn of battle.
+Transform existing Negative Effects on enemies into their Silver versions for 2 turns.
+Gain Perfect Heal Shield for self and grant HP Regen and Ascension to all allies for 2 turns when you reach 1 HP.
+Remove Immunity Effects, including Vanish and Perfect Immunity, and inflict Silence and Perfect Corruption on any enemy below 30% HP for the duration of battle after you take an action.
+Grants Power Generation and Regen to all allies at the start of battle for 2 turns.
+Grants Perfect Immortality and 100% Critical Strike to any other ally that has the Dioscuri passive at the start of your turn for 2 turns.
+Grants Power Generation and Regen to all allies at the start of battle for 2 turns.
+Grants Perfect Immortality and 100% Critical Strike to any other ally that has the Dioscuri passive at the start of your turn for 2 turns.
+50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, and inflict Mark and Perfect Bleed on attacking enemies for 2 turns whenever you are attacked.
+When you take damage, 25% Chance to inflict Stun for 2 turns on attacking enemies.
+Heal each ally based on your ATK if any enemy has a Mark at the start of your turn.
+Gain Damage Charge at the beginning of battle and at the start of your turn.
+If Borte, Mongol Empress or Khan Eddie is in your team, gain Ascension for 2 turns at the start of battle.
+Grant Immunity to Permadeath to all allies.
+Gain Ghost and Perfect Immunity for 3 turns upon death.
+Trigger Doom effects currently on all enemies upon death.
+Immune to Sleep and Perfect Sleep.
+Prevent enemies from using Power or Fury Skills for the first round of battle.
+35% Chance to Revive a random dead ally with Shroud for 2 turns every turn.
+Grant immunity to Fear, Permadeath, and Doom to all allies.
+Remove All Beneficial Effects, including Golden effects, and Inflict Perfect Corruption and Seal for 2 Turns on all enemies at the start of battle.
+Remove All Beneficial, including Golden effects, from a random enemy at the start of your turn.
+Inflict Perfect Blind on up to 3 enemies for 2 turns when you take damage.
+Immune to Permadeath Effects.
+At the start of battle apply a Perfect Heal shield for the duration of battle.
+Block incoming damage for allies below 50% HP and take 5% of your MAX HP as random damage for each hit blocked.
+Decrease the duration of beneficial effects on all enemies by 2 turns for each ally that has Ghost or Soul Protect active at the start of your turn.
+Whenever an ally would die instead Heal them to Full HP, apply Ghost and Immunity for 3 turns, and Inflict Perfect Silence on a random target for the duration of battle.
+Immune to all Heal Block and Max HP Reduction effects, including Silver and Innate effects.
+Grant Immunity to Blind, Stop and all Skill Disabling effects, including Silver and Innate effects, to all allies until they die at the start of battle.
+Remove All Beneficial and Negative Effects from all allies and enemies whenever this passive becomes active and inflict Innate Passive Disable on all enemies until they die if this effect removes at least 4 Beneficial Effects from your opponent.
+Once per battle, Revive with full HP and inflict Fear and Punishment on all enemies for the duration of battle upon death.
+50% Chance to deal Additional True Damage to each enemy based on their MAX HP for each Scalding Burn on them after every action.
+
+
+Reduces the damage all allies take by 35%.
+
+Instantly Revive Self with 60% HP upon death.
+Instantly Revive Self with 60% HP upon death.
+Increase the effectiveness of healing for all allies at the start of battle for 3 turns.
+
+
+
+
+Grant Ascension to all allies at the start of battle for the duration of battle.
+Grant Immunity to Cleave, Crave, Perfect Crave, and Doom to all allies.
+Prevent enemies from gaining Physical, Magic, and True Damage Block, Perfect Heal Shield, and Vanish effects.
+Revive each ally once with full HP when they die.
+Grant Magma Shield to all allies for 1 turn at the start of battle.
+Transform all Burn effects on each enemy into up to 3 Perfect Time Bombs for 3 turns at the start of battle and at the start of your turn.
+Trigger all Time Bomb effects on each sleeping enemy after every action.
+Once per battle, Revive with full HP and grant all allies Ascension for 3 turns upon death.
+
+Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).
+Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).
+Shatters upon death, applying 4 Marks to all enemies.
+Marks can be consumed with Perfect Hits to deal true damage.
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+
+
+
+
+
+
+50% Chance to Cleanse self and a random ally per negative effect on self.
+Grants Immunity to all allies for 1 turn at the start of the battle.
+Grants immunity to a random ally every following turn.
+Gain Revenge for the duration of the battle.
+Inflict a random negative effect on the enemy when you take damage.
+
+Gain Echo Status for 6 turns at the start of battle.
+Echo Status grants a 35% Chance to get an Extra Turn after performing an action
+Inflict Perfect Corruption on up to 4 enemies for 2 turns at the start of battle.
+Gain Trap status for 1 turn if Regen is present at the start of your turn.
+Stun or Freeze a random enemy for every ally that is Stunned or Frozen (including by unblockable Freeze) and Cleanse self of all Negative Effects, including Silver.
+At the start of your turn, Cleanse yourself, heal all allies for every negative effect currently on you, and have a 35% Chance to Cleanse negative effects from up to 2 allies.
+Inflict Perfect Silence on all enemies for 3 turns at the start of battle.
+Reduce the damage all allies take by 35%.
+Grant a random beneficial effect to each ally at the start of battle for 2 turns.
+Prevent all enemies from healing until they die whenever this passive becomes active and at the start of your turn.
+Gain Perfect Immunity and Sleep Shield for the duration of battle at the start of battle and after every action.
+35% Chance to grant each ally an Extra Turn after every action.
+Remove Increased Max HP and Perfect Health from all enemies at the start of battle.
+Prevent enemies from gaining any new beneficial effects after the first round of battle.
+Grant Regen to all allies for the duration of battle.
+Grant Endure and Perfect Immunity to all allies for 2 turns at the start of battle.
+Grant Immunity to Heal Block and Heal Reduction effects.
+Immune to Stun, Blind, and Silence.
+Absorbs all Physical Damage and returns it at the end of each turn to all enemies.
+Inflicts Stop and Seal on a random enemy every turn for 2 turns.
+
+
+Shatters upon death, applying 4 Marks to all enemies.
+Marks can be consumed with Perfect Hits to deal true damage.
+Gains 100% Critical Strike Chance for the duration of battle.
+Grants Immunity to all allies for 2 turns at the start of battle.
+Remove Perfect Immunity and all beneficial effects and inflict 3 Magic Burns on all enemies for 2 turns upon death.
+Revive with Perfect Immunity and Invincibility on self for 2 turns.
+Immune to all Stun and Sleep effects.
+Grant Class Advantage and HP Regen to all allies for 2 turns at the start of battle.
+
+
+Inflict Perfect Death on all enemies for the duration of battle.
+Grant Invincibility and Critical Strike Chance to all allies for 3 turns if any ally’s HP is below 50% HP at the start of your turn.
+Grant Immunity to Crave and Heal Block to all allies.
+Grant Perfect Accuracy Up to all allies for 2 turns at the start of battle.
+Gain Sacrifice or Vanish for 1 turn and inflict 3 Marks on a random enemy for 1 turn after every action while below 50% HP.
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+Prevent Enemies from taking Extra Turns.
+Grant Immunity to Max HP Reduction and Exhaust to all allies.
+15% Chance to Inflict Perfect Stun on a random enemy every action.
+
+
+Grants Immunity to Stat Decreasing effects for all allies, which includes: ATK, MAGIC, DEF, MR, POWER, and FURY Decreasing effects.
+
+
+
+Immunity to all Burn and Stat Reduction Effects.
+Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies.
+Steal One Beneficial Effect, including Golden Effects from a random enemy after every action.
+Automatically regain a percentage of your MAX HP upon taking damage.
+Automatically regain a percentage of your MAX HP upon taking damage.
+Gain a random offensive effect every time you take damage.
+Revive with 60% HP and Ascension for 1 turn upon death.
+Revive a random ally with full HP when you Revive.
+30% Chance to gain Invincibility, Immunity, or Immortality for 1 turn upon taking damage.
+Inflict 2 Marks on each enemy for 2 turns after every action.
+Attacks always land with a Perfect Hit.
+Gain immunity to Sleep, Stun, and Blind effects.
+
+25% Chance to Revive an ally or 75% Chance to fully Heal a random ally every turn at the cost of 10% of your CURRENT HP.
+Increase the duration of beneficial effects by 1 turn at the start of battle.
+Grant Immunity to all allies if Regen HP is present at the start of your turn.
+Grant Immunity to Mark effects to all allies.
+Blocks damage for allies below 50% HP and takes random damage equal to 8% of your MAX HP for each hit blocked.
+Grants Immunity to Sleep and Lower MAX HP effects to all allies.
+Heal all allies based on your MAX HP when you take damage.
+Gain Charge at the start of your turn every turn.
+
+Endure a random ally for 2 turns at the start of your turn.
+Apply Perfect Accuracy to self and allies for the Duration of battle.
+35% Chance to Remove Invincibility from all enemies at the beginning of your turn.
+Inflict a random negative effect on a random enemy for 2 turns and reduce their Max HP by 10% at the start of your turn.
+
+
+Become Ghosted upon death.
+Ghost prevents death while active, but causes you to permanently die upon expiring.
+
+50% Chance to counter attack the opponent that attacked you.
+
+Grant Perfect Titan Shield to all allies for 1 turn at the start of battle.
+Reduce Healing on each enemy by 75% until they die at the start of battle and at the start of your turn.
+50% Chance to counterattack when anyone on your team takes damage.
+Heal for 50% of all damage dealt.
+Gain Endure for 1 turn when you take damage.
+Inflict Passive Disable or Perfect Disable on each enemy at the start of battle for the duration of battle.
+Grant Immunity to Crave and Perfect Crave to all allies.
+Heal all allies for 50% of MAX HP if Vanish is present at the start of your turn.
+50% Chance to Remove Silver Effects from all allies at the start of your turn.
+Grant a Magma Shield to all allies at the start of each turn for 1 turn.
+Gain an Extra Turn and Ascension status for 1 turn if Burn Effects are present on any enemy after each action and then Consume all the burn effects.
+
+Remove Beneficial Effects, including Golden Effects from all enemies and inflict Perfect Sleep, Perfect Crave, and Perfect Death on all enemies for the duration of battle upon death.
+Revive with Full HP grant Magic Damage Charge to all allies for the duration of battle, upon death.
+Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).
+Gains Vanish at the start of battle for 1 turn.
+Grant immunity to Sleep and Perfect Sleep to all allies.
+Grant Charge to all allies if you or any ally is below 50% Max HP at the start of your turn.
+Instantly Revive Self with 60% HP upon death.
+Endure a random ally for 2 turns at the start of your turn.
+35% Chance to counterattack when an ally gets attacked.
+Raise DEF and MR of all allies for 2 turns at the start of battle.
+Grant Immunity to Doom, Crave, and Perfect Crave to all allies.
+
+
+
+
+Grant Perfect Heal Shield if Increased Max HP or Perfect Health is active at the start of your turn.
+35% Chance to instantly gain 1 Power after each action.
+15% Chance to gain an Extra Turn after each action.
+Steal all Beneficial Effects and inflict Seal, Silence, Blind, Perfect Disable, and Exhaust for 2 turns on a random enemy at the start of battle.
+Increase SPECIAL stat of all allies by 5% Every Turn.
+Reduces all damage taken by 20% for self.
+Grants Immunity to Sleep and Perfect Sleep to all allies.
+Grants Perfect Accuracy, Perfect Health, and Increase ATK, MAGIC, DEF, and MR to all allies for 2 turns at the start of battle.
+Grant Perfect Force Shield to each ally for 2 turns at the start of battle.
+75% Chance to Gain an Extra Turn if your HP is 50% or lower after each action.
+Grants Stone Shield to all allies for the first turn of battle.
+Grant Spell Vamp or Life Steal to each ally at the start of your turn.
+Remove and Prevent all Counterstrike and Revenge effects, including Golden and Innate effects, on each enemy until they die whenever this passive becomes active and at the start of your turn.
+Permanently Increase ATK, MAGIC and MAX HP on self by +5% for each Negative Effect on self at the start of battle and at the start of your turn.
+Remove All Golden Effects from all enemies if any enemy is suffering from Cleave after every action.
+50% Chance to gain an Extra Turn after every action.
+Gain Class Advantage against all enemies.
+40% Chance to grant Vanish to self and a random ally for 1 turn when you take damage.
+Inflict a random negative effect on up to 2 random enemies every turn for 2 turns.
+Remove all beneficial effects, including Golden Effects and Inflict Bloodlust and Accuracy Down on a random enemy at the start of battle.
+50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Attack and Defense down on the attacking enemy.
+If Genghis Khan is in your team, Grant Accuracy Up to allies at the start of battle and at the start of your turn for 1 turn.
+Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle.
+All enemies’ attacks will miss unless they are Perfect Attacks for 7 rounds or until they die.
+This skill can only be countered by Passive Disable applied at the start of battle.
+
+
+Immune to all Silver Effects.
+Gain Ascension for 1 turn if Perfect Hit status is active at the start of your turn.
+No restrictions on Equippable Talismans.
+
+Two random enemies will gain a Red and Blue rotating flame around them at the start of your turn.
+Inflict Freeze for 2 turns, Passive Disable for the duration of battle, and deal additional magic damage equal to 50% of the target’s MAX HP each action you take if they have the flame effects on them.
+Extend the duration of Ghost effects on allies to infinite duration and remove Dark Ghost and Doom from all allies at the start of your turn.
+Revive self and all allies upon death with full HP.
+
+Grant immunity to passive disable to all allies after the first turn of battle.
+Deal 3 hits of Additional Random Damage based on the enemy’s MAX HP every action.
+Grant Immunity to Stat Reduction effects to all allies for the duration of battle.
+30% Chance to grant Echo status to each ally for 2 turns every action.
+35% Chance to counterattack when an ally gets attacked.
+
+
+
+35% Chance to counterattack when an ally gets attacked.
+
+Grant Increased Power Generation to self for the duration of battle.
+If an enemy has HP Drain active at the start of your turn, increase the duration of all negative effects on the target by 1 turn.
+
+
+
+
+
+
+Inflict Perfect Time Bomb on all enemies for 3 turns at the start of battle.
+Inflict Perfect Time Bomb for 3 turns if no Time Bomb is present on the target at the start of your turn.
+Heal all allies based on their ATK/ MAGIC stat if your HP is below 30% after taking an action.
+Grant Vanish to self and a random ally for 1 turn every action.
+Revive a random ally when any ally dies.
+Convert all damage into random damage equal to 10% of your MAX HP.
+Gain 1 Power and 15% Fury when you take damage.
+Grant Magic Penetration and Increased Accuracy at the start of battle to all allies for 2 turns.
+Grant a random shield to all allies for 2 turns at the start of battle.
+Grant Perfect Immunity to all allies for 1 turn if Vanish is present on self at the start of your turn.
+Remove Beneficial Effects and inflict Perfect Death and Curse on all enemies for 2 turns upon death.
+Transform existing beneficial effects into their Golden version with a 2 turn duration at the start of each turn.
+Does not apply to effects that have no corresponding golden version.
+Reflects 35% of damage back to the target.
+
+Grant Perfect Immortality to all allies for 2 turns at the start of battle.
+Grant Endure and Immunity to allies below 50% HP for 2 turns at the start of each turn.
+Grant Immunity to Skill Disabling effects to all allies.
+Blocks damage for allies below 50% HP and takes random damage equal to 8% of your MAX HP for each hit blocked.
+Clears negative effects, including Silver effects, from up to two random allies and heals all allies based on your MAX HP every round.
+Heals every ally whose HP is below 50% at the start of your turn.
+
+Immune to Stun.
+Grants Immunity to Doom, Permadeath, and Perfect Death to all allies.
+Grants Immunity and Removes negative Effects, including Silver Effects from allies suffering from Silver Effects at the start of your turn.
+Revive Upon death with full HP and Invincibility for 1 turn.
+
+
+
+
+
+Gain Sleep Shield for 2 turns at the start of battle.
+20% Chance to inflict Perfect Sleep on a random enemy for 2 turns after every action.
+Inflict Dark Ghost on a random enemy for 2 turns at the start of battle.
+Inflict Doom and Perfect Stun on all enemies for 2 turns upon death.
+
+Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.
+Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.
+Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.
+Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.
+
+Gain 2 extra points of Power every round.
+
+
+Grants Immunity to all allies for 1 turn at the start of the battle.
+Grants immunity to a random ally every following turn.
+Grants Cyclone Shield to self for the duration of the battle.
+If Cyclone Shield is not present at the start of your turn, Freeze, Blind, or Heal Block all enemies.
+
+50% Chance to Cleanse Negative Effects from self and Heal for 20% of your MAX HP when you take damage.
+Cleanse all allies, including Silver Effects and grant a Random Offensive Effect to any ally with the Dioscuri or Dog Star passive when you take damage.
+Gives Perfect Hit status to all allies at the start of battle for 2 turns.
+Perfect Hit causes all basic attacks to always land with a Perfect score.
+Grant Perfect Heal Shield to all allies for 1 turn at the start of battle.
+Remove Immunity from all enemies and inflict Sleep for 2 turns if Magic Penetration is active at the start of your turn.
+Grant Immunity to Burn effects, Stop, and Perfect Death to all allies.
+Deal true damage to each enemy for every burn effect present on each enemy at the start of your turn.
+Raise MAGIC and MR of all allies for 2 turns at the start of battle.
+Grants Regen, Perfect Hit, and Heal Shield to random allies every turn for 1 turn
+Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).
+Grants Immunity to Burn and Freeze effects, including unblockable Freeze effects, for all allies.
+Grant Revenge to all allies for 3 turns at the start of battle and start of your turn.
+At the beginning of your turn, if Revenge is already present on an ally, transform it into Perfect Revenge for 2 turns.
+Inflict 3 Toxic Burns on each enemy for 2 turns, and grant a Perfect Heal Shield and Damage Charge to all allies for 3 turns when you die.
+
+
+
+Grants Lifesteal status to all allies at the start of battle.
+Lifesteal heals you for 60% of the physical damage you deal.
+35% Chance to inflict Freeze on a random enemy for 2 turns when you take damage.
+25% Chance to inflict an unblockable Freeze on each enemy for 1 turn after each action if the enemy is inflicted with Exhaust.
+Grant Golden Hit to all allies for the duration of battle.
+Grant Snow Shield to all allies at the start of battle.
+Grant each ally Ghost for 2 turns when they die.
+Grant a random ally Perfect Revenge for the duration of battle when any other ally dies.
+
+
+35% Chance to increase the duration of all beneficial effects on each ally every turn.
+
+Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle.
+Gain Perfect Immunity for the duration of battle.
+Cannot be Stunned.
+25% chance to Counterstrike whenever you take damage.
+Heal all allies based on your Max HP after each action.
+Gain an Innate Force Shield that prevents damage from a total of 12 incoming attacks at the start of battle and whenever you revive or an enemy is killed.
+Gain 1 Power, increasing by 1 each turn up to a maximum of 12, at the start of your turn.
+
+
+
+Gain 2 random Golden Effects at the start of battle.
+Gain Damage Charge for 2 turns if Trap is present at the start of your turn.
+Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).
+
+50% Chance to cleanse negative effects, including silver effects and heal self when you or any ally takes damage.
+Remove 2 random beneficial and golden effects from all enemies when you take damage.
+
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+
+Grants Immunity to Burn, Doom, Dark Ghost, and Mark Effects to all allies.
+35% Chance to inflict a random burn effect on all enemies when you take damage.
+Heal all allies at the start of your turn based on the number of burn effects on each enemy.
+Gain Perfect Immunity for the duration of battle.
+
+
+After an enemy gains an Extra Turn inflict Stop and Perfect Silence on them for 2 turns
+Remove all Immunity effects, including Perfect Immunity and Vanish, from all enemies at the start of battle.
+Revive with 60% HP upon death.
+Inflict a Physical, Magic, and True Burn on each enemy for 2 turns at the start of battle.
+Inflict a random burn on each enemy for 2 turns at the start of your turn after the first round of battle.
+Grant Magic Charge to all allies for 1 turn if Magic Penetration is active on any ally at the start of your turn.
+Grants Immunity to Burn, Stun, Freeze, and Taunt effects to all allies.
+Gain an Extra Turn when you kill an enemy.
+50% Chance to Revenge an enemy when an ally is attacked.
+Remove a beneficial effect from a random enemy with a 25% chance to Blind all enemies for 2 turns when you take damage.
+Has Class Advantage against every enemy.
+Immune to Permadeath, Perfect Death, Doom, Dark Ghost, Apparition, Innate Permadeath and Max HP Reduction effects.
+Permanently Increase Max HP on self by +100%.
+Transform All Beneficial Effects, including Golden effects, on a random enemy into Passive Disable, Exhaust and Doom for 1 turn at the start of battle and at the start of your turn.
+Once per battle, Revive with full HP and deal 3 hits of Additional Random Damage to each enemy based on your MAX HP and their MISSING HP upon death.
+Immune to all effects that inflict Stun, Silence, and Blind, including Golden and innate passive versions of these effects.
+50% Chance each turn to reduce damage taken by 80%.
+Immune to all Blind and Skill Disabling effects, including Silver and Innate effects.
+Grant Immunity to Block Beneficial Effects and Perfect Corruption to all allies until they die.
+Gain 1 Power and Endure for 1 turn when you take damage.
+Copy All Beneficial Effects on self to a random ally after every action.
+35% Chance to counterattack when you take damage.
+
+
+Grants Immunity to Stat Decreasing effects for all allies, which includes: ATK, MAGIC, DEF, MR, POWER, and FURY Decreasing effects.
+
+
+
+
+
+
+Grant Immunity to Burn effects to all allies.
+Remove All Negative Effects, including Silver effects, from self and Gain 2 Power and Ascension for 2 turns if any enemy is suffering from negative effects after every action.
+Remove a Random Beneficial Effect, including Golden Effects, and inflict a Random Negative Effect, including Silver Effects, on attacking enemies for 2 turns when anyone on your team takes damage.
+35% Chance to Extend Beneficial Effect Duration on all allies and Negative Effect Duration on all enemies by 1 when you take damage.
+Grant Immunity to all Burn effects, including Silver effects, to all allies.
+Transform Each Beneficial Effect, including Golden effects, on a random enemy into a Toxic Burn at the start of your turn.
+Revive a random ally with full HP if any enemy has at least 3 or more Burn effects at the start of your turn.
+50% Chance to deal random damage to all enemies when you or an ally is healed.
+Damage dealt increases based on the amount of healing received.
+
+Immune to True Damage and Burn Effects.
+Grant Immunity to Apparition to all allies until they die.
+Remove and Prevent all Invincibility, Vanish, Perfect Vanish and Perfect Heal Shield effects on all enemies until they die at the start of battle and at the start of your turn.
+Reduce Beneficial Effect Duration by 3 on all enemies at the start of battle and at the start of your turn.
+
+Gain Sacrifice for the duration of the battle.
+Grants Perfect Immortality if Critical Strike status is present at the start of your turn.
+Sacrifice status full heals the team if the character dies with this effect active.
+
+Immune to Stun.
+Gains Revenge for the duration of battle.
+Grant a Damage Reduction Shield to each ally below 50% HP at the start of your turn for the duration of the battle.
+Remove Negative Effects, including Silver Effects from all allies if Bleed or Perfect Bleed is present on any enemy at the start of your turn.
+Permanently Increase the MAX HP of all allies by 15% when you are healed.
+Take 15% of your MAX HP as true damage for each burn present on self at the start of your turn.
+Revive up to 2 random dead allies if your are at full health at the start of your turn and after each action.
+Prevent enemies from taking Extra Turns.
+Inflict Perfect Death on attacking enemies for 2 turns whenever you are attacked.
+At the beginning of battle and at the start of your turn, if any enemy has Fear, inflict 3 Grievous Burns on that enemy for 2 turns.
+Heal self back up to MAX HP and inflict Fear and Perfect Silence to all enemies until they die when you reach 1HP for the first time in battle.
+Immune to Stun.
+Immune to all damage from attacks and can only take damage from Burns and other damage over time effects.
+Current and MAX HP reduces by 5% every turn.
+Inflicts two instances of Fear on random enemies for 1 turn, every turn.
+Inflict Perfect Disable on up to 2 random enemies for 1 turn every turn.
+
+Remove up to 2 Beneficial Effects, including Golden Effects, except Shroud, Perfect Immortality, and Soul Protect, from each enemy and inflict Curse and Permadeath for 1 turn every turn.
+Gain Perfect Vanish for 1 turn when you take damage.
+Transform all beneficial effects, including Golden Effects, into Sleep for 1 turn on enemies that attack any ally.
+Inflict Exhaust on each enemy suffering from Sleep or Perfect Sleep for 2 turns at the start of your turn.
+Grant Perfect Immunity to all allies for 3 turns and Increased Accuracy for the duration of battle at the start of battle.
+Heal all allies based on your Current HP every turn.
+Heal any ally below 50% HP an additional 25% of their Max HP and grant them True and Magic Damage Block for 1 turn if you have Perfect Immunity active on you after each action.
+Block Stat Enhancing effects on the enemy, including Damage Charge and Critical Strike effects, but excluding Increased MAX HP effects.
+Immune to all Silence and Skill Disabling effects.
+Grant all allies Perfect Vanish and Golden Trap for 2 turns at the start of battle.
+Gain 100% Critical Strike Chance for 1 turn if Vanish effects are active on self at the start of your turn.
+Place a Mark of Diablo on a random enemy at the start of your turn that prevents the target from reviving, gaining beneficial effects, and causes them to take additional random damage equal to 10% of their MAX HP when they take damage.
+This effect does not apply to bosses.
+Gain Perfect Vanish for 2 turns after every action.
+Attacks always land as Perfect Hits.
+Remove Immunity and Golden Shield Effects on a random target at the start of your turn.
+Gain Perfect Immunity and Inflict Passive Disable on a random enemy for 1 turn after each action.
+Grant Ascension and Perfect Immortality to each ally for 2 turns if Vanish is present at the start of your turn.
+Any enemy that takes damage will damage a random ally equal to 100% of the damage received and 50% of the original target’s Max HP.
+Convert all damage you take into True Damage.
+Revive any ally that dies while you are alive once each round.
+Remove All Beneficial effects, including Golden Effects and inflict Dark Ghost for 2 turns and Furious Burn for 3 turns on all enemies when you die.
+Inflicts Passive Disable on all enemies on the first turn.
+50% Chance to Disable Passives of enemies every subsequent turn.
+(Does not affect Bosses).
+50% Chance to counterattack when anyone on your team takes damage.
+If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn.
+Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies.
+Raise ATK and DEF of all allies for 2 turns at the start of battle.
+Grant Immunity to Doom, Curse, and Permadeath to all allies.
+Remove All Negative Effects, including Silver Effects and Innate versions of Stun, Freeze, Sleep and Taunt, from all allies and inflict Curse on all enemies for 2 turns if you are Stunned, Frozen, Sleeping, or Taunted at the start of battle and at the start of your turn.
+50% Chance to inflict Stun or Perfect Stun on attacking enemies for 2 turns whenever you are attacked.
+Gain Accuracy Up, Armor Penetration, Echo, or Shroud for 1 turn at the start of battle and at the start of your turn.
+35% Chance to inflict Doom on attacking enemies for 4 turns if they are suffering from Taunt when you take damage.
+
+Grant all other characters, including enemies but not self, a random Golden Beneficial Effect for the duration of battle at the start of battle.
+Upon death, Remove All Negative Effects, including Silver Effects from all allies and grant Revenge, Charge and 100% Critical Strike Chance for the remainder of battle.
+Upon death, Remove All Golden Effects from all enemies.
+Remove all Beneficial Effects, including Golden Effects, from a random target and Blinds them for 1 turn at the start of every turn.
+Steal one beneficial effect from a random enemy at the start of battle, including Golden Effects.
+
+
+
+Apply a random Damage Invulnerability Shield to self and a random ally for the duration of battle.
+Transform Perfect Heal Shield and Immortality effects on enemies into Fear or Punishment for 3 turns at the start of every turn.
+If an ally has the Freya’s Companion or Seidr’s Bounty passive apply Shroud to them for 3 turns and inflict 2 Perfect Bleeds on a random enemy for 4 turns at the start of every turn.
+Grants increased Accuracy to all allies for 2 turns at the start of battle.
+Full Heal and grant Immunity to any ally inflicted with Permadeath at the start of your turn
+Gives a Heal, Damage Reflect, or Damage Reduction Shield to all allies at the start of battle.
+
+Grant Perfect Immunity and Echo to all allies for the duration of battle.
+Reduce the damage all allies take by 35%.
+Cleanse and Heal allies if Perfect Hit is active when you take an action.
+
+
+
+
+Grants Lifesteal status to all allies at the start of battle.
+Lifesteal heals you for 60% of the physical damage you deal.
+
+At the start of battle and at the start of your turn, inflict Perfect Corruption, Perfect Crave or Perfect Stun for 2 turns on a random enemy.
+Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle.
+Gain Endure for 2 turns at the start of battle.
+
+
+
+
+Cleanse, Heal, and Grant Perfect Immunity to a random ally for each instance of Stun, Taunt, Freeze (including unblockable Freeze), Heal Block, Perfect Corruption, and Permadeath currently on you.
+Curse enemies for 2 turns at the start of battle.
+Gain Invincibility if Regen is active at the start of your turn.
+Cursed enemies take increased damage from all sources.
+
+Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.
+Grants Immunity to Blind, Seal, and Taunt effects for all allies.
+Grants a Disruption Shield to all allies for 1 turn at the start of battle.
+
+
+Prevent all allies from taking damage for the first two round of battle.
+Remove Immunity and Perfect Immunity and inflict Exhaust on up to 2 random enemies at the start of your turn after the first round of battle.
+Heal 25% of your MAX HP and revive a random ally after each action.
+Immune to all Negative Effects, except Time Bomb, Perfect Time Bomb, Taunt, Silence, Perfect Silence and Seal.
+Reduce all damage taken by 75% for 1 turn if Time Bomb effects are not active on self at the start of battle and at the start of your turn.
+Your first action each turn gains Innate 100% Armor Penetration and 100% Increased Damage if Time Bomb effects are active on self at the start of battle and at the start of your turn.
+Extend Negative Effect Duration on self and all enemies by 1 if Time Bomb effects are active on self after every action.
+This skill can only be countered by Passive Disable applied at the start of battle.
+
+Grant Immunity to all Stun and Freeze effects, including Silver and Innate effects, to all allies.
+Inflict Taunt on all enemies for 1 turn at the start of battle and at the start of your turn.
+Gain 3 Power and Heal self based on your MAX HP after every action.
+50% Chance to deal 3 hits of Additional Random Damage to each enemy based on your MR and their MAX HP and Remove All Negative Effects, including Silver effects, from self and a random ally when you take damage.
+Once per battle, Revive with full HP and grant Immortality or Endure to all allies for 1 turn and inflict Perfect Heal Block and Perfect Death to all enemies for 3 turns upon death.
+
+Remove one Beneficial Effect from all enemies and inflict Passive Disable on a random enemy for 2 turns when you take damage.
+20% Chance to Remove 1 Golden Effect from all enemies when you take damage.
+
+
+
+
+
+Immune to Punishment, Stop and Perfect Corruption.
+Inflict Cleave on all enemies for 3 turns at the start of battle.
+Inflict Freeze and 4 Marks on a random enemy for 2 turns at the start of battle and at the start of your turn.
+
+
+Removes a random Beneficial Effect on each enemy at the start of the battle.
+Gain Perfect Immortality for 1 turn if you have Perfect Immunity at the start of your turn.
+
+Remove Shroud, Perfect Immortality, and Soul Protect from enemies at the start of your turn and inflict Punishment on each enemy for 2 turns if an effect is removed.
+Permanently increase the ATK and MAGIC of each ally by 25% after each action.
+Heal self whenever damage is taken based off of Missing HP.
+35% chance to Revenge enemies that attack an ally.
+Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies.
+Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn.
+Deal 5 hits of true damage based off your Missing HP and Inflict Curse for 2 turns on random enemies when you take damage.
+This damage has a 50% Chance to Critically Strike and will not wake targets inflicted with Sleep.
+Increase all stats on self by 10% and Transform all Beneficial Effects on self into their Golden version at the start of your turn.
+Grant immunity to Permadeath and Perfect Death to all allies.
+Grant Increased Power and Fury generation for 2 turns to all allies at the start of battle.
+25% Chance to counterattack enemies who attacked you or any ally.
+Grant Immunity to Blind and Perfect Blind to all allies.
+Grant ATK UP to all allies at the start of battle for 2 turns.
+Permanently increase ATK by 5% when you take damage.
+Gain a 45% Chance to Vanish after every action.
+Trigger Time Bomb and Perfect Time Bomb effects at the start of your turn.
+Shatters upon death, applying 4 Marks to all enemies.
+Marks can be consumed with Perfect Hits to deal true damage.
+
+Transform Golden Effects on a random enemy, excluding Shroud, Ghost, Soul Protect, and Perfect Immortality, into Magic Burns for 2 turns at the start of battle.
+Grant Soul Protect to all allies for the duration of the battle at the start of battle.
+Grant Ascension to all Ghosted allies for 2 turns at the start of your turn.
+Apply 1 Magic Burn for 2 turns to all enemies at the start of battle.
+Inflict 1 Magic Burn for 2 turns to a random enemy when hit.
+Apply Doom for 3 turns to any enemy with 6 or more burns at the start of your turn.
+Remove Silver Effects from up to 2 allies at the start of battle and grant Cleanse status to all allies for 1 turn.
+Remove Silver Effects from self every turn.
+Heal allies for 5% Max HP for every 20% of your Missing HP every turn.
+Remove Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect, and apply Perfect Corruption to all enemies for 2 turns on death.
+Cleanse and grant Perfect Heal Shield to all allies for 2 turns on death.
+Transform Golden Effects on a random enemy, excluding Shroud, Ghost, Soul Protect, and Perfect Immortality, into Physical Burns for 2 turns at the start of battle.
+Inflicts Furious Burn on all enemies for 2 turns at the start of battle.
+Inflicts Curse for 1 turn on enemies inflicted with Bleed at the start of your turn.
+Applies 3 Furious Burns for 2 turns to all enemies and Heal self for 100% Max HP when you kill an enemy.
+
+
+
+
+
+
+Reduce damage allies take by 50% and reflect 35% of damage received by any ally back to all enemies.
+Inflict 8 Marks on a random enemy for 2 turns at the start of your turn.
+25% Chance to inflict up to 3 Marks on each enemy for 2 turns when you take damage.
+All allies hit with Perfect Attacks.
+Revive the first three allies that die with Full HP and grant them Endure and Perfect Heal Shield for the duration of battle.

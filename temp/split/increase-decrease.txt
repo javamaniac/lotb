@@ -1,0 +1,105 @@
+Decrease Beneficial Effect Duration on each enemy by x turn.
+Decrease Beneficial Effect Duration on enemies by x turn.
+Decrease Beneficial Effect Duration on the enemy by x turn.
+Decrease DEF of target for x turns.
+Decrease Duration of Beneficial Effects on enemies by x turn.
+Decrease MAGIC of all enemies for the duration of battle.
+Decrease MAX HP of all enemies by x% per hit.
+Decrease MAX HP of each enemy by x%.
+Decrease MAX HP of the enemy by x%.
+Decrease Max HP of all enemies by x% .
+Decrease Max HP of each enemy by -x% if they have 4 or more buffs or debuffs active.
+Decrease Max HP of the enemy by x% each attack.
+Decrease Power Generation of each enemy for x turns.
+Decrease Power of each enemy. by x and Increase Power of self by 3
+Decrease the MAX HP of a random enemy by x% every turn.
+Decrease the Max HP of all enemies by x%.
+Decrease the duration of beneficial effects on all enemies by x turns for each ally that has Ghost or Soul Protect active at the start of your turn.
+Decrease the duration of negative effects on all allies by 2.
+Increase ATK and DEF of all allies for x turns.
+Increase ATK and MAGIC of all allies for x turns.
+Increase ATK for x turns.
+Increase ATK of all allies for x turns.
+Increase ATK of allies for x turns if the enemy has a Shield.
+Increase ATK of allies for x turns.
+Increase ATK of allies.
+Increase ATK of ally for x turns.
+Increase Accuracy for self and up to x allies.
+Increase Accuracy of all allies for x turns.
+Increase Accuracy of allies for x turns.
+Increase Beneficial Effect Duration by x turn and grant Echo for x turns to each ally if Ghost is active on them.
+Increase Beneficial Effect Duration on all allies by 2.
+Increase DEF and MR for x turns.
+Increase DEF and MR of all allies for x turns.
+Increase DEF and MR of allies for x turns.
+Increase DEF for x turns.
+Increase DEF of allies for x turns.
+Increase Duration of all Magic Burns on enemies to infinite duration.
+Increase Effect Duration of beneficial effects.
+Increase MAGIC and MR of all allies for x turns.
+Increase MAGIC for x turns.
+Increase MAGIC of all allies for x turns.
+Increase MAGIC of allies by x% and Decrease MAGIC of the target by x% permanently for the duration of battle.
+Increase MAGIC of allies.
+Increase MAGIC of ally for x turns.
+Increase MAGIC of random ally for x turns.
+Increase MAX HP and ATK by +50%, increased to x% if activated while below x% HP.
+Increase MR for x turns.
+Increase MR of allies for x turns.
+Increase Magic Resistance of all allies for x turns.
+Increase Max HP of all allies by x% for x turns.
+Increase Max HP of self stat by +x% if the target has 4 or more buffs or debuffs active.
+Increase Negative Effect Duration on each enemy by x turn at the start of your turn.
+Increase Negative Effect Duration on the target by x turn if the target is inflicted with a Burn effect.
+Increase Negative Effect Duration on the target by x turns.
+Increase Power Generation of allies for x turns.
+Increase Power or Fury.
+Increase SPECIAL stat of all allies by x% Every Turn.
+Increase Stats of allies for x turns.
+Increase a Random Stat on each ally by x% for the duration of battle for every beneficial effect, excluding Perfect Immunity, that is removed.
+Increase all stats on self by x% and Transform all Beneficial Effects on self into their Golden version at the start of your turn.
+Increase the ATK and MAGIC of allies by x% and increase the Critical Hit Chance of all allies by x%.
+Increase the Accuracy of all allies for x turns.
+Increase the DEF and MR of all allies for x turns.
+Increase the Duration of negative effects on the target by 1.
+Increase the MAX HP of all allies by x% at the start of battle.
+Increase the duration of beneficial effects by x turn at the start of battle.
+Increase the duration of negative effects on all enemies by 2.
+Increase the duration of negative effects on the enemy by x turns.
+Increase the effectiveness of healing for all allies at the start of battle for x turns.
+Increase the healing of all allies by +100%.
+Increases ATK and Endure status for self and up to x additional allies.
+Increases ATK for x turns.
+Increases Accuracy for x turns.
+Increases MAGIC for x turns.
+Increases MAGIC of allies for x turns.
+Increases MR of allies for x turns.
+Lower ATK and DEF of all enemies for x turns.
+Lower ATK and MAGIC of all enemies for x turns.
+Lower ATK and MAGIC of each enemy for x turns.
+Lower ATK and MAGIC of enemies for x turns.
+Lower ATK and MAGIC of the target for x turns.
+Lower ATK of the enemy for x turns.
+Lower Accuracy for x turns.
+Lower Accuracy of all enemies for x turns.
+Lower Accuracy of each enemy for x turns.
+Lower Accuracy of enemies for x turns.
+Lower Accuracy of enemy and increase your own for x turns.
+Lower Beneficial Effect Duration by x turns.
+Lower DEF and MR of all enemies for x turns.
+Lower DEF and MR of enemies for x turns.
+Lower DEF and MR of the target for x turns.
+Lower DEF of all enemies for x turns.
+Lower DEF of enemy for x turns.
+Lower DEF of the target by x% per hit.
+Lower Fury Generation of enemies for x turns.
+Lower MAGIC of enemies for x turns.
+Lower Power Generation for x turns.
+Lower enemy MR for x turns before dealing damage.
+Lowers ATK and MAGIC of the target for the duration of the battle.
+Lowers Accuracy of enemies for x turns.
+Lowers All Stats of enemies.
+Lowers DEF of all enemies.
+Lowers DEF of enemy for x turns.
+Lowers MR for x turns.
+Lowers the Accuracy of enemies for x turns at the start of battle.

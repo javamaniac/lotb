@@ -1,0 +1,29 @@
+Immune to Doom.
+Immune to Magic Damage.
+Immune to Passive Disable effects, including Silver and Innate effects.
+Immune to Permadeath Effects.
+Immune to Permadeath, Perfect Death, Doom, Dark Ghost, Apparition, Innate Permadeath and Max HP Reduction effects.
+Immune to Physical Damage.
+Immune to Punishment, Stop and Perfect Corruption.
+Immune to Silver Effects.
+Immune to Sleep and Perfect Sleep.
+Immune to Stun and Reduce Max HP effects.
+Immune to Stun, Blind, and Silence.
+Immune to Stun, Blind, and Stop.
+Immune to Stun, Perfect Stun, Permadeath, Perfect Death, Doom, Dark Ghost, Apparition and Innate Permadeath.
+Immune to Stun.
+Immune to True Damage and Burn Effects.
+Immune to True Damage.
+Immune to all Blind and Skill Disabling effects, including Silver and Innate effects.
+Immune to all Heal Block and Max HP Reduction effects, including Silver and Innate effects.
+Immune to all Negative Effects, except Crave, Perfect Crave, Heal Reduction, Heal Block and Perfect Heal Block.
+Immune to all Negative Effects, except Time Bomb, Perfect Time Bomb, Taunt, Silence, Perfect Silence and Seal.
+Immune to all Silence and Skill Disabling effects.
+Immune to all Silver Effects.
+Immune to all Stun and Sleep effects.
+Immune to all damage from attacks and can only take damage from Burns and other damage over time effects.
+Immune to all effects that inflict Stun, Silence, and Blind, including Golden and innate passive versions of these effects.
+Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle.
+Immune to all negative effects, including Max HP reduction.
+Immunity to all Burn and Stat Reduction Effects.
+Immunity to all Stun effects for self.
