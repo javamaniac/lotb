@@ -1,0 +1,143 @@
+Heal Amp Increase the effectiveness of healing by x%.
+Heal Block all enemies for x turns.
+Heal Blocks all enemies for x turns.
+Heal Blocks enemy below x% HP.
+Heal Blocks for x turns.
+Heal Shield heals for a percentage of the damage received.
+Heal Shield heals targets based on the damage they receive.
+Heal Shield reduces damage and heals for a percentage of damage taken.
+Heal a random ally based on their MISSING HP every turn.
+Heal a random ally based on your ATK.
+Heal a random ally based on your MAGIC stat.
+Heal a random ally per hit.
+Heal all allies at the start of your turn based on the number of burn effects on each enemy.
+Heal all allies based off of your MAX HP.
+Heal all allies based on on your DEF and SPECIAL stats.
+Heal all allies based on the number of negative effects on each ally.
+Heal all allies based on the number of negative effects on each enemy.
+Heal all allies based on the number of negative effects removed.
+Heal all allies based on the number of targets inflicted with Sleep.
+Heal all allies based on their ATK and DEF.
+Heal all allies based on their ATK and MAGIC stat.
+Heal all allies based on their ATK stat.
+Heal all allies based on their ATK.
+Heal all allies based on their ATK/ MAGIC stat if your HP is below x% after taking an action.
+Heal all allies based on their MAX HP.
+Heal all allies based on their MISSING HP.
+Heal all allies based on their MISSING HP. Increase healing by x% of MAX HP for each Physical Burn, Magic Burn, and Flame effect on each enemy.
+Heal all allies based on their Missing HP.
+Heal all allies based on their SPECIAL stat.
+Heal all allies based on x% of your MAX HP.
+Heal all allies based on your ATK and MAGIC stats.
+Heal all allies based on your ATK stat.
+Heal all allies based on your Current HP every turn.
+Heal all allies based on your MAGIC stat.
+Heal all allies based on your MAX HP when you take damage.
+Heal all allies based on your MAX HP.
+Heal all allies based on your MISSING HP.
+Heal all allies based on your Max HP after each action.
+Heal all allies based on your Max HP for each remaining negative effect on each ally at the start of your turn.
+Heal all allies based on your SPECIAL stat.
+Heal all allies based your MAX HP and the target’s MISSING HP.
+Heal all allies by x% for each positive effect currently active on them.
+Heal all allies by x% of their Max HP for every instance of Perfect Immunity on the enemy and Remove Perfect Immunity from the enemy.
+Heal all allies for each Mark on the target.
+Heal all allies for x% of MAX HP every hit and Wake any allies suffering from Sleep effects.
+Heal all allies for x% of MAX HP if Vanish is present at the start of your turn.
+Heal all allies for x% of their HP if this attack kills an enemy.
+Heal all allies for x% of your MAX HP.
+Heal all allies if the target is suffering from Bleed.
+Heal all allies on Perfect Attacks.
+Heal all allies to full HP if any enemy lacks beneficial effects.
+Heal all allies to their FULL HP.
+Heal all allies.
+Heal all other allies that have the Dioscuri passive to full HP.
+Heal allies based on the number of beneficial effects, including Golden Effects, on each enemy and steal one beneficial effect from a random enemy every turn.
+Heal allies based on their ATK and MAGIC stat.
+Heal allies below x% HP.
+Heal allies for x% Max HP for every x% of your Missing HP every turn.
+Heal allies for x% of their MAX HP.
+Heal amount based on the ally’s Missing HP.
+Heal amount based on your MAX HP.
+Heal amount increases based on the number of beneficial effects on self.
+Heal amount increases based on the number of negative effects on the enemy.
+Heal amount is based on target’s Missing HP.
+Heal amount is based on the number of negative effects on all enemies.
+Heal amount is based on the target’s MAX HP.
+Heal amount is based on their MAX HP.
+Heal amount is based on your ATK and MAX HP.
+Heal amount is based on your ATK stat.
+Heal amount is based on your ATK.
+Heal amount is based on your ATTACK and MAX HP.
+Heal amount is based on your MAGIC and MAX HP.
+Heal amount is based on your MAGIC stat.
+Heal amount is based on your MR and the target’s MAX HP.
+Heal and Cleanse all allies for each enemy inflicted with Bleed.
+Heal and Cleanse self.
+Heal and grant Increased ATK and MAGIC for x turns to self and a random ally.
+Heal and grant Invincibility for x turns to allies with no beneficial effects.
+Heal and grant an Extra Turn to self and a random ally.
+Heal any ally below x% HP an additional x% of their Max HP and grant them True and Magic Damage Block for x turns if you have Perfect Immunity active on you after each action.
+Heal any ally suffering from Sleep or Perfect Sleep to Full HP.
+Heal each ally 4 times based on your SPECIAL stat.
+Heal each ally based on the number of Negative Effects on the ally.
+Heal each ally based on their MAX HP.
+Heal each ally based on your ATK if any enemy has a Mark at the start of your turn.
+Heal each ally for x% of their MAX HP.
+Heal each ally for x% of your MAX HP and deal Additional Magic Damage to each enemy for each effect removed.
+Heal each ally for x% of your MAX HP.
+Heal for a portion of your MAX HP.
+Heal for x% of all damage dealt.
+Heal for x% of your ATK and MAGIC stat.
+Heal for x% of your MAX HP.
+Heal for x% of your Max HP whenever you take physical or magic damage.
+Heal for x% of your Max HP.
+Heal for x% of your Missing HP.
+Heal is based on your MAX HP.
+Heal self and a random ally based on x% of the target’s MAX HP.
+Heal self and a random ally per hit.
+Heal self and the target based on x% your MAX HP.
+Heal self and up to x random allies.
+Heal self back up to MAX HP and inflict Fear and Perfect Silence to all enemies until they die when you reach 1HP for the first time in battle.
+Heal self based on MAX HP.
+Heal self based on your DEF and MISSING HP or gain a Random Beneficial Effect, including Golden effects, for x turns for each instance of Fear on each enemy.
+Heal self based on your MAGIC stat.
+Heal self based on your MISSING HP.
+Heal self based on your SPECIAL stat.
+Heal self for x% of your MAX HP before dealing damage.
+Heal self for x% of your MAX HP.
+Heal self whenever damage is taken based off of Missing HP.
+Heal the ally for x% of their MAX HP.
+Heal up to x random allies based on your MAX HP.
+Heal up to x random allies if the target is stunned by this attack.
+Heal x% of your MAX HP and revive a random ally after each action.
+Heals all allies
+Heals all allies based on number of negative effects that were on the enemy and your MAX HP.
+Heals all allies based on their ATK and MAGIC stat.
+Heals all allies based on their MAGIC stat.
+Heals all allies based on their MAX HP.
+Heals all allies based on their MISSING HP.
+Heals all allies based on your ATK and MAGIC stat.
+Heals all allies for x turns.
+Heals all allies for x% of CURRENT HP.
+Heals all allies for x% of their MAX HP.
+Heals all allies for x% of their Missing HP.
+Heals all allies.
+Heals allies based on their MAX HP.
+Heals allies based on their Missing HP.
+Heals allies based on your ATK and MAGIC stat.
+Heals allies based on your MAGIC stat.
+Heals allies based on your MAX HP.
+Heals allies every turn based on the number of negative effects currently on you.
+Heals allies for x% of MISSING HP.
+Heals each ally if a shield is present on them.
+Heals every ally whose HP is below x% at the start of your turn.
+Heals for x% of your MAX HP.
+Heals self and gains Armor and Magic Penetration if below x% HP.
+Heals self based on your ATK stat.
+Heals self.
+Heals the target ally.
+Heals x% of MAX HP for each effect stolen.
+Heals x% of your HP for every beneficial effect removed.
+Heals you for x% of your HP.
+Heals yourself if the target is Stunned.

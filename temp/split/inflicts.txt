@@ -1,0 +1,316 @@
+Inflict ATK Down and MAGIC down on all enemies for x turns at the start of battle.
+Inflict ATK and DEF Down for x turns.
+Inflict Accuracy Down on the target for x turns.
+Inflict Bleed and Perfect Bleed on the target for the duration of battle.
+Inflict Bleed and Seal on all enemies for x turns.
+Inflict Bleed on a random enemy for x turns.
+Inflict Bleed, Grievous Burn, and Perfect Corruption for x turns.
+Inflict Blind and Decrease ATK of all enemies for x turns.
+Inflict Blind and Silence on all enemies for x turns.
+Inflict Blind and Timebomb on all enemies for x turns.
+Inflict Blind on all enemies for x turns.
+Inflict Blind on enemies for x turns.
+Inflict Blind, Accuracy Down and Fear on each enemy for x turns if they are at x% HP or below.
+Inflict Blinding Burn on all enemies for x turns.
+Inflict Blinding Burns on all enemies for x turns.
+Inflict Block Beneficial Effects for x turns.
+Inflict Block Beneficial Effects on each enemy for x turns.
+Inflict Bloodlust and Bleed on the enemy for the duration of battle.
+Inflict Bloodlust on all enemies for x turns and grant Critical Strike to all allies for x turns if the target is suffering from Bleed.
+Inflict Bloodlust on the enemy for the duration of battle.
+Inflict Bloodlust to each enemy for x turns if they have negative effects.
+Inflict Bloodlust, Cleave, and HP Drain on all enemies for x turns.
+Inflict Bloodlust, HP Drain and Perfect Crave for x turns.
+Inflict Cleave and Curse on the target for the duration of battle.
+Inflict Cleave and Exhaust on the target for x turns.
+Inflict Cleave on all enemies for x turns at the start of battle.
+Inflict Cleave on all enemies for x turns before dealing damage.
+Inflict Cleave on all enemies for x turns.
+Inflict Cleave on each enemy for x turns.
+Inflict Cleave on the target for x turns.
+Inflict Cleave or Crave on each enemy for x turns when you take damage.
+Inflict Crave and Heal Reduction on the target for x turns.
+Inflict Crave for x turns.
+Inflict Crave on all enemies for x turns.
+Inflict Crave on each enemy for x turns.
+Inflict Crave on the enemy for x turns.
+Inflict Crave or Perfect Crave on each enemy for x turns.
+Inflict Crave, Blinding Burn, and Perfect Accuracy Down on each enemy for x turns.
+Inflict Crave, Perfect Corruption, and Perfect Death on the target for the duration of battle.
+Inflict Curse for x turns before damage.
+Inflict Curse on all enemies 3 turns.
+Inflict Curse on the target for x turns.
+Inflict Curse, Attack Down and Magic Down on all enemies for x turns.
+Inflict Curse, DEF Down, and Exhaust on the target for x turns.
+Inflict Curse, Smite, or Ignite on each enemy for x turns. x% Chance for an Extra Turn.
+Inflict Dark Ghost for x turns on any enemy inflicted with Accuracy Down effects.
+Inflict Dark Ghost on a random enemy for x turns at the start of battle.
+Inflict Dark Ghost on a random enemy for x turns.
+Inflict Dark Ghost on all enemies for x turns if the target has Reduced Max HP.
+Inflict Dark Ghost on the target for x turns.
+Inflict Defense Down, Accuracy Down and Stun on all enemies for x turns.
+Inflict Doom and Perfect Stun on all enemies for x turns upon death.
+Inflict Doom for x turns.
+Inflict Doom on each enemy already inflicted with Bloodlust for x turns.
+Inflict Doom on each enemy for x turns if they are suffering from Punishment.
+Inflict Doom on enemies for x turns.
+Inflict Doom on the enemy for x turns if Passive Disable, Perfect Disable, Crave, or Perfect Crave is present on them.
+Inflict Doom on the target for x turns if they are suffering from Stun, Sleep, Heal Reduction or Heal Block effects, including Silver and Innate effects, before dealing damage.
+Inflict Exhaust for x turns on each enemy.
+Inflict Exhaust for x turns on enemies that are frozen, and grant Accuracy Up for x turns to a random ally for each frozen enemy.
+Inflict Exhaust on all enemies for x turns.
+Inflict Exhaust on each enemy for x turns if they are at x% HP or below.
+Inflict Exhaust on each enemy suffering from Sleep or Perfect Sleep for x turns at the start of your turn.
+Inflict Exhaust on the target for x turns.
+Inflict Exhaust, Smite and Passive Disable on the target for x turns if they have Reduced Max HP.
+Inflict Fear and Perfect Sleep on all enemies for x turns.
+Inflict Fear and Sleep for x turns.
+Inflict Fear for x turns.
+Inflict Fear on the target for x turns.
+Inflict Flame and Bleed on the target for x turns.
+Inflict Flame and Ignite on all enemies for x turns.
+Inflict Flame on all enemies for x turns.
+Inflict Flame on both targets for x turns.
+Inflict Flame on each enemy for x turns.
+Inflict Freeze and 4 Marks on a random enemy for x turns at the start of battle and at the start of your turn.
+Inflict Freeze for x turns, Passive Disable for the duration of battle, and deal additional magic damage equal to x% of the target’s MAX HP each action you take if they have the flame effects on them.
+Inflict Freeze on all enemies for x turns.
+Inflict Freeze on the target 2 turns.
+Inflict Grievous Burn and Ignite on the target for x turns.
+Inflict HP Drain on all enemies for the duration of battle.
+Inflict HP Drain on all enemies for x turns.
+Inflict HP Drain on enemies for x turns.
+Inflict HP Drain, Bloodlust, and Crave on all enemies for the duration of battle.
+Inflict Heal Block on all enemies for x turns.
+Inflict Heal Block on the target for x turns.
+Inflict Heal Block, Perfect Corruption and Scalding Burn on all enemies for x turns.
+Inflict Ignite and Grievous Burns on all enemies for x turns.
+Inflict Ignite and Heal Block on the target for x turns.
+Inflict Ignite on all enemies for x turns before dealing damage.
+Inflict Ignite on all enemies for x turns.
+Inflict Ignite on each enemy for x turns if they are suffering from 3 or more Burn effects.
+Inflict Lower DEF and Lower ATK on each enemy for x turns.
+Inflict MAGIC Down and MR Down on all enemies for x turns.
+Inflict MR Down and Perfect Accuracy Down on all enemies for x turns.
+Inflict Magic Burn and Bleed on the target for x turns.
+Inflict Magic Burn for x turns.
+Inflict Magic Burn on all enemies for x turns.
+Inflict Mark, Permadeath, and Curse for x turns.
+Inflict Passive Disable and Crave on the target for x turns.
+Inflict Passive Disable and Perfect Corruption on all enemies for x turns.
+Inflict Passive Disable on all enemies for x turns.
+Inflict Passive Disable on each enemy for x turns.
+Inflict Passive Disable on the enemy for x turns.
+Inflict Passive Disable on up to x random enemies for x turns.
+Inflict Passive Disable or Perfect Disable on each enemy at the start of battle for the duration of battle.
+Inflict Passive Disable, Permadeath and Curse on all enemies for x turns.
+Inflict Passive or Perfect Disable on each enemy for x turns.
+Inflict Perfect Accuracy Down and 2 Furious Burns on all enemies for x turns.
+Inflict Perfect Accuracy Down and Exhaust on all enemies for x turns.
+Inflict Perfect Accuracy Down and Punishment on all enemies for x turns.
+Inflict Perfect Accuracy Down on all enemies for x turns.
+Inflict Perfect Accuracy Down on each enemy for the duration of battle.
+Inflict Perfect Accuracy Down on the target for x turns.
+Inflict Perfect Bleed and Perfect Disable on the target for x turns.
+Inflict Perfect Bleed for x turns.
+Inflict Perfect Bleed on all enemies for x turns.
+Inflict Perfect Bleed on the target for x turns.
+Inflict Perfect Blind on all enemies for x turns.
+Inflict Perfect Blind on up to x enemies for x turns when you take damage.
+Inflict Perfect Blind, Seal, Silence and Bleed on the target for x turns.
+Inflict Perfect Corruption and Perfect Disable on the target for x turns.
+Inflict Perfect Corruption and Silence for x turns.
+Inflict Perfect Corruption and Stop to the target for x turns.
+Inflict Perfect Corruption for x turns if a Burn effect is present on the target.
+Inflict Perfect Corruption for x turns on the target.
+Inflict Perfect Corruption for x turns.
+Inflict Perfect Corruption on each enemy for x turns.
+Inflict Perfect Corruption on the target for x turns.
+Inflict Perfect Corruption on up to x enemies for x turns at the start of battle.
+Inflict Perfect Crave and Perfect Silence on all enemies for x turns.
+Inflict Perfect Crave on all enemies for x turns.
+Inflict Perfect Death and 3 Perfect Bleeds on all enemies for x turns before dealing damage.
+Inflict Perfect Death and Perfect Heal Block on each enemy if they suffer from MAX HP reduction effects.
+Inflict Perfect Death for x turns
+Inflict Perfect Death for x turns.
+Inflict Perfect Death on all enemies for the duration of battle.
+Inflict Perfect Death on all enemies for x turns.
+Inflict Perfect Death on attacking enemies for x turns whenever you are attacked.
+Inflict Perfect Death on enemies for x turns, before dealing damage.
+Inflict Perfect Disable and Perfect Bleed on all enemies for x turns.
+Inflict Perfect Disable and Perfect Corruption on the target for x turns.
+Inflict Perfect Disable for x turns.
+Inflict Perfect Disable on all enemies for x turns.
+Inflict Perfect Disable on the target for x turns.
+Inflict Perfect Disable on up to x random enemies for x turns every turn.
+Inflict Perfect Heal Block for x turns.
+Inflict Perfect Heal Block on the enemy for x turns.
+Inflict Perfect Heal Block on the target for x turns.
+Inflict Perfect Silence and Stop on each enemy for x turns.
+Inflict Perfect Silence on all enemies for x turns at the start of battle.
+Inflict Perfect Silence on all enemies with a x% Chance to gain an Extra Turn when attacking any enemy inflicted with Smite or Ignite.
+Inflict Perfect Silence on the target for x turns.
+Inflict Perfect Sleep on all enemies and allies, excluding self, for x turns.
+Inflict Perfect Stun for x turns on each enemy currently Marked and grant Golden Hit to each ally for the duration of battle.
+Inflict Perfect Time Bomb for x turns if no Time Bomb is present on the target at the start of your turn.
+Inflict Perfect Time Bomb on all enemies for x turns at the start of battle.
+Inflict Permadeath and Block Beneficial Effects on the target for the duration of battle.
+Inflict Permadeath for x turns.
+Inflict Permadeath on all enemies for x turns at the start of battle.
+Inflict Permadeath on all enemies for x turns.
+Inflict Permadeath, Smite, Ignite and 3 Marks on all enemies for the duration of battle.
+Inflict Punish and Perfect Heal Block on all enemies for x turns.
+Inflict Punishment and Bleed on each enemy for x turns.
+Inflict Punishment for x turns.
+Inflict Punishment on all enemies for the duration of battle and gain an Extra Turn if your HP is x% or lower.
+Inflict Punishment on all enemies for the duration of battle if an effect was removed this way.
+Inflict Punishment on all enemies for the duration of battle.
+Inflict Punishment on all enemies for x turns.
+Inflict Punishment on each enemy for x turns.
+Inflict Punishment, Defense Down and MR Down on all enemies for x turns.
+Inflict Random Burn Effects on all enemies after every action.
+Inflict Seal for x turns.
+Inflict Seal on all enemies for x turns.
+Inflict Seal on the enemy for x turns.
+Inflict Seal, Flame, Exhaust, or Doom on all enemies for x turns.
+Inflict Shock and Permadeath on the target for the duration of battle.
+Inflict Shock, Perfect Stun, Perfect Corruption, and Fear on each enemy for x turns.
+Inflict Silence and Defense Down on each enemy that lacks Silver Effects for x turns after every action.
+Inflict Silence and Seal on all enemies for x turns.
+Inflict Silence and Seal on any enemy inflicted with Accuracy Down effects for the duration of battle.
+Inflict Silence on self and Perfect Silence on up to x random enemies for the first 2 turns of battle.
+Inflict Silence, Accuracy Down, or Seal on each enemy for x turns per hit.
+Inflict Silence, Blind, or Mark on the target for x turns
+Inflict Sleep and Fear on each enemy for x turns if they are at x% HP or below.
+Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn.
+Inflict Sleep on a random enemy for x turns.
+Inflict Sleep on each enemy for x turns.
+Inflict Sleep on the target for x turns if Seal is present on the enemy.
+Inflict Smite and Ignite on all enemies for x turns.
+Inflict Smite and Ignite on each enemy for x turns.
+Inflict Smite, Ignite and Blinding Burn on all allies and enemies for x turns.
+Inflict Smite, Ignite, and Curse on the target for x turns.
+Inflict Smite, Perfect Silence, and Permadeath on the target for x turns.
+Inflict Stop and Blind on the target for x turns.
+Inflict Stop and Bloodlust on each enemy for x turns.
+Inflict Stop and Permadeath on all enemies for the duration of battle.
+Inflict Stop and Seal on enemies for x turns.
+Inflict Stop and Shock for x turns.
+Inflict Stop on a random enemy for x turns every turn.
+Inflict Stop on the target for x turns.
+Inflict Stop to all enemies for x turns.
+Inflict Stun and Cleave on the target for x turns.
+Inflict Stun and Passive Disable for x turns on any enemy inflicted with Accuracy Down effects.
+Inflict Stun for x turns.
+Inflict Stun on the target and self for x turns.
+Inflict Stun on the target for x turns if their HP is below 50%.
+Inflict Stun, Silence, or Curse on each enemy for x turns.
+Inflict Taunt and Curse on the target for x turns.
+Inflict Taunt on all enemies for x turns at the start of battle and at the start of your turn.
+Inflict Taunt on all enemies for x turns.
+Inflict Taunt on each enemy below x% HP for x turns.
+Inflict Taunt on target enemy for the remainder of battle.
+Inflict Taunt on the target for x turns.
+Inflict Time Bomb for x turns on each enemy.
+Inflict Time Bomb on all enemies for x turns.
+Inflict Time Bomb on self or the target for x turns per hit.
+Inflict Time Bomb on the target for x turns.
+Inflict Toxic Burn on all enemies for x turns.
+Inflict Toxic Burn, Perfect Death, and Bleed on the target for x turns.
+Inflict True Burn on each enemy for x turns.
+Inflict Unblockable Sleep on all enemies for x turns.
+Inflict Unblockable Sleep on random enemy 2 turns.
+Inflict Unblockable Sleep on the target for x turns. This effect does not apply to bosses and can be blocked by effects that specifically grant immunity to Sleep.
+Inflict a Physical, Magic, and True Burn on each enemy for x turns at the start of battle.
+Inflict a Random Burn effect for a random duration per hit
+Inflict a Random Negative Effect for each beneficial effect on each enemy.
+Inflict a Random Negative Effect for x turns for each beneficial effect still on the target.
+Inflict a Time Bomb for every negative effect currently on each enemy.
+Inflict a Time Bomb for x turns if there is no Time Bomb currently on the target.
+Inflict a random Silver effect on all enemies for x turns for each Mark on each enemy before dealing damage.
+Inflict a random burn on each enemy for x turns at the start of your turn after the first round of battle.
+Inflict a random negative effect on a random enemy for x turns and reduce their Max HP by x% at the start of your turn.
+Inflict a random negative effect on the enemy when you take damage.
+Inflict a random negative effect on up to x random enemies every turn for x turns.
+Inflict a random number and type of Burn effects on each enemy for a random number of turns.
+Inflict up to x Marks and 3 Perfect Bleeds on each enemy for x turns.
+Inflict up to x Marks on each enemy for x turns.
+Inflict up to x Random Silver Effects, excluding Dark Ghost, on all enemies for x turns.
+Inflict up to x Toxic Burns, Flames, Furious Burns, Physical Burns, and Magic Burns on all enemies for the duration of battle.
+Inflict x hits of physical damage based on your MAX HP, which will not wake targets inflicted with sleep, to each enemy that has Accuracy Down effects present.
+Inflict x hits of true damage on a single-target.
+Inflicts 1 Mark on the target for every x% of their HP missing.
+Inflicts 2 Magic Burns for x turns.
+Inflicts 2 Toxic Burns on all enemies for x turns.
+Inflicts 3 Physical Burns for x turns.
+Inflicts 3 Toxic Burns on all enemies for x turns.
+Inflicts 3 stacks of Fear on enemies for x turns.
+Inflicts Additional True Damage for every damage over time effect on the target.
+Inflicts Bleed on the enemy for x turns.
+Inflicts Bloodlust for x turns on all enemies.
+Inflicts Bloodlust on all enemies for x turns.
+Inflicts Curse for x turns on enemies inflicted with Bleed at the start of your turn.
+Inflicts Doom on the target if they are currently Sealed.
+Inflicts Doom, Silence or Block Beneficial Effects on targeted enemies for x turns.
+Inflicts Fear on all enemies for x turns.
+Inflicts Furious Burn on all enemies for x turns at the start of battle.
+Inflicts Grievous Burn for x turns.
+Inflicts Heal Block for x turns.
+Inflicts Heal Block on all enemies for x turns.
+Inflicts Heal Block on enemies for x turns.
+Inflicts Lower Power Generation for x turns.
+Inflicts Magic Burn for x turns.
+Inflicts Magic Burn on enemies for x turns.
+Inflicts Passive Disable on all enemies on the first turn.
+Inflicts Perfect Corruption for x turns.
+Inflicts Perfect Silence on self for x turns.
+Inflicts Perfect Silence, Flame, Exhaust, or Crave on each enemy for x turns.
+Inflicts Permadeath for x turns.
+Inflicts Permadeath on targets with Immortality, Endure, or Ghost effects.
+Inflicts Physical, Magic, and True Burn on all enemies for x turns.
+Inflicts Random Negative Effects on random enemies.
+Inflicts Scalding Burns for x turns.
+Inflicts Silence and Seal on all enemies for x turns.
+Inflicts Silence on enemies at the start of battle for x turns.
+Inflicts Stop and Seal on a random enemy every turn for x turns.
+Inflicts additional Marks for every Mark on each target.
+Inflicts all enemies with a Mark at the start of battle.
+Inflicts enemies with Crave status for x turns at the start of battle.
+Inflicts two instances of Fear on random enemies for x turns, every turn.
+Inflicts up to x Bleeds for x turns.
+Inflicts up to x Physical Burns on random enemies every turn.
+Inflicts up to x Physical Burns.
+Inflicts up to x Random Negative Effects on all enemies.
+Inflicts up to x Shock effects on all enemies for x turns.
+inflict x Blinding Burns for x turns.
+inflict x Blinding Burns on each enemy for x turns if they are suffering from Burn effects.
+inflict x Flames on all enemies for x turns if at x% HP or below.
+inflict x Flames on all enemies for x turns.
+inflict x Furious Burn on all enemies for x turns.
+inflict x Furious Burns on each enemy for x turns.
+inflict x Furious Burns on enemies for x turns.
+inflict x Furious Burns on the target for x turns.
+inflict x Magic Burn for x turns to a random enemy when hit.
+inflict x Magic Burn for x turns.
+inflict x Magic Burn to 2 random enemies for x turns.
+inflict x Magic Burn to a random enemy for x turns.
+inflict x Magic Burns for x turns.
+inflict x Magic Burns on all enemies for x turns.
+inflict x Mark on all enemies for x turns.
+inflict x Marks on a random enemy for x turns at the start of your turn.
+inflict x Marks on each enemy for x turns after every action.
+inflict x Marks on each enemy for x turns.
+inflict x Marks on the target for the duration of battle.
+inflict x Marks on the target for x turns.
+inflict x Perfect Time Bombs for x turns on each enemy and deal random damage to a random enemy equal to x% of their MAX HP when you or any ally dies.
+inflict x Perfect Time Bombs on the target for x turns.
+inflict x Physical Burn and Flame effects on enemies for x turns.
+inflict x Random Negative Effects to each enemy for x turns.
+inflict x Random Silver Effects to random enemies for x turns.
+inflict x Scalding Burns on all enemies for x turns.
+inflict x Shock and Flame effects on the target for x turns.
+inflict x Toxic Burns and 2 Furious Burns on the enemy for x turns.
+inflict x Toxic Burns on each enemy for x turns, and grant a Perfect Heal Shield and Damage Charge to all allies for x turns when you die.
+inflict x True Burns and 3 stacks of Fear on each enemy for the duration of battle.
+inflict x True Burns on all enemies for x turns.
+inflict x stacks of Scalding and Blinding Burns on all enemies for the duration of battle.

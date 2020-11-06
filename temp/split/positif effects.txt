@@ -1,0 +1,72 @@
+100% Critical Strike Chance
+Accuracy Up
+Armor Penetration
+Ascension
+Attack Up
+Blizzard Shield
+Class Advantage
+Cleanse
+Counterstrike
+Critical Strike Chance
+Cyclone Shield
+Damage Charge
+Damage Reduction Shield
+Defense Charge
+Defense Up
+Deflect Shield
+Disruption Shield
+Echo
+Empowered
+Endure
+Force Shield
+Ghost
+Golden Hit
+Guard Shield
+Heal Shield
+Healing Amp
+Immortality
+Immunity
+Increased Fury Generation
+Increased Power Generation
+Invincibility
+Lifesteal
+Magic Block
+Magic Charge
+Magic Penetration
+Magic Up
+Magical Shield
+Magma Shield
+Max Hp Up
+Mr Charge
+Mr Up
+Perfect Accuracy Up
+Perfect Force Shield
+Perfect Heal Shield
+Perfect Health
+Perfect Hit
+Perfect Immortality
+Perfect Immunity
+Perfect Revenge
+Perfect Titan Shield
+Perfect Vanish
+Physical Block
+Physical Charge
+Physical Shield
+Power Shield
+Reflect Shield
+Regen Hp
+Revenge
+Sacrifice
+Shroud
+Sleep Shield
+Snow Shield
+Soul Protect
+Spell Vamp
+Stone Shield
+Thorn Shield
+Titan Shield
+Trap
+True Block
+True Shield
+Vanish
+Void Shield

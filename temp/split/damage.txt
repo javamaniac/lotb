@@ -1,0 +1,71 @@
+Damage dealt based on the enemy’s Missing HP.
+Damage dealt based on your and the target’s MISSING HP.
+Damage dealt does not wake targets inflicted with Sleep or Perfect Sleep and increases based on your CURRENT HP.
+Damage dealt does not wake targets inflicted with Sleep or Perfect Sleep.
+Damage dealt has a x% Chance to Critically Strike on each hit.
+Damage dealt increased based on your DEF and MR stats.
+Damage dealt increased based on your DEF stat.
+Damage dealt increased based on your DEF stats.
+Damage dealt increased based on your MISSING HP and the target’s MAX HP.
+Damage dealt increases based on off your DEF stat.
+Damage dealt increases based on the MAX HP of you and your enemy.
+Damage dealt increases based on the amount of healing received.
+Damage dealt increases based on the enemy’s ATK and MAGIC.
+Damage dealt increases based on the enemy’s MAX HP.
+Damage dealt increases based on the enemy’s MISSING HP.
+Damage dealt increases based on the enemy’s SPECIAL stat.
+Damage dealt increases based on the enemy’s and your MAX HP
+Damage dealt increases based on the enemy’s and your MAX HP.
+Damage dealt increases based on the target’s MAGIC.
+Damage dealt increases based on the target’s MAX HP.
+Damage dealt increases based on the target’s MISSING HP.
+Damage dealt increases based on the target’s Missing HP.
+Damage dealt increases based on you DEF and SPECIAL stats.
+Damage dealt increases based on your ATK and SPECIAL stats.
+Damage dealt increases based on your DEF and MR stats.
+Damage dealt increases based on your DEF and SPECIAL stats.
+Damage dealt increases based on your DEF.
+Damage dealt increases based on your MAX HP.
+Damage dealt increases based on your MISSING HP.
+Damage dealt increases based on your MR stat.
+Damage dealt increases based on your MR.
+Damage dealt increases based on your Missing HP.
+Damage dealt increases based on your SPECIAL stat and the enemy’s ATK and MAGIC.
+Damage dealt increases based on your SPECIAL stat.
+Damage dealt increases based on your and the enemy’s MAX HP.
+Damage dealt increases the higher target’s ATK stat is.
+Damage dealt increases the higher the enemy’s ATK stat.
+Damage dealt increases the higher the target’s ATK and SPECIAL stats.
+Damage dealt increases the higher your DEF stat.
+Damage dealt increases the lower your CURRENT HP.
+Damage dealt increases the lower your MAX HP.
+Damage dealt increases with MAX HP.
+Damage dealt increases with the heal amount.
+Damage dealt is based on the enemy’s MAX HP.
+Damage dealt is based on your DEF and MAX HP.
+Damage dealt is based on your MAX HP and Missing HP.
+Damage dealt is based on your MAX HP.
+Damage dealt scales based on their MISSING HP.
+Damage has a chance to Critically Strike.
+Damage increases based on DEF.
+Damage increases based on MISSING HP.
+Damage increases based on SPECIAL.
+Damage increases based on enemy’s SPECIAL.
+Damage increases based on the enemy’s MISSING HP
+Damage increases based on the enemy’s MISSING HP.
+Damage increases based on the target’s MISSING HP.
+Damage increases based on your ATK and SPECIAL stats.
+Damage increases based on your DEF and MAX HP.
+Damage increases based on your MAGIC and SPECIAL stats.
+Damage increases based on your MAX HP and DEF
+Damage increases based on your MAX HP.
+Damage increases the higher the enemy’s ATK.
+Damage increases the higher the enemy’s MAX HP
+Damage increases the higher the enemy’s MAX HP.
+Damage increases the higher your SPECIAL stat.
+Damage increases the lower the target’s CURRENT HP.
+Damage increases the lower your HP becomes.
+Damage increases with your MAX HP.
+Damage scales based on your MAX HP.
+Damage scales with ATK and SPECIAL.
+Damage scales with SPECIAL stat.

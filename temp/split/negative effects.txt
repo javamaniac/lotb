@@ -1,0 +1,60 @@
+Accuracy Down
+Apparition
+Attack Down
+Bleed
+Blind
+Blinding Burn
+Bloodlust
+Bomb
+Cleave
+Corruption
+Crave
+Curse
+Dark Ghost
+Defense Down
+Doom
+Exhaust
+Fear
+Flame
+Freeze
+Furious Burn
+Grievous Burn
+Heal Block
+Heal Reduction
+Hp Drain
+Ignite
+Lower Fury Generation
+Lower Power Generation
+Magic Down
+Mark
+Mark of Diablo
+Mr Down
+Mystic Flame
+Passive Disable
+Perfect Accuracy Down
+Perfect Bleed
+Perfect Blind
+Perfect Corruption
+Perfect Crave
+Perfect Death
+Perfect Disable
+Perfect Heal Block
+Perfect Silence
+Perfect Sleep
+Perfect Stun
+Perfect Time Bomb
+Permadeath
+Physical Burn
+Punishment
+Scalding Burn
+Seal
+Shock
+Silence
+Sleep
+Smite
+Soul Shackle
+Stop
+Stun
+Taunt
+Toxic Burn
+True Burn
