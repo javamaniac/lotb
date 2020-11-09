@@ -25,7 +25,7 @@ async function run (url) {
 
   const exportJson = true
   if (exportJson) {
-    const fileOutput = `data/${id}.json`
+    const fileOutput = `data-compendium/chararcters/${id}.json`
     const data = JSON.stringify(character, null, 2)
     fs.writeFileSync(fileOutput, data)
     console.log(` > ${fileOutput} created`)
