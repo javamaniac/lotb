@@ -6,7 +6,6 @@ let browser = null
 let page = null
 
 async function run (url) {
-
   // return new Promise(async (resolve, reject) => {
   if (!browser) {
     browser = await puppeteer.launch({
@@ -42,9 +41,9 @@ async function run (url) {
   // browser.close()
 }
 
-function generateId(href) {
+function generateId (href) {
   const splitted = href.split('/')
-  return (splitted[splitted.length-1] === '') ? splitted[splitted.length-2] : splitted[splitted.length-1]
+  return (splitted[splitted.length - 1] === '') ? splitted[splitted.length - 2] : splitted[splitted.length - 1]
 }
 
 module.exports.run = run

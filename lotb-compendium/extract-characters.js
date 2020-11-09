@@ -37,11 +37,10 @@ async function run () {
   console.timeEnd('temps') // 4 min
 }
 
-function generateId(href) {
+function generateId (href) {
   const splitted = href.split('/')
-  return (splitted[splitted.length-1] === '') ? splitted[splitted.length-2] : splitted[splitted.length-1]
+  return (splitted[splitted.length - 1] === '') ? splitted[splitted.length - 2] : splitted[splitted.length - 1]
 }
-
 
 // async function postData (url = '', data = {}) {
 //   // Default options are marked with *
