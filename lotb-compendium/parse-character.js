@@ -49,7 +49,7 @@ const parse = () => {
     for (const className of ['W', 'M', 'S', 'G', 'A']) {
       talismanSet.push(getTalismanSetCode(className))
     }
-    return talismanSet.join('').toLocaleLowerCase()
+    return talismanSet.join(' ').toLocaleLowerCase()
   }
 
   const getSkills = () => {
@@ -86,6 +86,10 @@ const parse = () => {
   }
 
   const talismansCode = getTalisman()
+
+  console.log('talismansCode', talismansCode)
+  console.log('getTalismansSet', getTalismansSet(talismansCode))
+
   const chararter = {
     id: generateId(document.location.href),
     name: cleanText(document.querySelector('.ch-title h1').innerHTML),
