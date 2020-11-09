@@ -22,7 +22,7 @@ async function run () {
 
   console.log(`Parsing ${url}...`)
   const character = await page.evaluate(parse)
-  const fileOutput = `data/${character.name}.json`
+  const fileOutput = `data-compendium/chararcters/${character.name}.json`
   // console.log(character)
   // console.log(character.skills[0].desc)
 
