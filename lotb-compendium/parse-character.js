@@ -1,7 +1,7 @@
 const parse = () => {
   const generateId = href => {
     const splitted = href.split('/')
-    return (splitted[splitted.length-1] === '') ? splitted[splitted.length-2] : splitted[splitted.length-1]
+    return (splitted[splitted.length - 1] === '') ? splitted[splitted.length - 2] : splitted[splitted.length - 1]
   }
 
   const getTalisman = () => {
@@ -9,7 +9,7 @@ const parse = () => {
       const h3 = div.querySelector('h3')
       return h3 && h3.innerHTML.toLowerCase() === 'talisman slots'
     })
-  
+
     const slotList = Array.from(divTalisman.querySelectorAll('img')).map(img => {
       return img.src.split(/[_.]/).reverse()[1]
     })
@@ -20,7 +20,7 @@ const parse = () => {
       magus: 'M',
       sentinel: 'S',
       gunner: 'G',
-      assassin: 'A',
+      assassin: 'A'
     }
     let slotsCode = ''
     slotList.forEach(slot => {
@@ -32,6 +32,26 @@ const parse = () => {
     return (slotsCode + '......').substring(0, 6)
   }
 
+  /**
+   * Convert talisman format 'WWS...' to '5w4s'
+   * @param {String} talismanCode
+   */
+  const getTalismansSet = (talismanCode) => {
+    const codeList = talismanCode.split('')
+    const nbEmptySlot = codeList.filter(t => t === '.').length
+
+    const getTalismanSetCode = (className) => {
+      const nb = codeList.filter(t => t === className).length + nbEmptySlot
+      return nb > 3 ? nb + className : ''
+    }
+
+    const talismanSet = []
+    for (const className of ['W', 'M', 'S', 'G', 'A']) {
+      talismanSet.push(getTalismanSetCode(className))
+    }
+    return talismanSet.join('').toLocaleLowerCase()
+  }
+
   const getSkills = () => {
     // skills
     const skills = []
@@ -39,7 +59,7 @@ const parse = () => {
       const [, tdSkillName, tdSkillDesc] = skillrow.querySelectorAll('td')
       if (!tdSkillName) {
         return
-      }    
+      }
 
       const [skillName, skillType, textPowerCost] = tdSkillName.querySelector('td p')
         .innerText.split(/[()]/)
@@ -65,6 +85,7 @@ const parse = () => {
     return skills
   }
 
+  const talismansCode = getTalisman()
   const chararter = {
     id: generateId(document.location.href),
     name: cleanText(document.querySelector('.ch-title h1').innerHTML),
@@ -72,7 +93,8 @@ const parse = () => {
     stars: Number.parseInt(document.querySelector('.stars img').src.split('star0')[1][0]),
     eddie: document.querySelectorAll('.skill-table-border-top').length === 7,
     awakenable: Boolean(document.querySelector('.awakenable-con')),
-    talismans: getTalisman(),
+    talismans: talismansCode,
+    talismansSet: getTalismansSet(talismansCode),
     url: document.location.href,
     image: document.querySelector('.ch-postpage-thumb img').src,
     skills: getSkills()

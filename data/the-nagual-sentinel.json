@@ -1,0 +1,44 @@
+{
+  "id": "the-nagual-sentinel",
+  "name": "The Nagual",
+  "class": "Sentinel",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AA....",
+  "talismansSet": "4w4m4s4g6a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-nagual-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/hud_icon_witchdoctor_nagual.png",
+  "skills": [
+    {
+      "name": "SOUL HARVEST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of true damage to a single target.",
+        "• Inflict Accuracy Down on the target for 2 turns.",
+        "• Grant Accuracy Up on each ally for 2 turns if they lack negative effects.",
+        "• Deal Additional True Damage to the target for each negative effect on them."
+      ]
+    },
+    {
+      "name": "ANGERED SPIRITS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of true damage to random enemies.",
+        "• Inflicts Doom, Silence or Block Beneficial Effects on targeted enemies for 2 turns.",
+        "• Instantly gain an Extra Turn"
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "METAMORPHOSIS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "75% Chance to Permanently Reduce Max HP or SPECIAL on attacking enemies by 10% whenever you take damage. Permanently Reduce DEF or MR on each enemy by 50% if they have negative effects after every action. Permanently Reduce ATK or MAG on each enemy by 50% if they lack negative effects after every action. Transform All Beneficial Effects, including Golden effects, on each enemy into 3 Grievous Burns and 3 Scalding Burns for 2 turns if they are suffering from Stat Reduction effects, including Silver and Innate effects, at the start of battle and at the start of your turn."
+      ]
+    }
+  ]
+}
