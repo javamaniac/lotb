@@ -1,0 +1,16 @@
+{
+  "id": "forge-assassin",
+  "name": "Forge",
+  "class": "assassin",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage taken by 45%",
+    "Inflict Perfect Death on each enemy for 1 turn and Increase Critical Hit Chance of all allies by +5% every action",
+    "Remove All Golden Effects from each enemy if 3 or more negative effects are on the enemy at the start of your turn",
+    "Increase your ATK, MAGIC, and MAX HP by +15% at the start of your turn",
+    "Grant a Perfect Heal Shield and Cleanse to all allies for the duration of battle if any ally’s health falls to 1 HP."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/forge-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Forge.png"
+}

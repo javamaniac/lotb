@@ -1,0 +1,14 @@
+{
+  "id": "orbit-warrior",
+  "name": "Orbit",
+  "class": "warrior",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Immunity to True Damage to all allies",
+    "60% Chance to Remove Negative Effects from all allies and a 60% chance to Remove Beneficial Effects from all enemies every action",
+    "Permanently increase DEF and MR by 5% every turn at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/orbit-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Orbit.png"
+}

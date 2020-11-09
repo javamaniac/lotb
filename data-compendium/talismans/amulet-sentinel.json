@@ -1,0 +1,16 @@
+{
+  "id": "amulet-sentinel",
+  "name": "Amulet",
+  "class": "sentinel",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage taken by 60%",
+    "Increase the duration of beneficial effects on self and a random ally by 1 turn after each action",
+    "Transform Perfect and Passive Disable on each ally into Heal Amp for 2 turns every action",
+    "Transform Immunity and Perfect Immunity effects on enemies into Doom for 2 turns if Heal Amp is active on any ally at the start of your turn",
+    "Inflict Perfect Sleep for 1 turn on each enemy inflicted with Doom at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/amulet-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/IconTAL_Amulet.png"
+}

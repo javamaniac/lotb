@@ -1,0 +1,12 @@
+{
+  "id": "crystal-sentinel",
+  "name": "Crystal",
+  "class": "sentinel",
+  "set": "2",
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases MR by 1% of HP"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/crystal-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Crystal.png"
+}

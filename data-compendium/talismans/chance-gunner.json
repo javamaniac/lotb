@@ -1,0 +1,12 @@
+{
+  "id": "chance-gunner",
+  "name": "Chance",
+  "class": "gunner",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Critical Strike Chance at the start of battle for 3 turns."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/chance-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Chance.png"
+}

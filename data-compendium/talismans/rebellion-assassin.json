@@ -1,0 +1,13 @@
+{
+  "id": "rebellion-assassin",
+  "name": "Rebellion",
+  "class": "assassin",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Immunity to Silence and Perfect Silence",
+    "20% Chance to remove all Silver effects from self and a random ally when you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/rebellion-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Rebellion.png"
+}

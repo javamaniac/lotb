@@ -1,0 +1,13 @@
+{
+  "id": "limbo-magus",
+  "name": "Limbo",
+  "class": "magus",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "35% Chance to Remove Perfect Immunity and inflict Perfect Corruption, Perfect Stun, or Perfect Blind on a random enemy for 2 turns when you take damage",
+    "Gain 100% Critical Strike Chance and Echo for 2 turns after each action if any enemy lacks Silver Effects."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/limbo-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Limbo.png"
+}

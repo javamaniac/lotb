@@ -1,0 +1,15 @@
+{
+  "id": "asgard-gunner",
+  "name": "Asgard",
+  "class": "gunner",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all damage by 60% and take no more than 20% of your MAX HP in damage from a single hit",
+    "Grant Perfect Revenge to all allies at the start of battle for the duration of battle",
+    "35% Chance to heal all allies for 10% of their MAX HP after each action",
+    "35% Chance to grant your allies Immortality, Perfect Cleanse, and Golden Hit for 1 turn after each action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/asgard-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/04/IconTAL_Asgard.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sustaining-sentinel",
+  "name": "Sustaining",
+  "class": "sentinel",
+  "set": "2",
+  "type": "Passive",
+  "passiveSkills": [
+    "Heal all allies for 3% of MAX HP every turn",
+    "Heal for an additional 3% for every Beneficial Effect currently on you."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/sustaining-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Sustaining.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "viper-warrior",
+  "name": "Viper",
+  "class": "warrior",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all damage taken by 60%",
+    "50% Chance to counter an enemy when attacked",
+    "85% Chance to Inflict Perfect Bleed on each enemy for 2 turns every turn",
+    "35% Chance to inflict Perfect Corruption and Perfect Disable on each enemy for 2 turns every turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/viper-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Viper.png"
+}

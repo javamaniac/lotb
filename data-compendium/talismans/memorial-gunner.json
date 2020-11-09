@@ -1,0 +1,17 @@
+{
+  "id": "memorial-gunner",
+  "name": "Memorial",
+  "class": "gunner",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all damage taken by 50%",
+    "Immunity to Doom and Innate versions of Stun, Silence, Seal, and Blind effects",
+    "Instantly Trigger Doom effects if Lower Accuracy or Perfect Accuracy Down is on the target after each action",
+    "Remove Doom and Innate versions of Stun, Silence, Seal, and Blind from each ally and grant them immunity to these effects until they die if your HP is less than 50% at the start of your turn",
+    "This immunity effect will not be removed from your allies if you die",
+    "50% Chance to revive with full HP and a Perfect Force Shield for 3 turns when you die."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/memorial-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/IconTAL_Memorial.png"
+}

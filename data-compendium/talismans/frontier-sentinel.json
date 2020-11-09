@@ -1,0 +1,13 @@
+{
+  "id": "frontier-sentinel",
+  "name": "Frontier",
+  "class": "sentinel",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all Damage taken by 50%",
+    "Permanently increase a Random Stat by 5% every turn and by 2% whenever you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/frontier-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Frontier.png"
+}

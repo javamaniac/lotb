@@ -1,0 +1,14 @@
+{
+  "id": "archer-assassin",
+  "name": "Archer",
+  "class": "assassin",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain Immunity to All Negative Effects, including Silver effects, for the first 2 rounds of battle",
+    "25% Chance to take no damage and inflict a Mark on attacking enemies for 2 turns when attacked",
+    "50% Chance to gain Perfect Hit and Accuracy up for 2 turns when you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/archer-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/IconTAL_Archer.png"
+}

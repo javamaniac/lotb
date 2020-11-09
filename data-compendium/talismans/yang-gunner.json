@@ -1,0 +1,13 @@
+{
+  "id": "yang-gunner",
+  "name": "Yang",
+  "class": "gunner",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain Immunity to Permadeath, Perfect Death, and Crave effects",
+    "Take 50% Reduced damage and heal all allies for 1,000 points of health when you take damage if the Yin Talisman set effect is also active on the wearer."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/yang-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Yang.png"
+}

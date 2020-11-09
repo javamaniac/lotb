@@ -1,0 +1,13 @@
+{
+  "id": "redemption-warrior",
+  "name": "Redemption",
+  "class": "warrior",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Remove 2 beneficial effects from all enemies at the start of battle",
+    "Grant Echo and Physical Reflect Shield to all allies for 3 turns upon death."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/redemption-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Redemption.png"
+}

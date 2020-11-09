@@ -1,0 +1,12 @@
+{
+  "id": "rage-warrior",
+  "name": "Rage",
+  "class": "warrior",
+  "set": "4",
+  "type": "Ability",
+  "powerSkills": [
+    "• Deals 6 hits of physical damage to all enemies.• Disable Enemy Passives for 3 turns.\n• Inflicts 3 Furious Burns for 2 turns.\n• Heal all allies based on your ATK stat.\n• Instantly gain an Extra Turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/rage-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Rage.png"
+}

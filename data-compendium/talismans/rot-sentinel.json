@@ -1,0 +1,17 @@
+{
+  "id": "rot-sentinel",
+  "name": "Rot",
+  "class": "sentinel",
+  "set": "4",
+  "type": "Passive",
+  "passiveSkills": [
+    "Immune to all Crave, Heal Block and Permadeath effects, including Silver and Innate effects",
+    "Permanently Increase Max HP on self by +100%",
+    "Inflict Bloodlust, Grievous Burn, Toxic Burn or Stop on a random enemy for 2 turns when you take damage",
+    "Take Additional True Damage equal to 5% of your MAX HP at the start of your turn",
+    "Heal self based on your MAX HP and MISSING HP and inflict Crave or Perfect Crave on each enemy for 1 turn after every action",
+    "Once per battle, Revive with Full HP and inflict Unblockable Stun and Innate Crave on a random enemy until they die upon death."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/rot-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/IconTAL_Rot.png"
+}

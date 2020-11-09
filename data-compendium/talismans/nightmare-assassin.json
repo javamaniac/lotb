@@ -1,0 +1,13 @@
+{
+  "id": "nightmare-assassin",
+  "name": "Nightmare",
+  "class": "assassin",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "35% Chance for Perfect Basic Attacks to inflict Perfect Sleep on targets for 1 turn",
+    "Perfect Sleep is a Silver Effect that puts targets to Sleep and cannot be cleansed by most skills."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/nightmare-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Nightmare.png"
+}

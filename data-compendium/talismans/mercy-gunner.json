@@ -1,0 +1,16 @@
+{
+  "id": "mercy-gunner",
+  "name": "Mercy",
+  "class": "gunner",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Immunity to all allies for 2 turns at the start of battle",
+    "Remove All Crave, Heal Reduction and Heal Block effects, including Silver and Innate effects, from each ally and Heal them for 100% of their MAX HP when each ally dies for the first time in battle",
+    "Grant the following 3 Blessings of Mercy to each ally whenever this talisman becomes active and at the start of your turn: 35% Chance to take no damage when attacked",
+    "35% Chance to Remove a Negative Effect, including Silver effects, when taking damage",
+    "35% Chance to gain a Random Healing or Defensive Effect, including Golden effects, for 2 turns after every action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/mercy-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/IconTAL_Mercy.png"
+}

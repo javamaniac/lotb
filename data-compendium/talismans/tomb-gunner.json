@@ -1,0 +1,13 @@
+{
+  "id": "tomb-gunner",
+  "name": "Tomb",
+  "class": "gunner",
+  "set": "4",
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain Perfect Health and Heal Shield for the duration of Battle",
+    "50% Chance to Stun enemies inflicted with Stop or Seal for 2 turns at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/tomb-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Tomb.png"
+}

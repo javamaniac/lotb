@@ -1,0 +1,13 @@
+{
+  "id": "labyrinth-assassin",
+  "name": "Labyrinth",
+  "class": "assassin",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "60% Chance to take no damage when attacked",
+    "Take random damage based on 10% of your Max HP and inflict ATK Down, MAGIC Down, and Stop on each enemy for 1 turn when successfully hit."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/labyrinth-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Labyrinth.png"
+}

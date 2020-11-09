@@ -1,0 +1,15 @@
+{
+  "id": "ragnarok-warrior",
+  "name": "Ragnarok",
+  "class": "warrior",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage taken by all allies by 60%",
+    "Inflict Perfect Corruption and Perfect Crave on each enemy for 1 turn at the start of your turn",
+    "Deal true damage to all enemies based on their MAX HP and inflict Sleep or Perfect Sleep on up to two random enemies for 1 turn each action",
+    "Grant a random offensive and defensive effect to each ally for every stack of HP Regen present on each ally at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/ragnarok-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Ragnarok.png"
+}

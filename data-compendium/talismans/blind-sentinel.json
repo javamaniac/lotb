@@ -1,0 +1,12 @@
+{
+  "id": "blind-sentinel",
+  "name": "Blind",
+  "class": "sentinel",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 35% chance to Blind the target."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/blind-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Blind.png"
+}

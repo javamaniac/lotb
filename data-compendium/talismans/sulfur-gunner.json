@@ -1,0 +1,13 @@
+{
+  "id": "sulfur-gunner",
+  "name": "Sulfur",
+  "class": "gunner",
+  "set": "2",
+  "type": "Passive",
+  "passiveSkills": [
+    "25% Chance to inflict Time Bomb, Perfect Time Bomb, Scalding Burn, Toxic Burn or Flame on a random enemy when you take damage",
+    "50% Chance to Trigger all Time Bomb effects on each enemy after every action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/sulfur-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/IconTAL_Sulfur.png"
+}

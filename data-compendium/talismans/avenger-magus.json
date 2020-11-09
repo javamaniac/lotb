@@ -1,0 +1,13 @@
+{
+  "id": "avenger-magus",
+  "name": "Avenger",
+  "class": "magus",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Revenge to self for 2 turns at the start of battle",
+    "Grant Revenge to all allies for 2 turns upon death."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/avenger-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Avenger.png"
+}

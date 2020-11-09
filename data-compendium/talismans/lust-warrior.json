@@ -1,0 +1,17 @@
+{
+  "id": "lust-warrior",
+  "name": "Lust",
+  "class": "warrior",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Immune to Crave, Heal Reduction and Heal Block effects, including Silver and Innate effects",
+    "Heal self for 100% of all damage dealt",
+    "Permanently Increase ATK and MAGIC on self by +25% if Perfect Hit effects, including Golden and Innate effects, are active on self at the start of battle and at the start of your turn",
+    "Your first action each turn deals 300% Increased Damage if Blind or Accuracy Down effects, including Silver and Innate effects, are active on self at the start of battle and at the start of your turn",
+    "50% Chance to inflict Blind on self for 1 turn when you take damage",
+    "50% Chance to inflict Blinding Burn all enemies for 3 turns when you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/lust-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/IconTAL_Lust.png"
+}
