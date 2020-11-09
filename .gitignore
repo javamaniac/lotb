@@ -1,5 +1,5 @@
-apify_storage
 node_modules
+elasticstore
 elasticsearch-data/*
-archives
-.idea
+archives/*
+apify_storage/*
