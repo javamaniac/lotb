@@ -1,0 +1,13 @@
+{
+  "id": "oracle-magus",
+  "name": "Oracle",
+  "class": "magus",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Increased MAX HP to each ally for 3 turns at the start of battle",
+    "Transfer random negative effects, including Silver Effects, from self to random enemies and heal allies for 35% of your MAX HP each turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/oracle-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Oracle.png"
+}

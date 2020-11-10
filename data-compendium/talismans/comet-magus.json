@@ -1,0 +1,12 @@
+{
+  "id": "comet-magus",
+  "name": "Comet",
+  "class": "magus",
+  "set": "4",
+  "type": "Ability",
+  "powerSkills": [
+    "Deals magic damage to all enemies.• 50% Chance Freeze enemies for 2 turns.\n• Grant an Extra Turn to self and a random ally."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/comet-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Comet.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "thorn-warrior",
+  "name": "Thorn",
+  "class": "warrior",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 45% chance to grant Thorn Shield to all allies for 1 turn",
+    "Thorn Shield reflects physical and true damage back as true damage with a 35% chance to inflict Heal Block and Permadeath to enemies."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/thorn-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Thorn.png"
+}

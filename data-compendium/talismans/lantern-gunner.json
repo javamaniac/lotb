@@ -1,0 +1,13 @@
+{
+  "id": "lantern-gunner",
+  "name": "Lantern",
+  "class": "gunner",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Inflict a random number, type, and duration of burn effects at the start of your turn",
+    "50% Chance to remove a beneficial effect from each enemy and cleanse and heal a random ally for 10% of their MAX HP for each type of burn present on each enemy after each action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/lantern-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Lantern.png"
+}

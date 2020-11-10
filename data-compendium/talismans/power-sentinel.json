@@ -1,0 +1,13 @@
+{
+  "id": "power-sentinel",
+  "name": "Power",
+  "class": "sentinel",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain a Power Shield for 2 turns at the start of battle",
+    "Power Shield reduces 25% of damage and generates Power when hit."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/power-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Power.png"
+}

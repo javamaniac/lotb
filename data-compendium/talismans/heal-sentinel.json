@@ -1,0 +1,12 @@
+{
+  "id": "heal-sentinel",
+  "name": "Heal",
+  "class": "sentinel",
+  "set": "3",
+  "type": "Ability",
+  "powerSkills": [
+    "• Heal all allies based on their MAX HP.• Instantly gain an Extra Turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/heal-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Heal.png"
+}

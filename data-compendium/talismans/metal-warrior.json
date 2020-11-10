@@ -1,0 +1,15 @@
+{
+  "id": "metal-warrior",
+  "name": "Metal",
+  "class": "warrior",
+  "set": "4",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage all allies take by 50%",
+    "If you are inflicted with passive disabled or perfect disabled when damaged, clear passive and perfect disable from all allies and inflict passive or perfect disable on all enemies for 2 turns",
+    "Grant Armor Penetration to each ally for 2 turns every action",
+    "Grant 100% Critical Strike Chance for 2 turns to all allies when your HP is below 50%."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/metal-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Metal.png"
+}

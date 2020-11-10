@@ -1,0 +1,13 @@
+{
+  "id": "fortune-magus",
+  "name": "Fortune",
+  "class": "magus",
+  "set": "4",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all damage taken by 60%",
+    "Heal all allies for 5% of your Max HP with a 15% chance to cleanse self when you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/fortune-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Fortune.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "enduring-magus",
+  "name": "Enduring",
+  "class": "magus",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Endure for 3 turns at the start of battle",
+    "Endure prevents your HP from falling below 1 while active."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/enduring-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Enduring.png"
+}

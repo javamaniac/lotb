@@ -1,0 +1,12 @@
+{
+  "id": "death-assassin",
+  "name": "Death",
+  "class": "assassin",
+  "set": "3",
+  "type": "Ability",
+  "powerSkills": [
+    "• Deals true damage to all enemies.• Inflicts 3 Marks on targets for 3 turns.\n• 50% Chance to inflict Permadeath on all enemies for 2 turns.\n• Marks can be consumed with Perfect Hits to deal true damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/death-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Death.png"
+}

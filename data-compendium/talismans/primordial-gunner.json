@@ -1,0 +1,12 @@
+{
+  "id": "primordial-gunner",
+  "name": "Primordial",
+  "class": "gunner",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants one Random Golden Effect to each ally and inflicts one Random Silver Effect on each enemy every turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/primordial-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Primordial.png"
+}

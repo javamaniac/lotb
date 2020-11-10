@@ -1,0 +1,12 @@
+{
+  "id": "angel-gunner",
+  "name": "Angel",
+  "class": "gunner",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Cleanse self and Heals all allies for 5% of their Max HP every turn"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/angel-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Angel.png"
+}

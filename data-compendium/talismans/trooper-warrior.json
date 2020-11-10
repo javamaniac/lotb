@@ -1,0 +1,15 @@
+{
+  "id": "trooper-warrior",
+  "name": "Trooper",
+  "class": "warrior",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce Damage taken by 50%",
+    "Reduce damage allies take by 35%",
+    "Grant Perfect Immunity and Echo to each ally for 1 turn when you take damage",
+    "Permanently Increase 2 random stats on each ally by 5% every time you attack."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/trooper-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Trooper.png"
+}

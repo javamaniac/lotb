@@ -1,0 +1,13 @@
+{
+  "id": "strike-warrior",
+  "name": "Strike",
+  "class": "warrior",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Counterstrike for 3 turns at the start of battle",
+    "Counterstrike gives a 35% chance to immediately attack the enemy that has just attacked you."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/strike-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Strike.png"
+}

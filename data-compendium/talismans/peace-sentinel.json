@@ -1,0 +1,14 @@
+{
+  "id": "peace-sentinel",
+  "name": "Peace",
+  "class": "sentinel",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain Immunity to Damage and All Negative Effects, including Silver and Unblockable effects, for 2 turns at the start of battle",
+    "Each enemy takes Additional Random Damage equal to 25% of their MAX HP after each action they take until they die at the start of battle and at the start of your turn",
+    "Whenever an ally dies for the first time in battle, they Remove All Beneficial Effects, including Golden effects, from all enemies and deal 6 hits of Additional Random Damage equal to 100% of their MAX HP to random enemies."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/peace-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/IconTAL_Peace.png"
+}

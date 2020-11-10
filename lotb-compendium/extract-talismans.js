@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer')
-const extractCharacter = require('./extract-character').run
+const extractTalisman = require('./extract-talisman').run
 
 async function run () {
   const browser = await puppeteer.launch({
@@ -10,11 +10,16 @@ async function run () {
   const page = await browser.newPage()
 
   // const url = 'http://www.news.maiden-lotb.com/n3/character-en/?wpv_view_count=4908&wpv-character_class_cat%5B%5D=warrior&wpv-level%5B%5D=1star'
-  const url = 'http://www.news.maiden-lotb.com/n3/character-en/'
+  const url = 'http://www.news.maiden-lotb.com/n3/talisman-en/'
   await page.goto(url)
 
   const listeHref = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll('.ch-icon a')).map(el => el.href)
+    return Array.from(document.querySelectorAll('.talisman-con a')).map(el => {
+      return {
+        href: el.href,
+        image: el.querySelector('img').src
+      }
+    })
   })
 
   browser.close()
@@ -22,10 +27,10 @@ async function run () {
   let nbTraite = 0
   const nbTotal = listeHref.length
   console.time('temps')
-  for (const href of listeHref) {
-    const id = generateId(href)
+  for (const hrefObj of listeHref) {
+    const id = generateId(hrefObj.href)
     console.log(`${++nbTraite}/${nbTotal} ${id}...`)
-    const character = await extractCharacter(href)
+    await extractTalisman(hrefObj)
     // await postData('http://localhost:9200/<target>/_doc/</target>', character)
   }
   console.timeEnd('temps') // 4 min

@@ -1,0 +1,12 @@
+{
+  "id": "paralysis-sentinel",
+  "name": "Paralysis",
+  "class": "sentinel",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "12% Chance to Stun targets for 1 turn on Perfect Basic Attacks"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/paralysis-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Paralysis.png"
+}

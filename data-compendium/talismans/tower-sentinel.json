@@ -1,0 +1,12 @@
+{
+  "id": "tower-sentinel",
+  "name": "Tower",
+  "class": "sentinel",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain a random Golden Defensive Effect every turn for 1 turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/tower-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Tower.png"
+}

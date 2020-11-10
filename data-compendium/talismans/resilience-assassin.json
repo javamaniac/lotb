@@ -1,0 +1,12 @@
+{
+  "id": "resilience-assassin",
+  "name": "Resilience",
+  "class": "assassin",
+  "set": "2",
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases HP by 50% of ATK and MAGIC"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/resilience-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Resilience.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "siege-warrior",
+  "name": "Siege",
+  "class": "warrior",
+  "set": "4",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Immunity to Physical Damage",
+    "Remove all Beneficial Effects, including Golden Effects and inflict Perfect Accuracy Down on a random enemy for 2 turns every turn",
+    "Decrease the Max HP of all enemies by 2% whenever you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/siege-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Siege.png"
+}

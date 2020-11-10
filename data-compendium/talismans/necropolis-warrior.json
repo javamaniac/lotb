@@ -1,0 +1,12 @@
+{
+  "id": "necropolis-warrior",
+  "name": "Necropolis",
+  "class": "warrior",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "Reduces the MAX HP of the target once per attack (up to a maximum of 70%) and has a 35% Chance to inflict Permadeath for 2 turns on Perfect Basic Attacks."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/necropolis-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Necropolis.png"
+}

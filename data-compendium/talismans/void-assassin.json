@@ -1,0 +1,14 @@
+{
+  "id": "void-assassin",
+  "name": "Void",
+  "class": "assassin",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 35% chance to grant Void Shield to all allies for 1 turn",
+    "Void Shield reduces Physical and Magic Damage and reflects a portion back as true damage to all enemies",
+    "The reflection has a chance to remove all beneficial effects from enemies."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/void-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Void.png"
+}

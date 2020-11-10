@@ -1,0 +1,12 @@
+{
+  "id": "quake-sentinel",
+  "name": "Quake",
+  "class": "sentinel",
+  "set": "4",
+  "type": "Ability",
+  "powerSkills": [
+    "• Deals true damage to all enemies.• 75% Chance to Stun for 2 turns.\n• Damage increases based on your Max HP.\n• Instantly gain an Extra Turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/quake-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Quake.png"
+}

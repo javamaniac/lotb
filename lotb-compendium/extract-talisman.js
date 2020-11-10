@@ -1,11 +1,11 @@
 const puppeteer = require('puppeteer')
-const parseCharacter = require('./parse-character').parse
+const parseTalisman = require('./parse-talisman').parse
 const fs = require('fs')
 
 let browser = null
 let page = null
 
-async function run (url) {
+async function run ({href, image}) {
   // return new Promise(async (resolve, reject) => {
   if (!browser) {
     browser = await puppeteer.launch({
@@ -16,27 +16,33 @@ async function run (url) {
     page = await browser.newPage()
   }
 
-  await page.goto(url)
+  try {
+    console.log(href, image)
+    await page.goto(href)
+  } catch (e) {
+    console.error(e)
+    return
+  }
 
-  const id = generateId(url)
+  const id = generateId(href)
 
   console.log(`Parsing ${id}...`)
-  const character = await page.evaluate(parseCharacter)
+  const talisman = await page.evaluate(parseTalisman, image)
 
   const exportJson = true
   if (exportJson) {
-    const fileOutput = `data-compendium/chararcters/${id}.json`
-    const data = JSON.stringify(character, null, 2)
+    const fileOutput = `data-compendium/talismans/${id}.json`
+    const data = JSON.stringify(talisman, null, 2)
     fs.writeFileSync(fileOutput, data)
     console.log(` > ${fileOutput} created`)
   }
 
   const debug = false
   if (debug) {
-    console.log(character)
+    console.log(talisman)
   }
 
-  return character
+  return talisman
 
   // browser.close()
 }

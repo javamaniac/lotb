@@ -1,0 +1,14 @@
+{
+  "id": "present-warrior",
+  "name": "Present",
+  "class": "warrior",
+  "set": "3",
+  "type": "Augment",
+  "passiveSkills": [
+    "35% Chance to remove Immunity and Inflict Punishment on the enemy for 2 turns",
+    "Grant Lifesteal to allies for 1 turn on each basic attack",
+    "20% Chance to grant an Extra Turn to a random ally on each basic attack."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/present-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Present.png"
+}

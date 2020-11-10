@@ -1,0 +1,14 @@
+{
+  "id": "impulse-sentinel",
+  "name": "Impulse",
+  "class": "sentinel",
+  "set": "6",
+  "type": "Passive",
+  "passiveSkills": [
+    "All allies deal +25% more damage to all enemies",
+    "Heal for 15% of your Max HP whenever you take physical or magic damage",
+    "Remove All Golden Effects and All Shields from enemies, stun all enemies for 2 turns and heal all allies for 100% of your MAX HP when your health reaches 1 HP."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/impulse-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Impulse.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ascension-gunner",
+  "name": "Ascension",
+  "class": "gunner",
+  "set": "2",
+  "type": "Stat",
+  "passiveSkills": [
+    "Raise ATK, MAGIC, DEF, and MR by 5%"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/ascension-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Ascension.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "piercing-warrior",
+  "name": "Piercing",
+  "class": "warrior",
+  "set": "2",
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 45% chance to grant Armor Penetration for 2 turns."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/piercing-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Piercing.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sacred-gunner",
+  "name": "Sacred",
+  "class": "gunner",
+  "set": "2",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant a random Healing Effect to self for 2 turns when you take damage",
+    "50% Chance to grant a random Healing Effect to a random ally for 2 turns when you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/sacred-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Sacred.png"
+}

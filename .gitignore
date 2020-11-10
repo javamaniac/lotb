@@ -4,3 +4,4 @@ elasticsearch-data/*
 archives/*
 apify_storage/*
 config
+/.idea/

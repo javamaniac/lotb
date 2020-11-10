@@ -1,0 +1,16 @@
+{
+  "id": "prudence-assassin",
+  "name": "Prudence",
+  "class": "assassin",
+  "set": "4",
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all damage taken by 10%, increasing by 10% each turn up to a maximum of 90%, at the start of your turn",
+    "35% Chance to take 99% reduced damage when attacked",
+    "Inflict Silence, Accuracy Down, or Seal, including their Silver versions, on a random enemy for 2 turns when you take damage",
+    "35% Chance to Cleanse a Random Negative Effect, including Silver Effects and Innate Stun and Freeze effects, from self and a random ally when you take damage",
+    "Heal self and a random ally for 10% of your MAX HP for each effect removed this way."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/prudence-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/IconTAL_Prudence.png"
+}

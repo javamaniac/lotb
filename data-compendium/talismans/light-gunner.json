@@ -1,0 +1,14 @@
+{
+  "id": "light-gunner",
+  "name": "Light",
+  "class": "gunner",
+  "set": "5",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Perfect Immortality to all allies every turn for 1 turn",
+    "Permanently increase a random defensive stat on each ally by 1% whenever you take damage",
+    "Heal for 50% of your MISSING HP when taking damage while below 50% HP."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/light-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Light.png"
+}

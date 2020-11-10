@@ -1,0 +1,12 @@
+{
+  "id": "future-magus",
+  "name": "Future",
+  "class": "magus",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Increased Accuracy and Power Generation status for 3 turns at the start of battle."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/future-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Future.png"
+}

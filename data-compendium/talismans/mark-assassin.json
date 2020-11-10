@@ -1,0 +1,14 @@
+{
+  "id": "mark-assassin",
+  "name": "Mark",
+  "class": "assassin",
+  "set": "3",
+  "type": "Passive",
+  "passiveSkills": [
+    "Mark a target with up to 3 Marks at the start of battle",
+    "Inflict up to 3 Marks on a target after each attack",
+    "Remove all beneficial effects and inflict up to 4 Marks on all enemies upon death."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/mark-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Mark.png"
+}
