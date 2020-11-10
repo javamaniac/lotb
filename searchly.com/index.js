@@ -1,10 +1,9 @@
+const config = require('../config/index')
 const { Client } = require('@elastic/elasticsearch')
 
-var connectionstring = 'https://'
-const client = new Client({ node: connectionstring })
+const client = new Client({ node: config.elasticsearchHost })
 
-async function addDoc(character) {
-
+async function addDoc (character) {
   const getSkill = (type) => {
     const filtered = character.skills
       .filter(skill => skill.type === type)
@@ -33,21 +32,19 @@ async function addDoc(character) {
     // type: '_doc', // uncomment this line if you are using Elasticsearch ≤ 6
     body
   })
-
 }
 
-async function search(query) {
+async function search (query) {
   query = query || {
     // name
-    match: { 
-      name: 'eddie' 
+    match: {
+      name: 'eddie'
     }
     // all fields
     // query_string: {
     //   query: "damage"
     // }
   }
-
 
   // Let's search!
   const { body } = await client.search({
@@ -61,8 +58,7 @@ async function search(query) {
   console.log(body.hits.hits)
 }
 
-async function refreshIndex() {
-
+async function refreshIndex () {
   // here we are forcing an index refresh, otherwise we will not
   // get any result in the consequent search
   await client.indices.refresh({ index: 'lotb-character' })
@@ -73,4 +69,4 @@ module.exports = {
   addDoc,
   refreshIndex,
   search
-};
+}
