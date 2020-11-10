@@ -3,7 +3,7 @@ const { Client } = require('@elastic/elasticsearch')
 
 const client = new Client({ node: config.elasticsearchHost })
 
-async function addDoc (character) {
+async function addCharacter (character) {
   const getSkill = (type) => {
     const filtered = character.skills
       .filter(skill => skill.type === type)
@@ -19,6 +19,7 @@ async function addDoc (character) {
   }
 
   const body = {
+    type: 'character',
     ...character,
     basicSkills: getSkill('Basic'),
     powerSkills: getSkill('Power'),
@@ -26,9 +27,26 @@ async function addDoc (character) {
     furySkills: getSkill('Fury')
   }
 
+  console.log('import', character.id)
   await client.index({
     index: 'lotb-character',
     id: character.id,
+    // type: '_doc', // uncomment this line if you are using Elasticsearch ≤ 6
+    body
+  })
+}
+
+async function addTalisman (talisman) {
+  const body = {
+    ...talisman,
+    talismanType: talisman.type,
+    type: 'talisman'
+  }
+
+  console.log('import', talisman.id)
+  await client.index({
+    index: 'lotb-character',
+    id: talisman.id,
     // type: '_doc', // uncomment this line if you are using Elasticsearch ≤ 6
     body
   })
@@ -66,7 +84,8 @@ async function refreshIndex () {
 // run().catch(console.log)
 
 module.exports = {
-  addDoc,
+  addCharacter,
+  addTalisman,
   refreshIndex,
   search
 }
