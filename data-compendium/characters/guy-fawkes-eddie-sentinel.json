@@ -84,7 +84,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Magma Shield to all allies for 1 turn at the start of battle. Transform all Burn effects on each enemy into up to 3 Perfect Time Bombs for 3 turns at the start of battle and at the start of your turn. Trigger all Time Bomb effects on each sleeping enemy after every action. Once per battle, Revive with full HP and grant all allies Ascension for 3 turns upon death."
+        "• Grant Magma Shield to all allies for 1 turn at the start of battle.",
+        "• Transform all Burn effects on each enemy into up to 3 Perfect Time Bombs for 3 turns at the start of battle and at the start of your turn.",
+        "• Trigger all Time Bomb effects on each sleeping enemy after every action.",
+        "• Once per battle, Revive with full HP and grant all allies Ascension for 3 turns upon death.."
       ]
     }
   ]

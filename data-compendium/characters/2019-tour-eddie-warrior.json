@@ -78,7 +78,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to Remove Immunity and Stun a random enemy every turn. Gain Echo status for 2 turns if any enemy’s HP is below 50% at the start of your turn. Transform Bleed and Heal Block effects into Perfect Bleed and Perfect Heal Block after each action."
+        "• 50% Chance to Remove Immunity and Stun a random enemy every turn.",
+        "• Gain Echo status for 2 turns if any enemy’s HP is below 50% at the start of your turn.",
+        "• Transform Bleed and Heal Block effects into Perfect Bleed and Perfect Heal Block after each action.."
       ]
     }
   ]

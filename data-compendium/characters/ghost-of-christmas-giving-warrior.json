@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Sleep and Perfect Sleep. Prevent enemies from using Power or Fury Skills for the first round of battle. 35% Chance to Revive a random dead ally with Shroud for 2 turns every turn."
+        "• Immune to Sleep and Perfect Sleep.",
+        "• Prevent enemies from using Power or Fury Skills for the first round of battle.",
+        "• 35% Chance to Revive a random dead ally with Shroud for 2 turns every turn.."
       ]
     }
   ]

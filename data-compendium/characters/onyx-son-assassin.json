@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict Perfect Time Bomb on all enemies for 3 turns at the start of battle. Inflict Perfect Time Bomb for 3 turns if no Time Bomb is present on the target at the start of your turn. Heal all allies based on their ATK/ MAGIC stat if your HP is below 30% after taking an action."
+        "• Inflict Perfect Time Bomb on all enemies for 3 turns at the start of battle.",
+        "• Inflict Perfect Time Bomb for 3 turns if no Time Bomb is present on the target at the start of your turn.",
+        "• Heal all allies based on their ATK/ MAGIC stat if your HP is below 30% after taking an action.."
       ]
     }
   ]

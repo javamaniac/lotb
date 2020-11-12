@@ -39,7 +39,13 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Silence and Skill Disabling effects. Grant all allies Perfect Vanish and Golden Trap for 2 turns at the start of battle. Gain 100% Critical Strike Chance for 1 turn if Vanish effects are active on self at the start of your turn. Place a Mark of Diablo on a random enemy at the start of your turn that prevents the target from reviving, gaining beneficial effects, and causes them to take additional random damage equal to 10% of their MAX HP when they take damage. This effect does not apply to bosses. Gain Perfect Vanish for 2 turns after every action. Attacks always land as Perfect Hits."
+        "• Immune to all Silence and Skill Disabling effects.",
+        "• Grant all allies Perfect Vanish and Golden Trap for 2 turns at the start of battle.",
+        "• Gain 100% Critical Strike Chance for 1 turn if Vanish effects are active on self at the start of your turn.",
+        "• Place a Mark of Diablo on a random enemy at the start of your turn that prevents the target from reviving, gaining beneficial effects, and causes them to take additional random damage equal to 10% of their MAX HP when they take damage.",
+        "• This effect does not apply to bosses.",
+        "• Gain Perfect Vanish for 2 turns after every action.",
+        "• Attacks always land as Perfect Hits.."
       ]
     }
   ]

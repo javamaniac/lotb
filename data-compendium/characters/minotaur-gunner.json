@@ -36,7 +36,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduces all damage taken by 20% for self. Grants Immunity to Sleep and Perfect Sleep to all allies. Grants Perfect Accuracy, Perfect Health, and Increase ATK, MAGIC, DEF, and MR to all allies for 2 turns at the start of battle."
+        "• Reduces all damage taken by 20% for self.",
+        "• Grants Immunity to Sleep and Perfect Sleep to all allies.",
+        "• Grants Perfect Accuracy, Perfect Health, and Increase ATK, MAGIC, DEF, and MR to all allies for 2 turns at the start of battle.."
       ]
     }
   ]

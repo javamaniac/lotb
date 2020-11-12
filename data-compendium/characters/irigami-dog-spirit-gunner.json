@@ -41,7 +41,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Prevent Enemies from taking Extra Turns. Grant Immunity to Max HP Reduction and Exhaust to all allies. 15% Chance to Inflict Perfect Stun on a random enemy every action."
+        "• Prevent Enemies from taking Extra Turns.",
+        "• Grant Immunity to Max HP Reduction and Exhaust to all allies.",
+        "• 15% Chance to Inflict Perfect Stun on a random enemy every action.."
       ]
     }
   ]

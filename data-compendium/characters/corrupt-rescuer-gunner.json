@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants the caster a Titan Shield every turn. Titan Shield scales based on your MAX HP."
+        "• Grants the caster a Titan Shield every turn.",
+        "• Titan Shield scales based on your MAX HP.."
       ]
     }
   ]

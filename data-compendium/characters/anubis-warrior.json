@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Doom. Stun any target that is asleep for 1 turn at the start of your turn."
+        "• Immune to Doom.",
+        "• Stun any target that is asleep for 1 turn at the start of your turn.."
       ]
     }
   ]

@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove offensive effects from all enemies every turn. Gain a random Damage Invulnerability Effect if a Damage Reduction Shield is active at the start of your turn. Gain Perfect Immunity for the duration of battle."
+        "• Remove offensive effects from all enemies every turn.",
+        "• Gain a random Damage Invulnerability Effect if a Damage Reduction Shield is active at the start of your turn.",
+        "• Gain Perfect Immunity for the duration of battle.."
       ]
     }
   ]

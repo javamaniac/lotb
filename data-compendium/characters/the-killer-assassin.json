@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflicts two instances of Fear on random enemies for 1 turn, every turn. Inflict Perfect Disable on up to 2 random enemies for 1 turn every turn."
+        "• Inflicts two instances of Fear on random enemies for 1 turn, every turn.",
+        "• Inflict Perfect Disable on up to 2 random enemies for 1 turn every turn.."
       ]
     }
   ]

@@ -39,7 +39,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Passive or Perfect Disable on attacking enemies for 2 turns. Heal all allies based on your Max HP for each remaining negative effect on each ally at the start of your turn. Remove Crave, Heal Block, and Heal Reduction effects, including silver effects, from all allies at the start of battle and at the start of your turn. Grant immunity to Max HP Decrease effects to all allies at the start of battle and at the start of your turn. If a Mongol Archer is in your team, inflict Taunt for 2 turns on all enemies at the start of battle."
+        "• 50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Passive or Perfect Disable on attacking enemies for 2 turns.",
+        "• Heal all allies based on your Max HP for each remaining negative effect on each ally at the start of your turn.",
+        "• Remove Crave, Heal Block, and Heal Reduction effects, including silver effects, from all allies at the start of battle and at the start of your turn.",
+        "• Grant immunity to Max HP Decrease effects to all allies at the start of battle and at the start of your turn.",
+        "• If a Mongol Archer is in your team, inflict Taunt for 2 turns on all enemies at the start of battle.."
       ]
     }
   ]

@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Become Ghosted upon death. Ghost prevents death while active, but causes you to permanently die upon expiring."
+        "• Become Ghosted upon death.",
+        "• Ghost prevents death while active, but causes you to permanently die upon expiring.."
       ]
     }
   ]

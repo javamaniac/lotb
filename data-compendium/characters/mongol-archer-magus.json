@@ -35,7 +35,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove all beneficial effects, including Golden Effects and Inflict Bloodlust and Accuracy Down on a random enemy at the start of battle. 50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Attack and Defense down on the attacking enemy. If Genghis Khan is in your team, Grant Accuracy Up to allies at the start of battle and at the start of your turn for 1 turn."
+        "• Remove all beneficial effects, including Golden Effects and Inflict Bloodlust and Accuracy Down on a random enemy at the start of battle.",
+        "• 50% Chance to take no damage, remove all Immunity and Vanish effects including Golden effects, inflict Attack and Defense down on the attacking enemy.",
+        "• If Genghis Khan is in your team, Grant Accuracy Up to allies at the start of battle and at the start of your turn for 1 turn.."
       ]
     }
   ]

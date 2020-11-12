@@ -40,7 +40,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Prevent enemies from taking Extra Turns. Inflict Perfect Death on attacking enemies for 2 turns whenever you are attacked. At the beginning of battle and at the start of your turn, if any enemy has Fear, inflict 3 Grievous Burns on that enemy for 2 turns. Heal self back up to MAX HP and inflict Fear and Perfect Silence to all enemies until they die when you reach 1HP for the first time in battle."
+        "• Prevent enemies from taking Extra Turns.",
+        "• Inflict Perfect Death on attacking enemies for 2 turns whenever you are attacked.",
+        "• At the beginning of battle and at the start of your turn, if any enemy has Fear, inflict 3 Grievous Burns on that enemy for 2 turns.",
+        "• Heal self back up to MAX HP and inflict Fear and Perfect Silence to all enemies until they die when you reach 1HP for the first time in battle.."
       ]
     }
   ]

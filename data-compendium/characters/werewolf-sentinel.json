@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant immunity to Permadeath and Perfect Death to all allies. Grant Increased Power and Fury generation for 2 turns to all allies at the start of battle. 25% Chance to counterattack enemies who attacked you or any ally."
+        "• Grant immunity to Permadeath and Perfect Death to all allies.",
+        "• Grant Increased Power and Fury generation for 2 turns to all allies at the start of battle.",
+        "• 25% Chance to counterattack enemies who attacked you or any ally.."
       ]
     }
   ]

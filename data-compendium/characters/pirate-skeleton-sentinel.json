@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Sleep Shield for 2 turns at the start of battle. 20% Chance to inflict Perfect Sleep on a random enemy for 2 turns after every action."
+        "• Gain Sleep Shield for 2 turns at the start of battle.",
+        "• 20% Chance to inflict Perfect Sleep on a random enemy for 2 turns after every action.."
       ]
     }
   ]

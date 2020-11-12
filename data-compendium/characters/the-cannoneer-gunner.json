@@ -36,7 +36,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Sacrifice for the duration of the battle. Grants Perfect Immortality if Critical Strike status is present at the start of your turn. Sacrifice status full heals the team if the character dies with this effect active."
+        "• Gain Sacrifice for the duration of the battle.",
+        "• Grants Perfect Immortality if Critical Strike status is present at the start of your turn.",
+        "• Sacrifice status full heals the team if the character dies with this effect active.."
       ]
     }
   ]

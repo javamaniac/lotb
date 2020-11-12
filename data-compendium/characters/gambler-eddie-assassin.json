@@ -82,7 +82,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "60% Chance to Transform Immunity into a random Negative Effect that lasts for 2 turns after the first turn of battle. Transform existing Negative Effects on enemies into their Silver versions for 2 turns. Gain Perfect Heal Shield for self and grant HP Regen and Ascension to all allies for 2 turns when you reach 1 HP."
+        "• 60% Chance to Transform Immunity into a random Negative Effect that lasts for 2 turns after the first turn of battle.",
+        "• Transform existing Negative Effects on enemies into their Silver versions for 2 turns.",
+        "• Gain Perfect Heal Shield for self and grant HP Regen and Ascension to all allies for 2 turns when you reach 1 HP.."
       ]
     }
   ]

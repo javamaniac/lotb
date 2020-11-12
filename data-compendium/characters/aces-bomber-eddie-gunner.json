@@ -80,7 +80,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Perfect Immunity for the duration of battle. Reduce Damage Taken by 60%, but deal random damage to each ally equal to 5% of their MAX HP when hit. 35% Chance to gain an Extra Turn after each action. Remove Immunity and Perfect Immunity and inflict 3 Marks for 2 turns on any target with the Labyrinth or Viper Talisman set equipped every turn."
+        "• Gain Perfect Immunity for the duration of battle.",
+        "• Reduce Damage Taken by 60%, but deal random damage to each ally equal to 5% of their MAX HP when hit.",
+        "• 35% Chance to gain an Extra Turn after each action.",
+        "• Remove Immunity and Perfect Immunity and inflict 3 Marks for 2 turns on any target with the Labyrinth or Viper Talisman set equipped every turn.."
       ]
     }
   ]

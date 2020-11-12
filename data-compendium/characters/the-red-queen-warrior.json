@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to counterattack when anyone on your team takes damage. If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn. Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies."
+        "• 50% Chance to counterattack when anyone on your team takes damage.",
+        "• If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn.",
+        "• Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies.."
       ]
     }
   ]

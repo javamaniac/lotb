@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict Perfect Death on all enemies for the duration of battle. Grant Invincibility and Critical Strike Chance to all allies for 3 turns if any ally’s HP is below 50% HP at the start of your turn."
+        "• Inflict Perfect Death on all enemies for the duration of battle.",
+        "• Grant Invincibility and Critical Strike Chance to all allies for 3 turns if any ally’s HP is below 50% HP at the start of your turn.."
       ]
     }
   ]

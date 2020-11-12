@@ -84,7 +84,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to all Burn effects, including Silver effects, to all allies. Transform Each Beneficial Effect, including Golden effects, on a random enemy into a Toxic Burn at the start of your turn. Revive a random ally with full HP if any enemy has at least 3 or more Burn effects at the start of your turn. 50% Chance to deal random damage to all enemies when you or an ally is healed. Damage dealt increases based on the amount of healing received."
+        "• Grant Immunity to all Burn effects, including Silver effects, to all allies.",
+        "• Transform Each Beneficial Effect, including Golden effects, on a random enemy into a Toxic Burn at the start of your turn.",
+        "• Revive a random ally with full HP if any enemy has at least 3 or more Burn effects at the start of your turn.",
+        "• 50% Chance to deal random damage to all enemies when you or an ally is healed.",
+        "• Damage dealt increases based on the amount of healing received.."
       ]
     }
   ]

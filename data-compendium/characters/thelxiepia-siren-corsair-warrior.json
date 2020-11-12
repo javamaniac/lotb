@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Accuracy Up, Armor Penetration, Echo, or Shroud for 1 turn at the start of battle and at the start of your turn. 35% Chance to inflict Doom on attacking enemies for 4 turns if they are suffering from Taunt when you take damage."
+        "• Gain Accuracy Up, Armor Penetration, Echo, or Shroud for 1 turn at the start of battle and at the start of your turn.",
+        "• 35% Chance to inflict Doom on attacking enemies for 4 turns if they are suffering from Taunt when you take damage.."
       ]
     }
   ]

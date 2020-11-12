@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict a Physical, Magic, and True Burn on each enemy for 2 turns at the start of battle. Inflict a random burn on each enemy for 2 turns at the start of your turn after the first round of battle. Grant Magic Charge to all allies for 1 turn if Magic Penetration is active on any ally at the start of your turn."
+        "• Inflict a Physical, Magic, and True Burn on each enemy for 2 turns at the start of battle.",
+        "• Inflict a random burn on each enemy for 2 turns at the start of your turn after the first round of battle.",
+        "• Grant Magic Charge to all allies for 1 turn if Magic Penetration is active on any ally at the start of your turn.."
       ]
     }
   ]

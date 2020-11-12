@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Blind, Seal, and Taunt effects for all allies. Grants a Disruption Shield to all allies for 1 turn at the start of battle."
+        "• Grants Immunity to Blind, Seal, and Taunt effects for all allies.",
+        "• Grants a Disruption Shield to all allies for 1 turn at the start of battle.."
       ]
     }
   ]

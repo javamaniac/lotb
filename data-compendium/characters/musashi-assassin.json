@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Silver Effects. Gain Ascension for 1 turn if Perfect Hit status is active at the start of your turn. No restrictions on Equippable Talismans."
+        "• Immune to all Silver Effects.",
+        "• Gain Ascension for 1 turn if Perfect Hit status is active at the start of your turn.",
+        "• No restrictions on Equippable Talismans.."
       ]
     }
   ]

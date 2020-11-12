@@ -38,7 +38,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze)."
+        "• Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).."
       ]
     }
   ]

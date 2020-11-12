@@ -39,7 +39,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Doom, Curse, and Permadeath to all allies. 50% Chance to remove Immunity from each enemy at the start of battle. Inflict ATK Down and MAGIC down on all enemies for 2 turns at the start of battle. Revive all allies upon death."
+        "• Grants Immunity to Doom, Curse, and Permadeath to all allies.",
+        "• 50% Chance to remove Immunity from each enemy at the start of battle.",
+        "• Inflict ATK Down and MAGIC down on all enemies for 2 turns at the start of battle.",
+        "• Revive all allies upon death.."
       ]
     }
   ]

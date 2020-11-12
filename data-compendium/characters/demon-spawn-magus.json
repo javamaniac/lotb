@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Drains the enemy’s Fury every turn. This passive does not affect a Maxed Fury meter."
+        "• Drains the enemy’s Fury every turn.",
+        "• This passive does not affect a Maxed Fury meter.."
       ]
     }
   ]

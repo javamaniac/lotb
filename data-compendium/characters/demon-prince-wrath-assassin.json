@@ -39,7 +39,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduce damage taken by 60%. Increase the ATK and MAGIC of allies by 250% and increase the Critical Hit Chance of all allies by 25%. Grant Immunity to Bleed and Perfect Bleed effects to all allies. Inflict Cleave or Crave on each enemy for 2 turns when you take damage. Take no damage when your HP falls below 30% HP for 3 turns."
+        "• Reduce damage taken by 60%.",
+        "• Increase the ATK and MAGIC of allies by 250% and increase the Critical Hit Chance of all allies by 25%.",
+        "• Grant Immunity to Bleed and Perfect Bleed effects to all allies.",
+        "• Inflict Cleave or Crave on each enemy for 2 turns when you take damage.",
+        "• Take no damage when your HP falls below 30% HP for 3 turns.."
       ]
     }
   ]

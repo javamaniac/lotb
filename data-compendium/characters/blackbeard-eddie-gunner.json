@@ -77,7 +77,12 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Stop, Fear and Heal Block Effects, including Silver and Innate effects, to all allies until they die whenever this passive becomes active. Permanently Reduce DEF and MR on all enemies by -25% at the start of battle and at the start of your turn. 50% Chance to take no damage and inflict a Time Bomb or Perfect Time Bomb on attacking enemies for 2 turns when you are attacked. 35% Chance to Extend Negative Effect Duration on all enemies by 1 when you take damage. Deal up to 12 hits of Additional Random Damage to random enemies based on your SPECIAL and their MISSING HP after every action. Grant Perfect Cleanse and a Random Golden Effect to each ally for 2 turns whenever an enemy is killed."
+        "• Grant Immunity to Stop, Fear and Heal Block Effects, including Silver and Innate effects, to all allies until they die whenever this passive becomes active.",
+        "• Permanently Reduce DEF and MR on all enemies by -25% at the start of battle and at the start of your turn.",
+        "• 50% Chance to take no damage and inflict a Time Bomb or Perfect Time Bomb on attacking enemies for 2 turns when you are attacked.",
+        "• 35% Chance to Extend Negative Effect Duration on all enemies by 1 when you take damage.",
+        "• Deal up to 12 hits of Additional Random Damage to random enemies based on your SPECIAL and their MISSING HP after every action.",
+        "• Grant Perfect Cleanse and a Random Golden Effect to each ally for 2 turns whenever an enemy is killed.."
       ]
     }
   ]

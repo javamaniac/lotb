@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP."
+        "• Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.."
       ]
     }
   ]

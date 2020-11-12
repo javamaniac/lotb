@@ -36,7 +36,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Curse enemies for 2 turns at the start of battle. Gain Invincibility if Regen is active at the start of your turn. Cursed enemies take increased damage from all sources."
+        "• Curse enemies for 2 turns at the start of battle.",
+        "• Gain Invincibility if Regen is active at the start of your turn.",
+        "• Cursed enemies take increased damage from all sources.."
       ]
     }
   ]

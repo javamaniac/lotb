@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict 2 Marks on each enemy for 2 turns after every action. Attacks always land with a Perfect Hit. Gain immunity to Sleep, Stun, and Blind effects."
+        "• Inflict 2 Marks on each enemy for 2 turns after every action.",
+        "• Attacks always land with a Perfect Hit.",
+        "• Gain immunity to Sleep, Stun, and Blind effects.."
       ]
     }
   ]

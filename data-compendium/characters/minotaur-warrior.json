@@ -37,7 +37,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove and Prevent all Counterstrike and Revenge effects, including Golden and Innate effects, on each enemy until they die whenever this passive becomes active and at the start of your turn. Permanently Increase ATK, MAGIC and MAX HP on self by +5% for each Negative Effect on self at the start of battle and at the start of your turn. Remove All Golden Effects from all enemies if any enemy is suffering from Cleave after every action. 50% Chance to gain an Extra Turn after every action."
+        "• Remove and Prevent all Counterstrike and Revenge effects, including Golden and Innate effects, on each enemy until they die whenever this passive becomes active and at the start of your turn.",
+        "• Permanently Increase ATK, MAGIC and MAX HP on self by +5% for each Negative Effect on self at the start of battle and at the start of your turn.",
+        "• Remove All Golden Effects from all enemies if any enemy is suffering from Cleave after every action.",
+        "• 50% Chance to gain an Extra Turn after every action.."
       ]
     }
   ]

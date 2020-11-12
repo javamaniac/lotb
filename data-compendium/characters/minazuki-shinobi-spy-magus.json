@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Heal Shield if Increased Max HP or Perfect Health is active at the start of your turn. 35% Chance to instantly gain 1 Power after each action. 15% Chance to gain an Extra Turn after each action."
+        "• Grant Perfect Heal Shield if Increased Max HP or Perfect Health is active at the start of your turn.",
+        "• 35% Chance to instantly gain 1 Power after each action.",
+        "• 15% Chance to gain an Extra Turn after each action.."
       ]
     }
   ]

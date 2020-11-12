@@ -79,7 +79,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Burn, Doom, Dark Ghost, and Mark Effects to all allies. 35% Chance to inflict a random burn effect on all enemies when you take damage. Heal all allies at the start of your turn based on the number of burn effects on each enemy. Gain Perfect Immunity for the duration of battle."
+        "• Grants Immunity to Burn, Doom, Dark Ghost, and Mark Effects to all allies.",
+        "• 35% Chance to inflict a random burn effect on all enemies when you take damage.",
+        "• Heal all allies at the start of your turn based on the number of burn effects on each enemy.",
+        "• Gain Perfect Immunity for the duration of battle.."
       ]
     }
   ]

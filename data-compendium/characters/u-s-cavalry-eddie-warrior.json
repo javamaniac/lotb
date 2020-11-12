@@ -75,7 +75,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Immunity and Echo to all allies for the duration of battle. Reduce the damage all allies take by 35%. Cleanse and Heal allies if Perfect Hit is active when you take an action."
+        "• Grant Perfect Immunity and Echo to all allies for the duration of battle.",
+        "• Reduce the damage all allies take by 35%.",
+        "• Cleanse and Heal allies if Perfect Hit is active when you take an action.."
       ]
     }
   ]

@@ -37,7 +37,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Any enemy that takes damage will damage a random ally equal to 100% of the damage received and 50% of the original target’s Max HP. Convert all damage you take into True Damage. Revive any ally that dies while you are alive once each round. Remove All Beneficial effects, including Golden Effects and inflict Dark Ghost for 2 turns and Furious Burn for 3 turns on all enemies when you die."
+        "• Any enemy that takes damage will damage a random ally equal to 100% of the damage received and 50% of the original target’s Max HP.",
+        "• Convert all damage you take into True Damage.",
+        "• Revive any ally that dies while you are alive once each round.",
+        "• Remove All Beneficial effects, including Golden Effects and inflict Dark Ghost for 2 turns and Furious Burn for 3 turns on all enemies when you die.."
       ]
     }
   ]

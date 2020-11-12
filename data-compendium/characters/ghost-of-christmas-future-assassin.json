@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Permadeath to all allies. Gain Ghost and Perfect Immunity for 3 turns upon death. Trigger Doom effects currently on all enemies upon death."
+        "• Grant Immunity to Permadeath to all allies.",
+        "• Gain Ghost and Perfect Immunity for 3 turns upon death.",
+        "• Trigger Doom effects currently on all enemies upon death.."
       ]
     }
   ]

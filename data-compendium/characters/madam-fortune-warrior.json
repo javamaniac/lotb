@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict Passive Disable or Perfect Disable on each enemy at the start of battle for the duration of battle. Grant Immunity to Crave and Perfect Crave to all allies. Heal all allies for 50% of MAX HP if Vanish is present at the start of your turn."
+        "• Inflict Passive Disable or Perfect Disable on each enemy at the start of battle for the duration of battle.",
+        "• Grant Immunity to Crave and Perfect Crave to all allies.",
+        "• Heal all allies for 50% of MAX HP if Vanish is present at the start of your turn.."
       ]
     }
   ]

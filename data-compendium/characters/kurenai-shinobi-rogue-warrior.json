@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain a random offensive effect every time you take damage. Revive with 60% HP and Ascension for 1 turn upon death. Revive a random ally with full HP when you Revive."
+        "• Gain a random offensive effect every time you take damage.",
+        "• Revive with 60% HP and Ascension for 1 turn upon death.",
+        "• Revive a random ally with full HP when you Revive.."
       ]
     }
   ]

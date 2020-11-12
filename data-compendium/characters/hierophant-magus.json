@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Increased Max HP and Perfect Health from all enemies at the start of battle. Prevent enemies from gaining any new beneficial effects after the first round of battle. Grant Regen to all allies for the duration of battle."
+        "• Remove Increased Max HP and Perfect Health from all enemies at the start of battle.",
+        "• Prevent enemies from gaining any new beneficial effects after the first round of battle.",
+        "• Grant Regen to all allies for the duration of battle.."
       ]
     }
   ]

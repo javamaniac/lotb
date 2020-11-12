@@ -37,7 +37,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Whenever an ally would die instead Heal them to Full HP, apply Ghost and Immunity for 3 turns, and Inflict Perfect Silence on a random target for the duration of battle."
+        "• Whenever an ally would die instead Heal them to Full HP, apply Ghost and Immunity for 3 turns, and Inflict Perfect Silence on a random target for the duration of battle.."
       ]
     }
   ]

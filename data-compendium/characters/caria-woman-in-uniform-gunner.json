@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Full Power and Fury to team after the first action in battle. Grant Golden Trap to all allies for the duration of battle at the start of battle."
+        "• Grant Full Power and Fury to team after the first action in battle.",
+        "• Grant Golden Trap to all allies for the duration of battle at the start of battle.."
       ]
     }
   ]

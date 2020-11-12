@@ -34,7 +34,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy."
+        "• Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.."
       ]
     }
   ]

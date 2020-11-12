@@ -41,7 +41,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies. Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn."
+        "• Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies.",
+        "• Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn.."
       ]
     }
   ]

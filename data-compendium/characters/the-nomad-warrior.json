@@ -36,7 +36,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Immunity and Golden Shield Effects on a random target at the start of your turn. Gain Perfect Immunity and Inflict Passive Disable on a random enemy for 1 turn after each action. Grant Ascension and Perfect Immortality to each ally for 2 turns if Vanish is present at the start of your turn."
+        "• Remove Immunity and Golden Shield Effects on a random target at the start of your turn.",
+        "• Gain Perfect Immunity and Inflict Passive Disable on a random enemy for 1 turn after each action.",
+        "• Grant Ascension and Perfect Immortality to each ally for 2 turns if Vanish is present at the start of your turn.."
       ]
     }
   ]

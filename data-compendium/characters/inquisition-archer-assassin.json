@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Crave and Heal Block to all allies. Grant Perfect Accuracy Up to all allies for 2 turns at the start of battle. Gain Sacrifice or Vanish for 1 turn and inflict 3 Marks on a random enemy for 1 turn after every action while below 50% HP."
+        "• Grant Immunity to Crave and Heal Block to all allies.",
+        "• Grant Perfect Accuracy Up to all allies for 2 turns at the start of battle.",
+        "• Gain Sacrifice or Vanish for 1 turn and inflict 3 Marks on a random enemy for 1 turn after every action while below 50% HP.."
       ]
     }
   ]

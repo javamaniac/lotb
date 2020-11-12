@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Vanish to self and a random ally for 1 turn every action. Revive a random ally when any ally dies."
+        "• Grant Vanish to self and a random ally for 1 turn every action.",
+        "• Revive a random ally when any ally dies.."
       ]
     }
   ]

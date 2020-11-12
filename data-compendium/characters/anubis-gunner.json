@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Permadeath, Perfect Death, and Doom to all allies. 35% Chance to grant Immunity or Cleanse status to each ally every turn for 1 turn."
+        "• Grants Immunity to Permadeath, Perfect Death, and Doom to all allies.",
+        "• 35% Chance to grant Immunity or Cleanse status to each ally every turn for 1 turn.."
       ]
     }
   ]

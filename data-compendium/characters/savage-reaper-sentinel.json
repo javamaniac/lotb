@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain 2 random Golden Effects at the start of battle. Gain Damage Charge for 2 turns if Trap is present at the start of your turn."
+        "• Gain 2 random Golden Effects at the start of battle.",
+        "• Gain Damage Charge for 2 turns if Trap is present at the start of your turn.."
       ]
     }
   ]

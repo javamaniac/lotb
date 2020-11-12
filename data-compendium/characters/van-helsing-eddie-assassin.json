@@ -86,7 +86,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Prevent all allies from taking damage for the first two round of battle. Remove Immunity and Perfect Immunity and inflict Exhaust on up to 2 random enemies at the start of your turn after the first round of battle. Heal 25% of your MAX HP and revive a random ally after each action."
+        "• Prevent all allies from taking damage for the first two round of battle.",
+        "• Remove Immunity and Perfect Immunity and inflict Exhaust on up to 2 random enemies at the start of your turn after the first round of battle.",
+        "• Heal 25% of your MAX HP and revive a random ally after each action.."
       ]
     }
   ]

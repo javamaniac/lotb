@@ -37,7 +37,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "75% Chance to Permanently Reduce Max HP or SPECIAL on attacking enemies by 10% whenever you take damage. Permanently Reduce DEF or MR on each enemy by 50% if they have negative effects after every action. Permanently Reduce ATK or MAG on each enemy by 50% if they lack negative effects after every action. Transform All Beneficial Effects, including Golden effects, on each enemy into 3 Grievous Burns and 3 Scalding Burns for 2 turns if they are suffering from Stat Reduction effects, including Silver and Innate effects, at the start of battle and at the start of your turn."
+        "• 75% Chance to Permanently Reduce Max HP or SPECIAL on attacking enemies by 10% whenever you take damage.",
+        "• Permanently Reduce DEF or MR on each enemy by 50% if they have negative effects after every action.",
+        "• Permanently Reduce ATK or MAG on each enemy by 50% if they lack negative effects after every action.",
+        "• Transform All Beneficial Effects, including Golden effects, on each enemy into 3 Grievous Burns and 3 Scalding Burns for 2 turns if they are suffering from Stat Reduction effects, including Silver and Innate effects, at the start of battle and at the start of your turn.."
       ]
     }
   ]

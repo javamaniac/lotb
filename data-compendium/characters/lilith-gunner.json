@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Increase the duration of beneficial effects by 1 turn at the start of battle. Grant Immunity to all allies if Regen HP is present at the start of your turn."
+        "• Increase the duration of beneficial effects by 1 turn at the start of battle.",
+        "• Grant Immunity to all allies if Regen HP is present at the start of your turn.."
       ]
     }
   ]

@@ -81,7 +81,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all negative effects, including Max HP reduction. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Immune to all negative effects, including Max HP reduction.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

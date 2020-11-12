@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Perfect Immunity and all beneficial effects and inflict 3 Magic Burns on all enemies for 2 turns upon death. Revive with Perfect Immunity and Invincibility on self for 2 turns."
+        "• Remove Perfect Immunity and all beneficial effects and inflict 3 Magic Burns on all enemies for 2 turns upon death.",
+        "• Revive with Perfect Immunity and Invincibility on self for 2 turns.."
       ]
     }
   ]

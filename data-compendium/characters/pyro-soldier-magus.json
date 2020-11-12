@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Burn effects, Stop, and Perfect Death to all allies. Deal true damage to each enemy for every burn effect present on each enemy at the start of your turn."
+        "• Grant Immunity to Burn effects, Stop, and Perfect Death to all allies.",
+        "• Deal true damage to each enemy for every burn effect present on each enemy at the start of your turn.."
       ]
     }
   ]

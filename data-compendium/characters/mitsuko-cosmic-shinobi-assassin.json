@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Class Advantage against all enemies. 40% Chance to grant Vanish to self and a random ally for 1 turn when you take damage. Inflict a random negative effect on up to 2 random enemies every turn for 2 turns."
+        "• Gain Class Advantage against all enemies.",
+        "• 40% Chance to grant Vanish to self and a random ally for 1 turn when you take damage.",
+        "• Inflict a random negative effect on up to 2 random enemies every turn for 2 turns.."
       ]
     }
   ]

@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Increase the healing of all allies by +100%. Grants Charge and Golden Hit to allies suffering from Blind or Taunt effects for 2 turns at the start of your turn."
+        "• Increase the healing of all allies by +100%.",
+        "• Grants Charge and Golden Hit to allies suffering from Blind or Taunt effects for 2 turns at the start of your turn.."
       ]
     }
   ]

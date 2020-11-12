@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Convert all damage into random damage equal to 10% of your MAX HP. Gain 1 Power and 15% Fury when you take damage."
+        "• Convert all damage into random damage equal to 10% of your MAX HP.",
+        "• Gain 1 Power and 15% Fury when you take damage.."
       ]
     }
   ]

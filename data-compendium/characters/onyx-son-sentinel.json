@@ -40,7 +40,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Magic Penetration and Increased Accuracy at the start of battle to all allies for 2 turns. Grant a random shield to all allies for 2 turns at the start of battle."
+        "• Grant Magic Penetration and Increased Accuracy at the start of battle to all allies for 2 turns.",
+        "• Grant a random shield to all allies for 2 turns at the start of battle.."
       ]
     }
   ]

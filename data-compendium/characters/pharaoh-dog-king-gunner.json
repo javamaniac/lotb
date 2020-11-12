@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Skill Disabling effects to all allies. Blocks damage for allies below 50% HP and takes random damage equal to 8% of your MAX HP for each hit blocked."
+        "• Grant Immunity to Skill Disabling effects to all allies.",
+        "• Blocks damage for allies below 50% HP and takes random damage equal to 8% of your MAX HP for each hit blocked.."
       ]
     }
   ]

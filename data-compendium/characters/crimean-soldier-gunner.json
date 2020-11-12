@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Sleep, Perfect Sleep, and Magic Burn to all allies. Grant Vanish to all allies for 2 turns if Vanish is present at the start of your turn."
+        "• Grant Immunity to Sleep, Perfect Sleep, and Magic Burn to all allies.",
+        "• Grant Vanish to all allies for 2 turns if Vanish is present at the start of your turn.."
       ]
     }
   ]

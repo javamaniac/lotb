@@ -83,7 +83,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Two random enemies will gain a Red and Blue rotating flame around them at the start of your turn. Inflict Freeze for 2 turns, Passive Disable for the duration of battle, and deal additional magic damage equal to 50% of the target’s MAX HP each action you take if they have the flame effects on them. Extend the duration of Ghost effects on allies to infinite duration and remove Dark Ghost and Doom from all allies at the start of your turn. Revive self and all allies upon death with full HP."
+        "• Two random enemies will gain a Red and Blue rotating flame around them at the start of your turn.",
+        "• Inflict Freeze for 2 turns, Passive Disable for the duration of battle, and deal additional magic damage equal to 50% of the target’s MAX HP each action you take if they have the flame effects on them.",
+        "• Extend the duration of Ghost effects on allies to infinite duration and remove Dark Ghost and Doom from all allies at the start of your turn.",
+        "• Revive self and all allies upon death with full HP.."
       ]
     }
   ]

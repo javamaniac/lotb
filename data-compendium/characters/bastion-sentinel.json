@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun and Reduce Max HP effects. Gain Perfect Hit and 100% Critical Strike status for 1 turn if Regen is active at the start of your turn."
+        "• Immune to Stun and Reduce Max HP effects.",
+        "• Gain Perfect Hit and 100% Critical Strike status for 1 turn if Regen is active at the start of your turn.."
       ]
     }
   ]

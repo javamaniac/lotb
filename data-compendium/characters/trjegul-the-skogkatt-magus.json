@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Apply a random Damage Invulnerability Shield to self and a random ally for the duration of battle. Transform Perfect Heal Shield and Immortality effects on enemies into Fear or Punishment for 3 turns at the start of every turn. If an ally has the Freya’s Companion or Seidr’s Bounty passive apply Shroud to them for 3 turns and inflict 2 Perfect Bleeds on a random enemy for 4 turns at the start of every turn."
+        "• Apply a random Damage Invulnerability Shield to self and a random ally for the duration of battle.",
+        "• Transform Perfect Heal Shield and Immortality effects on enemies into Fear or Punishment for 3 turns at the start of every turn.",
+        "• If an ally has the Freya’s Companion or Seidr’s Bounty passive apply Shroud to them for 3 turns and inflict 2 Perfect Bleeds on a random enemy for 4 turns at the start of every turn.."
       ]
     }
   ]

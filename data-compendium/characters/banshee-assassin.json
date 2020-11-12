@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant your allies a 35% chance to avoid damage when they are attacked. Failing to avoid a hit deals a percentage of their MAX HP as random damage."
+        "• Grant your allies a 35% chance to avoid damage when they are attacked.",
+        "• Failing to avoid a hit deals a percentage of their MAX HP as random damage.."
       ]
     }
   ]

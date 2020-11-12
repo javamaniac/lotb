@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Revenge for the duration of the battle. Inflict a random negative effect on the enemy when you take damage."
+        "• Gain Revenge for the duration of the battle.",
+        "• Inflict a random negative effect on the enemy when you take damage.."
       ]
     }
   ]

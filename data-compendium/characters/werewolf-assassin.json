@@ -38,7 +38,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Shroud, Perfect Immortality, and Soul Protect from enemies at the start of your turn and inflict Punishment on each enemy for 2 turns if an effect is removed. Permanently increase the ATK and MAGIC of each ally by 25% after each action. Heal self whenever damage is taken based off of Missing HP. 35% chance to Revenge enemies that attack an ally."
+        "• Remove Shroud, Perfect Immortality, and Soul Protect from enemies at the start of your turn and inflict Punishment on each enemy for 2 turns if an effect is removed.",
+        "• Permanently increase the ATK and MAGIC of each ally by 25% after each action.",
+        "• Heal self whenever damage is taken based off of Missing HP.",
+        "• 35% chance to Revenge enemies that attack an ally.."
       ]
     }
   ]

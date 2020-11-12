@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Prevent all enemies from healing until they die whenever this passive becomes active and at the start of your turn. Gain Perfect Immunity and Sleep Shield for the duration of battle at the start of battle and after every action. 35% Chance to grant each ally an Extra Turn after every action."
+        "• Prevent all enemies from healing until they die whenever this passive becomes active and at the start of your turn.",
+        "• Gain Perfect Immunity and Sleep Shield for the duration of battle at the start of battle and after every action.",
+        "• 35% Chance to grant each ally an Extra Turn after every action.."
       ]
     }
   ]

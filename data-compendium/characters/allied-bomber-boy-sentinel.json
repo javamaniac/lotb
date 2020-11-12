@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Raise DEF and MR of all allies for 2 turns at the start of battle. Grant Immunity to Doom, Crave, and Perfect Crave to all allies."
+        "• Raise DEF and MR of all allies for 2 turns at the start of battle.",
+        "• Grant Immunity to Doom, Crave, and Perfect Crave to all allies.."
       ]
     }
   ]

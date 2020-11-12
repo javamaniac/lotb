@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict Stop on a random enemy for 2 turns every turn. Stop prevents the target from gaining Extra Turns. Generate 1 point of Power whenever you take damage."
+        "• Inflict Stop on a random enemy for 2 turns every turn.",
+        "• Stop prevents the target from gaining Extra Turns.",
+        "• Generate 1 point of Power whenever you take damage.."
       ]
     }
   ]

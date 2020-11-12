@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Endure to all allies at the start of battle for 3 turns. Grant Counterstrike to all allies for 2 turns and fully heal allies if any ally’s HP falls to zero."
+        "• Grant Endure to all allies at the start of battle for 3 turns.",
+        "• Grant Counterstrike to all allies for 2 turns and fully heal allies if any ally’s HP falls to zero.."
       ]
     }
   ]

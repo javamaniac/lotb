@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Heal Shield to all allies for 1 turn at the start of battle. Remove Immunity from all enemies and inflict Sleep for 2 turns if Magic Penetration is active at the start of your turn."
+        "• Grant Perfect Heal Shield to all allies for 1 turn at the start of battle.",
+        "• Remove Immunity from all enemies and inflict Sleep for 2 turns if Magic Penetration is active at the start of your turn.."
       ]
     }
   ]

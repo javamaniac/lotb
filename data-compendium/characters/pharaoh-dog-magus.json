@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Heals every ally whose HP is below 50% at the start of your turn."
+        "• Heals every ally whose HP is below 50% at the start of your turn.."
       ]
     }
   ]

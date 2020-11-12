@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Generate Fury when you take damage. 20% Chance to gain an Extra Turn after each action."
+        "• Generate Fury when you take damage.",
+        "• 20% Chance to gain an Extra Turn after each action.."
       ]
     }
   ]

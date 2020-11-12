@@ -39,7 +39,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Immunity to all allies for 3 turns and Increased Accuracy for the duration of battle at the start of battle. Heal all allies based on your Current HP every turn. Heal any ally below 50% HP an additional 25% of their Max HP and grant them True and Magic Damage Block for 1 turn if you have Perfect Immunity active on you after each action. Block Stat Enhancing effects on the enemy, including Damage Charge and Critical Strike effects, but excluding Increased MAX HP effects."
+        "• Grant Perfect Immunity to all allies for 3 turns and Increased Accuracy for the duration of battle at the start of battle.",
+        "• Heal all allies based on your Current HP every turn.",
+        "• Heal any ally below 50% HP an additional 25% of their Max HP and grant them True and Magic Damage Block for 1 turn if you have Perfect Immunity active on you after each action.",
+        "• Block Stat Enhancing effects on the enemy, including Damage Charge and Critical Strike effects, but excluding Increased MAX HP effects.."
       ]
     }
   ]

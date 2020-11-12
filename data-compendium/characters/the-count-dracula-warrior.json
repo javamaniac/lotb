@@ -42,7 +42,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Negative Effects, including Silver Effects from all allies if Bleed or Perfect Bleed is present on any enemy at the start of your turn. Permanently Increase the MAX HP of all allies by 15% when you are healed. Take 15% of your MAX HP as true damage for each burn present on self at the start of your turn. Revive up to 2 random dead allies if your are at full health at the start of your turn and after each action."
+        "• Remove Negative Effects, including Silver Effects from all allies if Bleed or Perfect Bleed is present on any enemy at the start of your turn.",
+        "• Permanently Increase the MAX HP of all allies by 15% when you are healed.",
+        "• Take 15% of your MAX HP as true damage for each burn present on self at the start of your turn.",
+        "• Revive up to 2 random dead allies if your are at full health at the start of your turn and after each action.."
       ]
     }
   ]

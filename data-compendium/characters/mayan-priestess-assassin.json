@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gains Vanish at the start of battle for 1 turn. Grant immunity to Sleep and Perfect Sleep to all allies. Grant Charge to all allies if you or any ally is below 50% Max HP at the start of your turn."
+        "• Gains Vanish at the start of battle for 1 turn.",
+        "• Grant immunity to Sleep and Perfect Sleep to all allies.",
+        "• Grant Charge to all allies if you or any ally is below 50% Max HP at the start of your turn.."
       ]
     }
   ]

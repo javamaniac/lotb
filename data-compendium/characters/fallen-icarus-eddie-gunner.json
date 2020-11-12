@@ -84,7 +84,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Increase Negative Effect Duration on each enemy by 1 turn at the start of your turn. Deal Additional True damage for every negative effect on the enemy after each action. 50% Chance to avoid taking damage. Will take random damage equal to 10% of your MAX HP when you fail to avoid taking damage."
+        "• Increase Negative Effect Duration on each enemy by 1 turn at the start of your turn.",
+        "• Deal Additional True damage for every negative effect on the enemy after each action.",
+        "• 50% Chance to avoid taking damage.",
+        "• Will take random damage equal to 10% of your MAX HP when you fail to avoid taking damage.."
       ]
     }
   ]

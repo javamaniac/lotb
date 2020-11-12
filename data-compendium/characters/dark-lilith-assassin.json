@@ -35,7 +35,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Permadeath, Perfect Death, Block Beneficial, and Perfect Corruption to all allies. Deal 500% of a random enemy’s MAX HP as true damage and heal all allies to full HP when an ally dies. Remove all beneficial effects, including Golden Effects,inflict Punishment and Perfect Death for the duration of battle on all enemies, and Revive with full HP and a Perfect Titan Shield upon death."
+        "• Grant Immunity to Permadeath, Perfect Death, Block Beneficial, and Perfect Corruption to all allies.",
+        "• Deal 500% of a random enemy’s MAX HP as true damage and heal all allies to full HP when an ally dies.",
+        "• Remove all beneficial effects, including Golden Effects,inflict Punishment and Perfect Death for the duration of battle on all enemies, and Revive with full HP and a Perfect Titan Shield upon death.."
       ]
     }
   ]

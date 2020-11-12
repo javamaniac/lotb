@@ -75,7 +75,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain immunity to Passive Disable effects after the first round of battle. Remove All Negative Effects, including Silver Effects, and grant Perfect Hit, Charge, Lifesteal and Spell Vamp to each ally below 50% HP for 1 turn at the start of your turn."
+        "• Gain immunity to Passive Disable effects after the first round of battle.",
+        "• Remove All Negative Effects, including Silver Effects, and grant Perfect Hit, Charge, Lifesteal and Spell Vamp to each ally below 50% HP for 1 turn at the start of your turn.."
       ]
     }
   ]

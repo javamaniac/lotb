@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun. Gains Revenge for the duration of battle. Grant a Damage Reduction Shield to each ally below 50% HP at the start of your turn for the duration of the battle."
+        "• Immune to Stun.",
+        "• Gains Revenge for the duration of battle.",
+        "• Grant a Damage Reduction Shield to each ally below 50% HP at the start of your turn for the duration of the battle.."
       ]
     }
   ]

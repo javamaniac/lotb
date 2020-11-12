@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Class Advantage against all enemies. Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn."
+        "• Gain Class Advantage against all enemies.",
+        "• Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn.."
       ]
     }
   ]

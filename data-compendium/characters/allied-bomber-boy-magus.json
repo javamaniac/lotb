@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun, Blind, and Stop. Gain Invincibility for 2 turns at the start of battle."
+        "• Immune to Stun, Blind, and Stop.",
+        "• Gain Invincibility for 2 turns at the start of battle.."
       ]
     }
   ]

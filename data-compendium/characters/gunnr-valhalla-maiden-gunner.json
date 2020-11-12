@@ -38,7 +38,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Ascension to all allies at the start of battle for the duration of battle. Grant Immunity to Cleave, Crave, Perfect Crave, and Doom to all allies. Prevent enemies from gaining Physical, Magic, and True Damage Block, Perfect Heal Shield, and Vanish effects. Revive each ally once with full HP when they die."
+        "• Grant Ascension to all allies at the start of battle for the duration of battle.",
+        "• Grant Immunity to Cleave, Crave, Perfect Crave, and Doom to all allies.",
+        "• Prevent enemies from gaining Physical, Magic, and True Damage Block, Perfect Heal Shield, and Vanish effects.",
+        "• Revive each ally once with full HP when they die.."
       ]
     }
   ]

@@ -38,7 +38,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Physical Damage. Grant immunity to Doom, Permadeath, Perfect Death as well as all skills that prevent revive, with the exception of Ghost effects, to all allies. Prevent allies from dying once each round and grants them Endure for 3 turns when they reach 1 HP. Grant Cleanse status for 2 turns and Heal all allies for 25% of their MAX HP every turn."
+        "• Immune to Physical Damage.",
+        "• Grant immunity to Doom, Permadeath, Perfect Death as well as all skills that prevent revive, with the exception of Ghost effects, to all allies.",
+        "• Prevent allies from dying once each round and grants them Endure for 3 turns when they reach 1 HP.",
+        "• Grant Cleanse status for 2 turns and Heal all allies for 25% of their MAX HP every turn.."
       ]
     }
   ]

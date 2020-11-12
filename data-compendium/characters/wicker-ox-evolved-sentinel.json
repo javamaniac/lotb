@@ -38,7 +38,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Silver Effects from self every turn. Heal allies for 5% Max HP for every 20% of your Missing HP every turn. Remove Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect, and apply Perfect Corruption to all enemies for 2 turns on death. Cleanse and grant Perfect Heal Shield to all allies for 2 turns on death."
+        "• Remove Silver Effects from self every turn.",
+        "• Heal allies for 5% Max HP for every 20% of your Missing HP every turn.",
+        "• Remove Golden Effects, minus Shroud, Perfect Immortality, and Soul Protect, and apply Perfect Corruption to all enemies for 2 turns on death.",
+        "• Cleanse and grant Perfect Heal Shield to all allies for 2 turns on death.."
       ]
     }
   ]

@@ -38,7 +38,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Burn effects to all allies. Remove All Negative Effects, including Silver effects, from self and Gain 2 Power and Ascension for 2 turns if any enemy is suffering from negative effects after every action. Remove a Random Beneficial Effect, including Golden Effects, and inflict a Random Negative Effect, including Silver Effects, on attacking enemies for 2 turns when anyone on your team takes damage. 35% Chance to Extend Beneficial Effect Duration on all allies and Negative Effect Duration on all enemies by 1 when you take damage."
+        "• Grant Immunity to Burn effects to all allies.",
+        "• Remove All Negative Effects, including Silver effects, from self and Gain 2 Power and Ascension for 2 turns if any enemy is suffering from negative effects after every action.",
+        "• Remove a Random Beneficial Effect, including Golden Effects, and inflict a Random Negative Effect, including Silver Effects, on attacking enemies for 2 turns when anyone on your team takes damage.",
+        "• 35% Chance to Extend Beneficial Effect Duration on all allies and Negative Effect Duration on all enemies by 1 when you take damage.."
       ]
     }
   ]

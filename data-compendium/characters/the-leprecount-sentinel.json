@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Perfect Vanish for 1 turn when you take damage. Transform all beneficial effects, including Golden Effects, into Sleep for 1 turn on enemies that attack any ally. Inflict Exhaust on each enemy suffering from Sleep or Perfect Sleep for 2 turns at the start of your turn."
+        "• Gain Perfect Vanish for 1 turn when you take damage.",
+        "• Transform all beneficial effects, including Golden Effects, into Sleep for 1 turn on enemies that attack any ally.",
+        "• Inflict Exhaust on each enemy suffering from Sleep or Perfect Sleep for 2 turns at the start of your turn.."
       ]
     }
   ]

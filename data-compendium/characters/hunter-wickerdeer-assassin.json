@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Shatters upon death, applying 4 Marks to all enemies. Marks can be consumed with Perfect Hits to deal true damage."
+        "• Shatters upon death, applying 4 Marks to all enemies.",
+        "• Marks can be consumed with Perfect Hits to deal true damage.."
       ]
     }
   ]

@@ -40,7 +40,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Revenge to all allies for 3 turns at the start of battle and start of your turn. At the beginning of your turn, if Revenge is already present on an ally, transform it into Perfect Revenge for 2 turns. Inflict 3 Toxic Burns on each enemy for 2 turns, and grant a Perfect Heal Shield and Damage Charge to all allies for 3 turns when you die."
+        "• Grant Revenge to all allies for 3 turns at the start of battle and start of your turn.",
+        "• At the beginning of your turn, if Revenge is already present on an ally, transform it into Perfect Revenge for 2 turns.",
+        "• Inflict 3 Toxic Burns on each enemy for 2 turns, and grant a Perfect Heal Shield and Damage Charge to all allies for 3 turns when you die.."
       ]
     }
   ]

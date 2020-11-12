@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Immortality to all allies for 2 turns at the start of battle. Grant Endure and Immunity to allies below 50% HP for 2 turns at the start of each turn."
+        "• Grant Perfect Immortality to all allies for 2 turns at the start of battle.",
+        "• Grant Endure and Immunity to allies below 50% HP for 2 turns at the start of each turn.."
       ]
     }
   ]

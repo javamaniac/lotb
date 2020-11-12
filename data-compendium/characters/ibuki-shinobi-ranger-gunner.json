@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gains 100% Critical Strike Chance for the duration of battle. Grants Immunity to all allies for 2 turns at the start of battle."
+        "• Gains 100% Critical Strike Chance for the duration of battle.",
+        "• Grants Immunity to all allies for 2 turns at the start of battle.."
       ]
     }
   ]

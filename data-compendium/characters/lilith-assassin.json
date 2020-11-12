@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "25% Chance to Revive an ally or 75% Chance to fully Heal a random ally every turn at the cost of 10% of your CURRENT HP."
+        "• 25% Chance to Revive an ally or 75% Chance to fully Heal a random ally every turn at the cost of 10% of your CURRENT HP.."
       ]
     }
   ]

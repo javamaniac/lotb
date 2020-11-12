@@ -37,7 +37,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Magic Damage. Grant Perfect Immunity to all allies for 1 turn at the start of battle and to self for the duration of battle. Grant Magic Penetration to all allies for 3 turns at the start of battle. Exhaust and drain 1 power from each enemy that is stunned at the start of your turn every turn."
+        "• Immune to Magic Damage.",
+        "• Grant Perfect Immunity to all allies for 1 turn at the start of battle and to self for the duration of battle.",
+        "• Grant Magic Penetration to all allies for 3 turns at the start of battle.",
+        "• Exhaust and drain 1 power from each enemy that is stunned at the start of your turn every turn.."
       ]
     }
   ]

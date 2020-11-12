@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gives Perfect Hit status to all allies at the start of battle for 2 turns. Perfect Hit causes all basic attacks to always land with a Perfect score."
+        "• Gives Perfect Hit status to all allies at the start of battle for 2 turns.",
+        "• Perfect Hit causes all basic attacks to always land with a Perfect score.."
       ]
     }
   ]

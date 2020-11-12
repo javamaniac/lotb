@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Lifesteal status to all allies at the start of battle. Lifesteal heals you for 60% of the physical damage you deal."
+        "• Grants Lifesteal status to all allies at the start of battle.",
+        "• Lifesteal heals you for 60% of the physical damage you deal.."
       ]
     }
   ]

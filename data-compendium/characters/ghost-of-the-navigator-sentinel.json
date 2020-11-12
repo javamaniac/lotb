@@ -37,7 +37,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Heal Block and Max HP Reduction effects, including Silver and Innate effects. Grant Immunity to Blind, Stop and all Skill Disabling effects, including Silver and Innate effects, to all allies until they die at the start of battle. Remove All Beneficial and Negative Effects from all allies and enemies whenever this passive becomes active and inflict Innate Passive Disable on all enemies until they die if this effect removes at least 4 Beneficial Effects from your opponent. Once per battle, Revive with full HP and inflict Fear and Punishment on all enemies for the duration of battle upon death. 50% Chance to deal Additional True Damage to each enemy based on their MAX HP for each Scalding Burn on them after every action."
+        "• Immune to all Heal Block and Max HP Reduction effects, including Silver and Innate effects.",
+        "• Grant Immunity to Blind, Stop and all Skill Disabling effects, including Silver and Innate effects, to all allies until they die at the start of battle.",
+        "• Remove All Beneficial and Negative Effects from all allies and enemies whenever this passive becomes active and inflict Innate Passive Disable on all enemies until they die if this effect removes at least 4 Beneficial Effects from your opponent.",
+        "• Once per battle, Revive with full HP and inflict Fear and Punishment on all enemies for the duration of battle upon death.",
+        "• 50% Chance to deal Additional True Damage to each enemy based on their MAX HP for each Scalding Burn on them after every action.."
       ]
     }
   ]

@@ -35,7 +35,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflicts enemies with Crave status for 3 turns at the start of battle. Crave reduces healing and causes enemies to take damage when they heal. Damage dealt increases with the heal amount."
+        "• Inflicts enemies with Crave status for 3 turns at the start of battle.",
+        "• Crave reduces healing and causes enemies to take damage when they heal.",
+        "• Damage dealt increases with the heal amount.."
       ]
     }
   ]

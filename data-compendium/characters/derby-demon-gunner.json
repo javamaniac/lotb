@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to True Damage. If Trap effect is not present at the start of your turn, Reduce the Fury of enemies, Remove Immunity, and Inflict Exhaust on a random enemy, then grant Trap to self for 2 turns."
+        "• Immune to True Damage.",
+        "• If Trap effect is not present at the start of your turn, Reduce the Fury of enemies, Remove Immunity, and Inflict Exhaust on a random enemy, then grant Trap to self for 2 turns.."
       ]
     }
   ]

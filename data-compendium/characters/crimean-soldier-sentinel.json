@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Perfect Hit for 2 turns at the start of battle. Inflict Silence on self and Perfect Silence on up to 2 random enemies for the first 2 turns of battle. Grant Immunity to Burn effects to all allies."
+        "• Gain Perfect Hit for 2 turns at the start of battle.",
+        "• Inflict Silence on self and Perfect Silence on up to 2 random enemies for the first 2 turns of battle.",
+        "• Grant Immunity to Burn effects to all allies.."
       ]
     }
   ]

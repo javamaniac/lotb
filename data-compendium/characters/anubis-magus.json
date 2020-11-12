@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Doom. Reduce all damage to self by 50%. 35% Chance to grant a random defensive effect to allies when they take damage."
+        "• Immune to Doom.",
+        "• Reduce all damage to self by 50%.",
+        "• 35% Chance to grant a random defensive effect to allies when they take damage.."
       ]
     }
   ]

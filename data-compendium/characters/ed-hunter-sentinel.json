@@ -78,7 +78,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "When an ally dies grant a Physical, Magic, and True Damage Invulnerability Shield to all allies for 2 turns. Grant Echo status to self and a random ally for 1 turn if Perfect Hit is present at the start of your turn."
+        "• When an ally dies grant a Physical, Magic, and True Damage Invulnerability Shield to all allies for 2 turns.",
+        "• Grant Echo status to self and a random ally for 1 turn if Perfect Hit is present at the start of your turn.."
       ]
     }
   ]

@@ -81,7 +81,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Apply Perfect Accuracy to self and allies for the Duration of battle. 35% Chance to Remove Invincibility from all enemies at the beginning of your turn. Inflict a random negative effect on a random enemy for 2 turns and reduce their Max HP by 10% at the start of your turn."
+        "• Apply Perfect Accuracy to self and allies for the Duration of battle.",
+        "• 35% Chance to Remove Invincibility from all enemies at the beginning of your turn.",
+        "• Inflict a random negative effect on a random enemy for 2 turns and reduce their Max HP by 10% at the start of your turn.."
       ]
     }
   ]

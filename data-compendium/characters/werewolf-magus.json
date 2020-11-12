@@ -40,7 +40,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Deal 5 hits of true damage based off your Missing HP and Inflict Curse for 2 turns on random enemies when you take damage. This damage has a 50% Chance to Critically Strike and will not wake targets inflicted with Sleep. Increase all stats on self by 10% and Transform all Beneficial Effects on self into their Golden version at the start of your turn."
+        "• Deal 5 hits of true damage based off your Missing HP and Inflict Curse for 2 turns on random enemies when you take damage.",
+        "• This damage has a 50% Chance to Critically Strike and will not wake targets inflicted with Sleep.",
+        "• Increase all stats on self by 10% and Transform all Beneficial Effects on self into their Golden version at the start of your turn.."
       ]
     }
   ]

@@ -34,7 +34,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gains a Snow Shield at the start of battle. Snow Shield absorbs damage and returns it as true damage after 1 turn with a 35% chance to Taunt or Freeze all enemies."
+        "• Gains a Snow Shield at the start of battle.",
+        "• Snow Shield absorbs damage and returns it as true damage after 1 turn with a 35% chance to Taunt or Freeze all enemies.."
       ]
     }
   ]

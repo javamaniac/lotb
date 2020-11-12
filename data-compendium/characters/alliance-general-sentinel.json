@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Increased DEF and Golden Hit to all allies for 3 turns at the start of battle. Grant a Physical, Magic, or True Block to each ally if Regen is present at the start of your turn. Curse all enemies that lack beneficial effects for 2 turns after each action."
+        "• Grant Increased DEF and Golden Hit to all allies for 3 turns at the start of battle.",
+        "• Grant a Physical, Magic, or True Block to each ally if Regen is present at the start of your turn.",
+        "• Curse all enemies that lack beneficial effects for 2 turns after each action.."
       ]
     }
   ]

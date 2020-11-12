@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Blind and Perfect Blind to all allies. Grant ATK UP to all allies at the start of battle for 2 turns. Permanently increase ATK by 5% when you take damage."
+        "• Grant Immunity to Blind and Perfect Blind to all allies.",
+        "• Grant ATK UP to all allies at the start of battle for 2 turns.",
+        "• Permanently increase ATK by 5% when you take damage.."
       ]
     }
   ]

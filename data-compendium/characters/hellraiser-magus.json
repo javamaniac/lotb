@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict Perfect Corruption on up to 4 enemies for 2 turns at the start of battle. Gain Trap status for 1 turn if Regen is present at the start of your turn."
+        "• Inflict Perfect Corruption on up to 4 enemies for 2 turns at the start of battle.",
+        "• Gain Trap status for 1 turn if Regen is present at the start of your turn.."
       ]
     }
   ]

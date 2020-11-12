@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduces the duration of beneficial effects every turn. (Does not apply to first turn beneficial effects)"
+        "• Reduces the duration of beneficial effects every turn.",
+        "• (Does not apply to first turn beneficial effects)."
       ]
     }
   ]

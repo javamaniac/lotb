@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain an Innate Force Shield that prevents damage from a total of 12 incoming attacks at the start of battle and whenever you revive or an enemy is killed. Gain 1 Power, increasing by 1 each turn up to a maximum of 12, at the start of your turn."
+        "• Gain an Innate Force Shield that prevents damage from a total of 12 incoming attacks at the start of battle and whenever you revive or an enemy is killed.",
+        "• Gain 1 Power, increasing by 1 each turn up to a maximum of 12, at the start of your turn.."
       ]
     }
   ]

@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle. All enemies’ attacks will miss unless they are Perfect Attacks for 7 rounds or until they die. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle.",
+        "• All enemies’ attacks will miss unless they are Perfect Attacks for 7 rounds or until they die.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

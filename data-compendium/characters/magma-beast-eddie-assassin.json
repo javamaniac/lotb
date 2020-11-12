@@ -77,7 +77,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to Remove Silver Effects from all allies at the start of your turn. Grant a Magma Shield to all allies at the start of each turn for 1 turn. Gain an Extra Turn and Ascension status for 1 turn if Burn Effects are present on any enemy after each action and then Consume all the burn effects."
+        "• 50% Chance to Remove Silver Effects from all allies at the start of your turn.",
+        "• Grant a Magma Shield to all allies at the start of each turn for 1 turn.",
+        "• Gain an Extra Turn and Ascension status for 1 turn if Burn Effects are present on any enemy after each action and then Consume all the burn effects.."
       ]
     }
   ]

@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Perfect Immunity to self for the duration of the battle and up to 2 random allies for 1 turn. Perfect Immunity blocks all harmful effects and prevents beneficial effects from being removed."
+        "• Grants Perfect Immunity to self for the duration of the battle and up to 2 random allies for 1 turn.",
+        "• Perfect Immunity blocks all harmful effects and prevents beneficial effects from being removed.."
       ]
     }
   ]

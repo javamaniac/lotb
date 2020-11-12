@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Silver Effects. Grant Perfect Health and Immunity to Silver Effects to all allies for the first 3 turns of battle. Inflict Silence and Defense Down on each enemy that lacks Silver Effects for 2 turns after every action."
+        "• Immune to Silver Effects.",
+        "• Grant Perfect Health and Immunity to Silver Effects to all allies for the first 3 turns of battle.",
+        "• Inflict Silence and Defense Down on each enemy that lacks Silver Effects for 2 turns after every action.."
       ]
     }
   ]

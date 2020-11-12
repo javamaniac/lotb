@@ -40,7 +40,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Bleed and Dark Ghost Effects for all allies. If Ghost is active on any ally at the start of your turn apply 100% Critical Strike Chance to them for the duration of battle. Cleanse all allies from negative and silver effects whenever you take damage. Revive self upon death and transform all beneficial effects on enemies into Stop, Perfect Corruption, and Punishment 3 turns. If an ally has the Skogvokter or Seidr’s Bounty passive apply Shroud to them for 3 turns and inflict 2 Perfect Bleeds on a random enemy for 4 turns at the start of every turn."
+        "• Grants Immunity to Bleed and Dark Ghost Effects for all allies.",
+        "• If Ghost is active on any ally at the start of your turn apply 100% Critical Strike Chance to them for the duration of battle.",
+        "• Cleanse all allies from negative and silver effects whenever you take damage.",
+        "• Revive self upon death and transform all beneficial effects on enemies into Stop, Perfect Corruption, and Punishment 3 turns.",
+        "• If an ally has the Skogvokter or Seidr’s Bounty passive apply Shroud to them for 3 turns and inflict 2 Perfect Bleeds on a random enemy for 4 turns at the start of every turn.."
       ]
     }
   ]

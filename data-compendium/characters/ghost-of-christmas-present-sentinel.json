@@ -38,7 +38,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Permadeath Effects. At the start of battle apply a Perfect Heal shield for the duration of battle. Block incoming damage for allies below 50% HP and take 5% of your MAX HP as random damage for each hit blocked. Decrease the duration of beneficial effects on all enemies by 2 turns for each ally that has Ghost or Soul Protect active at the start of your turn."
+        "• Immune to Permadeath Effects.",
+        "• At the start of battle apply a Perfect Heal shield for the duration of battle.",
+        "• Block incoming damage for allies below 50% HP and take 5% of your MAX HP as random damage for each hit blocked.",
+        "• Decrease the duration of beneficial effects on all enemies by 2 turns for each ally that has Ghost or Soul Protect active at the start of your turn.."
       ]
     }
   ]

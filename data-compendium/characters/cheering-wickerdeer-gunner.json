@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Raises the ATK of all allies at the start of battle. Gain Ascension for 2 turns if Vanish is present at the start of your turn."
+        "• Raises the ATK of all allies at the start of battle.",
+        "• Gain Ascension for 2 turns if Vanish is present at the start of your turn.."
       ]
     }
   ]

@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun. Immune to all damage from attacks and can only take damage from Burns and other damage over time effects. Current and MAX HP reduces by 5% every turn."
+        "• Immune to Stun.",
+        "• Immune to all damage from attacks and can only take damage from Burns and other damage over time effects.",
+        "• Current and MAX HP reduces by 5% every turn.."
       ]
     }
   ]

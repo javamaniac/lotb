@@ -40,7 +40,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflicts Furious Burn on all enemies for 2 turns at the start of battle. Inflicts Curse for 1 turn on enemies inflicted with Bleed at the start of your turn. Applies 3 Furious Burns for 2 turns to all enemies and Heal self for 100% Max HP when you kill an enemy."
+        "• Inflicts Furious Burn on all enemies for 2 turns at the start of battle.",
+        "• Inflicts Curse for 1 turn on enemies inflicted with Bleed at the start of your turn.",
+        "• Applies 3 Furious Burns for 2 turns to all enemies and Heal self for 100% Max HP when you kill an enemy.."
       ]
     }
   ]

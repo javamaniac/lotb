@@ -84,7 +84,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun. Grants Immunity to Doom, Permadeath, and Perfect Death to all allies. Grants Immunity and Removes negative Effects, including Silver Effects from allies suffering from Silver Effects at the start of your turn. Revive Upon death with full HP and Invincibility for 1 turn."
+        "• Immune to Stun.",
+        "• Grants Immunity to Doom, Permadeath, and Perfect Death to all allies.",
+        "• Grants Immunity and Removes negative Effects, including Silver Effects from allies suffering from Silver Effects at the start of your turn.",
+        "• Revive Upon death with full HP and Invincibility for 1 turn.."
       ]
     }
   ]

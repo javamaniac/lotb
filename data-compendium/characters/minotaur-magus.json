@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Force Shield to each ally for 2 turns at the start of battle. 75% Chance to Gain an Extra Turn if your HP is 50% or lower after each action."
+        "• Grant Perfect Force Shield to each ally for 2 turns at the start of battle.",
+        "• 75% Chance to Gain an Extra Turn if your HP is 50% or lower after each action.."
       ]
     }
   ]

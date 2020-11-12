@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Removes a random Beneficial Effect on each enemy at the start of the battle. Gain Perfect Immortality for 1 turn if you have Perfect Immunity at the start of your turn."
+        "• Removes a random Beneficial Effect on each enemy at the start of the battle.",
+        "• Gain Perfect Immortality for 1 turn if you have Perfect Immunity at the start of your turn.."
       ]
     }
   ]

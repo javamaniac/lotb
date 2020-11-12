@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Stun and Sleep effects. Grant Class Advantage and HP Regen to all allies for 2 turns at the start of battle."
+        "• Immune to all Stun and Sleep effects.",
+        "• Grant Class Advantage and HP Regen to all allies for 2 turns at the start of battle.."
       ]
     }
   ]

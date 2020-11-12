@@ -67,14 +67,25 @@ const parse = () => {
       const [skillName, skillType, textPowerCost] = tdSkillName.querySelector('td p')
         .innerText.split(/[()]/)
 
-      const listeSkillDesc = tdSkillDesc.querySelector('td p')
+      let listeSkillDesc = tdSkillDesc.querySelector('td p')
         .innerText.split(/\n/)
       // .innerText.split(/(\n|\.)/)
+
+      const type = parseType(skillType)
+
+      if (type === 'Passive') {
+        if (listeSkillDesc.length > 1) {
+          throw new Error('Erreur de parsing de listeSkillDesc', listeSkillDesc)
+        }
+        // console.log('listeSkillDesc', listeSkillDesc)
+        // formater les skill passives comme les autres
+        listeSkillDesc = listeSkillDesc[0].split('. ').map(token => `• ${token}.`)
+      }
 
       const skill = {
         name: cleanText(skillName),
         typeName: skillType,
-        type: parseType(skillType),
+        type,
         desc: listeSkillDesc
       }
 

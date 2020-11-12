@@ -86,7 +86,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to all Stun and Freeze effects, including Silver and Innate effects, to all allies. Inflict Taunt on all enemies for 1 turn at the start of battle and at the start of your turn. Gain 3 Power and Heal self based on your MAX HP after every action. 50% Chance to deal 3 hits of Additional Random Damage to each enemy based on your MR and their MAX HP and Remove All Negative Effects, including Silver effects, from self and a random ally when you take damage. Once per battle, Revive with full HP and grant Immortality or Endure to all allies for 1 turn and inflict Perfect Heal Block and Perfect Death to all enemies for 3 turns upon death."
+        "• Grant Immunity to all Stun and Freeze effects, including Silver and Innate effects, to all allies.",
+        "• Inflict Taunt on all enemies for 1 turn at the start of battle and at the start of your turn.",
+        "• Gain 3 Power and Heal self based on your MAX HP after every action.",
+        "• 50% Chance to deal 3 hits of Additional Random Damage to each enemy based on your MR and their MAX HP and Remove All Negative Effects, including Silver effects, from self and a random ally when you take damage.",
+        "• Once per battle, Revive with full HP and grant Immortality or Endure to all allies for 1 turn and inflict Perfect Heal Block and Perfect Death to all enemies for 3 turns upon death.."
       ]
     }
   ]

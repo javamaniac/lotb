@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle. Immunity to all Stun effects for self."
+        "• Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle.",
+        "• Immunity to all Stun effects for self.."
       ]
     }
   ]

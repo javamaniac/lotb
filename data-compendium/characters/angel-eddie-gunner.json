@@ -87,7 +87,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Prevent all enemies from gaining Immunity effects. Grant Immunity or Perfect Immunity to each ally at Start of battle for 1 turn. Gain Perfect Heal Shield for self and grant Void Shield and 2 stacks of HP Regen to all allies for 2 turns when you reach 1 HP."
+        "• Prevent all enemies from gaining Immunity effects.",
+        "• Grant Immunity or Perfect Immunity to each ally at Start of battle for 1 turn.",
+        "• Gain Perfect Heal Shield for self and grant Void Shield and 2 stacks of HP Regen to all allies for 2 turns when you reach 1 HP.."
       ]
     }
   ]

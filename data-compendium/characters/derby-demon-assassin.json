@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Permadeath and Perfect Death to all allies. Grant 100% Critical Strike to all allies for 1 turn if Armor or Magic Penetration is active at the start of your turn."
+        "• Grants Immunity to Permadeath and Perfect Death to all allies.",
+        "• Grant 100% Critical Strike to all allies for 1 turn if Armor or Magic Penetration is active at the start of your turn.."
       ]
     }
   ]

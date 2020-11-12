@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Increased Power Generation to self for the duration of battle. If an enemy has HP Drain active at the start of your turn, increase the duration of all negative effects on the target by 1 turn."
+        "• Grant Increased Power Generation to self for the duration of battle.",
+        "• If an enemy has HP Drain active at the start of your turn, increase the duration of all negative effects on the target by 1 turn.."
       ]
     }
   ]

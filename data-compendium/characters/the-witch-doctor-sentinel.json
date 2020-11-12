@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Doom, Curse, and Permadeath to all allies. Remove All Negative Effects, including Silver Effects and Innate versions of Stun, Freeze, Sleep and Taunt, from all allies and inflict Curse on all enemies for 2 turns if you are Stunned, Frozen, Sleeping, or Taunted at the start of battle and at the start of your turn. 50% Chance to inflict Stun or Perfect Stun on attacking enemies for 2 turns whenever you are attacked."
+        "• Grant Immunity to Doom, Curse, and Permadeath to all allies.",
+        "• Remove All Negative Effects, including Silver Effects and Innate versions of Stun, Freeze, Sleep and Taunt, from all allies and inflict Curse on all enemies for 2 turns if you are Stunned, Frozen, Sleeping, or Taunted at the start of battle and at the start of your turn.",
+        "• 50% Chance to inflict Stun or Perfect Stun on attacking enemies for 2 turns whenever you are attacked.."
       ]
     }
   ]

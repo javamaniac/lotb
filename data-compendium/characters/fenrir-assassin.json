@@ -36,7 +36,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Passive Disable effects, including Silver and Innate effects. Cleanse all Stun, Freeze and Sleep effects, including Silver and Innate effects, from self at the start of battle and at the start of your turn. Inflict Punishment on all enemies for the duration of battle if an effect was removed this way. Reduce all damage taken by 50% and return 50% of it at the start of each round back to each enemy as random damage. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Immune to Passive Disable effects, including Silver and Innate effects.",
+        "• Cleanse all Stun, Freeze and Sleep effects, including Silver and Innate effects, from self at the start of battle and at the start of your turn.",
+        "• Inflict Punishment on all enemies for the duration of battle if an effect was removed this way.",
+        "• Reduce all damage taken by 50% and return 50% of it at the start of each round back to each enemy as random damage.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

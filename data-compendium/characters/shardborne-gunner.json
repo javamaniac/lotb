@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove all Immunity effects, including Perfect Immunity and Vanish, from all enemies at the start of battle. Revive with 60% HP upon death."
+        "• Remove all Immunity effects, including Perfect Immunity and Vanish, from all enemies at the start of battle.",
+        "• Revive with 60% HP upon death.."
       ]
     }
   ]

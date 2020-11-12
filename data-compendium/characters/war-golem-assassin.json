@@ -36,7 +36,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Punishment, Stop and Perfect Corruption. Inflict Cleave on all enemies for 3 turns at the start of battle. Inflict Freeze and 4 Marks on a random enemy for 2 turns at the start of battle and at the start of your turn."
+        "• Immune to Punishment, Stop and Perfect Corruption.",
+        "• Inflict Cleave on all enemies for 3 turns at the start of battle.",
+        "• Inflict Freeze and 4 Marks on a random enemy for 2 turns at the start of battle and at the start of your turn.."
       ]
     }
   ]

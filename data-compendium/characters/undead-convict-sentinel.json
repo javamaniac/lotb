@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "At the start of battle and at the start of your turn, inflict Perfect Corruption, Perfect Crave or Perfect Stun for 2 turns on a random enemy. Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle."
+        "• At the start of battle and at the start of your turn, inflict Perfect Corruption, Perfect Crave or Perfect Stun for 2 turns on a random enemy.",
+        "• Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle.."
       ]
     }
   ]

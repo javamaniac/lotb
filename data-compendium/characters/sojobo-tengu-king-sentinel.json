@@ -40,7 +40,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Blind and Skill Disabling effects, including Silver and Innate effects. Grant Immunity to Block Beneficial Effects and Perfect Corruption to all allies until they die. Gain 1 Power and Endure for 1 turn when you take damage. Copy All Beneficial Effects on self to a random ally after every action. 35% Chance to counterattack when you take damage."
+        "• Immune to all Blind and Skill Disabling effects, including Silver and Innate effects.",
+        "• Grant Immunity to Block Beneficial Effects and Perfect Corruption to all allies until they die.",
+        "• Gain 1 Power and Endure for 1 turn when you take damage.",
+        "• Copy All Beneficial Effects on self to a random ally after every action.",
+        "• 35% Chance to counterattack when you take damage.."
       ]
     }
   ]

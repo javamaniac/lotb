@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun, Blind, and Silence. Absorbs all Physical Damage and returns it at the end of each turn to all enemies. Inflicts Stop and Seal on a random enemy every turn for 2 turns."
+        "• Immune to Stun, Blind, and Silence.",
+        "• Absorbs all Physical Damage and returns it at the end of each turn to all enemies.",
+        "• Inflicts Stop and Seal on a random enemy every turn for 2 turns.."
       ]
     }
   ]

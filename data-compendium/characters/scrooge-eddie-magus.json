@@ -84,7 +84,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to cleanse negative effects, including silver effects and heal self when you or any ally takes damage. Remove 2 random beneficial and golden effects from all enemies when you take damage."
+        "• 50% Chance to cleanse negative effects, including silver effects and heal self when you or any ally takes damage.",
+        "• Remove 2 random beneficial and golden effects from all enemies when you take damage.."
       ]
     }
   ]

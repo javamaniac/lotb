@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant all other characters, including enemies but not self, a random Golden Beneficial Effect for the duration of battle at the start of battle. Upon death, Remove All Negative Effects, including Silver Effects from all allies and grant Revenge, Charge and 100% Critical Strike Chance for the remainder of battle. Upon death, Remove All Golden Effects from all enemies."
+        "• Grant all other characters, including enemies but not self, a random Golden Beneficial Effect for the duration of battle at the start of battle.",
+        "• Upon death, Remove All Negative Effects, including Silver Effects from all allies and grant Revenge, Charge and 100% Critical Strike Chance for the remainder of battle.",
+        "• Upon death, Remove All Golden Effects from all enemies.."
       ]
     }
   ]

@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Steal all Beneficial Effects and inflict Seal, Silence, Blind, Perfect Disable, and Exhaust for 2 turns on a random enemy at the start of battle. Increase SPECIAL stat of all allies by 5% Every Turn."
+        "• Steal all Beneficial Effects and inflict Seal, Silence, Blind, Perfect Disable, and Exhaust for 2 turns on a random enemy at the start of battle.",
+        "• Increase SPECIAL stat of all allies by 5% Every Turn.."
       ]
     }
   ]

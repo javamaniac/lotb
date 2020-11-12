@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all effects that inflict Stun, Silence, and Blind, including Golden and innate passive versions of these effects. 50% Chance each turn to reduce damage taken by 80%."
+        "• Immune to all effects that inflict Stun, Silence, and Blind, including Golden and innate passive versions of these effects.",
+        "• 50% Chance each turn to reduce damage taken by 80%.."
       ]
     }
   ]

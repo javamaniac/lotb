@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Doom. Decrease the MAX HP of a random enemy by 5% every turn. Heal a random ally based on their MISSING HP every turn."
+        "• Immune to Doom.",
+        "• Decrease the MAX HP of a random enemy by 5% every turn.",
+        "• Heal a random ally based on their MISSING HP every turn.."
       ]
     }
   ]

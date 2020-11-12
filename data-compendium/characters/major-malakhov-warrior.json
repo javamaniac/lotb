@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Beneficial Effects, including Golden Effects from all enemies and inflict Perfect Sleep, Perfect Crave, and Perfect Death on all enemies for the duration of battle upon death. Revive with Full HP grant Magic Damage Charge to all allies for the duration of battle, upon death."
+        "• Remove Beneficial Effects, including Golden Effects from all enemies and inflict Perfect Sleep, Perfect Crave, and Perfect Death on all enemies for the duration of battle upon death.",
+        "• Revive with Full HP grant Magic Damage Charge to all allies for the duration of battle, upon death.."
       ]
     }
   ]

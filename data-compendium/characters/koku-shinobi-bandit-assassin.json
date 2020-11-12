@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immunity to all Burn and Stat Reduction Effects. Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies. Steal One Beneficial Effect, including Golden Effects from a random enemy after every action."
+        "• Immunity to all Burn and Stat Reduction Effects.",
+        "• Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies.",
+        "• Steal One Beneficial Effect, including Golden Effects from a random enemy after every action.."
       ]
     }
   ]

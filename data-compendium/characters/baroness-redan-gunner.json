@@ -39,7 +39,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Negative Effects, except Crave, Perfect Crave, Heal Reduction, Heal Block and Perfect Heal Block. Grant Critical Strike Chance to self and a random ally for 1 turn at the start of your turn. 35% Chance to counterattack when anyone on your team takes damage. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Immune to all Negative Effects, except Crave, Perfect Crave, Heal Reduction, Heal Block and Perfect Heal Block.",
+        "• Grant Critical Strike Chance to self and a random ally for 1 turn at the start of your turn.",
+        "• 35% Chance to counterattack when anyone on your team takes damage.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

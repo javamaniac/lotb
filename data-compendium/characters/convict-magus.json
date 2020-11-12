@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Silence and Crave effects to all allies. Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle."
+        "• Grants Immunity to Silence and Crave effects to all allies.",
+        "• Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle.."
       ]
     }
   ]

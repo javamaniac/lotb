@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Sleep and Lower MAX HP effects to all allies. Heal all allies based on your MAX HP when you take damage."
+        "• Grants Immunity to Sleep and Lower MAX HP effects to all allies.",
+        "• Heal all allies based on your MAX HP when you take damage.."
       ]
     }
   ]

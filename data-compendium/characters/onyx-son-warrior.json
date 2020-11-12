@@ -40,7 +40,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Immunity to all allies for 1 turn if Vanish is present on self at the start of your turn. Remove Beneficial Effects and inflict Perfect Death and Curse on all enemies for 2 turns upon death."
+        "• Grant Perfect Immunity to all allies for 1 turn if Vanish is present on self at the start of your turn.",
+        "• Remove Beneficial Effects and inflict Perfect Death and Curse on all enemies for 2 turns upon death.."
       ]
     }
   ]

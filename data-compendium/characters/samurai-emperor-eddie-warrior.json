@@ -84,7 +84,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle. Gain Perfect Immunity for the duration of battle. Cannot be Stunned. 25% chance to Counterstrike whenever you take damage. Heal all allies based on your Max HP after each action."
+        "• Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle.",
+        "• Gain Perfect Immunity for the duration of battle.",
+        "• Cannot be Stunned.",
+        "• 25% chance to Counterstrike whenever you take damage.",
+        "• Heal all allies based on your Max HP after each action.."
       ]
     }
   ]

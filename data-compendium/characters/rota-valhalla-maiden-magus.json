@@ -38,7 +38,12 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "35% Chance to inflict Freeze on a random enemy for 2 turns when you take damage. 25% Chance to inflict an unblockable Freeze on each enemy for 1 turn after each action if the enemy is inflicted with Exhaust. Grant Golden Hit to all allies for the duration of battle. Grant Snow Shield to all allies at the start of battle. Grant each ally Ghost for 2 turns when they die. Grant a random ally Perfect Revenge for the duration of battle when any other ally dies."
+        "• 35% Chance to inflict Freeze on a random enemy for 2 turns when you take damage.",
+        "• 25% Chance to inflict an unblockable Freeze on each enemy for 1 turn after each action if the enemy is inflicted with Exhaust.",
+        "• Grant Golden Hit to all allies for the duration of battle.",
+        "• Grant Snow Shield to all allies at the start of battle.",
+        "• Grant each ally Ghost for 2 turns when they die.",
+        "• Grant a random ally Perfect Revenge for the duration of battle when any other ally dies.."
       ]
     }
   ]

@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Echo Status for 6 turns at the start of battle. Echo Status grants a 35% Chance to get an Extra Turn after performing an action"
+        "• Gain Echo Status for 6 turns at the start of battle.",
+        "• Echo Status grants a 35% Chance to get an Extra Turn after performing an action."
       ]
     }
   ]

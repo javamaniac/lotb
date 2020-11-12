@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "35% Chance to counterattack when another ally takes damage. Revive with full HP, Magma Shield, Increased Power Generation, Class Advantage and Echo for the duration of battle and grant all other allies Magma Shield for 3 turns upon death."
+        "• 35% Chance to counterattack when another ally takes damage.",
+        "• Revive with full HP, Magma Shield, Increased Power Generation, Class Advantage and Echo for the duration of battle and grant all other allies Magma Shield for 3 turns upon death.."
       ]
     }
   ]

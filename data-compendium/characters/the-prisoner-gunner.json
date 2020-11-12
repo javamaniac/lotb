@@ -37,7 +37,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflicts Passive Disable on all enemies on the first turn. 50% Chance to Disable Passives of enemies every subsequent turn. (Does not affect Bosses)."
+        "• Inflicts Passive Disable on all enemies on the first turn.",
+        "• 50% Chance to Disable Passives of enemies every subsequent turn.",
+        "• (Does not affect Bosses).."
       ]
     }
   ]

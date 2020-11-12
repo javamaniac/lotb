@@ -39,7 +39,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Increase the MAX HP of all allies by 250% at the start of battle. Grant each ally immunity to a random damage type at the start of your turn. Grant Vanish to up to 2 random allies for 1 turn after every action. All allies heal for a portion of any damage that they deal. Gain a Random Offensive or Defensive effect for every Physical Burn on each enemy after each action."
+        "• Increase the MAX HP of all allies by 250% at the start of battle.",
+        "• Grant each ally immunity to a random damage type at the start of your turn.",
+        "• Grant Vanish to up to 2 random allies for 1 turn after every action.",
+        "• All allies heal for a portion of any damage that they deal.",
+        "• Gain a Random Offensive or Defensive effect for every Physical Burn on each enemy after each action.."
       ]
     }
   ]

@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflict Dark Ghost on a random enemy for 2 turns at the start of battle. Inflict Doom and Perfect Stun on all enemies for 2 turns upon death."
+        "• Inflict Dark Ghost on a random enemy for 2 turns at the start of battle.",
+        "• Inflict Doom and Perfect Stun on all enemies for 2 turns upon death.."
       ]
     }
   ]

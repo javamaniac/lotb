@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to all allies for 1 turn at the start of the battle. Grants immunity to a random ally every following turn."
+        "• Grants Immunity to all allies for 1 turn at the start of the battle.",
+        "• Grants immunity to a random ally every following turn.."
       ]
     }
   ]

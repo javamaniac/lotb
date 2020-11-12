@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "At the start of the battle and at the start of your turn, grant a random Physical, Magic, or True Block on each ally for 1 turn. When Spirit Jaguar dies, grant Titan Shield and Vanish to all allies until they die, Increase MAX HP by 100% and heal all allies to full hp."
+        "• At the start of the battle and at the start of your turn, grant a random Physical, Magic, or True Block on each ally for 1 turn.",
+        "• When Spirit Jaguar dies, grant Titan Shield and Vanish to all allies until they die, Increase MAX HP by 100% and heal all allies to full hp.."
       ]
     }
   ]
