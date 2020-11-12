@@ -3,7 +3,7 @@ const fs = require('fs')
 
 ;(async () => {
   const data = [
-    'id\tname\tclass\tstars\teddie\tawakenable\ttalismans\tbasic\tpower\tpassive\tfury'
+    'id\tname\tclass\tstars\teddie\tawakenable\ttalismans\ttalismansSet\tbasic\tpower\tpassive\tfury'
   ]
   let cpt = 0
 
@@ -19,6 +19,7 @@ const fs = require('fs')
       eddie,
       awakenable,
       talismans,
+      talismansSet,
     } = character
 
     const locatGetSkill = (character, type) => {
@@ -37,6 +38,7 @@ const fs = require('fs')
       eddie,
       awakenable,
       talismans,
+      talismansSet,
       // getTalisman(talismans),
       locatGetSkill(character, 'Basic'),
       locatGetSkill(character, 'Power'),
