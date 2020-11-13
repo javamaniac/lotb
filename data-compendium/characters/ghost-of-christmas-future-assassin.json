@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-future-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_future.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Permadeath to all allies. Gain Ghost and Perfect Immunity for 3 turns upon death. Trigger Doom effects currently on all enemies upon death."
+        "• Grant Immunity to Permadeath to all allies.",
+        "• Gain Ghost and Perfect Immunity for 3 turns upon death.",
+        "• Trigger Doom effects currently on all enemies upon death.."
       ]
     }
   ]

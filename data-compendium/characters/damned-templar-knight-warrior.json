@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SWW...",
-  "talismansSet": "5w4s",
+  "talismansSet": "5w 4w 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/damned-templar-knight-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_UndeadTemplarKnight_warrior.png",
   "skills": [
@@ -36,7 +36,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "35% Chance to counterattack when another ally takes damage. Revive with full HP, Magma Shield, Increased Power Generation, Class Advantage and Echo for the duration of battle and grant all other allies Magma Shield for 3 turns upon death."
+        "• 35% Chance to counterattack when another ally takes damage.",
+        "• Revive with full HP, Magma Shield, Increased Power Generation, Class Advantage and Echo for the duration of battle and grant all other allies Magma Shield for 3 turns upon death.."
       ]
     }
   ]

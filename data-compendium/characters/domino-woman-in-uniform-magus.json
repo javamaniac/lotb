@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "MMM...",
-  "talismansSet": "6m",
+  "talismansSet": "6m 5m 4m",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/domino-woman-in-uniform-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_magus.png",
   "skills": [
@@ -42,7 +42,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove all immunity effects, including Vanish and Perfect Immunity, from all enemies when you take damage. 50% Chance to counterattack when you take damage. Heal for 50% of all damage dealt. Transform up to 2 Silver Effects on each ally into a random beneficial effect, including Golden Effects, at the start of your turn."
+        "• Remove all immunity effects, including Vanish and Perfect Immunity, from all enemies when you take damage.",
+        "• 50% Chance to counterattack when you take damage.",
+        "• Heal for 50% of all damage dealt.",
+        "• Transform up to 2 Silver Effects on each ally into a random beneficial effect, including Golden Effects, at the start of your turn.."
       ]
     }
   ]

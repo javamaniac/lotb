@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "WWW...",
-  "talismansSet": "6w",
+  "talismansSet": "6w 5w 4w",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/samurai-emperor-eddie-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_samurai_shogun.png",
   "skills": [
@@ -84,7 +84,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle. Gain Perfect Immunity for the duration of battle. Cannot be Stunned. 25% chance to Counterstrike whenever you take damage. Heal all allies based on your Max HP after each action."
+        "• Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle.",
+        "• Gain Perfect Immunity for the duration of battle.",
+        "• Cannot be Stunned.",
+        "• 25% chance to Counterstrike whenever you take damage.",
+        "• Heal all allies based on your Max HP after each action.."
       ]
     }
   ]

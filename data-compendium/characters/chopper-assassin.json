@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_purple.png",
   "skills": [
@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle. Immunity to all Stun effects for self."
+        "• Grants Immunity to Permadeath, Perfect Corruption, and Fear effects to all allies for the duration of the battle.",
+        "• Immunity to all Stun effects for self.."
       ]
     }
   ]

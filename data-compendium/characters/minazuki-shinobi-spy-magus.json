@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "MMM...",
-  "talismansSet": "6m",
+  "talismansSet": "6m 5m 4m",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/minazuki-shinobi-spy-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_blue.png",
   "skills": [
@@ -39,7 +39,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Perfect Heal Shield if Increased Max HP or Perfect Health is active at the start of your turn. 35% Chance to instantly gain 1 Power after each action. 15% Chance to gain an Extra Turn after each action."
+        "• Grant Perfect Heal Shield if Increased Max HP or Perfect Health is active at the start of your turn.",
+        "• 35% Chance to instantly gain 1 Power after each action.",
+        "• 15% Chance to gain an Extra Turn after each action.."
       ]
     }
   ]

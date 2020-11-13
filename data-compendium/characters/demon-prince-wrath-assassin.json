@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/demon-prince-wrath-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wrath_skin.png",
   "skills": [
@@ -39,7 +39,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduce damage taken by 60%. Increase the ATK and MAGIC of allies by 250% and increase the Critical Hit Chance of all allies by 25%. Grant Immunity to Bleed and Perfect Bleed effects to all allies. Inflict Cleave or Crave on each enemy for 2 turns when you take damage. Take no damage when your HP falls below 30% HP for 3 turns."
+        "• Reduce damage taken by 60%.",
+        "• Increase the ATK and MAGIC of allies by 250% and increase the Critical Hit Chance of all allies by 25%.",
+        "• Grant Immunity to Bleed and Perfect Bleed effects to all allies.",
+        "• Inflict Cleave or Crave on each enemy for 2 turns when you take damage.",
+        "• Take no damage when your HP falls below 30% HP for 3 turns.."
       ]
     }
   ]

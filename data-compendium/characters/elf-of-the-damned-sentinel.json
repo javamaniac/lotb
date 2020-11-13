@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SSS...",
-  "talismansSet": "6s",
+  "talismansSet": "6s 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/elf-of-the-damned-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_xmas_elf_green.png",
   "skills": [
@@ -34,7 +34,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gains a Snow Shield at the start of battle. Snow Shield absorbs damage and returns it as true damage after 1 turn with a 35% chance to Taunt or Freeze all enemies."
+        "• Gains a Snow Shield at the start of battle.",
+        "• Snow Shield absorbs damage and returns it as true damage after 1 turn with a 35% chance to Taunt or Freeze all enemies.."
       ]
     }
   ]

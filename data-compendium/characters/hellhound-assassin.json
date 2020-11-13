@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GMM...",
-  "talismansSet": "5m4g",
+  "talismansSet": "5m 4m 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/hellhound-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_houndofhell_purple.png",
   "skills": [
@@ -41,7 +41,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to Cleanse self and a random ally per negative effect on self."
+        "• 50% Chance to Cleanse self and a random ally per negative effect on self.."
       ]
     }
   ]

@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SSS...",
-  "talismansSet": "6s",
+  "talismansSet": "6s 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/sirius-cosmic-wolf-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_blackdog.png",
   "skills": [
@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove a beneficial effect from a random enemy with a 25% chance to Blind all enemies for 2 turns when you take damage."
+        "• Remove a beneficial effect from a random enemy with a 25% chance to Blind all enemies for 2 turns when you take damage.."
       ]
     }
   ]

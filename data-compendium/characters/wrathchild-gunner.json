@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GGG...",
-  "talismansSet": "6g",
+  "talismansSet": "6g 5g 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/wrathchild-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wrathchild.png",
   "skills": [
@@ -40,7 +40,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduce damage allies take by 50% and reflect 35% of damage received by any ally back to all enemies. Inflict 8 Marks on a random enemy for 2 turns at the start of your turn. 25% Chance to inflict up to 3 Marks on each enemy for 2 turns when you take damage. All allies hit with Perfect Attacks. Revive the first three allies that die with Full HP and grant them Endure and Perfect Heal Shield for the duration of battle."
+        "• Reduce damage allies take by 50% and reflect 35% of damage received by any ally back to all enemies.",
+        "• Inflict 8 Marks on a random enemy for 2 turns at the start of your turn.",
+        "• 25% Chance to inflict up to 3 Marks on each enemy for 2 turns when you take damage.",
+        "• All allies hit with Perfect Attacks.",
+        "• Revive the first three allies that die with Full HP and grant them Endure and Perfect Heal Shield for the duration of battle.."
       ]
     }
   ]

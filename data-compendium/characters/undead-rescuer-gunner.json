@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GGS...",
-  "talismansSet": "4s5g",
+  "talismansSet": "4s 5g 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-rescuer-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_corrupt_rescue_workerB_yellow.png",
   "skills": [
@@ -35,7 +35,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Cleanse, Heal, and Grant Perfect Immunity to a random ally for each instance of Stun, Taunt, Freeze (including unblockable Freeze), Heal Block, Perfect Corruption, and Permadeath currently on you."
+        "• Cleanse, Heal, and Grant Perfect Immunity to a random ally for each instance of Stun, Taunt, Freeze (including unblockable Freeze), Heal Block, Perfect Corruption, and Permadeath currently on you.."
       ]
     }
   ]

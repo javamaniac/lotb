@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "WWW...",
-  "talismansSet": "6w",
+  "talismansSet": "6w 5w 4w",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_warrior.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Blind and Perfect Blind to all allies. Grant ATK UP to all allies at the start of battle for 2 turns. Permanently increase ATK by 5% when you take damage."
+        "• Grant Immunity to Blind and Perfect Blind to all allies.",
+        "• Grant ATK UP to all allies at the start of battle for 2 turns.",
+        "• Permanently increase ATK by 5% when you take damage.."
       ]
     }
   ]

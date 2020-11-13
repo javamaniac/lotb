@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAAA..",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/the-ferryman-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ferryman.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun. Immune to all damage from attacks and can only take damage from Burns and other damage over time effects. Current and MAX HP reduces by 5% every turn."
+        "• Immune to Stun.",
+        "• Immune to all damage from attacks and can only take damage from Burns and other damage over time effects.",
+        "• Current and MAX HP reduces by 5% every turn.."
       ]
     }
   ]

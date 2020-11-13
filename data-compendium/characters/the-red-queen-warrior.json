@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "WWW...",
-  "talismansSet": "6w",
+  "talismansSet": "6w 5w 4w",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/the-red-queen-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_redqueen.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to counterattack when anyone on your team takes damage. If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn. Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies."
+        "• 50% Chance to counterattack when anyone on your team takes damage.",
+        "• If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn.",
+        "• Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies.."
       ]
     }
   ]

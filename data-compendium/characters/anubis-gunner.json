@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GSS...",
-  "talismansSet": "5s4g",
+  "talismansSet": "5s 4s 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/anubis-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_anubis_yellow.png",
   "skills": [
@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Permadeath, Perfect Death, and Doom to all allies. 35% Chance to grant Immunity or Cleanse status to each ally every turn for 1 turn."
+        "• Grants Immunity to Permadeath, Perfect Death, and Doom to all allies.",
+        "• 35% Chance to grant Immunity or Cleanse status to each ally every turn for 1 turn.."
       ]
     }
   ]

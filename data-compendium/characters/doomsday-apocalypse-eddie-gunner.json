@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/doomsday-apocalypse-eddie-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_eddie_doomsdayapocalypse.png",
   "skills": [
@@ -83,7 +83,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain a Random Defensive Effect at the start or your turn for 3 turns. Grant Immunity to Burn and Sleep effects to all allies. Inflict 3 Perfect Time Bombs for 2 turns on each enemy and deal random damage to a random enemy equal to 300% of their MAX HP when you or any ally dies. This effect can only apply once per turn for each ally. Revive with full HP, Remove all golden effects from each enemy, and inflict 3 Time Bombs for 1 turn when you die."
+        "• Gain a Random Defensive Effect at the start or your turn for 3 turns.",
+        "• Grant Immunity to Burn and Sleep effects to all allies.",
+        "• Inflict 3 Perfect Time Bombs for 2 turns on each enemy and deal random damage to a random enemy equal to 300% of their MAX HP when you or any ally dies.",
+        "• This effect can only apply once per turn for each ally.",
+        "• Revive with full HP, Remove all golden effects from each enemy, and inflict 3 Time Bombs for 1 turn when you die.."
       ]
     }
   ]

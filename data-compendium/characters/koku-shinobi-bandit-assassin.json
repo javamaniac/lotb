@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SSS...",
-  "talismansSet": "6s",
+  "talismansSet": "6s 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/koku-shinobi-bandit-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_purple.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immunity to all Burn and Stat Reduction Effects. Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies. Steal One Beneficial Effect, including Golden Effects from a random enemy after every action."
+        "• Immunity to all Burn and Stat Reduction Effects.",
+        "• Grant Immunity to Doom, Sleep, and Perfect Sleep to all allies.",
+        "• Steal One Beneficial Effect, including Golden Effects from a random enemy after every action.."
       ]
     }
   ]

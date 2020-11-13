@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAM...",
-  "talismansSet": "4m5a",
+  "talismansSet": "4m 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/chattering-skull-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_megaskull.png",
   "skills": [
@@ -35,7 +35,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Shatters upon death, applying 4 Marks to all enemies. Marks can be consumed with Perfect Hits to deal true damage."
+        "• Shatters upon death, applying 4 Marks to all enemies.",
+        "• Marks can be consumed with Perfect Hits to deal true damage.."
       ]
     }
   ]

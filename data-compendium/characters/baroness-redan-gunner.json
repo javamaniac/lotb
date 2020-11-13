@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": true,
   "talismans": "MSS...",
-  "talismansSet": "4m5s",
+  "talismansSet": "4m 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/baroness-redan-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_trooper_sister_2.png",
   "skills": [
@@ -39,7 +39,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all Negative Effects, except Crave, Perfect Crave, Heal Reduction, Heal Block and Perfect Heal Block. Grant Critical Strike Chance to self and a random ally for 1 turn at the start of your turn. 35% Chance to counterattack when anyone on your team takes damage. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Immune to all Negative Effects, except Crave, Perfect Crave, Heal Reduction, Heal Block and Perfect Heal Block.",
+        "• Grant Critical Strike Chance to self and a random ally for 1 turn at the start of your turn.",
+        "• 35% Chance to counterattack when anyone on your team takes damage.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

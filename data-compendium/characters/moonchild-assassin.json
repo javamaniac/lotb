@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": true,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/moonchild-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_moonchild.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle. All enemies’ attacks will miss unless they are Perfect Attacks for 7 rounds or until they die. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Immune to all negative and beneficial effects, including Silver and Golden effects, for the duration of battle.",
+        "• All enemies’ attacks will miss unless they are Perfect Attacks for 7 rounds or until they die.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

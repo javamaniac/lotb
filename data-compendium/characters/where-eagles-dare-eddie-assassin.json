@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "GWW...",
-  "talismansSet": "5w4g",
+  "talismansSet": "5w 4w 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/where-eagles-dare-eddie-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_eaglesdare.png",
   "skills": [
@@ -83,7 +83,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain a 45% Chance to Vanish after every action. Trigger Time Bomb and Perfect Time Bomb effects at the start of your turn."
+        "• Gain a 45% Chance to Vanish after every action.",
+        "• Trigger Time Bomb and Perfect Time Bomb effects at the start of your turn.."
       ]
     }
   ]

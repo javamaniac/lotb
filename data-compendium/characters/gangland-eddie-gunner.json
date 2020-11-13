@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "AAG...",
-  "talismansSet": "4g5a",
+  "talismansSet": "4g 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/gangland-eddie-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_gangland.png",
   "skills": [
@@ -79,7 +79,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Immunity Effects, including Vanish and Perfect Immunity, and inflict Silence and Perfect Corruption on any enemy below 30% HP for the duration of battle after you take an action."
+        "• Remove Immunity Effects, including Vanish and Perfect Immunity, and inflict Silence and Perfect Corruption on any enemy below 30% HP for the duration of battle after you take an action.."
       ]
     }
   ]

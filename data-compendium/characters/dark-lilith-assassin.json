@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": true,
   "talismans": "AGG...",
-  "talismansSet": "5g4a",
+  "talismansSet": "5g 4g 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/dark-lilith-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_lilithdark.png",
   "skills": [
@@ -35,7 +35,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Permadeath, Perfect Death, Block Beneficial, and Perfect Corruption to all allies. Deal 500% of a random enemy’s MAX HP as true damage and heal all allies to full HP when an ally dies. Remove all beneficial effects, including Golden Effects,inflict Punishment and Perfect Death for the duration of battle on all enemies, and Revive with full HP and a Perfect Titan Shield upon death."
+        "• Grant Immunity to Permadeath, Perfect Death, Block Beneficial, and Perfect Corruption to all allies.",
+        "• Deal 500% of a random enemy’s MAX HP as true damage and heal all allies to full HP when an ally dies.",
+        "• Remove all beneficial effects, including Golden Effects,inflict Punishment and Perfect Death for the duration of battle on all enemies, and Revive with full HP and a Perfect Titan Shield upon death.."
       ]
     }
   ]

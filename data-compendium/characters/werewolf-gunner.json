@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAG...",
-  "talismansSet": "4g5a",
+  "talismansSet": "4g 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_gunner.png",
   "skills": [
@@ -41,7 +41,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies. Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn."
+        "• Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies.",
+        "• Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn.."
       ]
     }
   ]

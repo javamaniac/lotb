@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "GGG...",
-  "talismansSet": "6g",
+  "talismansSet": "6g 5g 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/virus-eddie-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_virus.png",
   "skills": [
@@ -80,7 +80,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove one Beneficial Effect from all enemies and inflict Passive Disable on a random enemy for 2 turns when you take damage. 20% Chance to Remove 1 Golden Effect from all enemies when you take damage."
+        "• Remove one Beneficial Effect from all enemies and inflict Passive Disable on a random enemy for 2 turns when you take damage.",
+        "• 20% Chance to Remove 1 Golden Effect from all enemies when you take damage.."
       ]
     }
   ]

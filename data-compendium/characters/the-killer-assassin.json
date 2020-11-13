@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer.png",
   "skills": [
@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Inflicts two instances of Fear on random enemies for 1 turn, every turn. Inflict Perfect Disable on up to 2 random enemies for 1 turn every turn."
+        "• Inflicts two instances of Fear on random enemies for 1 turn, every turn.",
+        "• Inflict Perfect Disable on up to 2 random enemies for 1 turn every turn.."
       ]
     }
   ]

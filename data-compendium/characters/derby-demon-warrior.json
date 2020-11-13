@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SSW...",
-  "talismansSet": "4w5s",
+  "talismansSet": "4w 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_warrior.png",
   "skills": [
@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Generate Fury when you take damage. 20% Chance to gain an Extra Turn after each action."
+        "• Generate Fury when you take damage.",
+        "• 20% Chance to gain an Extra Turn after each action.."
       ]
     }
   ]

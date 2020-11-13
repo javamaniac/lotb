@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GGG...",
-  "talismansSet": "6g",
+  "talismansSet": "6g 5g 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_minotaur_gunner.png",
   "skills": [
@@ -36,7 +36,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduces all damage taken by 20% for self. Grants Immunity to Sleep and Perfect Sleep to all allies. Grants Perfect Accuracy, Perfect Health, and Increase ATK, MAGIC, DEF, and MR to all allies for 2 turns at the start of battle."
+        "• Reduces all damage taken by 20% for self.",
+        "• Grants Immunity to Sleep and Perfect Sleep to all allies.",
+        "• Grants Perfect Accuracy, Perfect Health, and Increase ATK, MAGIC, DEF, and MR to all allies for 2 turns at the start of battle.."
       ]
     }
   ]

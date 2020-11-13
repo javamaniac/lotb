@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SWW...",
-  "talismansSet": "5w4s",
+  "talismansSet": "5w 4w 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/crimson-pharaoh-dog-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pharaohdog_red.png",
   "skills": [
@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Lowers the Accuracy of enemies for 2 turns at the start of battle."
+        "• Lowers the Accuracy of enemies for 2 turns at the start of battle.."
       ]
     }
   ]

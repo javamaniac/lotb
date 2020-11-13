@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "......",
-  "talismansSet": "6w6m6s6g6a",
+  "talismansSet": "6w 5w 4w 6m 5m 4m 6s 5s 4s 6g 5g 4g 6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-golden-son-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_golden_son_f.png",
   "skills": [
@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Class Advantage against all enemies. Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn."
+        "• Gain Class Advantage against all enemies.",
+        "• Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn.."
       ]
     }
   ]

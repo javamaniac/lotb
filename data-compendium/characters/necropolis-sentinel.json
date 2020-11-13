@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SWW...",
-  "talismansSet": "5w4s",
+  "talismansSet": "5w 4w 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/necropolis-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_necropolis.png",
   "skills": [
@@ -42,7 +42,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant immunity to passive disable to all allies after the first turn of battle. Deal 3 hits of Additional Random Damage based on the enemy’s MAX HP every action. Grant Immunity to Stat Reduction effects to all allies for the duration of battle. 30% Chance to grant Echo status to each ally for 2 turns every action."
+        "• Grant immunity to passive disable to all allies after the first turn of battle.",
+        "• Deal 3 hits of Additional Random Damage based on the enemy’s MAX HP every action.",
+        "• Grant Immunity to Stat Reduction effects to all allies for the duration of battle.",
+        "• 30% Chance to grant Echo status to each ally for 2 turns every action.."
       ]
     }
   ]

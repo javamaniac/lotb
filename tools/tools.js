@@ -20,7 +20,7 @@ async function * getFiles (dir) {
 const readFile = (fileName) => util.promisify(fs.readFile)(fileName, 'utf8')
 
 async function * getJsonCharacter () {
-  for await (const file of getFiles('./data')) {
+  for await (const file of getFiles('./data-compendium/characters')) {
     const jsonString = await readFile(file)
     const character = JSON.parse(jsonString)
     yield character
@@ -32,7 +32,7 @@ async function * getJsonCharacter () {
  * @param {*} fn
  */
 const forEachJsonFile = async (fn) => {
-  for await (const file of getFiles('./data')) {
+  for await (const file of getFiles('./data-compendium/characters')) {
     fs.readFile(file, 'utf8', (err, jsonString) => {
       if (err) {
         console.log('File read failed:', err)

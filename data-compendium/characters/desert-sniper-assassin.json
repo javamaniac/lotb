@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SWW...",
-  "talismansSet": "5w4s",
+  "talismansSet": "5w 4w 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-sniper-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_nomadsniper_purple.png",
   "skills": [
@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Shroud and Perfect Hit status for the duration of the battle."
+        "• Gain Shroud and Perfect Hit status for the duration of the battle.."
       ]
     }
   ]

@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "MMM...",
-  "talismansSet": "6m",
+  "talismansSet": "6m 5m 4m",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_red.png",
   "skills": [
@@ -38,7 +38,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to Stun, Blind, and Silence. Absorbs all Physical Damage and returns it at the end of each turn to all enemies. Inflicts Stop and Seal on a random enemy every turn for 2 turns."
+        "• Immune to Stun, Blind, and Silence.",
+        "• Absorbs all Physical Damage and returns it at the end of each turn to all enemies.",
+        "• Inflicts Stop and Seal on a random enemy every turn for 2 turns.."
       ]
     }
   ]

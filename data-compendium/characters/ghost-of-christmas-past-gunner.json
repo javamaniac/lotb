@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GWW...",
-  "talismansSet": "5w4g",
+  "talismansSet": "5w 4w 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/ghost-of-christmas-past-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_ghostofxmas_past.png",
   "skills": [
@@ -39,7 +39,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant immunity to Fear, Permadeath, and Doom to all allies. Remove All Beneficial Effects, including Golden effects, and Inflict Perfect Corruption and Seal for 2 Turns on all enemies at the start of battle. Remove All Beneficial, including Golden effects, from a random enemy at the start of your turn. Inflict Perfect Blind on up to 3 enemies for 2 turns when you take damage."
+        "• Grant immunity to Fear, Permadeath, and Doom to all allies.",
+        "• Remove All Beneficial Effects, including Golden effects, and Inflict Perfect Corruption and Seal for 2 Turns on all enemies at the start of battle.",
+        "• Remove All Beneficial, including Golden effects, from a random enemy at the start of your turn.",
+        "• Inflict Perfect Blind on up to 3 enemies for 2 turns when you take damage.."
       ]
     }
   ]

@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "GGG...",
-  "talismansSet": "6g",
+  "talismansSet": "6g 5g 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/bounty-hunter-eddie-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_cyborgstranger.png",
   "skills": [
@@ -82,7 +82,12 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain a random defensive effect when you take damage. Stun a random enemy at the start of battle for the duration of battle. This effect cannot be blocked or ignored, but does not apply to bosses. Heal for 15% of your Max HP whenever you take physical or magic damage. Reduce the trigger chance of all enemy skill effects that are not 100% by 75%. Steal 3 Power and 30% Fury from the enemy team every action."
+        "• Gain a random defensive effect when you take damage.",
+        "• Stun a random enemy at the start of battle for the duration of battle.",
+        "• This effect cannot be blocked or ignored, but does not apply to bosses.",
+        "• Heal for 15% of your Max HP whenever you take physical or magic damage.",
+        "• Reduce the trigger chance of all enemy skill effects that are not 100% by 75%.",
+        "• Steal 3 Power and 30% Fury from the enemy team every action.."
       ]
     }
   ]

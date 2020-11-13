@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SSS...",
-  "talismansSet": "6s",
+  "talismansSet": "6s 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/onyx-son-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/07/hud_icon_onyxson_gunner.png",
   "skills": [
@@ -39,7 +39,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Vanish to self and a random ally for 1 turn every action. Revive a random ally when any ally dies."
+        "• Grant Vanish to self and a random ally for 1 turn every action.",
+        "• Revive a random ally when any ally dies.."
       ]
     }
   ]

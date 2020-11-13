@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "AAG...",
-  "talismansSet": "4g5a",
+  "talismansSet": "4g 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/gambler-eddie-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_gambler.png",
   "skills": [
@@ -82,7 +82,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "60% Chance to Transform Immunity into a random Negative Effect that lasts for 2 turns after the first turn of battle. Transform existing Negative Effects on enemies into their Silver versions for 2 turns. Gain Perfect Heal Shield for self and grant HP Regen and Ascension to all allies for 2 turns when you reach 1 HP."
+        "• 60% Chance to Transform Immunity into a random Negative Effect that lasts for 2 turns after the first turn of battle.",
+        "• Transform existing Negative Effects on enemies into their Silver versions for 2 turns.",
+        "• Gain Perfect Heal Shield for self and grant HP Regen and Ascension to all allies for 2 turns when you reach 1 HP.."
       ]
     }
   ]

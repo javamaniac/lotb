@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "......",
-  "talismansSet": "6w6m6s6g6a",
+  "talismansSet": "6w 5w 4w 6m 5m 4m 6s 5s 4s 6g 5g 4g 6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/skuld-cosmic-valhalla-maiden-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/hud_icon_valhallamaiden_cosmic.png",
   "skills": [
@@ -39,7 +39,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Has Class Advantage against every enemy. Immune to Permadeath, Perfect Death, Doom, Dark Ghost, Apparition, Innate Permadeath and Max HP Reduction effects. Permanently Increase Max HP on self by +100%. Transform All Beneficial Effects, including Golden effects, on a random enemy into Passive Disable, Exhaust and Doom for 1 turn at the start of battle and at the start of your turn. Once per battle, Revive with full HP and deal 3 hits of Additional Random Damage to each enemy based on your MAX HP and their MISSING HP upon death."
+        "• Has Class Advantage against every enemy.",
+        "• Immune to Permadeath, Perfect Death, Doom, Dark Ghost, Apparition, Innate Permadeath and Max HP Reduction effects.",
+        "• Permanently Increase Max HP on self by +100%.",
+        "• Transform All Beneficial Effects, including Golden effects, on a random enemy into Passive Disable, Exhaust and Doom for 1 turn at the start of battle and at the start of your turn.",
+        "• Once per battle, Revive with full HP and deal 3 hits of Additional Random Damage to each enemy based on your MAX HP and their MISSING HP upon death.."
       ]
     }
   ]

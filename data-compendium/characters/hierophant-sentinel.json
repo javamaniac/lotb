@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GSS...",
-  "talismansSet": "5s4g",
+  "talismansSet": "5s 4s 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/hierophant-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_hierophant_green.png",
   "skills": [
@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grant Endure and Perfect Immunity to all allies for 2 turns at the start of battle. Grant Immunity to Heal Block and Heal Reduction effects."
+        "• Grant Endure and Perfect Immunity to all allies for 2 turns at the start of battle.",
+        "• Grant Immunity to Heal Block and Heal Reduction effects.."
       ]
     }
   ]

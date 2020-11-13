@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GGG...",
-  "talismansSet": "6g",
+  "talismansSet": "6g 5g 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/sanctified-templar-knight-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_TemplarKnightSanctified_gunner.png",
   "skills": [
@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain an Innate Force Shield that prevents damage from a total of 12 incoming attacks at the start of battle and whenever you revive or an enemy is killed. Gain 1 Power, increasing by 1 each turn up to a maximum of 12, at the start of your turn."
+        "• Gain an Innate Force Shield that prevents damage from a total of 12 incoming attacks at the start of battle and whenever you revive or an enemy is killed.",
+        "• Gain 1 Power, increasing by 1 each turn up to a maximum of 12, at the start of your turn.."
       ]
     }
   ]

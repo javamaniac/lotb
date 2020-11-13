@@ -25,7 +25,7 @@ async function * getFiles (dir) {
   const readFile = util.promisify(fs.readFile);
 
   console.time('index')
-  for await (const f of getFiles('./data')) {
+  for await (const f of getFiles('./data-compendium/characters')) {
     console.log(f)
 
     const jsonString =  await readFile(f, 'utf8')

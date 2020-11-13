@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/eternal-champion-eddie-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_eternity_skin.png",
   "skills": [
@@ -84,7 +84,11 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Immune to True Damage. Gain Perfect Immunity at the start of battle for the duration of battle. Reduce damage taken by 50% and Reflect 100% of the remaining damage back as random damage and inflict a random negative effect for 1 turn on each enemy when you take damage. Grant a random ally, not including self, an Extra Turn every action. Steal a random golden effect from each enemy and steal all beneficial effects from a random enemy every action."
+        "• Immune to True Damage.",
+        "• Gain Perfect Immunity at the start of battle for the duration of battle.",
+        "• Reduce damage taken by 50% and Reflect 100% of the remaining damage back as random damage and inflict a random negative effect for 1 turn on each enemy when you take damage.",
+        "• Grant a random ally, not including self, an Extra Turn every action.",
+        "• Steal a random golden effect from each enemy and steal all beneficial effects from a random enemy every action.."
       ]
     }
   ]

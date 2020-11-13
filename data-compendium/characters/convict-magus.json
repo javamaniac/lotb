@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "MMS...",
-  "talismansSet": "5m4s",
+  "talismansSet": "5m 4m 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/convict-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_prisonergirl_blue.png",
   "skills": [
@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Silence and Crave effects to all allies. Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle."
+        "• Grants Immunity to Silence and Crave effects to all allies.",
+        "• Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle.."
       ]
     }
   ]

@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "WWW...",
-  "talismansSet": "6w",
+  "talismansSet": "6w 5w 4w",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/apma-robo-scout-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_roboscout_red.png",
   "skills": [
@@ -36,7 +36,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove Immunity and Perfect Immunity from up to 2 enemies every turn."
+        "• Remove Immunity and Perfect Immunity from up to 2 enemies every turn.."
       ]
     }
   ]

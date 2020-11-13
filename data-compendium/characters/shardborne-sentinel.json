@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "GSS...",
-  "talismansSet": "5s4g",
+  "talismansSet": "5s 4s 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_sentinel.png",
   "skills": [
@@ -38,7 +38,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Burn, Stun, Freeze, and Taunt effects to all allies."
+        "• Grants Immunity to Burn, Stun, Freeze, and Taunt effects to all allies.."
       ]
     }
   ]

@@ -33,7 +33,7 @@ const parse = () => {
   }
 
   /**
-   * Convert talisman format 'WWS...' to '5w4s'
+   * Convert talisman format 'WWS...' to '5w 4w 4s'
    * @param {String} talismanCode
    */
   const getTalismansSet = (talismanCode) => {
@@ -42,12 +42,15 @@ const parse = () => {
 
     const getTalismanSetCode = (className) => {
       const nb = codeList.filter(t => t === className).length + nbEmptySlot
-      return nb > 3 ? nb + className : ''
+      if (nb === 4) { return [`4${className}`]}
+      if (nb === 5) { return [`5${className}`, `4${className}`]}
+      if (nb === 6) { return [`6${className}`, `5${className}`, `4${className}`]}
+      return []
     }
 
     const talismanSet = []
     for (const className of ['W', 'M', 'S', 'G', 'A']) {
-      talismanSet.push(getTalismanSetCode(className))
+      talismanSet.push(...getTalismanSetCode(className))
     }
     return talismanSet.join(' ').toLocaleLowerCase()
   }
@@ -64,14 +67,25 @@ const parse = () => {
       const [skillName, skillType, textPowerCost] = tdSkillName.querySelector('td p')
         .innerText.split(/[()]/)
 
-      const listeSkillDesc = tdSkillDesc.querySelector('td p')
+      let listeSkillDesc = tdSkillDesc.querySelector('td p')
         .innerText.split(/\n/)
       // .innerText.split(/(\n|\.)/)
+
+      const type = parseType(skillType)
+
+      if (type === 'Passive') {
+        if (listeSkillDesc.length > 1) {
+          throw new Error('Erreur de parsing de listeSkillDesc', listeSkillDesc)
+        }
+        // console.log('listeSkillDesc', listeSkillDesc)
+        // formater les skill passives comme les autres
+        listeSkillDesc = listeSkillDesc[0].split('. ').map(token => `• ${token}.`)
+      }
 
       const skill = {
         name: cleanText(skillName),
         typeName: skillType,
-        type: parseType(skillType),
+        type,
         desc: listeSkillDesc
       }
 

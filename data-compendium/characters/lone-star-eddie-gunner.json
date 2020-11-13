@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "GWW...",
-  "talismansSet": "5w4g",
+  "talismansSet": "5w 4w 4g",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/lone-star-eddie-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_loneStar.png",
   "skills": [
@@ -81,7 +81,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Apply Perfect Accuracy to self and allies for the Duration of battle. 35% Chance to Remove Invincibility from all enemies at the beginning of your turn. Inflict a random negative effect on a random enemy for 2 turns and reduce their Max HP by 10% at the start of your turn."
+        "• Apply Perfect Accuracy to self and allies for the Duration of battle.",
+        "• 35% Chance to Remove Invincibility from all enemies at the beginning of your turn.",
+        "• Inflict a random negative effect on a random enemy for 2 turns and reduce their Max HP by 10% at the start of your turn.."
       ]
     }
   ]

@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "SSW...",
-  "talismansSet": "4w5s",
+  "talismansSet": "4w 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/dark-road-eddie-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_eddie_darkroad.png",
   "skills": [
@@ -89,7 +89,12 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Immunity to Damage and All Negative Effects, including Silver and Unblockable effects, for 2 turns at the start of battle. Reduce Innate Accuracy on all enemies by 100% until they die. Deal up to 6 hits of Additional Random Damage to each enemy based on your DEF and their MISSING HP if they lack negative effects after every action. Permanently Increase All Stats on self by 50% whenever an ally is killed for the first time in battle. Remove All Beneficial Effects, including Golden effects, Permanently Reduce All Stats by 50% and inflict Passive Disable and Fear on all enemies for 3 turns whenever each enemy is killed for the first time in battle. This skill can only be countered by Passive Disable applied at the start of battle."
+        "• Gain Immunity to Damage and All Negative Effects, including Silver and Unblockable effects, for 2 turns at the start of battle.",
+        "• Reduce Innate Accuracy on all enemies by 100% until they die.",
+        "• Deal up to 6 hits of Additional Random Damage to each enemy based on your DEF and their MISSING HP if they lack negative effects after every action.",
+        "• Permanently Increase All Stats on self by 50% whenever an ally is killed for the first time in battle.",
+        "• Remove All Beneficial Effects, including Golden effects, Permanently Reduce All Stats by 50% and inflict Passive Disable and Fear on all enemies for 3 turns whenever each enemy is killed for the first time in battle.",
+        "• This skill can only be countered by Passive Disable applied at the start of battle.."
       ]
     }
   ]

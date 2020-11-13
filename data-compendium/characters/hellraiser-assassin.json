@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SSS...",
-  "talismansSet": "6s",
+  "talismansSet": "6s 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_purple.png",
   "skills": [
@@ -37,7 +37,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gain Revenge for the duration of the battle. Inflict a random negative effect on the enemy when you take damage."
+        "• Gain Revenge for the duration of the battle.",
+        "• Inflict a random negative effect on the enemy when you take damage.."
       ]
     }
   ]

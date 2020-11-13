@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "SWW...",
-  "talismansSet": "5w4s",
+  "talismansSet": "5w 4w 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/queens-guard-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_queens_guard.png",
   "skills": [
@@ -37,7 +37,7 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze)."
+        "• Cannot be Stunned, Taunted, Slept, or Frozen (including by unblockable Freeze).."
       ]
     }
   ]

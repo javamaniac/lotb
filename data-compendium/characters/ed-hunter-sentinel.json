@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "AAS...",
-  "talismansSet": "4s5a",
+  "talismansSet": "4s 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/ed-hunter-sentinel/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_edhunter.png",
   "skills": [
@@ -78,7 +78,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "When an ally dies grant a Physical, Magic, and True Damage Invulnerability Shield to all allies for 2 turns. Grant Echo status to self and a random ally for 1 turn if Perfect Hit is present at the start of your turn."
+        "• When an ally dies grant a Physical, Magic, and True Damage Invulnerability Shield to all allies for 2 turns.",
+        "• Grant Echo status to self and a random ally for 1 turn if Perfect Hit is present at the start of your turn.."
       ]
     }
   ]

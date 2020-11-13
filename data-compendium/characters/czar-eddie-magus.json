@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "MSS...",
-  "talismansSet": "4m5s",
+  "talismansSet": "4m 5s 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/czar-eddie-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/hud_icon_eddie_kingczar.png",
   "skills": [
@@ -75,7 +75,13 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Reduce all damage by 60%. Remove All Negative Effects, including Silver effects, from each ally and Heal them for 15% of their Max HP for each effect removed at the start of your turn. Grant all allies Immunity to Passive Disable effects until they die and a Random Offensive and Defensive Effect, including Golden effects, for 2 turns at the start of your turn. Grant 3 Random Beneficial and Golden Effects to each ally for 1 turn after every action. Deal Additional True Damage to a random enemy based on their MR stat if Sacrifice or Power Shield are active on self after every action. 50% Chance to inflict Fear and Perfect Death on all enemies for 1 turn when you take damage. Grant Endure and Echo to all allies for 3 turns when you reach 1 HP."
+        "• Reduce all damage by 60%.",
+        "• Remove All Negative Effects, including Silver effects, from each ally and Heal them for 15% of their Max HP for each effect removed at the start of your turn.",
+        "• Grant all allies Immunity to Passive Disable effects until they die and a Random Offensive and Defensive Effect, including Golden effects, for 2 turns at the start of your turn.",
+        "• Grant 3 Random Beneficial and Golden Effects to each ally for 1 turn after every action.",
+        "• Deal Additional True Damage to a random enemy based on their MR stat if Sacrifice or Power Shield are active on self after every action.",
+        "• 50% Chance to inflict Fear and Perfect Death on all enemies for 1 turn when you take damage.",
+        "• Grant Endure and Echo to all allies for 3 turns when you reach 1 HP.."
       ]
     }
   ]

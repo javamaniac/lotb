@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/anubis-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_anubis_purple.png",
   "skills": [
@@ -39,7 +39,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Doom, Curse, and Permadeath to all allies. 50% Chance to remove Immunity from each enemy at the start of battle. Inflict ATK Down and MAGIC down on all enemies for 2 turns at the start of battle. Revive all allies upon death."
+        "• Grants Immunity to Doom, Curse, and Permadeath to all allies.",
+        "• 50% Chance to remove Immunity from each enemy at the start of battle.",
+        "• Inflict ATK Down and MAGIC down on all enemies for 2 turns at the start of battle.",
+        "• Revive all allies upon death.."
       ]
     }
   ]

@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "AAA...",
-  "talismansSet": "6a",
+  "talismansSet": "6a 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/magma-beast-eddie-assassin/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_tourbeastmagma.png",
   "skills": [
@@ -77,7 +77,9 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to Remove Silver Effects from all allies at the start of your turn. Grant a Magma Shield to all allies at the start of each turn for 1 turn. Gain an Extra Turn and Ascension status for 1 turn if Burn Effects are present on any enemy after each action and then Consume all the burn effects."
+        "• 50% Chance to Remove Silver Effects from all allies at the start of your turn.",
+        "• Grant a Magma Shield to all allies at the start of each turn for 1 turn.",
+        "• Gain an Extra Turn and Ascension status for 1 turn if Burn Effects are present on any enemy after each action and then Consume all the burn effects.."
       ]
     }
   ]

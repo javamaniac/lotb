@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "S.....",
-  "talismansSet": "5w5m6s5g5a",
+  "talismansSet": "5w 4w 5m 4m 6s 5s 4s 5g 4g 5a 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/minotaur-warrior/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_minotaur_warrior.png",
   "skills": [
@@ -37,7 +37,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Remove and Prevent all Counterstrike and Revenge effects, including Golden and Innate effects, on each enemy until they die whenever this passive becomes active and at the start of your turn. Permanently Increase ATK, MAGIC and MAX HP on self by +5% for each Negative Effect on self at the start of battle and at the start of your turn. Remove All Golden Effects from all enemies if any enemy is suffering from Cleave after every action. 50% Chance to gain an Extra Turn after every action."
+        "• Remove and Prevent all Counterstrike and Revenge effects, including Golden and Innate effects, on each enemy until they die whenever this passive becomes active and at the start of your turn.",
+        "• Permanently Increase ATK, MAGIC and MAX HP on self by +5% for each Negative Effect on self at the start of battle and at the start of your turn.",
+        "• Remove All Golden Effects from all enemies if any enemy is suffering from Cleave after every action.",
+        "• 50% Chance to gain an Extra Turn after every action.."
       ]
     }
   ]

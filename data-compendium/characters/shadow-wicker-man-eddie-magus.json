@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "MMS...",
-  "talismansSet": "5m4s",
+  "talismansSet": "5m 4m 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/shadow-wicker-man-eddie-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_wickerblue.png",
   "skills": [
@@ -79,7 +79,10 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Grants Immunity to Burn, Doom, Dark Ghost, and Mark Effects to all allies. 35% Chance to inflict a random burn effect on all enemies when you take damage. Heal all allies at the start of your turn based on the number of burn effects on each enemy. Gain Perfect Immunity for the duration of battle."
+        "• Grants Immunity to Burn, Doom, Dark Ghost, and Mark Effects to all allies.",
+        "• 35% Chance to inflict a random burn effect on all enemies when you take damage.",
+        "• Heal all allies at the start of your turn based on the number of burn effects on each enemy.",
+        "• Gain Perfect Immunity for the duration of battle.."
       ]
     }
   ]

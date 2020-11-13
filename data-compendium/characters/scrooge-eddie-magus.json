@@ -6,7 +6,7 @@
   "eddie": true,
   "awakenable": false,
   "talismans": "MMS...",
-  "talismansSet": "5m4s",
+  "talismansSet": "5m 4m 4s",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/scrooge-eddie-magus/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_scrooge.png",
   "skills": [
@@ -84,7 +84,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "50% Chance to cleanse negative effects, including silver effects and heal self when you or any ally takes damage. Remove 2 random beneficial and golden effects from all enemies when you take damage."
+        "• 50% Chance to cleanse negative effects, including silver effects and heal self when you or any ally takes damage.",
+        "• Remove 2 random beneficial and golden effects from all enemies when you take damage.."
       ]
     }
   ]

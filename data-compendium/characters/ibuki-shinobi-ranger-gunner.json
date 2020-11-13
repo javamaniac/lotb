@@ -6,7 +6,7 @@
   "eddie": false,
   "awakenable": false,
   "talismans": "AGG...",
-  "talismansSet": "5g4a",
+  "talismansSet": "5g 4g 4a",
   "url": "http://www.news.maiden-lotb.com/n3/character-en/ibuki-shinobi-ranger-gunner/",
   "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shinobimaiden_yellow.png",
   "skills": [
@@ -38,7 +38,8 @@
       "typeName": "Passive",
       "type": "Passive",
       "desc": [
-        "Gains 100% Critical Strike Chance for the duration of battle. Grants Immunity to all allies for 2 turns at the start of battle."
+        "• Gains 100% Critical Strike Chance for the duration of battle.",
+        "• Grants Immunity to all allies for 2 turns at the start of battle.."
       ]
     }
   ]
