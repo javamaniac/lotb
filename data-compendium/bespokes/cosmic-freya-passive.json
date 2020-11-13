@@ -1,0 +1,16 @@
+{
+  "id": "cosmic-freya-passive",
+  "type": "bespoke",
+  "name": "Cosmic Freya Passive T3",
+  "owner": "the Freya character.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Gain Immunity to Crave, Doom, and Dark Ghost",
+    "Grants immunity to Permadeath effects, including innate effects",
+    "Revive self with full HP and Remove All Negative Effects, including Silver Effects, and heal each ally to full HP, granting them Invincibility, Heal Amp, and Regen for 1 turn, upon death.This Talisman's effects only activates when equipped to the Freya character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-freya-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Norse.png"
+}

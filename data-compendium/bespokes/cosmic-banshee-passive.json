@@ -1,0 +1,16 @@
+{
+  "id": "cosmic-banshee-passive",
+  "type": "bespoke",
+  "name": "Cosmic Banshee Passive T3",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Grant immunity to Doom and Stun effects to all allies until they die",
+    "Grant Perfect Trap and Perfect Heal Shield to each ally for 1 turn every turn",
+    "Revive with full HP, remove all negative effects from all allies, including Silver Effects, and make them immune to all negative effects, including innate and unblockable stun, permadeath, taunt, and skill disabling effects, for the duration of battle when you die",
+    "This Talisman's effects only activates when equipped to a Banshee character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-banshee-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_NightCity.png"
+}

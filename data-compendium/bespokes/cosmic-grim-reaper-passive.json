@@ -1,0 +1,16 @@
+{
+  "id": "cosmic-grim-reaper-passive",
+  "type": "bespoke",
+  "name": "Cosmic Grim Reaper Passive T3",
+  "owner": "the Grim Reaper Eddie character.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Take no damage for the first turn of battle and gain +50% Fury if you are attacked on the first turn of battle",
+    "Deal additional random damage to a random enemy equal to 50% of their MISSING HP every action",
+    "Gain Endure and Heal Shield for 3 turns when your HP reaches 1 the first time in battle.This Talisman's effects only activates when equipped to the Grim Reaper Eddie character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-grim-reaper-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Occult.png"
+}

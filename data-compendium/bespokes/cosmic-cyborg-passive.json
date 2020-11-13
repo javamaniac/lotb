@@ -1,0 +1,16 @@
+{
+  "id": "cosmic-cyborg-passive",
+  "type": "bespoke",
+  "name": "Cosmic Cyborg Passive T3",
+  "owner": "Bounty Hunter Eddie or a Max Awakened Cyborg Eddie.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 75%",
+    "Grant a random offensive effect to self for 2 turns and inflict Passive Disable on an enemy for 1 turn when the enemy heals",
+    "Grant Immunity to Sleep and Perfect Sleep to all allies",
+    "This Talisman's effects only activate when equipped to Bounty Hunter Eddie or a Max Awakened Cyborg Eddie."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-cyborg-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_CyborgEddie.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cosmic-icarus-passive",
+  "type": "bespoke",
+  "name": "Cosmic Icarus Passive T3",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Disable the passives of up to 3 enemies at the start of battle for 1 turn",
+    "Increase damage dealt to all enemies by +15%",
+    "Avoid taking damage for 1 turn and revive a random ally every time you take damage when you reach 1 HP the first time in battle",
+    "This Talisman's effects only activates when equipped to Icarus, Daedalus, Icarus Eddie, or Fallen Icarus Eddie character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-icarus-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Greek.png"
+}

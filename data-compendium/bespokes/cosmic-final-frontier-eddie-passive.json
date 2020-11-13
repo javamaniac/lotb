@@ -1,0 +1,18 @@
+{
+  "id": "cosmic-final-frontier-eddie-passive",
+  "type": "bespoke",
+  "name": "Cosmic Final Frontier Eddie Passive T3",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Immune to Freeze, Doom, Dark Ghost, Apparition and Max HP Reduction effects",
+    "Permanently Increase Max HP on self by +100%",
+    "Cannot take more than 5% of MAX HP as damage from any single attack",
+    "Gain a Random Offensive Effect, including Golden effects, for 2 turns and Reduce Healing by 90% on attacking enemies until they die when you take damage",
+    "Remove All Negative Effects, including Silver and Unblockable effects, from self, gain up to 10 Random Golden Effects for the duration of battle and gain Immunity to Damage and All Negative Effects, including Silver and Unblockable effects, for 1 turn when you reach 1 HP for the first time in battle",
+    "This Talisman's effects only activates when equipped to the Final Frontier Eddie character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-final-frontier-eddie-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Gauntlet.png"
+}

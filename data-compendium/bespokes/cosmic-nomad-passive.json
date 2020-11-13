@@ -1,0 +1,16 @@
+{
+  "id": "cosmic-nomad-passive",
+  "type": "bespoke",
+  "name": "Cosmic Nomad Passive T3",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Increase the stats of all allies in battle by +100%",
+    "All of your attacks land as Perfect Attacks and you are Immune to all Silence and Ability Disabling effects",
+    "Grant 1 Power and a 25% chance for an Extra Turn to each ally every action",
+    "This Talisman's effects only activate when equipped to a 5★ The Nomad character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-nomad-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Powerslave.png"
+}

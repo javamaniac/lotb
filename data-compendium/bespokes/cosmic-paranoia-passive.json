@@ -1,0 +1,17 @@
+{
+  "id": "cosmic-paranoia-passive",
+  "type": "bespoke",
+  "name": "Cosmic Paranoia Passive T3",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Inflict Paranoia on a random enemy until they die at the start of battle and at the start of your turn",
+    "Paranoid enemies cannot gain beneficial effects, miss all attacks unless they are Perfect Attacks and take a random amount of Additional Random Damage based on their MAX HP and MISSING HP every turn",
+    "This effect does not apply to bosses",
+    "Prevent all enemies from blocking incoming damage for allies until they die at the start of battle and at the start of your turn",
+    "This Talisman's effects only activates when equipped to the Fear Of The Dark Eddie, Dark Road Eddie, X Factor Eddie or The Edless Horseman characters."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-paranoia-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Paranoia.png"
+}
