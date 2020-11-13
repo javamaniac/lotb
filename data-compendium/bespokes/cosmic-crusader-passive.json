@@ -2,6 +2,7 @@
   "id": "cosmic-crusader-passive",
   "type": "bespoke",
   "name": "Cosmic Crusader Passive T3",
+  "owner": "the Crusader Eddie or Templar Crusader Eddie characters.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",

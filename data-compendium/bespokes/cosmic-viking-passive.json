@@ -2,6 +2,7 @@
   "id": "cosmic-viking-passive",
   "type": "bespoke",
   "name": "Cosmic Viking Passive T3",
+  "owner": "the Viking Eddie or Viking Invader Eddie character.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",

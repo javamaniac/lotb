@@ -52,6 +52,21 @@ async function addTalisman (talisman) {
   })
 }
 
+async function addBespoke (bespoke) {
+  const body = {
+    ...bespoke,
+    type: 'talisman bespoke'
+  }
+
+  console.log('import', bespoke.id)
+  await client.index({
+    index: 'lotb-character',
+    id: bespoke.id,
+    // type: '_doc', // uncomment this line if you are using Elasticsearch ≤ 6
+    body
+  })
+}
+
 async function search (query) {
   query = query || {
     // name
@@ -86,6 +101,7 @@ async function refreshIndex () {
 module.exports = {
   addCharacter,
   addTalisman,
+  addBespoke,
   refreshIndex,
   search
 }

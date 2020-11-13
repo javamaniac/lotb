@@ -2,6 +2,7 @@
   "id": "cosmic-final-frontier-eddie-passive",
   "type": "bespoke",
   "name": "Cosmic Final Frontier Eddie Passive T3",
+  "owner": "the Final Frontier Eddie character.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",

@@ -2,6 +2,7 @@
   "id": "cosmic-mongol-passive",
   "type": "bespoke",
   "name": "Cosmic Mongol Passive T3",
+  "owner": "the Khan Eddie, Genghis Khan or Mongol characters.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",

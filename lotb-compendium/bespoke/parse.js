@@ -12,7 +12,7 @@ const parse = (image2) => {
   const name = container.querySelector('h2').innerHTML.split(') ')[1]
   const image = container.querySelector('img').src
   const passiveSkills = container.querySelector('.cosmic-talisman-des p').innerHTML.split('. ')
-  const owner = container.querySelector('.cosmic-talisman-des p').innerHTML.split('. ')[4].split('equipped to ')[1]
+  const owner = passiveSkills[passiveSkills.length - 1].split('equipped to ')[1]
 
   const bespoke = {
     id,

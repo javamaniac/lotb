@@ -2,6 +2,7 @@
   "id": "cosmic-pharaoh-dog-passive",
   "type": "bespoke",
   "name": "Cosmic Pharaoh Dog Passive T3",
+  "owner": "Pharaoh Dog or Pharaoh Dog King characters.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",

@@ -2,6 +2,7 @@
   "id": "cosmic-oni-eddie-passive",
   "type": "bespoke",
   "name": "Cosmic Oni Eddie Passive T3",
+  "owner": "the Oni Eddie character.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",

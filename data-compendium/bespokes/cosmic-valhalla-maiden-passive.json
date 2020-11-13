@@ -2,6 +2,7 @@
   "id": "cosmic-valhalla-maiden-passive",
   "type": "bespoke",
   "name": "Cosmic Valhalla Maiden Passive T3",
+  "owner": "a Valhalla Maiden character.",
   "set": 1,
   "passiveSkills": [
     "Grants +50% increase to all stats in battle",
