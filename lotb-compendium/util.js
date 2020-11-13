@@ -35,10 +35,7 @@ async function forEachLotb (url, anchorSelector, extractFn) {
 let browser = null
 let page = null
 
-// extactLotb(url, parseCharacter, 'data-compendium/bespoke')
 async function extactLotb (url, parseFn, folder) {
-
-  // return new Promise(async (resolve, reject) => {
   if (!browser) {
     browser = await puppeteer.launch({
       // devtools: true,
