@@ -1,0 +1,42 @@
+{
+  "id": "cha-possessed-mine-assassin",
+  "name": "Possessed Mine",
+  "class": "Assassin",
+  "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA...",
+  "talismansSet": "6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-mine-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0010_Layer-4.png",
+  "skills": [
+    {
+      "name": "EXPIRE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage to all enemies.",
+        "• 50% Chance to Block Beneficial Effects."
+      ]
+    },
+    {
+      "name": "PRESERVE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heals all allies.",
+        "• Increase Effect Duration of beneficial effects.",
+        "• Heal amount is based on your MAGIC stat."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "EXPLODE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.."
+      ]
+    }
+  ]
+}

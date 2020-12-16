@@ -1,0 +1,16 @@
+{
+  "id": "tal-gluttonous-magus",
+  "name": "Gluttonous",
+  "class": "magus",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Immune to Stop and Heal Block effects, including Silver and Innate effects",
+    "Each ally and enemy takes 300% Increased Damage for 1 turn if Crave effects, including Silver and Innate effects on are active on them at the start of battle and at the start of your turn",
+    "25% Chance to Permanently Increase All Stats, including Max HP, on self by +25% when you are healed",
+    "75% Chance to gain an Extra Turn if healed while at 50% HP or below",
+    "Heal all allies for 25% of your MAX HP and inflict Crave or Perfect Crave on each enemy for the duration of battle after every action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/gluttonous-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/IconTAL_Gluttonous.png"
+}

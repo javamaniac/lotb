@@ -1,0 +1,12 @@
+{
+  "id": "tal-aim-magus",
+  "name": "Aim",
+  "class": "magus",
+  "set": 2,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Perfect Hit to self at the start of battle for 2 turns and Perfect Accuracy to self at the start of battle for 1 turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/aim-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Aim.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tal-prideful-gunner",
+  "name": "Prideful",
+  "class": "gunner",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Immune to Block Beneficial Effects and Perfect Corruption",
+    "Reduce all damage taken by 99% for 1 turn if you have at least 3 Golden Effects active at the start of battle and at the start of your turn",
+    "Permanently Increase All Stats, including Max HP, on each ally by +10% for each Golden Effect on them at the start of battle and at the start of your turn",
+    "Gain Immunity, Perfect Hit, Revenge and Charge for 1 turn if you lack Golden Effects at the start of battle and at the start of your turn",
+    "35% Chance to grant a Random Golden Effect to self and a random ally for 3 turns when you take damage",
+    "Grant a Random Golden Effect to each ally for 3 turns if Perfect Hit effects, including Golden and Innate effects, are active on self after every action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/prideful-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/08/IconTAL_Prideful.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cos-cosmic-musashi-passive",
+  "type": "bespoke",
+  "name": "Cosmic Musashi Passive T3",
+  "owner": "the Musashi character.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage taken by 50%",
+    "Immune to all negative effects, including innate and unblockable stun, permadeath, taunt, and skill disabling effects (not including Passive Disable)",
+    "Grant Perfect Hit and HP Regen to all allies at the start of your turn for 2 turns",
+    "35% Chance to grant an extra turn to a random ally if any enemy is inflicted with Smite or Ignite every action",
+    "This Talisman's effects only activates when equipped to the Musashi character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-musashi-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Samurai.png"
+}

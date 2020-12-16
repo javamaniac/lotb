@@ -1,0 +1,12 @@
+{
+  "id": "tal-health-sentinel",
+  "name": "Health",
+  "class": "sentinel",
+  "set": 2,
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases HP by 15%"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/health-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Health.png"
+}

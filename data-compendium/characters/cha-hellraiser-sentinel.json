@@ -1,0 +1,44 @@
+{
+  "id": "cha-hellraiser-sentinel",
+  "name": "Hellraiser",
+  "class": "Sentinel",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS...",
+  "talismansSet": "6s 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_green.png",
+  "skills": [
+    {
+      "name": "BULLDOZE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 20% Chance to Stun the target each hit.",
+        "• Deal Additional Magic Damage if the target is stunned."
+      ]
+    },
+    {
+      "name": "TEMPER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• Remove Immunity effects from the target.",
+        "• Grant an Extra Turn to self and a random ally if Immunity is removed.",
+        "• Grant Accuracy Up to all allies."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "REBEL\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Stun or Freeze a random enemy for every ally that is Stunned or Frozen (including by unblockable Freeze) and Cleanse self of all Negative Effects, including Silver.."
+      ]
+    }
+  ]
+}

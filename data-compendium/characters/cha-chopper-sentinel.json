@@ -1,0 +1,36 @@
+{
+  "id": "cha-chopper-sentinel",
+  "name": "Chopper",
+  "class": "Sentinel",
+  "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWW...",
+  "talismansSet": "5w 4w 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_green.png",
+  "skills": [
+    {
+      "name": "SCRAP",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 55% Chance to Permadeath for 3 turns.",
+        "• Deals Additional Physical Damage to enemies suffering from Permadeath or Doom."
+      ]
+    },
+    {
+      "name": "DEAD TO RIGHTS\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Dooms the enemy if they have Permadeath.",
+        "• Heals all allies.",
+        "• Heal amount increases based on the number of negative effects on the enemy."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

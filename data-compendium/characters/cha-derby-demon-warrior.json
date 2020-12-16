@@ -1,0 +1,45 @@
+{
+  "id": "cha-derby-demon-warrior",
+  "name": "Derby Demon",
+  "class": "Warrior",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSW...",
+  "talismansSet": "4w 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_warrior.png",
+  "skills": [
+    {
+      "name": "DISMANTLE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Remove up to 3 Beneficial Effects.",
+        "• Disable the Passive of the enemy for 2 turns.",
+        "• 65% Chance to Stun the target for 1 turn if they are suffering from Decreased Max HP effects."
+      ]
+    },
+    {
+      "name": "MASS DESTRUCTION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Decrease the Max HP of all enemies by 20%.",
+        "• Inflict Ignite on all enemies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "ROLLING FURY\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Generate Fury when you take damage.",
+        "• 20% Chance to gain an Extra Turn after each action.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tal-saint-warrior",
+  "name": "Saint",
+  "class": "warrior",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Revive the first ally that dies in battle with Invincibility and HP Regen for 1 turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/saint-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Saint.png"
+}

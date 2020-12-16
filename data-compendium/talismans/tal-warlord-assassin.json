@@ -1,0 +1,12 @@
+{
+  "id": "tal-warlord-assassin",
+  "name": "Warlord",
+  "class": "assassin",
+  "set": 2,
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain a random Offensive Effect when healed with a 15% Chance to gain an Extra Turn if healed on your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/warlord-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Warlord.png"
+}

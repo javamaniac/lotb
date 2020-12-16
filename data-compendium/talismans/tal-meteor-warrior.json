@@ -1,0 +1,12 @@
+{
+  "id": "tal-meteor-warrior",
+  "name": "Meteor",
+  "class": "warrior",
+  "set": 4,
+  "type": "Ability",
+  "powerSkills": [
+    "• Deals physical damage to all enemies.• 60% Chance to inflicts up to 5 Physical Burns for 3 turns.\n• Grant an Extra Turn to self and a random ally."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/meteor-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Meteor.png"
+}

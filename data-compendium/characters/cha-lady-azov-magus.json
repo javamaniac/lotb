@@ -1,0 +1,43 @@
+{
+  "id": "cha-lady-azov-magus",
+  "name": "Lady Azov",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "AAA...",
+  "talismansSet": "6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/lady-azov-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_trooper_sister_1.png",
+  "skills": [
+    {
+      "name": "FALSE ANGEL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of true damage to a single target.",
+        "• 20% Chance to Remove Beneficial Effects on each hit.",
+        "• The final hit Heals all allies based on your MAX HP."
+      ]
+    },
+    {
+      "name": "GHOST IN THE SNOW\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grants 100% Critical Strike Chance for 2 turns.",
+        "• Grants Echo status for 2 turns.",
+        "• Vanish for 1 turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "SPECTER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• 30% Chance to gain Invincibility, Immunity, or Immortality for 1 turn upon taking damage.."
+      ]
+    }
+  ]
+}

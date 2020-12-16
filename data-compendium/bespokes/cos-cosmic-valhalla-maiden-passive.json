@@ -1,0 +1,17 @@
+{
+  "id": "cos-cosmic-valhalla-maiden-passive",
+  "type": "bespoke",
+  "name": "Cosmic Valhalla Maiden Passive T3",
+  "owner": "a Valhalla Maiden character.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Reduce the healing of all enemies by 50%",
+    "Grant Immunity to Stop and all Stun effects, including Perfect and Innate Stuns, to all allies",
+    "Inflict Punish and Accuracy Down on a random enemy for 2 turns every action",
+    "This Talisman's effects only activates when equipped to a Valhalla Maiden character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-valhalla-maiden-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Norse.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cha-the-alchemist-magus",
+  "name": "The Alchemist",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "AAA...",
+  "talismansSet": "6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-alchemist-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_alchemist.png",
+  "skills": [
+    {
+      "name": "TRANSMUTATION",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Transform negative effects on allies to positive.",
+        "• 50% Chance to Transform Golden Effects on enemies into one random Silver Effect.",
+        "• Damage dealt increases the lower your CURRENT HP."
+      ]
+    },
+    {
+      "name": "LAST RITES\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals a portion of the enemy’s MAX HP as true damage to all enemies.",
+        "• Heals all allies for 40% of their MAX HP.",
+        "• 25% Chance to inflict Doom on all enemies for 3 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "STRANGE ALCHEMY\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Grants Soul Protect and Immunity to all allies for the remainder of the battle.",
+        "• If allies die with Soul Protect, they will gain Ghost status and remain alive for 3 turns after death or until inflicted with Permadeath."
+      ]
+    }
+  ]
+}

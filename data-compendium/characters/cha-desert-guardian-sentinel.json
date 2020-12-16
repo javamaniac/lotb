@@ -1,0 +1,43 @@
+{
+  "id": "cha-desert-guardian-sentinel",
+  "name": "Desert Guardian",
+  "class": "Sentinel",
+  "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS...",
+  "talismansSet": "6s 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/desert-guardian-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0029_Layer-44.png",
+  "skills": [
+    {
+      "name": "THRUST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• 3 hits of magic damage to a single target.",
+        "• Disable Passive of enemy for 1 turn.",
+        "• Deals Additional True Damage for each damage over time effect on the enemy."
+      ]
+    },
+    {
+      "name": "FEVER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• Heals all allies.",
+        "• 40% Chance to Heal Block the enemy for 2 turns."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "BLOCK\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Takes the damage for any ally below 50% HP or any attack that would reduce an ally below 50% HP.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cha-cultist-warden-warrior",
+  "name": "Cultist Warden",
+  "class": "Warrior",
+  "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cultist-warden-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_oxred.png",
+  "skills": [
+    {
+      "name": "PLEDGE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 45% Chance for an Extra Turn on Perfect Attacks."
+      ]
+    },
+    {
+      "name": "ORDAIN\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Gain Charge for 1 turn.",
+        "• Charge increases the effectiveness of the next damage ability used by 80%."
+      ],
+      "powerCost": 2
+    }
+  ]
+}

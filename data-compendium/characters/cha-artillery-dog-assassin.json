@@ -1,0 +1,42 @@
+{
+  "id": "cha-artillery-dog-assassin",
+  "name": "Artillery Dog",
+  "class": "Assassin",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSW...",
+  "talismansSet": "4w 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/artillery-dog-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0025_Layer-4.png",
+  "skills": [
+    {
+      "name": "WAR MACHINE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 45% Chance to inflict Bleed for 2 turns.",
+        "• Bleed deals true damage over time with a chance to Heal Block every turn."
+      ]
+    },
+    {
+      "name": "ENTRENCH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increases ATK and Endure status for self and up to 2 additional allies."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "REPEAL\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants Immunity to all allies for 1 turn at the start of the battle.",
+        "• Grants immunity to a random ally every following turn.."
+      ]
+    }
+  ]
+}

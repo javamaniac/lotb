@@ -1,0 +1,19 @@
+{
+  "id": "cos-cosmic-mongol-passive",
+  "type": "bespoke",
+  "name": "Cosmic Mongol Passive T3",
+  "owner": "the Khan Eddie, Genghis Khan or Mongol characters.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Gain Perfect Immunity for 1 turn whenever this talisman becomes active",
+    "Remove and Prevent all Invincibility, Perfect Heal Shield and Physical Block effects on all enemies until they die at the start of battle and at the start of your turn",
+    "Permanently Increase ATK on self by +100%",
+    "Permanently Reduce DEF and SPECIAL on all enemies by -25% after every action",
+    "Deal Additional Physical Damage to each enemy equal to 300% of their MISSING HP if they are at 50% HP or below after every action",
+    "This Talisman's effects only activates when equipped to the Khan Eddie, Genghis Khan or Mongol characters."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-mongol-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Mongol.png"
+}

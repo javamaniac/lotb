@@ -1,0 +1,91 @@
+{
+  "id": "cha-gambler-eddie-assassin",
+  "name": "Gambler Eddie",
+  "class": "Assassin",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AAG...",
+  "talismansSet": "4g 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/gambler-eddie-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_gambler.png",
+  "skills": [
+    {
+      "name": "HIGH STAKES",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Remove Damage Invulnerability Effects, including Vanish and Invincibility, before dealing damage to all enemies.",
+        "• Deal Additional Random Damage for every negative effect on the target.",
+        "• This attack does not wake enemies inflicted with Sleep."
+      ]
+    },
+    {
+      "name": "BLUFF\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant Sleep Shield to all allies for 2 turns.",
+        "• Transform Invincibility and Vanish effects on all enemies into Time Bombs for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ROLL OF THE DICE\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Reduce Duration of Beneficial Effects by 1 turn.",
+        "• Inflict Stun, Silence, or Curse on each enemy for 1 turn.",
+        "• Deal Additional Random Damage for every negative effect on the target.",
+        "• This attack does not wake enemies inflicted with Sleep."
+      ]
+    },
+    {
+      "name": "WILD CARD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant a Random Offensive Effect to each ally for 2 turns.",
+        "• 75% Chance to inflict Passive Disable on each enemy for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ANTE UP\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to a single-target.",
+        "• Increase Negative Effect Duration on the target by 2 turns.",
+        "• Deal Additional Random Damage for every negative effect on the target.",
+        "• This attack does not wake enemies inflicted with Sleep."
+      ]
+    },
+    {
+      "name": "NOTHING TO LOSE\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Negative Effects, including Silver Effects, from self.",
+        "• Grant Spell Vamp, Life Steal, and Echo status to each ally for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "DEVIL MAY CARE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• 60% Chance to Transform Immunity into a random Negative Effect that lasts for 2 turns after the first turn of battle.",
+        "• Transform existing Negative Effects on enemies into their Silver versions for 2 turns.",
+        "• Gain Perfect Heal Shield for self and grant HP Regen and Ascension to all allies for 2 turns when you reach 1 HP.."
+      ]
+    }
+  ]
+}

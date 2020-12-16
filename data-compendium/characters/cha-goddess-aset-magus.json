@@ -1,0 +1,47 @@
+{
+  "id": "cha-goddess-aset-magus",
+  "name": "Goddess Aset",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/goddess-aset-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0014_Layer-4.png",
+  "skills": [
+    {
+      "name": "SUN DISK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 75% Chance to inflict True Burn for 2 turns.",
+        "• 50% Chance to remove two Beneficial Effects, including Golden Buffs.",
+        "• Damage increases the higher the enemy’s ATK."
+      ]
+    },
+    {
+      "name": "ETERNAL FLOOD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Heal all allies based on their MAX HP.",
+        "• 15% Chance to grant a Random Beneficial Effect to all allies for 2 turns."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "TEARS OF SORROW\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Revives all allies.",
+        "• Heals allies based on their MAX HP.",
+        "• Grants Endure, Immunity, or Invincibility status to all allies.",
+        "• 10% Chance to Increase Beneficial Effect Duration by 2 turns for all allies."
+      ]
+    }
+  ]
+}

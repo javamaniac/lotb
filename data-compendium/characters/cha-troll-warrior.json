@@ -1,0 +1,43 @@
+{
+  "id": "cha-troll-warrior",
+  "name": "Troll",
+  "class": "Warrior",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA...",
+  "talismansSet": "6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/troll-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0011_Layer-4.png",
+  "skills": [
+    {
+      "name": "TWIST OF FATE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to all enemies.",
+        "• 50% Chance to Lower a Random Stat on the enemies for 2 turns or Reduce the Max HP of the enemy by 10%."
+      ]
+    },
+    {
+      "name": "GUARD ALL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Reduce Physical Damage.",
+        "• Reduce Magic Damage.",
+        "• Grant Guard Shield to all allies for 2 turns.",
+        "• Heals each ally if a shield is present on them."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "SHIELD\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Gives a Heal, Damage Reflect, or Damage Reduction Shield to all allies at the start of battle.."
+      ]
+    }
+  ]
+}

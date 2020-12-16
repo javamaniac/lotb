@@ -1,0 +1,44 @@
+{
+  "id": "cha-crimean-soldier-magus",
+  "name": "Crimean Soldier",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAS...",
+  "talismansSet": "4s 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/crimean-soldier-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_undead_russian_infantry_e.png",
+  "skills": [
+    {
+      "name": "TERRIBLE HAIL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 4 hits of random damage to all enemies.",
+        "• 75% Chance to inflict 1 Mark per hit on each enemy for 2 turns.",
+        "• 25% Chance to Freeze each enemy for 1 turn.",
+        "• 25% Chance for an Extra Turn."
+      ]
+    },
+    {
+      "name": "FROZEN FLESH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 4 hits of random damage to a single target.",
+        "• Inflict Smite, Perfect Silence, and Permadeath on the target for 3 turns.",
+        "• Freeze enemies for the duration of battle and Heal all allies based on your MAX HP if the target is currently frozen."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "WINTER SOLDIER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Remove Immunity and inflict Freeze on a random enemy for 1 turn at the start of your turn every turn.."
+      ]
+    }
+  ]
+}

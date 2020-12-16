@@ -1,0 +1,48 @@
+{
+  "id": "cha-lamia-reaper-boss-assassin",
+  "name": "Lamia, Reaper Boss",
+  "class": "Assassin",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/lamia-reaper-boss-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_dealer_assassin.png",
+  "skills": [
+    {
+      "name": "FORCE OF FEAR",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of magic damage and 2 hits of true damage to a single target.",
+        "• Inflict Fear on the target for 2 turns.",
+        "• Remove Crave and Perfect Crave from all allies.",
+        "• Heal all allies for each Mark on the target.",
+        "• Damage dealt increases based on your MR stat."
+      ]
+    },
+    {
+      "name": "DEVIL'S DEALER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 2 hits of magic damage and 2 hits of true damage to all enemies.",
+        "• 35% chance to inflict Dark Ghost on each enemy for 3 turns.",
+        "• Grant Echo to all allies for 2 turns.",
+        "• Damage dealt increases based on your MR stat."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "SERPENT'S KISS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Inflict 2 Marks on each enemy for 2 turns after every action.",
+        "• Attacks always land with a Perfect Hit.",
+        "• Gain immunity to Sleep, Stun, and Blind effects.."
+      ]
+    }
+  ]
+}

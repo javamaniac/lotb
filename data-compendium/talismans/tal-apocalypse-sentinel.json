@@ -1,0 +1,13 @@
+{
+  "id": "tal-apocalypse-sentinel",
+  "name": "Apocalypse",
+  "class": "sentinel",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Prevents enemies from taking Extra Turns until they die",
+    "Removes all beneficial effects from each enemy and deals 6 hits of random damage based on their MAX HP for each effect removed every action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/apocalypse-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/IconTAL_Apocalypse.png"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "cha-piece-of-mind-eddie-sentinel",
+  "name": "Piece Of Mind Eddie",
+  "class": "Sentinel",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GSS...",
+  "talismansSet": "5s 4s 4g",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/piece-of-mind-eddie-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_pieceofmind.png",
+  "skills": [
+    {
+      "name": "DISTURBANCE",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 5 hits of random damage to a single target.",
+        "• 25% Chance to grant Trap status to allies for 2 turns.",
+        "• Trap Status removes beneficial effects, inflicts Perfect Corruption, and Stuns the opponent that removes this effect for 2 turns.",
+        "• Damage dealt increases based on your MAX HP."
+      ]
+    },
+    {
+      "name": "ASYLUM\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies based on your MAX HP.",
+        "• Grants Perfect Immunity to all allies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "SEDATE\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 5 hits of random damage to a single target.",
+        "• Reduce Duration of Negative Effects.",
+        "• 35% Chance to grant Immunity to allies for 2 turns.",
+        "• Damage dealt increases based on your MAX HP."
+      ]
+    },
+    {
+      "name": "COMPLEX\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of random damage to all enemies.",
+        "• Increase Max HP of all allies by 100% for 2 turns.",
+        "• Damage dealt increases based on your MAX HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "FRENZY\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 5 hits of random damage to all enemies.",
+        "• Remove Endure effects on enemies.",
+        "• 15% Chance to grant each ally an Extra Turn.",
+        "• Damage dealt increases based on your MAX HP."
+      ]
+    },
+    {
+      "name": "PADDED ROOM\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Cleanse all allies.",
+        "• Grants Invincibility to all allies for 1 turn.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "MAD WORLD\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals 5 hits of random damage to all enemies.",
+        "• Deal Additional Random Damage for each beneficial effect on enemies and allies.",
+        "• Remove All Beneficial and Negative Effects (including Gold and Silver) on all enemies and all allies.",
+        "• Damage dealt increases based on your MAX HP."
+      ]
+    }
+  ]
+}

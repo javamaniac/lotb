@@ -1,12 +1,6 @@
-const parse = (image2) => {
-  console.log('image', image2)
-
-  const generateId = href => {
-    const splitted = href.split('/')
-    return (splitted[splitted.length - 1] === '') ? splitted[splitted.length - 2] : splitted[splitted.length - 1]
-  }
-
-  const id = generateId(document.location.href)
+const parse = (args) => {
+  console.log('args', args)
+  const { id } = args
 
   const container = document.querySelectorAll('.cosmic-talisman')[2]
   const name = container.querySelector('h2').innerHTML.split(') ')[1]
@@ -34,4 +28,3 @@ const parse = (image2) => {
 }
 
 module.exports = { parse }
-// module.exports.parse = parse

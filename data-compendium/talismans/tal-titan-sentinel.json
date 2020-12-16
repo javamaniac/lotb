@@ -1,0 +1,12 @@
+{
+  "id": "tal-titan-sentinel",
+  "name": "Titan",
+  "class": "sentinel",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain a Titan Shield for 2 turns at the start of battle and grants immunity to Heal Block and Heal Reduction effects for the duration of battle."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/titan-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Titan.png"
+}

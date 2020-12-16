@@ -1,0 +1,14 @@
+{
+  "id": "tal-gate-magus",
+  "name": "Gate",
+  "class": "magus",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Immunity to Magic Damage",
+    "Transform Negative Effects on self, including Silver Effects, at the start of battle into a Random Beneficial Effect, including Golden Effects with a 25% chance to trigger this same effect every turn",
+    "Permanently Increase the MAX HP of all allies by 2% whenever you take damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/gate-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Gate.png"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cha-domino-woman-in-uniform-magus",
+  "name": "Domino, Woman In Uniform",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/domino-woman-in-uniform-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_womaninuniform_magus.png",
+  "skills": [
+    {
+      "name": "COLD AS ICE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 4 hits of magic damage to all enemies.",
+        "• Gain Blizzard Shield for 2 turns.",
+        "• 50% Chance to inflict Freeze on each enemy for 2 turns.",
+        "• Remove Magma Shield from self and Increase DEF and MR by +25% if the shield was successfully removed.",
+        "• Remove All Burn Effects from enemies and Reduce their Power by 1 and Fury by 10% for each burn effect removed.",
+        "•25% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "HOT AS FIRE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 4 hits of magic damage to all enemies.",
+        "• Gain Magma Shield for 2 turns.",
+        "• 50% Chance to inflict up to 2 Random Burn Effects on each enemy for 2 turns.",
+        "• Remove Blizzard Shield from self and gain Magic Penetration and Magic Charge for 2 turns if the shield was successfully removed.",
+        "• Remove All Freeze Effects from enemies and deal Additional Magic Damage based on the enemy’s MAX HP to each enemy if a Freeze effect is removed.",
+        "•25% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 0
+    },
+    {
+      "name": "FATAL TEASE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Remove all immunity effects, including Vanish and Perfect Immunity, from all enemies when you take damage.",
+        "• 50% Chance to counterattack when you take damage.",
+        "• Heal for 50% of all damage dealt.",
+        "• Transform up to 2 Silver Effects on each ally into a random beneficial effect, including Golden Effects, at the start of your turn.."
+      ]
+    }
+  ]
+}

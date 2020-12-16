@@ -1,0 +1,17 @@
+{
+  "id": "tal-wrathful-assassin",
+  "name": "Wrathful",
+  "class": "assassin",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Cannot take more than 10% of MAX HP as damage from any single attack",
+    "All enemies take 100% Increased Damage for 1 turn if you are not at full HP at the start of your turn after the first round of battle",
+    "Remove All Negative Effects, including Silver effects, from self, Heal self to full HP and gain 100% Increased Damage for 2 turns whenever an ally or enemy dies for the first time in battle",
+    "Gain a Random Offensive Effect, including Golden effects, for 1 turn when you take damage",
+    "50% Chance to counterattack when anyone on your team takes damage",
+    "35% Chance to gain an Extra Turn after every action if you are not at full HP."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/wrathful-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/IconTAL_Wrathful.png"
+}

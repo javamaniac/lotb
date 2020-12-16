@@ -1,0 +1,44 @@
+{
+  "id": "cha-child-of-the-damned-warrior",
+  "name": "Child Of The Damned",
+  "class": "Warrior",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/child-of-the-damned-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0026_Layer-4.png",
+  "skills": [
+    {
+      "name": "OBLIVION",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 20% Chance to Seal an enemy’s skill.",
+        "• Damage increases the higher the enemy’s MAX HP"
+      ]
+    },
+    {
+      "name": "FURIOUS CHARGE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Gives Physical Charge to all allies.",
+        "• 50% Chance for an Extra Turn.",
+        "• Grant an Extra Turn to up to 3 allies.",
+        "• Physical Charge doubles the damage of the next physical damage ability used."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "SHADOW\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Gain an extra turn when you kill an enemy.."
+      ]
+    }
+  ]
+}

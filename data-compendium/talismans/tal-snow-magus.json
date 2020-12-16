@@ -1,0 +1,13 @@
+{
+  "id": "tal-snow-magus",
+  "name": "Snow",
+  "class": "magus",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants a Snow Shield for 2 turns at the start of battle",
+    "Grants Immunity to Freeze, Stun, and Taunt effects."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/snow-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Snow.png"
+}

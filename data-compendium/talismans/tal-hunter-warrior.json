@@ -1,0 +1,14 @@
+{
+  "id": "tal-hunter-warrior",
+  "name": "Hunter",
+  "class": "warrior",
+  "set": 2,
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 35% Chance to Ignite targets for 2 turns",
+    "Deals additional physical damage to targets that are Ignited",
+    "Ignite doubles the physical damage targets take."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/hunter-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Hunter.png"
+}

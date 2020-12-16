@@ -1,0 +1,46 @@
+{
+  "id": "cha-hellraiser-magus",
+  "name": "Hellraiser",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMS...",
+  "talismansSet": "5m 4m 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_hellraiser_blue.png",
+  "skills": [
+    {
+      "name": "VENOM",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 35% Chance to inflict Toxic Burn for 2 turns.",
+        "• Reduces the Max HP of the enemy by 20% if you currently have the Trap status effect active.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "REQUIEM\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• Remove One Beneficial Effect each hit.",
+        "• Grant Invincibility to self and a random ally for 2 turns.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BLACK ABYSS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Inflict Perfect Corruption on up to 4 enemies for 2 turns at the start of battle.",
+        "• Gain Trap status for 1 turn if Regen is present at the start of your turn.."
+      ]
+    }
+  ]
+}

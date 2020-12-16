@@ -1,0 +1,45 @@
+{
+  "id": "cha-cosmic-golden-son-gunner",
+  "name": "Cosmic Golden Son",
+  "class": "Gunner",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "......",
+  "talismansSet": "6w 5w 4w 6m 5m 4m 6s 5s 4s 6g 5g 4g 6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cosmic-golden-son-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_golden_son_f.png",
+  "skills": [
+    {
+      "name": "HARBINGER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Permanently Increase MAX HP of all allies by 25% if your are inflicted with Decreased MAX HP.",
+        "• Damage dealt does not wake targets inflicted with Sleep or Perfect Sleep."
+      ]
+    },
+    {
+      "name": "OMNIFIC\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 65% Chance to Remove Negative Effects, including Silver Effects, from each ally.",
+        "• Grant an Extra Turn to all allies if any enemy is inflicted with Sleep or Perfect Sleep.",
+        "• Damage dealt does not wake targets inflicted with Sleep or Perfect Sleep."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "LIMBO\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Gain Class Advantage against all enemies.",
+        "• Inflict Sleep on 2 random enemies if Regen HP status is present at the start of your turn.."
+      ]
+    }
+  ]
+}

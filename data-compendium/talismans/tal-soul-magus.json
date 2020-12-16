@@ -1,0 +1,14 @@
+{
+  "id": "tal-soul-magus",
+  "name": "Soul",
+  "class": "magus",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain Immunity to Doom, Perfect Corruption, and Block Beneficial Effects",
+    "Gain Soul Protect for the duration of the battle",
+    "Soul Protect grants Ghost status for 3 turns upon death."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/soul-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Soul.png"
+}

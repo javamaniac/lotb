@@ -1,0 +1,14 @@
+{
+  "id": "tal-temperance-warrior",
+  "name": "Temperance",
+  "class": "warrior",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants 12 Power for your team and Perfect Immunity to all allies for 1 turn after your first action in battle",
+    "50% Chance to grant Immunity, Heal Amp and Heal Shield for 2 turns to each ally every action",
+    "Remove all negative effects, including Silver and Unblockable effects, and grant Perfect Health and Perfect Accuracy Up for 3 turns to all allies when you die."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/temperance-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/IconTAL_Temperance.png"
+}

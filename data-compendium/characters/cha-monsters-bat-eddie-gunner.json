@@ -1,0 +1,89 @@
+{
+  "id": "cha-monsters-bat-eddie-gunner",
+  "name": "Monsters Bat Eddie",
+  "class": "Gunner",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "GW....",
+  "talismansSet": "5w 4w 4m 4s 5g 4g 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/monsters-bat-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/hud_icon_eddie_monstersbat.png",
+  "skills": [
+    {
+      "name": "BANE OF PEACE",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Permanently lower DEF on all enemies by 10%.",
+        "• Inflict Bleed, Furious Burn, and Grievous Burn for 3 turns.",
+        "• Gain Echo for 2 turns."
+      ]
+    },
+    {
+      "name": "VIRAL POX\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Prevent all enemies from healing until they die. This does not apply to bosses.",
+        "• Enemies take true damage equal to 6% of their MAX HP every action they take for 3 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "TREACHEROUS TRANSMISSION\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Permanently lower MR on all enemies by 10%.",
+        "• Inflict Shock, Scalding Burn and Blinding Burn for 3 turns.",
+        "• Inflict HP Drain on all enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "SWARMING PESTILENCE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Remove all beneficial effects including Golden effects from all enemies and inflict Innate Bleed for 3 turns for each effect removed this way."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "MIASMIC SLASH\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of random damage to single enemy that increases based on your SPECIAL stat.",
+        "• Deal an additional devastating hit of random damage to the enemy if they suffer from any Bleed or Shock effects, including Silver and Innate effects.",
+        "• If this attack kills an enemy, inflict 3 Toxic Burns for 3 turns to all enemies and immediately gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "NIGHT TERROR\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal random damage to a single enemy that increases based on your SPECIAL stat.",
+        "• Deal additional hits of random damage to the enemy based on the number of Negative and Beneficial effects, including Silver and Golden effects, they have.",
+        "• If this kills an enemy, inflict Perfect Crave and 3 Toxic Burns for 3 turns on all enemies and immediately gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "SCREECH FOR ME\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal devastating random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Extend Negative Effect Duration on all enemies by 9.",
+        "• Permanently kill each enemy if they have 9 or more negative effects and beneficial effects. This effect ignores immunity to Permadeath and does not apply to bosses.",
+        "• Instantly gain an Extra Turn."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cha-dark-lilith-assassin",
+  "name": "Dark Lilith",
+  "class": "Assassin",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "AGG...",
+  "talismansSet": "5g 4g 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/dark-lilith-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_lilithdark.png",
+  "skills": [
+    {
+      "name": "CORRUPTION",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical, magic and true damage to all enemies.",
+        "• Transform Invincibility on each enemy into Perfect Corruption for 2 turns.",
+        "• Inflict Perfect Disable on all enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "SECOND COMING\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Negative Effects, including Silver effects, from all allies.",
+        "• 35% Chance to grant an Extra Turn to each ally."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "CALAMITY\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grant Immunity to Permadeath, Perfect Death, Block Beneficial Effects, and Perfect Corruption to all allies.",
+        "• Deal Additional True Damage to a random enemy equal to 500% of their MAX HP and Heal all allies to full HP when an ally dies.",
+        "• Remove All Beneficial Effects, including Golden effects, from all enemies, inflict Punishment and Perfect Death on all enemies for the duration of battle and Revive with full HP and a Perfect Titan Shield upon death.."
+      ]
+    }
+  ]
+}

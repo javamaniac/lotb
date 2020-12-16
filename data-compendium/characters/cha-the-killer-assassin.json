@@ -1,0 +1,48 @@
+{
+  "id": "cha-the-killer-assassin",
+  "name": "The Killer",
+  "class": "Assassin",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA...",
+  "talismansSet": "6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-killer-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_killer.png",
+  "skills": [
+    {
+      "name": "BUTCHER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical and magic damage to a single target.",
+        "• Reduce Max HP on the target by 10%.",
+        "• Deal Additional True Damage to the target equal to 10% of their MAX HP, increased to 25% if they are bleeding.",
+        "• 50% Chance to Reset and attack again if the target is bleeding. Enemies killed by this attack cannot be revived."
+      ]
+    },
+    {
+      "name": "STALK\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Beneficial Effects, including Golden effects, from all enemies.",
+        "• Remove All Negative Effects, including Silver effects, from all allies.",
+        "• Gain Lifesteal and Spellvamp for 2 turns.",
+        "• Inflict Bleed on each enemy for 2 turns for each instance of Fear on them.",
+        "• 85% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "PROWLER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Remove and Prevent all Immunity and Vanish effects, including Golden effects, on all enemies until they die at the start of battle and at the start of your turn.",
+        "• Inflict 4 instances of Fear on random enemies for 1 turn at the start of battle and at the start of your turn.",
+        "• 75% Chance to inflict Passive Disable or Perfect Disable on each enemy for 1 turn after every action.."
+      ]
+    }
+  ]
+}

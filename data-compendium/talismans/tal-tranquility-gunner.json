@@ -1,0 +1,12 @@
+{
+  "id": "tal-tranquility-gunner",
+  "name": "Tranquility",
+  "class": "gunner",
+  "set": 2,
+  "type": "Augment",
+  "passiveSkills": [
+    "50% Chance to Remove Perfect Immunity and grant Perfect Health buff to self for 2 turns on Perfect Attacks."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/tranquility-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Tranquility.png"
+}

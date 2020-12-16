@@ -1,0 +1,51 @@
+{
+  "id": "cha-sojobo-tengu-king-sentinel",
+  "name": "Sōjōbō, Tengu King",
+  "class": "Sentinel",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSW...",
+  "talismansSet": "4w 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/sojobo-tengu-king-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_tengu_sentinel.png",
+  "skills": [
+    {
+      "name": "TESSENJUTSU STRIKE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to a single target.",
+        "• Deal Additional True Damage based on your MISSING HP to the target.",
+        "• Gain a Random Offensive Effect, including Golden effects, for 2 turns.",
+        "• Gain a Random Defensive Effect, including Golden effects, for 2 turns.",
+        "• 50% Chance to inflict Shock and Stun on the target for 1 turn."
+      ]
+    },
+    {
+      "name": "SHUGENDŌ\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Negative Effects, including Silver effects, from self and a target ally.",
+        "• Permanently Increase All Stats, including Max HP, on self and the target by +25%.",
+        "• Heal self and the target based on 50% your MAX HP.",
+        "• Gain a Random Healing Effect, including Golden effects, for 2 turns.",
+        "• Gain a Random Defensive Effect, including Golden effects, for 2 turns."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "FABLED SENSEI\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Immune to all Blind and Skill Disabling effects, including Silver and Innate effects.",
+        "• Grant Immunity to Block Beneficial Effects and Perfect Corruption to all allies until they die.",
+        "• Gain 1 Power and Endure for 1 turn when you take damage.",
+        "• Copy All Beneficial Effects on self to a random ally after every action.",
+        "• 35% Chance to counterattack when you take damage.."
+      ]
+    }
+  ]
+}

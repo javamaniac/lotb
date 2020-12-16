@@ -1,0 +1,32 @@
+{
+  "id": "cha-rock-golem-sentinel",
+  "name": "Rock Golem",
+  "class": "Sentinel",
+  "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS...",
+  "talismansSet": "6s 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/rock-golem-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0018_Layer-46.png",
+  "skills": [
+    {
+      "name": "SMASH",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to an enemy.",
+        "• Damage dealt is based on your MAX HP."
+      ]
+    },
+    {
+      "name": "HEAL BLOCK\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflicts Heal Block on all enemies for 2 turns."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

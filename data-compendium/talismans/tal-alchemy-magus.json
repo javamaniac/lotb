@@ -1,0 +1,14 @@
+{
+  "id": "tal-alchemy-magus",
+  "name": "Alchemy",
+  "class": "magus",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant Invincibility to all allies for the first turn of battle",
+    "Transform Negative Effects on all allies into Beneficial Effects every turn",
+    "Permanently Reduce a random stat on all enemies by 5% every time you attack."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/alchemy-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Alchemy.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tal-niflheim-magus",
+  "name": "Niflheim",
+  "class": "magus",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce all damage taken by 75% and return 25% of it at the start of each round back to each enemy as random damage",
+    "Grant Immunity to Perfect Stun, Perfect Disable, and Perfect Corruption to all allies until they die",
+    "Take 5% of your MAX HP as random damage for each negative effect currently on you at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/niflheim-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Niflheim.png"
+}

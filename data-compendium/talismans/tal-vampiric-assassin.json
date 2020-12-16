@@ -1,0 +1,13 @@
+{
+  "id": "tal-vampiric-assassin",
+  "name": "Vampiric",
+  "class": "assassin",
+  "set": 3,
+  "type": "Augment",
+  "passiveSkills": [
+    "Heal for 20% of Max HP with every attack",
+    "Perfect Basic Attacks inflict HP Drain for 2 turns."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/vampiric-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Vampiric.png"
+}

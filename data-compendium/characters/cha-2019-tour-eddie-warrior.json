@@ -1,0 +1,87 @@
+{
+  "id": "cha-2019-tour-eddie-warrior",
+  "name": "2019 Tour Eddie",
+  "class": "Warrior",
+  "stars": 3,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/2019-tour-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_smokesComic2019.png",
+  "skills": [
+    {
+      "name": "HUNT",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Lowers DEF of enemy for 2 turns.",
+        "• Ignites enemy for 2 turns.",
+        "• 65% Chance for an Extra Turn.",
+        "• Ignite increases physical damage taken."
+      ]
+    },
+    {
+      "name": "SCORCHED EARTH\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflicts 3 Toxic Burns on all enemies for 2 turns.",
+        "• Heal all allies based on your MAX HP.",
+        "• Grants Increased Fury Generation to allies for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "ASSAULT\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Heals yourself if the target is Stunned."
+      ]
+    },
+    {
+      "name": "CHAIN KNUCKLE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 35% Chance to Stun targets for 1 turn.",
+        "• Gain Extra Turn on Stun."
+      ],
+      "powerCost": 3
+    },
+    {
+      "name": "SKIRMISH\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 30% Chance to gain Invincibility for 1 turn."
+      ]
+    },
+    {
+      "name": "RISE\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Heals all allies.",
+        "• 25% Chance to gain an Extra Turn.",
+        "• Heal amount is based on your ATK stat."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "IRON MAIDEN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• 50% Chance to Remove Immunity and Stun a random enemy every turn.",
+        "• Gain Echo status for 2 turns if any enemy’s HP is below 50% at the start of your turn.",
+        "• Transform Bleed and Heal Block effects into Perfect Bleed and Perfect Heal Block after each action.."
+      ]
+    }
+  ]
+}

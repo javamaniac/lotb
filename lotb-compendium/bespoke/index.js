@@ -1,7 +1,4 @@
-// const puppeteer = require('puppeteer')
 const { forEachLotb, extactLotb } = require('../util')
-// const { extract } = require('./extract')
-// const { extactLotb } = require('../util')
 const { parse } = require('./parse')
 
 const url = 'http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/'
@@ -16,8 +13,8 @@ async function run () {
   }
 }
 
-const extract = async url => {
-  await extactLotb(url, parse, folder)
+const extract = async item => {
+  await extactLotb({item, parse, folder})
 }
 
 run()

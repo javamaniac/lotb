@@ -1,0 +1,94 @@
+{
+  "id": "cha-live-after-death-eddie-magus",
+  "name": "Live After Death Eddie",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/live-after-death-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_eddie_liveafterdeath.png",
+  "skills": [
+    {
+      "name": "BONEYARD",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Inflict Dark Ghost for 2 turns on any enemy inflicted with Accuracy Down effects.",
+        "• 50% Chance to Remove All Negative Effects, including Silver Effects, from each ally.",
+        "• 35% Chance to grant Increased ATK to all allies for 2 turns.",
+        "• 35% Chance to grant Armor Penetration to all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "OMINOUS EULOGY\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflict Perfect Sleep on all enemies and allies, excluding self, for 2 turns.",
+        "• After using this skill, your team will Drain HP from each enemy at the start of your turn until they die.",
+        "• Inflict 6 hits of physical damage based on your MAX HP, which will not wake targets inflicted with sleep, to each enemy that has Accuracy Down effects present."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "VILE GROUND\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Inflict Stun and Passive Disable for 2 turns on any enemy inflicted with Accuracy Down effects.",
+        "• Decrease MAX HP of each enemy by 10%.",
+        "• Grant all allies a Random Defensive Effect for each enemy successfully inflicted with Decreased MAX HP."
+      ]
+    },
+    {
+      "name": "CRYPT OF CORRUPTION\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Beneficial Effects, including Golden Effects, from up to two random enemies and inflict Perfect Corruption for the duration of battle.",
+        "• Heal each ally for 20% of your MAX HP.",
+        "• 35% Chance to grant each ally an Extra Turn if any enemy is inflicted with Decreased MAX HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "NOXIOUS TOUCH\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Transform Damage Type Block and Invincibility Effects, including Perfect Heal Shield and Vanish effects, on enemies into Bloodlust for 2 turns.",
+        "• Inflict Doom on each enemy already inflicted with Bloodlust for 3 turns.",
+        "• Inflict Silence and Seal on any enemy inflicted with Accuracy Down effects for the duration of battle."
+      ]
+    },
+    {
+      "name": "IMMORAL MORGUE\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Grant Perfect Accuracy to all allies for 2 turns.",
+        "• 35% Chance to inflict Permadeath or Perfect Death on each enemy for 2 turns.",
+        "• Remove Stat Reduction Effects on all allies if any enemy is inflicted with Decreased MAX HP.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "PLAGUE OF CORPSES\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Inflict Perfect Accuracy Down on each enemy for the duration of battle.",
+        "• Grant Perfect Vanish to all allies for 2 turns.",
+        "• Remove All Beneficial and Negative Effects from a random enemy and turn them into an Apparition. The Apparition cannot gain beneficial or negative effects and will permanently die within 1 turn. If the Apparition is killed before then, all allies will be revived, granted Perfect Immunity, and +100% increase in all stats for 2 turns. This effect does not apply to bosses."
+      ]
+    }
+  ]
+}

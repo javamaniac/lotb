@@ -1,0 +1,14 @@
+{
+  "id": "tal-bonfire-warrior",
+  "name": "Bonfire",
+  "class": "warrior",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce Damage by 25%",
+    "Has a 50% chance to inflict Time Bomb on each enemy for 2 turns each action",
+    "Inflict Perfect Time Bomb for 2 turns for every Time Bomb or Perfect Time Bomb currently on the target at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/bonfire-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Bonfire.png"
+}

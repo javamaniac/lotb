@@ -1,0 +1,13 @@
+{
+  "id": "tal-moon-magus",
+  "name": "Moon",
+  "class": "magus",
+  "set": 2,
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain a random defensive buff for 2 turns when healed",
+    "50% Chance to Lower the enemy’s Power by 2 and Fury by 20% when you take an action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/moon-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Moon.png"
+}

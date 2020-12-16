@@ -1,0 +1,43 @@
+{
+  "id": "cha-mayan-priestess-magus",
+  "name": "Mayan Priestess",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/mayan-priestess-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_HALL_mayanqueen_blue.png",
+  "skills": [
+    {
+      "name": "ABSORB SOUL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 50% Chance to Sleep each enemy for 1 turn.",
+        "• If an enemy is killed, Increase MAGIC for all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "GOOD LUCK CHARM\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal all allies.",
+        "• 45% Chance for each ally to gain Regen HP for 3 turns.",
+        "• Heal amount is based on your MAGIC and MAX HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "UNDYING\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Endure a random ally for 2 turns at the start of your turn.."
+      ]
+    }
+  ]
+}

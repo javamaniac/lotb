@@ -1,0 +1,43 @@
+{
+  "id": "cha-allied-soldier-warrior",
+  "name": "Allied Soldier",
+  "class": "Warrior",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWW...",
+  "talismansSet": "5w 4w 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/allied-soldier-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/allied_soldier_red.png",
+  "skills": [
+    {
+      "name": "SUPPRESSIVE FIRE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 6 hits of physical damage to all enemies.",
+        "• 55% Chance to gain Lifesteal on self for 2 turns.",
+        "• 35% Chance to Heal Block all enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "PEACEKEEPER\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase Magic Resistance of all allies for 3 turns.",
+        "• Revive a random ally with full HP.",
+        "• Revive all allies with full HP if you have Lifesteal active."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "TRENCH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grant Increased Max HP and ATK to self for 2 turns at the start of battle.."
+      ]
+    }
+  ]
+}

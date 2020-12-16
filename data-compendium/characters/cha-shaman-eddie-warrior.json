@@ -1,0 +1,110 @@
+{
+  "id": "cha-shaman-eddie-warrior",
+  "name": "Shaman Eddie",
+  "class": "Warrior",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "AA....",
+  "talismansSet": "4w 4m 4s 4g 6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shaman-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_shaman_050.png",
+  "skills": [
+    {
+      "name": "CONJURED FLAME",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of magic damage to all enemies that increases based on your MISSING HP.",
+        "• Inflict 3 Magic Burns on all enemies for 2 turns.",
+        "• Inflict 3 Flames on all enemies for 2 turns if at 75% HP or below.",
+        "• Revive a random ally with 50% HP.",
+        "• Take 15% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ]
+    },
+    {
+      "name": "LAUGHING SORROW\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal magic damage to all enemies that increases based on your MISSING HP.",
+        "• 50% Chance to Critically Strike.",
+        "• Inflict Passive Disable, Permadeath and Curse on all enemies for 2 turns.",
+        "• Grant Endure, Immunity and Trap to all allies for 4 turns if at 75% HP or below.",
+        "• 50% Chance to gain an Extra Turn.",
+        "• Take 35% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ],
+      "powerCost": 0
+    },
+    {
+      "name": "RENDING SPLIT\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to a single target that increases based on your MISSING HP.",
+        "• Remove all Shield, Invincibility and Damage Type Block effects, including Golden effects, from the target. Permanently Reduce DEF and MR on the target by 100% if an effect was removed this way.",
+        "• 50% Chance to gain an Extra Turn if at 75% HP or below.",
+        "• Revive a random ally with 50% HP.",
+        "• Take 15% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ]
+    },
+    {
+      "name": "HEDGED BET\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal physical damage to all enemies that increases based on your MISSING HP.",
+        "• 50% Chance to Critically Strike.",
+        "• Remove all Immunity and Vanish effects, including Golden effects, from all enemies if at 75% HP or below.",
+        "• Inflict up to 3 Marks and 3 Perfect Bleeds on each enemy for 2 turns.",
+        "• 50% Chance to gain an Extra Turn.",
+        "• Take 35% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ],
+      "powerCost": 0
+    },
+    {
+      "name": "PERILS OF DEATH\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical and magic damage to a single target that increases based on your MISSING HP.",
+        "• Revive a random ally with 50% HP.",
+        "• Grant Attack Up and Magic Up to all allies for 2 turns.",
+        "• Grant Sacrifice and Perfect Immortality to all allies for 4 turns if at 75% HP or below.",
+        "• Take 15% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ]
+    },
+    {
+      "name": "FRUIT OF THE GODS\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove All Negative Effects, including Silver Effects and Innate versions of Crave, Heal Reduction and Heal Block, from all allies.",
+        "• Grant Perfect Heal Shield, Lifesteal and Spellvamp to all allies for 2 turns.",
+        "• Grant Charge and 100% Critical Strike Chance to all allies for 2 turns if at 75% HP or below.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "DEAD OF NIGHTMARES\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal physical and magic damage to all enemies that increases based on your MISSING HP.",
+        "• 50% Chance to Critically Strike.",
+        "• Remove All Beneficial Effects, including Golden effects, from all enemies.",
+        "• Inflict Permadeath, Smite, Ignite and 3 Marks on all enemies for the duration of battle.",
+        "• 75% Chance to gain an Extra Turn if at 75% HP or below.",
+        "• Deal Additional Physical and Magic Damage that can Critically Strike to all enemies based on your MISSING HP if at 50% HP or below.",
+        "• Take 35% of CURRENT HP as True Damage.",
+        "• Cannot fall below 1 HP while using this skill."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tal-stone-sentinel",
+  "name": "Stone",
+  "class": "sentinel",
+  "set": 2,
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases DEF by 1% of HP"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/stone-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Stone.png"
+}

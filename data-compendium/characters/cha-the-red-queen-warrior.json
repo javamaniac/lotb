@@ -1,0 +1,47 @@
+{
+  "id": "cha-the-red-queen-warrior",
+  "name": "The Red Queen",
+  "class": "Warrior",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-red-queen-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/09/hud_icon_redqueen.png",
+  "skills": [
+    {
+      "name": "VAIN LUCK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of true damage to a single target and 1 hit of true damage to all enemies that increases based on your ATK stat.",
+        "• Inflict Curse for 3 turns before damage.",
+        "• Remove all Increased Max HP effects, including Golden and Innate effects, on the target before damage. This does not apply to bosses.",
+        "• Remove All Negative Effects, including Silver effects, from self."
+      ]
+    },
+    {
+      "name": "ARTFUL DODGE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 2 hits of true damage to a single target and 1 hit of true damage to all enemies that increases based on your ATK stat.",
+        "• Remove All Beneficial Effects including Golden effects from enemy and deal 5% of their MISSING HP as damage per effect removed this way.",
+        "• Gain Charge and Attack Up for 3 turns.",
+        "• 35% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "QUEEN OF HEARTS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• 50% Chance to counterattack when anyone on your team takes damage.",
+        "• If any of The Red Queen’s stats are reduced at the start of your turn, increase attack permanently by 50% each turn.",
+        "• Whenever The Red Queen gets hit, inflict Cleave for 9 turns to attacking enemies.."
+      ]
+    }
+  ]
+}

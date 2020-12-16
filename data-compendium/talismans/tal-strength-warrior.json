@@ -1,0 +1,12 @@
+{
+  "id": "tal-strength-warrior",
+  "name": "Strength",
+  "class": "warrior",
+  "set": 2,
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases ATK by 15%"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/strength-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Strength.png"
+}

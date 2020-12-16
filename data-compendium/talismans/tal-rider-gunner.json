@@ -1,0 +1,16 @@
+{
+  "id": "tal-rider-gunner",
+  "name": "Rider",
+  "class": "gunner",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Remove Immunity and Perfect Immunity from all enemies at the start of battle",
+    "Reduce Damage taken by 50%",
+    "25% Chance to inflict 1 Mark for two turns on up to two random enemies when you take damage",
+    "Removes all Immunity Effects, including Vanish and Perfect Immunity, and inflict Perfect Sleep on all enemies for 2 turns When you reach 1 HP",
+    "Heal for full HP and grant increased Power and Fury Generation to all allies for the duration of battle when you reach 1 HP."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/rider-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Rider.png"
+}

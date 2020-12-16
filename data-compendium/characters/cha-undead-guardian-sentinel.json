@@ -1,0 +1,35 @@
+{
+  "id": "cha-undead-guardian-sentinel",
+  "name": "Undead Guardian",
+  "class": "Sentinel",
+  "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSW...",
+  "talismansSet": "4w 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/undead-guardian-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0038_Layer-41.png",
+  "skills": [
+    {
+      "name": "BURNING SANDS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 35% Chance to Taunt the enemy for 2 turns.",
+        "• Taunted enemies only attack the taunter."
+      ]
+    },
+    {
+      "name": "BRACE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Increase DEF and MR for 2 turns.",
+        "• Gain a Heal Shield for 2 turns.",
+        "• Heal Shield heals targets based on the damage they receive."
+      ],
+      "powerCost": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cha-the-pilgrim-magus",
+  "name": "The Pilgrim",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AG....",
+  "talismansSet": "4w 4m 4s 5g 4g 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-pilgrim-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_pilgrim.png",
+  "skills": [
+    {
+      "name": "THE KEYS TO DEATH",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal random damage to a single target.",
+        "• Inflict Cleave and Exhaust on the target for 2 turns.",
+        "• Transform each shield on the target into Perfect Death, Perfect Disable, or Perfect Heal Block for 2 turns and deal Additional Random Damage, based on the target’s MAX HP, for each shield removed.",
+        "• Grant a Random Shield to each ally for 1 turn."
+      ]
+    },
+    {
+      "name": "GRACIOUS WILL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal true damage to a single target equal to 100% of their MAX HP.",
+        "• Remove All Beneficial Effects, including Golden Effects, and Disable Starfire, Trooper, and Labyrinth Talismans before dealing damage to the target.",
+        "• Remove All Negative Effects, including Silver Effects, from each ally and grant 1 stack of HP Regen for 2 turns for each effect removed."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BONDS OF SIN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Any enemy that takes damage will damage a random ally equal to 100% of the damage received and 50% of the original target’s Max HP.",
+        "• Convert all damage you take into True Damage.",
+        "• Revive any ally that dies while you are alive once each round.",
+        "• Remove All Beneficial effects, including Golden Effects and inflict Dark Ghost for 2 turns and Furious Burn for 3 turns on all enemies when you die.."
+      ]
+    }
+  ]
+}

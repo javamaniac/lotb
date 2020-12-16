@@ -1,0 +1,44 @@
+{
+  "id": "cha-lilith-sentinel",
+  "name": "Lilith",
+  "class": "Sentinel",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "ASS...",
+  "talismansSet": "5s 4s 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/lilith-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_lilith_green.png",
+  "skills": [
+    {
+      "name": "STIFLE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage and 3 hits of magic damage to a single target.",
+        "• Removes Immunity Effects including Perfect Immunity.",
+        "• 50% Chance to inflict Perfect Corruption for 3 turns."
+      ]
+    },
+    {
+      "name": "NEW MILLENNIUM\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of physical damage and 3 hits of magic damage to a single target.",
+        "• Revive all allies.",
+        "• Grants Regen HP for 1 turn to all allies."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "SPIRAL PATH\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants Immunity to Sleep and Lower MAX HP effects to all allies.",
+        "• Heal all allies based on your MAX HP when you take damage.."
+      ]
+    }
+  ]
+}

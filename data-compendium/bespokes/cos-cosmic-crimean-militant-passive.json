@@ -1,0 +1,18 @@
+{
+  "id": "cos-cosmic-crimean-militant-passive",
+  "type": "bespoke",
+  "name": "Cosmic Crimean Militant Passive T3",
+  "owner": "the Bastion, Sevastopol, or Warlord characters.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Immune to Permadeath, Perfect Death, Doom, Dark Ghost, Apparition, Innate Permadeath and Max HP Reduction effects",
+    "Permanently Increase Max HP on self by +100% and inflict Perfect Stun on up to 2 random enemies for 2 turns whenever this talisman becomes active",
+    "Grant Perfect Immunity and HP Regen to all allies for 2 turns whenever this talisman becomes active and after every action",
+    "Gain Accuracy Up for 1 turn and inflict Perfect Accuracy Down and Perfect Silence on a random enemy for 1 turn at the start of your turn",
+    "This Talisman's effects only activates when equipped to the Bastion, Sevastopol, or Warlord characters."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-crimean-militant-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_War.png"
+}

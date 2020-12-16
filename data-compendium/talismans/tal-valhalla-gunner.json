@@ -1,0 +1,15 @@
+{
+  "id": "tal-valhalla-gunner",
+  "name": "Valhalla",
+  "class": "gunner",
+  "set": 5,
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce Damage by 50%",
+    "Remove Perfect Immunity, Vanish, and Invincibility at the start of battle",
+    "Steal Perfect Immunity, Heal Shield, and Perfect Heal Shield from all enemies every action",
+    "Revive all dead allies with 60% HP and grant all allies Ascension and Immortality for 2 turns when you kill an enemy."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/valhalla-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Valhalla.png"
+}

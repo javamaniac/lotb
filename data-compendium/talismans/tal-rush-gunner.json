@@ -1,0 +1,12 @@
+{
+  "id": "tal-rush-gunner",
+  "name": "Rush",
+  "class": "gunner",
+  "set": 2,
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases SPECIAL by 25% of DEF"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/rush-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/11/IconTAL_Rush.png"
+}

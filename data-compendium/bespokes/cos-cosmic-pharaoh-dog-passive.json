@@ -1,0 +1,18 @@
+{
+  "id": "cos-cosmic-pharaoh-dog-passive",
+  "type": "bespoke",
+  "name": "Cosmic Pharaoh Dog Passive T3",
+  "owner": "Pharaoh Dog or Pharaoh Dog King characters.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Transform silver effects into a random beneficial effect on self and a random ally every turn",
+    "Grant Immunity to Crave and all effects that cause damage to self when healing",
+    "Grant 1 Power and 20% Fury to your team for each ally that is currently alive after each action",
+    "Revive self with 30% HP and Perfect Heal Shield for 1 turn upon death",
+    "This Talisman's effects only activates when equipped to Pharaoh Dog or Pharaoh Dog King characters."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-pharaoh-dog-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Powerslave.png"
+}

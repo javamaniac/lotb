@@ -1,0 +1,95 @@
+{
+  "id": "cha-samurai-emperor-eddie-warrior",
+  "name": "Samurai Emperor Eddie",
+  "class": "Warrior",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/samurai-emperor-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_samurai_shogun.png",
+  "skills": [
+    {
+      "name": "CYCLONE STORM",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage to a single target.",
+        "• Removes all Immunity Effects, including Vanish and Perfect Immunity from the target.",
+        "• 35% Chance to grant a Cyclone Shield to self for 2 turns.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "FURIOUS CHARGE\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Gives Physical Charge to all allies.",
+        "• 50% Chance for an Extra Turn.",
+        "• Grant an Extra Turn to up to 3 allies.",
+        "• Physical Charge doubles the damage of the next physical damage ability used."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FLASHING BLADE\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 25% Chance to gain Class Advantage",
+        "• Get an Extra Turn if you gain Class Advantage.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ]
+    },
+    {
+      "name": "RONIN SLASH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Remove Physical Shields from all enemies, including Physical Block.",
+        "• Gain a Void Shield for 2 turns.",
+        "• 30% Chance to Taunt all enemies for 1 turn.",
+        "• Damage dealt increases based on the enemy’s MAX HP."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "CRIMSON STRIKE\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Damage dealt increases based on the enemy’s MAX HP.",
+        "• 50% Chance to inflict Grievous Burn.",
+        "• Grievous Burn deals physical damage over time with a 35% chance to Reduce Healing and Stun the target every turn."
+      ]
+    },
+    {
+      "name": "SOUL SHEATH\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grants Lifesteal to all allies for 3 turns.",
+        "• 65% Chance to gain Invincibility for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "SHOGUN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants Physical Damage Invulnerability to all allies for the first 2 turns of battle.",
+        "• Gain Perfect Immunity for the duration of battle.",
+        "• Cannot be Stunned.",
+        "• 25% chance to Counterstrike whenever you take damage.",
+        "• Heal all allies based on your Max HP after each action.."
+      ]
+    }
+  ]
+}

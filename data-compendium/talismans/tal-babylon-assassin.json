@@ -1,0 +1,16 @@
+{
+  "id": "tal-babylon-assassin",
+  "name": "Babylon",
+  "class": "assassin",
+  "set": 6,
+  "type": "Passive",
+  "passiveSkills": [
+    "Immunity to Fear, Exhaust, and Doom effects for all allies",
+    "Allies take 90% reduced damage on the first round of battle",
+    "Reduced damage taken by 60% for self after the first turn of battle",
+    "Cleanse Silver effects from all allies, not self, and heal self for 15% of your MAX HP, when you take Physical Damage",
+    "Inflict Perfect Crave on each enemy for 2 turns when you take Magic Damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/babylon-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Babylon.png"
+}

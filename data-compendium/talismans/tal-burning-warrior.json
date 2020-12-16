@@ -1,0 +1,12 @@
+{
+  "id": "tal-burning-warrior",
+  "name": "Burning",
+  "class": "warrior",
+  "set": 2,
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 35% chance to apply up to 3 Physical Burns on the target."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/burning-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Burning.png"
+}

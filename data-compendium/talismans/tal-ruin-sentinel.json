@@ -1,0 +1,12 @@
+{
+  "id": "tal-ruin-sentinel",
+  "name": "Ruin",
+  "class": "sentinel",
+  "set": 2,
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases ATK by 1% of HP"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/ruin-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Ruin.png"
+}

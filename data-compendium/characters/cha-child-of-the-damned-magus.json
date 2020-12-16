@@ -1,0 +1,42 @@
+{
+  "id": "cha-child-of-the-damned-magus",
+  "name": "Child Of The Damned",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMS...",
+  "talismansSet": "5m 4m 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/child-of-the-damned-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0030_Layer-4.png",
+  "skills": [
+    {
+      "name": "BURNING LIGHT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 55% Chance for each ally to gain Immunity for 1 turn.",
+        "• 30% Chance for each ally to gain Cleanse status for 2 turns."
+      ]
+    },
+    {
+      "name": "BLIZZARD SHIELD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Grant Blizzard Shield to self and up to 2 allies.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "ENERGIZE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Gain 2 extra points of Power every round.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tal-guard-sentinel",
+  "name": "Guard",
+  "class": "sentinel",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain a Guard Shield for 2 turns at the start of battle",
+    "Guard Shield reduces 25% of damage and generates Fury when hit."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/guard-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Guard.png"
+}

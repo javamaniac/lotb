@@ -1,0 +1,12 @@
+{
+  "id": "tal-lightning-magus",
+  "name": "Lightning",
+  "class": "magus",
+  "set": 4,
+  "type": "Ability",
+  "powerSkills": [
+    "• 3 hits of magic damage to all enemies.• 75% Chance to Shock on each hit.\n• 75% Chance to Remove Beneficial Effects on each hit.\n• Heal all allies based on your MAGIC stat.\n• Instantly gain an Extra Turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/lightning-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Lightning.png"
+}

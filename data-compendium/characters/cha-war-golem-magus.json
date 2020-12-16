@@ -1,0 +1,35 @@
+{
+  "id": "cha-war-golem-magus",
+  "name": "War Golem",
+  "class": "Magus",
+  "stars": 3,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/war-golem-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_wargolem_blue.png",
+  "skills": [
+    {
+      "name": "DOMINANT ARM",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• Gain Magic Charge for 2 turns.",
+        "• 20% Chance for an Extra Turn."
+      ]
+    },
+    {
+      "name": "TO THE BONE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of magic damage to all enemies.",
+        "• Inflict 1 Mark on all enemies for 2 turns.",
+        "•35% Chance to inflict Perfect Crave on all enemies for 1 turn."
+      ],
+      "powerCost": 5
+    }
+  ]
+}

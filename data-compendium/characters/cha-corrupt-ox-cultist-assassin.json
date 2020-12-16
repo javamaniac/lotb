@@ -1,0 +1,44 @@
+{
+  "id": "cha-corrupt-ox-cultist-assassin",
+  "name": "Corrupt Ox Cultist",
+  "class": "Assassin",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAW...",
+  "talismansSet": "4w 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-ox-cultist-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0025_Layer-4.png",
+  "skills": [
+    {
+      "name": "CORRUPTED CUT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Heal Blocks for 2 turns."
+      ]
+    },
+    {
+      "name": "MAD DANCE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Inflicts Permadeath for 2 turns.",
+        "• 50% Chance to Remove Beneficial Effects from the target.",
+        "• Instantly gain an Extra Turn.",
+        "• Permadeath prevents the target from being revived if they die."
+      ],
+      "powerCost": 4
+    },
+    {
+      "name": "COUNTER\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• 50% Chance to counter attack the opponent that attacked you.."
+      ]
+    }
+  ]
+}

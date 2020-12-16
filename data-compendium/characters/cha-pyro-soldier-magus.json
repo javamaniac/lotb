@@ -1,0 +1,47 @@
+{
+  "id": "cha-pyro-soldier-magus",
+  "name": "Pyro Soldier",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWW...",
+  "talismansSet": "5w 4w 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pyro-soldier-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_pyro_blue.png",
+  "skills": [
+    {
+      "name": "BACKDRAFT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Inflict True Burn on each enemy for 2 turns.",
+        "• 50% Chance to Increase Negative Effect Duration by 1 turn on each enemy.",
+        "• 50% Chance to Gain 3 Power.",
+        "• 25% Chance for an Extra Turn."
+      ]
+    },
+    {
+      "name": "BLOW OUT\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• Decrease Beneficial Effect Duration on each enemy by 1 turn.",
+        "• Inflict Time Bomb for 1 turn on each enemy.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "AUTO-IGNITION\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grant Immunity to Burn effects, Stop, and Perfect Death to all allies.",
+        "• Deal true damage to each enemy for every burn effect present on each enemy at the start of your turn.."
+      ]
+    }
+  ]
+}

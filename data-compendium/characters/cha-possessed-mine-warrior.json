@@ -1,0 +1,41 @@
+{
+  "id": "cha-possessed-mine-warrior",
+  "name": "Possessed Mine",
+  "class": "Warrior",
+  "stars": 2,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWW...",
+  "talismansSet": "5w 4w 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/possessed-mine-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0013_Layer-4.png",
+  "skills": [
+    {
+      "name": "ATTACK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target."
+      ]
+    },
+    {
+      "name": "FLASH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to all enemies.",
+        "• 35% Chance to Blind for 2 turns.",
+        "• Damage has a chance to Critically Strike."
+      ],
+      "powerCost": 3
+    },
+    {
+      "name": "EXPLODE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Explodes upon death, dealing true damage to all enemies based on the [32CD32]MAX HP[-] of you and the enemy.."
+      ]
+    }
+  ]
+}

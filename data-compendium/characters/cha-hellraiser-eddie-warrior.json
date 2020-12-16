@@ -1,0 +1,94 @@
+{
+  "id": "cha-hellraiser-eddie-warrior",
+  "name": "Hellraiser Eddie",
+  "class": "Warrior",
+  "stars": 4,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MW....",
+  "talismansSet": "5w 4w 5m 4m 4s 4g 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/hellraiser-eddie-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_hellraiser.png",
+  "skills": [
+    {
+      "name": "DEVIL'S ADVOCATE",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical and magic damage to a single target.",
+        "• Consume All Negative Effects, including Silver effects, on self and the target and grant a Random Beneficial Effect to self and a random ally for 2 turns for each effect consumed.",
+        "• Heal self and a random ally based on 25% of the target’s MAX HP.",
+        "• Deal one hit of Additional Physical and Magic Damage equal to 100% of the target’s respective ATK and MAGIC stats."
+      ]
+    },
+    {
+      "name": "SOUL BINDING CONTRACT\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal one hit of physical and magic damage to a single target equal to 666% of their MAX HP per hit.",
+        "• Remove All Beneficial Effects, including Golden effects, inflict Passive Disable and grant Immortality on the target for 1 turn before dealing damage.",
+        "• Remove All Negative Effects, including Silver effects, from all allies and Revive a random ally with full HP and Ascension for 2 turns if the target is killed."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "SIN AND PUNISHMENT\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of physical and magic damage to all enemies.",
+        "• 35% Chance to inflict Punishment on each enemy for 2 turns.",
+        "• 35% Chance to inflict a Physical or Magic Burn on each enemy for 2 turns per hit.",
+        "• 25% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "DEAL WITH THE DEVIL\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 3 hits of physical and magic damage to a single target.",
+        "• Consume All Negative Effects, including Silver effects, on the target and deal Additional Physical or Magic Damage equal to 10% of the target’s MAX HP to random enemies for each effect consumed.",
+        "• Consume All Negative Effects, including Silver effects, on self and a random ally and Heal all allies based on 10% of your MAX HP for each effect consumed.",
+        "• 25% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "MASOCHISM\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal one hit of physical and magic damage to a single target.",
+        "• Inflict Taunt and Curse on the target for 1 turn.",
+        "• 75% Chance to gain Disruption Shield, Counterstrike, or Endure for 2 turns per hit.",
+        "• Deal one hit of Additional Physical and Magic Damage equal to 100% of the target’s respective ATK and MAGIC stats."
+      ]
+    },
+    {
+      "name": "SURMOUNTING TERROR\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 3 hits of physical and magic damage to all enemies.",
+        "• 35% Chance to inflict a Random Silver Effect on each enemy for 2 turns per hit.",
+        "• Remove All Beneficial Effects, including Golden effects, on each enemy that lacks Silver Effects.",
+        "• Deal one hit of Additional Physical and Magic Damage to each enemy equal to 100% of their MISSING HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "HALLOWED BE THY NAME\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal 3 hits of physical and magic damage to a single target that increases based on 6% of their MAX HP.",
+        "• Remove all Immunity and Vanish effects, including Golden effects, and inflict Cleave, Bloodlust and Block Beneficial Effects on the target for 2 turns before dealing damage.",
+        "• Permanently Reduce DEF and MR on the target by -50% before dealing damage.",
+        "• Instantly Gain 6 Power.",
+        "• 66% Chance to gain an Extra Turn."
+      ]
+    }
+  ]
+}

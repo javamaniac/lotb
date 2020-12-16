@@ -1,0 +1,43 @@
+{
+  "id": "cha-odin-gunner",
+  "name": "Odin",
+  "class": "Gunner",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": true,
+  "talismans": "GGG...",
+  "talismansSet": "6g 5g 4g",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/odin-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_odin_gunner.png",
+  "skills": [
+    {
+      "name": "KNOWLEDGE SEEKER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of Physical, Magic, and True damage to all enemies.",
+        "• 35% Chance to Remove All Beneficial Effects, including Golden Effects, from each enemy before dealing damage."
+      ]
+    },
+    {
+      "name": "CIDER OF IDUN\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• 50% Chance to Freeze each enemy for 1 turn.",
+        "• Gain a Random Offensive and Defensive Effect, including Golden effects, for 2 turns."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "THRONE OF YGGDRASIL\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal 2 hits of Physical, Magic, and True damage to all enemies.",
+        "• Inflict Passive or Perfect Disable on each enemy for 2 turns.",
+        "• 35% Chance to inflict Stun or Perfect Stun on each enemy for 1 turn."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tal-radiant-gunner",
+  "name": "Radiant",
+  "class": "gunner",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Prevents the enemy from gaining offensive effects",
+    "Grants you a random defensive effect every turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/radiant-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Radiant.png"
+}

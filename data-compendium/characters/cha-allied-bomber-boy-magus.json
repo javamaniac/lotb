@@ -1,0 +1,45 @@
+{
+  "id": "cha-allied-bomber-boy-magus",
+  "name": "Allied Bomber Boy",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GMM...",
+  "talismansSet": "5m 4m 4g",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/allied-bomber-boy-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_bomberboy_blue.png",
+  "skills": [
+    {
+      "name": "STOPPING POWER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Inflict Stop and Bloodlust on each enemy for 2 turns.",
+        "• 35% Chance to inflict Perfect Silence for 1 turn."
+      ]
+    },
+    {
+      "name": "COVER FIRE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Negative Effects from each ally.",
+        "• Grant a Damage Reflect Shield to each ally for 2 turns.",
+        "• Grant a Random Healing Effect to each ally for 3 turns.",
+        "• 35% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FLAK JACKET\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Immune to Stun, Blind, and Stop.",
+        "• Gain Invincibility for 2 turns at the start of battle.."
+      ]
+    }
+  ]
+}

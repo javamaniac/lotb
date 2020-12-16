@@ -1,0 +1,12 @@
+{
+  "id": "tal-shell-sentinel",
+  "name": "Shell",
+  "class": "sentinel",
+  "set": 2,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Damage Reduction Shield to the wearer that reduces damage by 50% for 1 turn at the start of battle."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/shell-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Shell.png"
+}

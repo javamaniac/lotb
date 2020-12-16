@@ -1,0 +1,35 @@
+{
+  "id": "cha-corrupted-ox-soul-magus",
+  "name": "Corrupted Ox Soul",
+  "class": "Magus",
+  "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupted-ox-soul-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0063_Layer-4.png",
+  "skills": [
+    {
+      "name": "CAST",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to a single target.",
+        "• 30% Chance to Magic Burn enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "TORCH\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to a single target.",
+        "• Cleanse and Heal self.",
+        "• 75% Chance to grant Regen HP to all allies for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 4
+    }
+  ]
+}

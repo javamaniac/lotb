@@ -1,0 +1,16 @@
+{
+  "id": "cos-cosmic-beast-passive",
+  "type": "bespoke",
+  "name": "Cosmic Beast Passive T3",
+  "owner": "The Beast, Beast Eddie, Magma Beast Eddie, or Number of the Beast Eddie character.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Remove Immunity and Perfect Immunity from all enemies at the start of battle",
+    "Deal True Damage that ignores damage immunity, to each enemy equal to 50% of their MAX HP for every burn currently present on them, every action",
+    "This Talisman's effects only activates when equipped to The Beast, Beast Eddie, Magma Beast Eddie, or Number of the Beast Eddie character."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-beast-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_Hell.png"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cos-cosmic-crusader-passive",
+  "type": "bespoke",
+  "name": "Cosmic Crusader Passive T3",
+  "owner": "the Crusader Eddie or Templar Crusader Eddie characters.",
+  "set": 1,
+  "passiveSkills": [
+    "Grants +50% increase to all stats in battle",
+    "Reduce all damage by 50%",
+    "Inflict Silence, Accuracy Down, and Seal on a random enemy for 2 turns after every action",
+    "Heal self for 35% of your MAX HP and inflict a Grievous, Magic, or Blinding Burn on attacking enemies for 2 turns whenever you take damage",
+    "Grant Sacrifice for the duration of battle to allies that reach 50% HP or below",
+    "Once per battle, Heal self based on 100% of your MAX HP and take no damage for one round when you reach 50% HP or below",
+    "This Talisman's effects only activates when equipped to the Crusader Eddie or Templar Crusader Eddie characters."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/cosmic-talisman-en/cosmic-crusader-passive/",
+  "image": "https://wiki-ng-icons.s3.amazonaws.com/IconTAL_Cosmic3_5Red_DarkAges.png"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cha-shardborne-assassin",
+  "name": "Shardborne",
+  "class": "Assassin",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/shardborne-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_shardborn_assassin.png",
+  "skills": [
+    {
+      "name": "SEARING FALL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of physical damage to a single target.",
+        "• 75% Chance to permanently Increase ATK, MAGIC, DEF, and MR for self and permanently Decrease ATK, MAGIC, DEF, and MR of the enemy by 5%.",
+        "• Increase Negative Effect Duration on the target by 1 turn if the target is inflicted with a Burn effect."
+      ]
+    },
+    {
+      "name": "DRAINING SHARD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 5 hits of physical damage to all enemies.",
+        "• Inflict Perfect Crave on all enemies for 1 turn.",
+        "• Inflict HP Drain on all enemies for 3 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "PLAGA INVENTATIS\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• After an enemy gains an Extra Turn inflict Stop and Perfect Silence on them for 2 turns."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cha-meathead-warrior",
+  "name": "Meathead",
+  "class": "Warrior",
+  "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSW...",
+  "talismansSet": "4w 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/meathead-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/thumbnail_0068_Layer-4.png",
+  "skills": [
+    {
+      "name": "ATTACK",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical damage to a single target."
+      ]
+    },
+    {
+      "name": "RAGE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• Increases ATK for 2 turns.",
+        "• Damage dealt increases based on your Missing HP."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

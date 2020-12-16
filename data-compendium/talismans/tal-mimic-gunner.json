@@ -1,0 +1,13 @@
+{
+  "id": "tal-mimic-gunner",
+  "name": "Mimic",
+  "class": "gunner",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Copy all the Beneficial Effects, including Golden Effects of a random enemy at the start of battle",
+    "Copy one beneficial effect from a random enemy after each action."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/mimic-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Mimic.png"
+}

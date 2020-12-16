@@ -1,0 +1,12 @@
+{
+  "id": "tal-shock-magus",
+  "name": "Shock",
+  "class": "magus",
+  "set": 2,
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 35% chance to Shock the target, dealing magic damage over time."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/shock-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Shock.png"
+}

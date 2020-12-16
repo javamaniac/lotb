@@ -1,0 +1,44 @@
+{
+  "id": "cha-cyborg-the-bird-gunner",
+  "name": "Cyborg 'The Bird'",
+  "class": "Gunner",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAS...",
+  "talismansSet": "4s 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/cyborg-the-bird-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_angry_cyborg.png",
+  "skills": [
+    {
+      "name": "DEAD EYE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals true damage to a single target.",
+        "• Increases Accuracy for 2 turns.",
+        "• 30% Chance to gain an Extra Turn.",
+        "• Damage dealt increases based on your SPECIAL stat."
+      ]
+    },
+    {
+      "name": "RAPID SPRAY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 6 hits of true damage to random targets.",
+        "• 30% chance to Steal Power, Steal Fury, or Steal a Beneficial Effect on each hit."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "INFINITE VOID\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Inflicts Lower Power Generation for 2 turns."
+      ]
+    }
+  ]
+}

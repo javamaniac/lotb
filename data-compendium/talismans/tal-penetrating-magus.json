@@ -1,0 +1,12 @@
+{
+  "id": "tal-penetrating-magus",
+  "name": "Penetrating",
+  "class": "magus",
+  "set": 2,
+  "type": "Augment",
+  "passiveSkills": [
+    "Perfect Basic Attacks have a 45% chance to grant Magic Penetration for 2 turns."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/penetrating-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Penetrating.png"
+}

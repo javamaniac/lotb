@@ -1,0 +1,49 @@
+{
+  "id": "cha-werewolf-gunner",
+  "name": "Werewolf",
+  "class": "Gunner",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAG...",
+  "talismansSet": "4g 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/werewolf-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_werewolf_gunner.png",
+  "skills": [
+    {
+      "name": "YELLOWED FANGS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of true damage to a single target.",
+        "• Deal Additional True Damage for every Golden Effect on the target.",
+        "• Grant Immunity to all allies for 1 turn.",
+        "• Grant Invincibility to all allies for 1 turn if Golden Effects are present on the target.",
+        "• Gain 1 Power for each Golden effect on the target.",
+        "• This attack does not wake targets inflicted with Sleep or Perfect Sleep."
+      ]
+    },
+    {
+      "name": "BURNING MOONRISE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of true damage to all enemies.",
+        "• 50% Chance to inflict Perfect Sleep and Perfect Corruption on all enemies for 2 turns.",
+        "• Inflict Blinding Burns on all enemies for 2 turns.",
+        "• Grant a Random Offensive Golden Effect to a random ally for the duration of battle if there are no Golden Effects currently on the ally.",
+        "• This attack does not wake targets inflicted with Sleep or Perfect Sleep."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "NOCTURNAL\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grant Immunity to Sleep, Perfect Sleep, Cleave, and MAX HP reduction effects to all allies.",
+        "• Grant Ascension to all allies for 2 turns if any enemies are inflicted with Sleep at the beginning of your turn.."
+      ]
+    }
+  ]
+}

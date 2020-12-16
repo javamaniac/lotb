@@ -1,0 +1,13 @@
+{
+  "id": "tal-banner-gunner",
+  "name": "Banner",
+  "class": "gunner",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant a random Shield to all allies for the first turn of battle",
+    "Remove a beneficial effect from the enemy and heal self for 5% of Max HP every time an ally takes damage."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/banner-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Banner.png"
+}

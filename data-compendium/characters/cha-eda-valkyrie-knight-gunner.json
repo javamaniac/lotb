@@ -1,0 +1,44 @@
+{
+  "id": "cha-eda-valkyrie-knight-gunner",
+  "name": "Eda, Valkyrie Knight",
+  "class": "Gunner",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGS...",
+  "talismansSet": "4s 5g 4g",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/eda-valkyrie-knight-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_brave_captain_gunner.png",
+  "skills": [
+    {
+      "name": "PROMOTE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Grants Immunity for 1 turn to allies with no beneficial effects active.",
+        "• Damage dealt increases based on your SPECIAL stat and the enemy’s ATK and MAGIC."
+      ]
+    },
+    {
+      "name": "SUPPORT\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Cleanse all allies.",
+        "• Heal all allies based on their MAX HP.",
+        "• 35% Chance to Extend Beneficial Effects of allies for 1 turn."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "IMMUNIZE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants Perfect Immunity to self for the duration of the battle and up to 2 random allies for 1 turn.",
+        "• Perfect Immunity blocks all harmful effects and prevents beneficial effects from being removed.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cha-voidling-sentinel",
+  "name": "Voidling",
+  "class": "Sentinel",
+  "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS...",
+  "talismansSet": "6s 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/voidling-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/missing_batch_0041_Layer-4.png",
+  "skills": [
+    {
+      "name": "SHOUT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals physical and magic damage.",
+        "• 80% Chance to Silence for 1 turn.",
+        "• Damage increases the lower the target’s CURRENT HP."
+      ]
+    },
+    {
+      "name": "BLIND\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals physical damage to a single target.",
+        "• 35% Chance to Blind the enemy for 1 turn."
+      ],
+      "powerCost": 4
+    }
+  ]
+}

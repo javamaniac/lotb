@@ -1,0 +1,12 @@
+{
+  "id": "tal-zone-gunner",
+  "name": "Zone",
+  "class": "gunner",
+  "set": 4,
+  "type": "Ability",
+  "powerSkills": [
+    "• Deals random damage to all enemies.• Inflicts Exhaust, Curse, or Silence on each enemy for 5 turns or Doom for 2 turns.\n• Grant an Extra Turn to self and a random ally."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/zone-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Zone.png"
+}

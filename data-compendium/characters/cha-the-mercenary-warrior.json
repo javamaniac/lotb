@@ -1,0 +1,54 @@
+{
+  "id": "cha-the-mercenary-warrior",
+  "name": "The Mercenary",
+  "class": "Warrior",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "WWW...",
+  "talismansSet": "6w 5w 4w",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/the-mercenary-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_mercenary.png",
+  "skills": [
+    {
+      "name": "IF IT BLEEDS",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to a single target.",
+        "• Deal Additional Physical Damage to the the target based on their MISSING HP if their HP is at 50% or below.",
+        "• Remove All Beneficial Effects, including Golden effects, on the target if they are bleeding.",
+        "• Reduce Healing by 90% on the target and inflict Bleed and Perfect Bleed on them for the duration of battle.",
+        "• Gain Perfect Vanish for 2 turns."
+      ]
+    },
+    {
+      "name": "NO FEAR, NO PAIN\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Disable Labyrinth Talismans on all enemies and prevent them from evading damage until they die before dealing damage.",
+        "• Remove All Negative Effects, including Silver effects, from all allies and Heal self for 10% of your MAX HP for each effect removed.",
+        "• Increase Max HP and ATK by 50%, increased to 100% if activated while at 50% HP or below.",
+        "• Gain Endure, Revenge and Golden Trap for 2 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "NOWHERE TO HIDE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Immune to all Stun, Freeze, Sleep and Skill Disabling effects, including Silver and Innate effects.",
+        "• Attacks always land as Perfect Hits.",
+        "• Grant Perfect Vanish and Golden Trap to all allies for 2 turns at the start of battle.",
+        "• Gain 100% Critical Strike Chance for 1 turn if vanished every turn.",
+        "• Inflict Mark of Diablo on a random enemy until they die every turn.",
+        "• Marked targets cannot revive or gain beneficial effects and take Additional Random Damage equal to 10% of their MAX HP when they take damage.",
+        "• This effect does not apply to bosses.."
+      ]
+    }
+  ]
+}

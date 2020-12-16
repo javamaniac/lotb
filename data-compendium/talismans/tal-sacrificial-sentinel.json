@@ -1,0 +1,13 @@
+{
+  "id": "tal-sacrificial-sentinel",
+  "name": "Sacrificial",
+  "class": "sentinel",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Gain Perfect Heal Shield for 1 turn and grants Sacrifice status for the duration of battle",
+    "Sacrifice full heals your team when you die."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/sacrificial-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Sacrificial.png"
+}

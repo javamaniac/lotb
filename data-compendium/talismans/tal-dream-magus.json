@@ -1,0 +1,15 @@
+{
+  "id": "tal-dream-magus",
+  "name": "Dream",
+  "class": "magus",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "25% Chance to avoid taking damage",
+    "Take 50% Reduced damage when successfully hit",
+    "Revive an ally with 60% HP and Endure for 2 turns when they die",
+    "Can only trigger once per ally in battle."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/dream-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/IconTAL_Dream.png"
+}

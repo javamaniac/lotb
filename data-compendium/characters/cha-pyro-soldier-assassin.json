@@ -1,0 +1,45 @@
+{
+  "id": "cha-pyro-soldier-assassin",
+  "name": "Pyro Soldier",
+  "class": "Assassin",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MSS...",
+  "talismansSet": "4m 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/pyro-soldier-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0005_Layer-4.png",
+  "skills": [
+    {
+      "name": "BLUE FLAME",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• 65% Chance to inflict Flame for 2 turns.",
+        "• Flame deals true damage over time with a chance to remove beneficial effects each turn."
+      ]
+    },
+    {
+      "name": "SCALD\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals magic damage to all enemies.",
+        "• Damage increases based on enemy’s SPECIAL.",
+        "• Inflicts Scalding Burns for 2 turns.",
+        "• Scalding Burn deals magic damage over time with a chance to Lower MR and inflict Permadeath every turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "MARKSMAN\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Gives Perfect Hit status to all allies at the start of battle for 2 turns.",
+        "• Perfect Hit causes all basic attacks to always land with a Perfect score.."
+      ]
+    }
+  ]
+}

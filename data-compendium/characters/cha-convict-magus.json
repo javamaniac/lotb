@@ -1,0 +1,45 @@
+{
+  "id": "cha-convict-magus",
+  "name": "Convict",
+  "class": "Magus",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMS...",
+  "talismansSet": "5m 4m 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/convict-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_prisonergirl_blue.png",
+  "skills": [
+    {
+      "name": "SHIV",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to the target.",
+        "• 25% Chance to inflict Fear for 2 turns on each hit.",
+        "• Damage dealt increases the higher the target’s ATK and SPECIAL stats."
+      ]
+    },
+    {
+      "name": "CONTRABAND\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Remove Counterstrike and Revenge effects from all enemies.",
+        "• 60% Chance to gain Counterstrike and Revenge for self for 2 turns.",
+        "• Grant Regen to all allies for 1 turn.",
+        "• Instantly grant an Extra Turn to self and a random ally."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "TENACITY\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants Immunity to Silence and Crave effects to all allies.",
+        "• Gain either Physical, Magic, or True Damage Invulnerability at the start of battle for the duration of battle.."
+      ]
+    }
+  ]
+}

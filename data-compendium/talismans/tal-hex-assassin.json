@@ -1,0 +1,14 @@
+{
+  "id": "tal-hex-assassin",
+  "name": "Hex",
+  "class": "assassin",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Immune to Max HP Reduction Effects",
+    "Heal for 5% of your Max HP every turn",
+    "50% Chance to increase the duration of Negative Effects on each target by 1 every turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/hex-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Hex.png"
+}

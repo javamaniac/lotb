@@ -1,0 +1,34 @@
+{
+  "id": "cha-voidling-magus",
+  "name": "Voidling",
+  "class": "Magus",
+  "stars": 1,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/voidling-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/missing_batch_0040_Layer-4.png",
+  "skills": [
+    {
+      "name": "EXTRACT",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals high magic damage to a target.",
+        "• 35% Chance to Silence enemies for 1 turn."
+      ]
+    },
+    {
+      "name": "MIRE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• 25% Chance to Increase MAGIC for 2 turns.",
+        "• Damage dealt increases the higher target’s ATK stat is."
+      ],
+      "powerCost": 3
+    }
+  ]
+}

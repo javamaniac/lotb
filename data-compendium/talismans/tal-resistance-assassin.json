@@ -1,0 +1,13 @@
+{
+  "id": "tal-resistance-assassin",
+  "name": "Resistance",
+  "class": "assassin",
+  "set": 2,
+  "type": "Stat",
+  "passiveSkills": [
+    "Increases DEF by 30% of ATK",
+    "Increase MR by 30% of MAGIC"
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/resistance-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Resistance.png"
+}

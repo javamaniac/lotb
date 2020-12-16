@@ -1,0 +1,14 @@
+{
+  "id": "tal-persecution-gunner",
+  "name": "Persecution",
+  "class": "gunner",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage taken by 35%",
+    "Reflect 30% of the damage received back to all enemies",
+    "35% Chance to Inflict Perfect Heal Block on each enemy for 2 turns when hit."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/persecution-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Persecution.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tal-hypnosis-gunner",
+  "name": "Hypnosis",
+  "class": "gunner",
+  "set": 4,
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage taken by 45%",
+    "Inflict 1 Physical Burn on self for 1 turn at the start of your turn",
+    "Increase SPECIAL stat by +15% for each negative effect currently on you at the start of your turn",
+    "Inflict Stun or Perfect Stun on a random enemy for each instance of any Blind or Heal Block Effects on any enemy after each action",
+    "Inflict Passive or Perfect Disable on a random enemy for each instance of Perfect Corruption, Silence, or Punishment on each enemy after you attack",
+    "Transform Trap on all allies into Golden Trap for the duration of battle at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/hypnosis-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Hypnosis.png"
+}

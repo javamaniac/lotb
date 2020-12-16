@@ -1,0 +1,13 @@
+{
+  "id": "tal-immunity-gunner",
+  "name": "Immunity",
+  "class": "gunner",
+  "set": 2,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grants Immunity to the wearer for 3 turn",
+    "Immunity prevents negative status effects from being applied."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/immunity-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/02/IconTAL_Immunity.png"
+}

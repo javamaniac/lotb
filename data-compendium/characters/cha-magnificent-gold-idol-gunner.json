@@ -1,0 +1,31 @@
+{
+  "id": "cha-magnificent-gold-idol-gunner",
+  "name": "Magnificent Gold Idol",
+  "class": "Gunner",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/magnificent-gold-idol-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_precious_idolC.png",
+  "skills": [
+    {
+      "name": "SHIMMER",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of magic damage to random enemies."
+      ]
+    },
+    {
+      "name": "GREED\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Steal Power from opponents."
+      ],
+      "powerCost": 1
+    }
+  ]
+}

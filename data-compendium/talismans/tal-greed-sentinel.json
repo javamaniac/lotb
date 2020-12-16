@@ -1,0 +1,14 @@
+{
+  "id": "tal-greed-sentinel",
+  "name": "Greed",
+  "class": "sentinel",
+  "set": 4,
+  "type": "Augment",
+  "passiveSkills": [
+    "50% Chance to Remove Perfect Immunity from the target on basic attacks",
+    "Steal a random beneficial effect from the target on basic attacks",
+    "Heal all allies for 5% of your Max HP on Perfect Attacks."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/greed-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Greed.png"
+}

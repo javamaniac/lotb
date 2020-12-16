@@ -1,0 +1,46 @@
+{
+  "id": "cha-derby-demon-assassin",
+  "name": "Derby Demon",
+  "class": "Assassin",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "AAA...",
+  "talismansSet": "6a 5a 4a",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/derby-demon-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_rollerdemon_assassin.png",
+  "skills": [
+    {
+      "name": "HOOLIGAN",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals one hit of physical damage and one hit of magic damage to a single target.",
+        "• Remove Beneficial Effects and inflict Block Beneficial Effects on the target if Armor or Magic Penetration is currently active on you.",
+        "• 35% Chance to grant Armor Penetration to all allies for 2 turns.",
+        "• 35% Chance to grant Magic Penetration to all allies for 2 turns."
+      ]
+    },
+    {
+      "name": "ANARCHY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals one hit of physical damage and one hit of magic damage to all enemies.",
+        "• Remove All Immunity effects, including Vanish.",
+        "• 75% Chance to inflict Doom on 2 random enemies for 3 turns.",
+        "• Grant an Extra Turn to self and up to 2 allies if Armor or Magic Penetration is currently active on you."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FIASCO\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants Immunity to Permadeath and Perfect Death to all allies.",
+        "• Grant 100% Critical Strike to all allies for 1 turn if Armor or Magic Penetration is active at the start of your turn.."
+      ]
+    }
+  ]
+}

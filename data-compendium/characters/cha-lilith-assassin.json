@@ -1,0 +1,43 @@
+{
+  "id": "cha-lilith-assassin",
+  "name": "Lilith",
+  "class": "Assassin",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS...",
+  "talismansSet": "6s 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/lilith-assassin/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_lilith_purple.png",
+  "skills": [
+    {
+      "name": "REVEAL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 3 hits of true damage to all enemies.",
+        "• 35% Chance to Steal Immunity effects on each hit for 2 turns, including Perfect Immunity.",
+        "• Grants Immunity to all allies for 2 turns if an Immunity effect is removed."
+      ]
+    },
+    {
+      "name": "HOLY BOMB\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals 3 hits of true damage to all enemies.",
+        "• 35% Chance to Transform Beneficial Effects on enemies into a Time Bomb.",
+        "• Time Bomb deals true damage and Stuns the target for 1 turn when their timer reaches zero. Time Bomb damage scales based on your ATK, your MAGIC, and the enemy’s MAX HP."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "INFERNAL SACRIFICE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• 25% Chance to Revive an ally or 75% Chance to fully Heal a random ally every turn at the cost of 10% of your CURRENT HP.."
+      ]
+    }
+  ]
+}

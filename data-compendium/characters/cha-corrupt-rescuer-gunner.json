@@ -1,0 +1,43 @@
+{
+  "id": "cha-corrupt-rescuer-gunner",
+  "name": "Corrupt Rescuer",
+  "class": "Gunner",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SWW...",
+  "talismansSet": "5w 4w 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/corrupt-rescuer-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_corrupt_evacuator_b.png",
+  "skills": [
+    {
+      "name": "DESTROY",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal physical damage to all enemies.",
+        "• Damage increases based on DEF.",
+        "• 35% Chance to Heal for 15% of Max HP."
+      ]
+    },
+    {
+      "name": "RESUSCITATE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Sacrifice 30% of HP to Revive an ally.",
+        "• Grant Endure to all allies for 2 turns."
+      ],
+      "powerCost": 7
+    },
+    {
+      "name": "REPAIR\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grants the caster a Titan Shield every turn.",
+        "• Titan Shield scales based on your MAX HP.."
+      ]
+    }
+  ]
+}

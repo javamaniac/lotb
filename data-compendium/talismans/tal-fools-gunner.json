@@ -1,0 +1,13 @@
+{
+  "id": "tal-fools-gunner",
+  "name": "Fools",
+  "class": "gunner",
+  "set": 3,
+  "type": "Ability",
+  "powerSkills": [
+    "Inflicts a curious effect on all characters",
+    "Beware! Your curiosity could kill you."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/fools-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Fools.png"
+}

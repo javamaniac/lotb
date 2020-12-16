@@ -1,0 +1,13 @@
+{
+  "id": "tal-navigation-magus",
+  "name": "Navigation",
+  "class": "magus",
+  "set": 3,
+  "type": "Passive",
+  "passiveSkills": [
+    "Remove All Beneficial Effects, including Golden effects, from a random enemy at the start of battle and at the start of your turn",
+    "Inflict 3 Marks on each enemy that lacks beneficial effects for 2 turns at the start of battle and at the start of your turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/navigation-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/IconTAL_Navigation.png"
+}

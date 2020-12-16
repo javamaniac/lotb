@@ -1,0 +1,49 @@
+{
+  "id": "cha-ragnar-lothbrok-sentinel",
+  "name": "Ragnar Lothbrok",
+  "class": "Sentinel",
+  "stars": 5,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "SSS...",
+  "talismansSet": "6s 5s 4s",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/ragnar-lothbrok-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/05/hud_icon_ragnar.png",
+  "skills": [
+    {
+      "name": "JÖRMUNGANDR'S BITE",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal two hits of random damage to a single target.",
+        "• Remove All Immunity, including Perfect Immunity, from the target.",
+        "• Inflict Perfect Bleed on the target for 3 turns.",
+        "• 50% Chance to inflict Blinding Burn on the target for 2 turns.",
+        "• Deals two hits of Additional True Damage to the target for each instance of Stun, Perfect Bleed, or Blinding Burn already on the target.",
+        "• Damage dealt based on your and the target’s MISSING HP."
+      ]
+    },
+    {
+      "name": "TAUNTING BATTLECRY\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Inflict Taunt on the target for 2 turns.",
+        "• Grant Perfect Immunity and Perfect Titan Shield to all allies for 2 turns.",
+        "• Inflict 3 Marks on each enemy for 3 turns.",
+        "• Instantly gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "UNDYING VENGEANCE\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Grant Revenge to all allies for 3 turns at the start of battle and start of your turn.",
+        "• At the beginning of your turn, if Revenge is already present on an ally, transform it into Perfect Revenge for 2 turns.",
+        "• Inflict 3 Toxic Burns on each enemy for 2 turns, and grant a Perfect Heal Shield and Damage Charge to all allies for 3 turns when you die.."
+      ]
+    }
+  ]
+}

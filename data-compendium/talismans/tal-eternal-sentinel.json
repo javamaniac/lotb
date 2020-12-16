@@ -1,0 +1,13 @@
+{
+  "id": "tal-eternal-sentinel",
+  "name": "Eternal",
+  "class": "sentinel",
+  "set": 6,
+  "type": "Passive",
+  "passiveSkills": [
+    "Grant each ally invulnerability against physical, magical, or true damage randomly at the start of your turn",
+    "Grant Immortality or Endure to self and a random ally for 1 turn every turn."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/eternal-sentinel/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/01/IconTAL_Eternal.png"
+}

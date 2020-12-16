@@ -1,0 +1,86 @@
+{
+  "id": "cha-navigator-eddie-gunner",
+  "name": "Navigator Eddie",
+  "class": "Gunner",
+  "stars": 4,
+  "eddie": true,
+  "awakenable": true,
+  "talismans": "GGG...",
+  "talismansSet": "6g 5g 4g",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/navigator-eddie-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/pirate_eddie.png",
+  "skills": [
+    {
+      "name": "CHARTED COURSE",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal random damage to a single target that increases based on your SPECIAL stat.",
+        "• Heal self for 25% of your MAX HP before dealing damage.",
+        "• Grant Heal Shield, Defense Up and MR Up to all allies for 2 turns.",
+        "• Inflict Curse, Attack Down and Magic Down on all enemies for 2 turns."
+      ]
+    },
+    {
+      "name": "CRASHING ROCK\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal random damage to all enemies that increases based on your SPECIAL stat.",
+        "• 50% Chance to Critically Strike.",
+        "• Inflict Heal Block, Perfect Corruption and Scalding Burn on all enemies for 2 turns.",
+        "• 50% Chance to Gain 5 Power and an Extra Turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "LANDFALL\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of random damage to all enemies that increases based on your SPECIAL stat.",
+        "• 15% Chance to Transfer a Negative Effect from self to all enemies per hit."
+      ]
+    },
+    {
+      "name": "DEAD RECKONING\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal 6 hits of random damage to all enemies that increases based on your SPECIAL stat.",
+        "• 20% Chance to Remove All Beneficial Effects from a random enemy per hit.",
+        "• 20% Chance to inflict Grievous Burn on a random enemy for 2 turns per hit."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "ROARING WAVE\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Deal Additional Random Damage to each enemy based on your SPECIAL for each negative effect on them."
+      ]
+    },
+    {
+      "name": "SCOURGE\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Heal each ally for 75% of their MAX HP.",
+        "• Inflict Defense Down, Accuracy Down and Stun on all enemies for 2 turns."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "FINAL JOURNEY\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal 6 hits of random damage to all enemies that increases based on your SPECIAL stat.",
+        "• Inflict Blind on all enemies for 2 turns.",
+        "• Grant Class Advantage to all allies for 2 turns."
+      ]
+    }
+  ]
+}

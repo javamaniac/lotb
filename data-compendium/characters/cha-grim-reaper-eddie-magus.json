@@ -1,0 +1,90 @@
+{
+  "id": "cha-grim-reaper-eddie-magus",
+  "name": "Grim Reaper Eddie",
+  "class": "Magus",
+  "stars": 5,
+  "eddie": true,
+  "awakenable": false,
+  "talismans": "MMM...",
+  "talismansSet": "6m 5m 4m",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/grim-reaper-eddie-magus/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_eddie_reaper_100.png",
+  "skills": [
+    {
+      "name": "HORROW",
+      "typeName": "Past Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of magic damage to all enemies.",
+        "• 50% Chance to Heal self per hit.",
+        "• Inflict Silence, Accuracy Down, or Seal on each enemy for 1 turn per hit.",
+        "• 25% Chance to gain an Extra Turn."
+      ]
+    },
+    {
+      "name": "HARVEST\n",
+      "typeName": "Past Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• 50% Chance to inflict MR Down on each enemy for 3 turns before dealing damage.",
+        "• Steal 1 Power and 10% Fury for each negative effect on each enemy.",
+        "• 50% Chance to gain an Extra Turn."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "BITES THE DUST\n",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 3 hits of magic damage to a single target.",
+        "• 30% Chance to Reset and attack again."
+      ]
+    },
+    {
+      "name": "DEATH GRIP\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• Remove all Immunity and Vanish effects, including Golden effects, from all enemies before dealing damage.",
+        "• 35% Chance to inflict Freeze and HP Drain on each enemy for 1 turn."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "CLEAVE\n",
+      "typeName": "Future Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deal 2 hits of magic damage to all enemies.",
+        "• 50% Chance to inflict Heal Block on each enemy for 2 turns before dealing damage.",
+        "• Inflict Cleave on all enemies for 2 turns before dealing damage."
+      ]
+    },
+    {
+      "name": "SPELL VAMP\n",
+      "typeName": "Future Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deal magic damage to all enemies.",
+        "• Gain Spell Vamp, Magic Penetration and Magic Up for 2 turns before dealing damage.",
+        "• Spell Vamp heals you for 60% of the magic damage you deal."
+      ],
+      "powerCost": 5
+    },
+    {
+      "name": "DANCE OF THE DEAD\n",
+      "typeName": "Fury",
+      "type": "Fury",
+      "desc": [
+        "• Deal 5 hits of magic damage to all enemies that increases based on their MISSING HP.",
+        "• Remove All Beneficial Effects, including Golden effects, from all enemies before dealing damage.",
+        "• Revive all allies with full HP.",
+        "• Inflict Permadeath on all enemies for 2 turns.",
+        "• 65% Chance to inflict Doom on each enemy for 3 turns."
+      ]
+    }
+  ]
+}

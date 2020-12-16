@@ -1,0 +1,43 @@
+{
+  "id": "cha-chopper-gunner",
+  "name": "Chopper",
+  "class": "Gunner",
+  "stars": 4,
+  "eddie": false,
+  "awakenable": false,
+  "talismans": "GGS...",
+  "talismansSet": "4s 5g 4g",
+  "url": "http://www.news.maiden-lotb.com/n3/character-en/chopper-gunner/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/06/hud_icon_NCP_chopper_yellow.png",
+  "skills": [
+    {
+      "name": "PUMMEL",
+      "typeName": "Present Basic Attack",
+      "type": "Basic",
+      "desc": [
+        "• Deals 2 hits of random damage to a single target.",
+        "• 25% Chance to Taunt for 1 turn.",
+        "• 25% Chance to Blind for 1 turn."
+      ]
+    },
+    {
+      "name": "RISKY RIDE\n",
+      "typeName": "Present Power Attack",
+      "type": "Power",
+      "desc": [
+        "• Deals random damage to all enemies.",
+        "• Disable Passives of all enemies for 2 turns.",
+        "• 35% Chance to Refund the Power Cost of this skill."
+      ],
+      "powerCost": 6
+    },
+    {
+      "name": "DEAD END\n",
+      "typeName": "Passive",
+      "type": "Passive",
+      "desc": [
+        "• Inflict Permadeath on all enemies for 3 turns at the start of battle.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tal-revelation-warrior",
+  "name": "Revelation",
+  "class": "warrior",
+  "set": 6,
+  "type": "Passive",
+  "passiveSkills": [
+    "Reduce damage taken by 77%",
+    "Immune to Permadeath, Perfect Death, Doom, Dark Ghost, Apparition and Innate Permadeath",
+    "Gain Immunity to All Negative Effects, including Silver and Unblockable effects, for 1 turn at the start of battle",
+    "Remove All Beneficial Effects, including Golden effects, from all enemies and Gain 7 Power and 777% Increased Damage until you die at the start of your third turn",
+    "77% Chance to Permanently Increase Max HP, ATK, DEF or MR on self by 7% when you take damage",
+    "Once per battle, Revive with full HP, Remove All Negative Effects, including Silver and Unblockable effects, from all allies and grant them 7 Golden Effects for 7 turns."
+  ],
+  "url": "http://www.news.maiden-lotb.com/n3/talisman-en/revelation-warrior/",
+  "image": "http://www.news.maiden-lotb.com/n3/wp-content/uploads/2020/10/IconTAL_Revelation.png"
+}
